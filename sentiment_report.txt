@@ -1,0 +1,36 @@
+
+====================================================
+  FINANCIAL NEWS SENTIMENT REPORT
+  Generated: April 28, 2026
+  Tickers Analyzed: AAPL, TSLA, GOOGL
+  Period: Apr 21 to Apr 28, 2026
+====================================================
+
+HEADLINE SUMMARY
+----------------
+  Total headlines scraped : 300
+  Positive                : 76 (25.3%)
+  Neutral                 : 192  (64.0%)
+  Negative                : 32 (10.7%)
+
+TICKER INSIGHTS
+---------------
+  Most negative coverage  : TSLA
+  Most positive coverage  : AAPL
+
+AVERAGE SENTIMENT SCORE PER TICKER
+------------------------------------
+  (Scale: -1.0 = very negative, +1.0 = very positive)
+
+  AAPL  +0.0668  ███
+  GOOGL  +0.0449  ██
+  TSLA  +0.0332  █
+
+====================================================
+  Files included in this project:
+  - financial_sentiment_data.csv   (full dataset)
+  - chart1_sentiment_distribution.png
+  - chart2_daily_sentiment.png
+  - chart3_overall_mood.png
+  - sentiment_report.txt           (this file)
+====================================================
