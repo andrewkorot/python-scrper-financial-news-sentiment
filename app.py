@@ -6,7 +6,7 @@ matplotlib.use('Agg')
 
 st.set_page_config(page_title='Financial Sentiment Analyzer', page_icon='📈', layout='wide')
 
-@st.cache_data
+@st.cache_data(ttl=3600)  # Cache expires every 1 hour
 def load_data():
     url = 'https://raw.githubusercontent.com/Onunga123/financial-sentiment-analyzer/main/financial_sentiment_data_v2.csv'
     df = pd.read_csv(url)
@@ -23,6 +23,7 @@ st.sidebar.title('Controls')
 selected_ticker = st.sidebar.selectbox('Select Stock Ticker', options=['ALL', 'AAPL', 'TSLA', 'GOOGL'])
 selected_model  = st.sidebar.radio('Sentiment Model', options=['FinBERT', 'TextBlob'])
 st.sidebar.markdown('---')
+st.sidebar.markdown('Last data update: ' + str(df['date'].max().strftime('%b %d, %Y')))
 st.sidebar.markdown('Built with Python, FinBERT, Streamlit')
 
 filtered_df = df.copy() if selected_ticker == 'ALL' else df[df['ticker'] == selected_ticker]
