@@ -1,4 +1,12 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-05-02,07:35PM,Berkshire Investors Praise Greg Abel at Post-Buffett Meeting,0.0,neutral,positive,0.6723
+AAPL,2026-05-02,02:52PM,"Greg Abel runs his first Berkshire annual meeting, Buffett attends",0.25,positive,neutral,0.9426
+AAPL,2026-05-02,11:44AM,Buffett praises Apple CEO Tim Cook during opening remarks,0.0,neutral,neutral,0.8133
+AAPL,2026-05-02,10:44AM,Warren Buffett praises Tim Cook's tenure after Steve Jobs: 'He succeeded a legend',0.0,neutral,positive,0.7533
+AAPL,2026-05-02,09:58AM,"Buffett Hails Abel's Leadership, Highlights Big Gain in Apple Stock",0.0,neutral,positive,0.542
+AAPL,2026-05-02,09:33AM,Here's How Berkshire Hathaway Did in Greg Abels First Quarter as CEO,0.25,positive,neutral,0.936
+AAPL,2026-05-02,09:33AM,Berkshires Cash Pile Swells to Record $397 Billion in Greg Abels First Quarter as CEO,0.25,positive,positive,0.9152
+AAPL,2026-05-02,09:23AM,What will Greg Abel have to say about Berkshire's biggest stock positions?,0.0,neutral,neutral,0.8501
 AAPL,2026-05-01,07:14PM,At Risk in North American Trade Talks: Cheap Cars,0.2,positive,neutral,0.7511
 AAPL,2026-05-01,07:06PM,"Replits Amjad Masad on the Cursor deal, fighting Apple, and why hed rather not sell",0.0,neutral,neutral,0.914
 AAPL,2026-05-01,06:35PM,"S&P 500, Nasdaq end higher, notch weekly gains",0.25,positive,positive,0.8709
@@ -91,14 +99,6 @@ AAPL,2026-04-30,05:20PM,Apple beats out earnings estimates with continued iPhone
 AAPL,2026-04-30,05:19PM,MacBook Saw Strength Despite Memory Shortage,0.0,neutral,positive,0.9374
 AAPL,2026-04-30,05:19PM,Here's why Apple's stock is down 1% despite the earnings beat,-0.15555555555555559,negative,negative,0.9694
 AAPL,2026-04-30,05:12PM,Wall Street just got to meet Apple's next CEO,0.0,neutral,neutral,0.8988
-AAPL,2026-04-30,05:11PM,Apple is showing momentum in Macs,0.0,neutral,positive,0.9507
-AAPL,2026-04-30,05:10PM,Tim Cook Begins Stepping Away,0.0,neutral,neutral,0.6453
-AAPL,2026-04-30,05:07PM,Apple delivers upbeat margins amid memory crunch,0.0,neutral,positive,0.9451
-AAPL,2026-04-30,05:04PM,John Ternus Joins Apple Investor Call,0.0,neutral,neutral,0.9142
-AAPL,2026-04-30,05:01PM,"Apple Q1 FY2026 earnings: Record revenue, EPS beat",0.0,neutral,positive,0.8416
-AAPL,2026-04-30,05:01PM,Apple Shares Climb After Good Earnings News,0.7,positive,positive,0.7673
-AAPL,2026-04-30,04:56PM,Apple Stock Is Down Ahead of Earnings Call,-0.15555555555555559,negative,negative,0.9562
-AAPL,2026-04-30,04:54PM,Apple Gross Margins Soar Despite Component Shortages,0.0,neutral,positive,0.9046
 TSLA,2026-05-01,05:06PM,Tesla ends week nearly 4% higher. What's driving the EV stock?,0.25,positive,neutral,0.7586
 TSLA,2026-05-01,04:20PM,What's Going On With Tesla Stock Friday,0.0,neutral,neutral,0.5625
 TSLA,2026-05-01,04:17PM,Tesla generates over $500 Million from Musk-linked companies,0.0,neutral,neutral,0.8988
@@ -199,7 +199,12 @@ TSLA,2026-04-27,05:30AM,The AI Splurge Is Costing Big Tech Its Workforce,0.0,neu
 TSLA,2026-04-26,07:15PM,"Tesla doubles down on robotaxi and FSD, recasting cars into revenue-generating assets",-0.15555555555555559,negative,positive,0.6985
 TSLA,2026-04-26,01:47PM,Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: It wont matter,-0.5,negative,neutral,0.9228
 TSLA,2026-04-26,09:00AM,"Elon Musk: America will '1,000%' go bankrupt due to debt  heres what he claims can save the country",-0.125,negative,neutral,0.8231
+GOOGL,2026-05-02,10:30PM,"CSP capex push toward US$700B as AI race intensifies, but ASIC demand timing remains uncertain",0.0,neutral,positive,0.8863
+GOOGL,2026-05-02,06:35PM,Big Tech will burn $700 billion on AI by the end of 2026  and one NYU professor says it's the biggest waste of money,-0.1,negative,negative,0.7659
+GOOGL,2026-05-02,05:11PM,"Farewell, Jeeves: Ask.com shuts down",-0.15555555555555559,negative,neutral,0.7481
+GOOGL,2026-05-02,09:31AM,Google is now a glorified venture-capital fund thanks to its SpaceX and Anthropic stakes,0.2,positive,neutral,0.8461
 GOOGL,2026-05-02,02:34AM,California faces November showdown over proposed 5% billionaire wealth tax,0.0,neutral,negative,0.8815
+GOOGL,2026-05-01,11:01PM,"Microsoft, Amazon Hand Pentagon More Control Over AI Systems",0.5,positive,neutral,0.8549
 GOOGL,2026-05-01,04:24PM,"Nvidia, Google, Microsoft Win Major Pentagon AI Contracts",0.43125,positive,positive,0.8362
 GOOGL,2026-05-01,04:09PM,See which companies made Times 2026 most influential list and why,0.5,positive,neutral,0.9292
 GOOGL,2026-05-01,03:56PM,"Earnings: Google is biggest AI winner, OpenAI could be a 'surprise' loser",0.0,neutral,negative,0.6917
@@ -294,8 +299,3 @@ GOOGL,2026-04-30,06:30AM,What Apple's new CEO announcement signals ahead of earn
 GOOGL,2026-04-30,06:22AM,Taiwan's Delta Electronics warns costs rising as AI data centre demand surges,0.0,neutral,negative,0.8868
 GOOGL,2026-04-30,06:03AM,Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion,0.0,neutral,positive,0.8143
 GOOGL,2026-04-30,05:34AM,"Qualcomm jumps on AI hopes, and other early market movers",-0.012499999999999997,neutral,neutral,0.6513
-GOOGL,2026-04-30,05:30AM,The Clock Is Ticking for Big Tech to Make AI Pay,0.0,neutral,neutral,0.8608
-GOOGL,2026-04-30,04:05AM,"Stock Market Today: Dow, S&P 500 and Nasdaq set to decline as oil hits new four-year high on report of possible Iran military action; Alphabet shares jump as Meta falls",0.059272727272727276,positive,negative,0.9623
-GOOGL,2026-04-30,04:04AM,S&P 500 futures fall as oil prices surpass $120 threshold,0.0,neutral,negative,0.9634
-GOOGL,2026-04-30,03:17AM,Alphabet Inc (GOOG) Q1 2026 Earnings Call Highlights: Record Revenue and AI-Driven Growth,0.0,neutral,positive,0.9515
-GOOGL,2026-04-30,02:57AM,Google parent Alphabet profit jumps 81% in Big Tech earnings roundup,0.0,neutral,positive,0.9061
