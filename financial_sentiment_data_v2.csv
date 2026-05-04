@@ -1,5 +1,14 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
-AAPL,2026-05-02,07:35PM,Berkshire Investors Praise Greg Abel at Post-Buffett Meeting,0.0,neutral,positive,0.6723
+AAPL,2026-05-04,06:00AM,"Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues",0.0,neutral,positive,0.491
+AAPL,2026-05-04,04:20AM,"Seoul, Taipei hit records as Asian stocks track Wall St tech rally",0.0,neutral,positive,0.7621
+AAPL,2026-05-04,02:51AM,Apple says users are snapping up Macs faster than ever and created a supply shortage,0.0,neutral,negative,0.6451
+AAPL,2026-05-03,11:23PM,Apple's cash pivot: A new CEO and strategy for the AI arms race,0.13636363636363635,positive,neutral,0.8109
+AAPL,2026-05-03,10:32PM,TSMC's 3nm crunch will keep Apple Mac supply constrained until 2nm ramps up,0.0,neutral,negative,0.853
+AAPL,2026-05-03,10:25PM,"Tata Electronics' rumored workforce expansion to 75,000 underscores rapid rise in Apple's supply chain",0.0,neutral,positive,0.953
+AAPL,2026-05-03,06:11PM,"Dow Jones Futures Rise, Oil Falls As Trump Says U.S. To Guide Ships Through Hormuz; Apple, Broadcom In Buy Zones",0.0,neutral,negative,0.3552
+AAPL,2026-05-03,11:06AM,Berkshire's Greg Abel Marks His First Annual Meeting as CEO. We'd Give Him a B-Plus.,0.25,positive,neutral,0.8886
+AAPL,2026-05-03,09:22AM,Berkshire Investors Praise Greg Abel at Post-Buffett Meeting,0.0,neutral,positive,0.6723
+AAPL,2026-05-03,09:00AM,Big Tech Earnings Show Split Between AI Trade Winners and Losers,-0.1,negative,neutral,0.7119
 AAPL,2026-05-02,02:52PM,"Greg Abel runs his first Berkshire annual meeting, Buffett attends",0.25,positive,neutral,0.9426
 AAPL,2026-05-02,11:44AM,Buffett praises Apple CEO Tim Cook during opening remarks,0.0,neutral,neutral,0.8133
 AAPL,2026-05-02,10:44AM,Warren Buffett praises Tim Cook's tenure after Steve Jobs: 'He succeeded a legend',0.0,neutral,positive,0.7533
@@ -90,15 +99,9 @@ AAPL,2026-04-30,05:44PM,Apple shares jump 4% on rosy revenue guidance,0.0,neutra
 AAPL,2026-04-30,05:41PM,Apple CEO Tim Cook says it's the right time to transition his role,0.2857142857142857,positive,neutral,0.59
 AAPL,2026-04-30,05:40PM,Apple Also Guides to Strong Profits in the Current Quarter,0.21666666666666665,positive,positive,0.9546
 AAPL,2026-04-30,05:39PM,Apple is doubling down on American reshoring,-0.07777777777777779,negative,negative,0.9492
-AAPL,2026-04-30,05:36PM,Apple Stock Jumps on Revenue Outlook,0.0,neutral,positive,0.5411
-AAPL,2026-04-30,05:35PM,The iPhone Halo Effect,0.0,neutral,neutral,0.9204
-AAPL,2026-04-30,05:33PM,Apple's wait-and-see AI strategy isn't a problem: Earnings takeaways,0.0,neutral,neutral,0.914
-AAPL,2026-04-30,05:21PM,Personalized Siri 'Coming This Year',0.0,neutral,neutral,0.8391
-AAPL,2026-04-30,05:20PM,Tim Cook hints at AI updates later this year,0.0,neutral,neutral,0.9273
-AAPL,2026-04-30,05:20PM,Apple beats out earnings estimates with continued iPhone momentum,0.0,neutral,positive,0.9127
-AAPL,2026-04-30,05:19PM,MacBook Saw Strength Despite Memory Shortage,0.0,neutral,positive,0.9374
-AAPL,2026-04-30,05:19PM,Here's why Apple's stock is down 1% despite the earnings beat,-0.15555555555555559,negative,negative,0.9694
-AAPL,2026-04-30,05:12PM,Wall Street just got to meet Apple's next CEO,0.0,neutral,neutral,0.8988
+TSLA,2026-05-03,05:55PM,SpaceX will pay Elon Musk a bonus if he gets at least 1 million people to live on Mars  here's the plan,-0.08181818181818182,negative,neutral,0.914
+TSLA,2026-05-03,01:27PM,Tesla Drivers Face a New Problem With FSD,0.13636363636363635,positive,negative,0.9338
+TSLA,2026-05-03,08:30AM,5 things we learned during S&P 500 earnings madness,0.0,neutral,neutral,0.9199
 TSLA,2026-05-01,05:06PM,Tesla ends week nearly 4% higher. What's driving the EV stock?,0.25,positive,neutral,0.7586
 TSLA,2026-05-01,04:20PM,What's Going On With Tesla Stock Friday,0.0,neutral,neutral,0.5625
 TSLA,2026-05-01,04:17PM,Tesla generates over $500 Million from Musk-linked companies,0.0,neutral,neutral,0.8988
@@ -196,9 +199,13 @@ TSLA,2026-04-27,08:09AM,"In many ways Elon Musk 'has already won' against OpenAI
 TSLA,2026-04-27,07:56AM,Tesla Registers Elon Musk's 2018 Stock. Sales Are Coming.,0.0,neutral,neutral,0.5424
 TSLA,2026-04-27,07:14AM,Earnings live updates:  Domino's stock falls as busy 'Magnificent 7' earnings week begins,0.4121212121212121,positive,negative,0.9704
 TSLA,2026-04-27,05:30AM,The AI Splurge Is Costing Big Tech Its Workforce,0.0,neutral,negative,0.9356
-TSLA,2026-04-26,07:15PM,"Tesla doubles down on robotaxi and FSD, recasting cars into revenue-generating assets",-0.15555555555555559,negative,positive,0.6985
-TSLA,2026-04-26,01:47PM,Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: It wont matter,-0.5,negative,neutral,0.9228
-TSLA,2026-04-26,09:00AM,"Elon Musk: America will '1,000%' go bankrupt due to debt  heres what he claims can save the country",-0.125,negative,neutral,0.8231
+GOOGL,2026-05-04,06:00AM,"Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues",0.0,neutral,positive,0.491
+GOOGL,2026-05-04,04:20AM,"Seoul, Taipei hit records as Asian stocks track Wall St tech rally",0.0,neutral,positive,0.7621
+GOOGL,2026-05-04,03:10AM,Nicolas Sauvage is betting on the boring parts of AI,-1.0,negative,neutral,0.9305
+GOOGL,2026-05-03,03:30PM,"AI Capex Boom Drives Hottest ETF Trade Into Semiconductors, Not Crypto",0.0,neutral,neutral,0.9003
+GOOGL,2026-05-03,10:00AM,S&P 500 profits haven't been this rich in at least 15 years - but there's more to the story,0.19166666666666665,positive,neutral,0.8306
+GOOGL,2026-05-03,09:00AM,Big Tech Earnings Show Split Between AI Trade Winners and Losers,-0.1,negative,neutral,0.7119
+GOOGL,2026-05-03,06:25AM,AI could take capex to $1Tn in CY27,0.0,neutral,neutral,0.5197
 GOOGL,2026-05-02,10:30PM,"CSP capex push toward US$700B as AI race intensifies, but ASIC demand timing remains uncertain",0.0,neutral,positive,0.8863
 GOOGL,2026-05-02,06:35PM,Big Tech will burn $700 billion on AI by the end of 2026  and one NYU professor says it's the biggest waste of money,-0.1,negative,negative,0.7659
 GOOGL,2026-05-02,05:11PM,"Farewell, Jeeves: Ask.com shuts down",-0.15555555555555559,negative,neutral,0.7481
@@ -292,10 +299,3 @@ GOOGL,2026-04-30,08:50AM,Erase.com Featured in Search Engine Land With New Guide
 GOOGL,2026-04-30,08:38AM,The AI Hunger Games Claim Next Victims as Meta and Microsoft Slump After Earnings,0.0,neutral,negative,0.8408
 GOOGL,2026-04-30,08:14AM,Dow Jones and Nasdaq to rebound as Alphabet and Amazon earnings welcomed,0.0,neutral,positive,0.9413
 GOOGL,2026-04-30,07:07AM,Big Tech Takeaways: Google Sees Gains and Meta Loses Trust as AI Spending Rush Accelerates,-0.15,negative,negative,0.9125
-GOOGL,2026-04-30,07:00AM,Nvidia has powered one-third of the Magnificent 7's bull market gains: Chart of the Day,1.0,positive,neutral,0.6549
-GOOGL,2026-04-30,06:51AM,The AI Rally Is on a Collision Course With a Divided Fed,0.0,neutral,negative,0.8113
-GOOGL,2026-04-30,06:42AM,"These Stocks Are Today's Movers: Alphabet, Meta, Microsoft, Amazon, Qualcomm, and More",0.5,positive,neutral,0.9443
-GOOGL,2026-04-30,06:30AM,What Apple's new CEO announcement signals ahead of earnings?,0.13636363636363635,positive,neutral,0.9113
-GOOGL,2026-04-30,06:22AM,Taiwan's Delta Electronics warns costs rising as AI data centre demand surges,0.0,neutral,negative,0.8868
-GOOGL,2026-04-30,06:03AM,Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion,0.0,neutral,positive,0.8143
-GOOGL,2026-04-30,05:34AM,"Qualcomm jumps on AI hopes, and other early market movers",-0.012499999999999997,neutral,neutral,0.6513
