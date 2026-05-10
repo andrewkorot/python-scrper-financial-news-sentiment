@@ -1,4 +1,5 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-05-09,08:27AM,The Nasdaq's top winners are now running hotter than in 2000: Chart of the Day,0.5,positive,neutral,0.7393
 AAPL,2026-05-08,11:00PM,MP Materials Corp (MP) Q1 2026 Earnings Call Highlights: Record NDPR Oxide Production and ...,0.0,neutral,positive,0.9298
 AAPL,2026-05-08,07:26PM,Intel CEO Who Won Over Trump and Musk Now Needs a Breakthrough,0.0,neutral,neutral,0.9125
 AAPL,2026-05-08,05:14PM,Dan Ives on Apple: AI chapter is finally underway,0.0,neutral,neutral,0.8481
@@ -98,7 +99,6 @@ AAPL,2026-05-05,08:35AM,Intel Stock Pops on Report of Huge Chip Customer,0.40000
 AAPL,2026-05-05,07:49AM,"Apple Explores Intel, Samsung for U.S. Chipmaking",0.0,neutral,neutral,0.8654
 AAPL,2026-05-05,07:48AM,Apple explores new chip suppliers beyond TSMC,0.13636363636363635,positive,neutral,0.6505
 AAPL,2026-05-05,07:39AM,Intel Stock Pops on Report of Potential Huge Chip Customer,0.20000000000000004,positive,negative,0.8286
-AAPL,2026-05-05,06:29AM,Intel Shares Rise as Apple Explores Expanding Chip Supply Chain,0.0,neutral,positive,0.6932
 TSLA,2026-05-08,09:54PM,Federal judge rejects immediate approval of Elon Musks $1.5m SEC settlement,-0.1,negative,negative,0.7967
 TSLA,2026-05-08,07:26PM,Intel CEO Who Won Over Trump and Musk Now Needs a Breakthrough,0.0,neutral,neutral,0.9125
 TSLA,2026-05-08,05:40PM,Tesla Sees 'Many Thousands' of Semis Being Built in 2026,0.5,positive,neutral,0.535
@@ -283,7 +283,7 @@ GOOGL,2026-05-06,06:08AM,Schneider Electric to launch Southeast Asia training hu
 GOOGL,2026-05-05,08:11PM,"Exclusive-Rivian mulls making its own lidar sensors, possibly in partnership with Chinese firms",0.19999999999999998,positive,neutral,0.785
 GOOGL,2026-05-05,05:06PM,Alphabet stock climbs 2% on report of massive Anthropic deal,0.0,neutral,negative,0.4964
 GOOGL,2026-05-05,04:53PM,Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal,0.5,positive,neutral,0.8296
-GOOGL,2026-05-05,04:49PM,"Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports",0.0,neutral,neutral,0.5285
+GOOGL,2026-05-05,04:49PM,"Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports",0.0,neutral,neutral,0.5284
 GOOGL,2026-05-05,03:24PM,AI infrastructure: Is it time to trade in the Mag 7 for the Air 7?,0.0,neutral,neutral,0.9196
 GOOGL,2026-05-05,03:14PM,"Amazon's stock has come alive, setting the company up to join an exclusive club",0.1,positive,positive,0.8211
 GOOGL,2026-05-05,03:00PM,Apple is planning to open iPhone AI software to rival models in iOS 27,0.0,neutral,positive,0.5784
