@@ -1,9 +1,30 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-05-12,05:44AM,TikTok challenges EU 'gatekeeper' status at Europe's top court,0.5,positive,positive,0.7027
+AAPL,2026-05-12,05:34AM,Nvidia Stock Falls After Report CEO Huang Is Excluded From Trump's China Trip,0.0,neutral,negative,0.9244
+AAPL,2026-05-12,04:10AM,Korea Roils Market by Floating Citizen Dividend From AI,0.0,neutral,negative,0.8309
+AAPL,2026-05-12,03:59AM,Samsung labor dispute rattles global supply chain,0.0,neutral,negative,0.9457
+AAPL,2026-05-11,08:44PM,"Apple, Qualcomm and MediaTek take different paths as TSMC capacity stays tight",-0.08928571428571429,negative,neutral,0.8367
+AAPL,2026-05-11,08:37PM,"Apple, AI server demand power Tripod to record 1Q26 as PCB orders spill over",0.0,neutral,negative,0.8935
+AAPL,2026-05-11,05:31PM,Apple Director Sells $71 Million in Shares,0.0,neutral,neutral,0.9296
+AAPL,2026-05-11,05:27PM,Apple Director Dumps $71 Million in Shares as Stock Nears Highs,0.0,neutral,negative,0.9194
+AAPL,2026-05-11,05:11PM,Apple Raises Mac Mini Price As AI Demand Drives 3-Month Back Orders,0.0,neutral,negative,0.9052
+AAPL,2026-05-11,04:11PM,"Tesla's Elon Musk, Apple's Tim Cook among CEOs set to join Trump on China trip",0.0,neutral,neutral,0.9255
+AAPL,2026-05-11,03:34PM,"Musk, Cook Expected to Join Trump For Xi Summit in China",-0.1,negative,neutral,0.9192
+AAPL,2026-05-11,12:10PM,"Apple-Intel preliminary chip deal seen as positive for Intel but raises fab questions, says Wedbush",0.22727272727272727,positive,positive,0.8878
+AAPL,2026-05-11,10:54AM,"Memory chip stocks hit record highs, pharma reacts to hantavirus concerns",0.0,neutral,positive,0.8966
+AAPL,2026-05-11,10:53AM,"Elon Musk, Apple's Cook and Boeing CEO going to China with Trump, official says",0.0,neutral,neutral,0.9107
+AAPL,2026-05-11,09:36AM,AI Wins Have Alphabet Poised to Become Worlds Biggest Company,0.3,positive,positive,0.5652
+AAPL,2026-05-11,09:23AM,Apple Gets a Warning From Nintendo Memory-Chip Crisis. Why the Stock May Suffer.,0.0,neutral,negative,0.876
+AAPL,2026-05-11,09:17AM,Apple Stock: Alpha Engine Or Portfolio Diversifier?,0.0,neutral,neutral,0.9464
+AAPL,2026-05-11,08:52AM,Apple's AI strategy may finally be taking shape,0.0,neutral,neutral,0.5786
+AAPL,2026-05-11,08:50AM,Intel Stock Rises on Report of Second Huge Chip Customer,0.20000000000000004,positive,negative,0.6193
+AAPL,2026-05-11,08:36AM,Intel Rally Faces Skepticism From BofA,0.0,neutral,negative,0.7023
+AAPL,2026-05-11,08:05AM,Intel stock extends rally as potential Apple chip deal fuels recent gains,0.0,neutral,positive,0.7706
+AAPL,2026-05-11,07:38AM,Apple Stock Is at Risk From Nintendo's Memory-Chip Crisis,0.0,neutral,negative,0.9385
 AAPL,2026-05-11,06:00AM,"Tech stocks today: AI chipmaker Cerebras to stage blockbuster IPO, Nvidia's Jensen Huang goes to China",0.0,neutral,neutral,0.7867
 AAPL,2026-05-11,04:02AM,Why BofA remains cautious on Intel stock despite ongoing rally,0.0,neutral,neutral,0.7298
 AAPL,2026-05-10,06:35PM,"590,000 buyers paid $59 million for Trump's gold phone  not 1 has shipped and refunds look unlikely",-0.5,negative,neutral,0.7282
 AAPL,2026-05-10,10:00AM,Big Tech's AI spending is depriving investors of juicy payouts,0.0,neutral,negative,0.9483
-AAPL,2026-05-10,09:00AM,AI Wins Have Alphabet Poised to Become Worlds Biggest Company,0.3,positive,positive,0.5652
 AAPL,2026-05-10,08:48AM,"New York Times: More Than Just News, But Is the Valuation Good Enough?",0.3340909090909091,positive,neutral,0.782
 AAPL,2026-05-10,06:42AM,Markets 'love chasing bottlenecks': Wall Street weighs epic run in AI stocks,0.3,positive,negative,0.4628
 AAPL,2026-05-10,06:42AM,The $1 trillion club's new members are powering the AI boom: Chart of the Day,0.13636363636363635,positive,neutral,0.8613
@@ -78,30 +99,28 @@ AAPL,2026-05-06,09:25AM,Apple settles lawsuit tied to delayed Siri AI features,0
 AAPL,2026-05-06,09:18AM,US device promotions: the subsidy wrapper hiding the real priceservice revenue,0.2,positive,neutral,0.9395
 AAPL,2026-05-06,09:16AM,Apple faces supply strain from strong Mac demand,0.4333333333333333,positive,negative,0.965
 AAPL,2026-05-06,08:52AM,Apple settles $250 million Siri false advertising lawsuit,-0.4000000000000001,negative,negative,0.6625
-AAPL,2026-05-06,08:03AM,Apple Settles Siri AI Delay Lawsuit for $250 Million,0.0,neutral,negative,0.5347
-AAPL,2026-05-06,06:57AM,Apple Explores Intel And Samsung As Chip Constraints Hit Growth,0.0,neutral,neutral,0.5414
-AAPL,2026-05-06,06:50AM,Some iPhone owners could get up to $95 payment after Apple agrees to settle case for $250 million,0.0,neutral,positive,0.5856
-AAPL,2026-05-06,03:31AM,"Samsung Hits $1 Trillion Valuation, Joining TSMC in Elite Club",0.0,neutral,neutral,0.6189
-AAPL,2026-05-06,02:30AM,Arm Reports Earnings as It Shifts Its Business Model,0.0,neutral,neutral,0.8454
-AAPL,2026-05-05,06:00PM,Intel shares jump on report of Apple chip talks,0.0,neutral,negative,0.6563
-AAPL,2026-05-05,05:30PM,Apple settles lawsuit over late Siri AI features for $250 million,-0.3,negative,negative,0.8124
-AAPL,2026-05-05,04:43PM,Apple reaches $250mn settlement over delayed AI Siri,0.0,neutral,negative,0.8902
-AAPL,2026-05-05,04:30PM,Skyworks Solutions forecasts higher revenue on strong chip demand,0.3416666666666667,positive,positive,0.9587
-AAPL,2026-05-05,04:19PM,S&P 500 and Nasdaq notch records as AI chip stocks surge,0.0,neutral,negative,0.5595
-AAPL,2026-05-05,03:52PM,"Micron stock is surging, hitting a new intraday record high. Why?",0.1481818181818182,positive,neutral,0.7436
-AAPL,2026-05-05,03:14PM,"Amazon's stock has come alive, setting the company up to join an exclusive club",0.1,positive,positive,0.8211
-AAPL,2026-05-05,03:00PM,Apple is planning to open iPhone AI software to rival models in iOS 27,0.0,neutral,positive,0.5784
-AAPL,2026-05-05,02:20PM,Intel Has Moved From Laggard to Leader. Where the Chart Is Heading.,0.0,neutral,neutral,0.9273
-AAPL,2026-05-05,02:05PM,Dow Jones Tech Titan Apple Breaks Out; AI Chipmaker Broadcom In Buy Zone,0.0,neutral,neutral,0.4659
-AAPL,2026-05-05,02:01PM,Intel Rips As Semiconductor Rally Has Wall Street Seeing Green,-0.2,negative,negative,0.8263
-AAPL,2026-05-05,01:18PM,Trump administration partners with Asian allies to combat chip shortage,0.0,neutral,positive,0.7938
-AAPL,2026-05-05,11:54AM,Intel stock hits all-time high on Apple chipmaking report,0.16,positive,positive,0.7934
-AAPL,2026-05-05,11:34AM,Intel is now worth more than Oracle as its stock explodes higher,0.35000000000000003,positive,neutral,0.7065
-AAPL,2026-05-05,11:11AM,Alphabet closes in on Nvidia's spot as world's biggest company,0.0,neutral,positive,0.9099
-AAPL,2026-05-05,10:53AM,Intel Stock Jumps on Potential Apple Chip Deal,0.0,neutral,neutral,0.6221
+TSLA,2026-05-12,06:01AM,Teslas robotaxi rollout features Texas-sized wait times,0.0,neutral,neutral,0.9168
+TSLA,2026-05-12,05:34AM,Nvidia Stock Falls After Report CEO Huang Is Excluded From Trump's China Trip,0.0,neutral,negative,0.9244
+TSLA,2026-05-12,03:28AM,"Panasonic eyes aggressive AI profit push, battery unit misses target",0.0,neutral,negative,0.7057
+TSLA,2026-05-11,08:43PM,Commentary: Musk's xAI exit shows Anthropic's AI strength,0.0,neutral,neutral,0.8478
+TSLA,2026-05-11,05:31PM,Microsoft boss 'proud' of profit-making OpenAI investment,0.8,positive,positive,0.7052
+TSLA,2026-05-11,05:29PM,Tesla Gains After Analyst Rating Update,0.0,neutral,positive,0.8332
+TSLA,2026-05-11,04:17PM,Will Tesla investors get Optimus upside for free if they buy now?,0.4,positive,neutral,0.8881
+TSLA,2026-05-11,04:11PM,"Tesla's Elon Musk, Apple's Tim Cook among CEOs set to join Trump on China trip",0.0,neutral,neutral,0.9255
+TSLA,2026-05-11,04:07PM,Ford Goes Full Tesla-Again,0.35,positive,neutral,0.7132
+TSLA,2026-05-11,03:34PM,"Musk, Cook Expected to Join Trump For Xi Summit in China",-0.1,negative,neutral,0.9192
+TSLA,2026-05-11,12:00PM,"Too early to talk IPO, Redwood Materials incoming CFO says",0.1,positive,neutral,0.9412
+TSLA,2026-05-11,11:28AM,Satya Nadella to testify in Elon Musk vs. OpenAI trial,0.0,neutral,neutral,0.9201
+TSLA,2026-05-11,11:13AM,Tesla Robotaxi Expansion Ignites Stock Surge as Musk Sets 2026 Target,0.0,neutral,neutral,0.6333
+TSLA,2026-05-11,10:54AM,"Tesla: Buying at these levels means you get Optimus for 'free', Piper Sandler says",0.4,positive,neutral,0.8118
+TSLA,2026-05-11,10:21AM,Nvidia shares climb as rest of 'Magnificent Seven' take a breather from leading stocks' bull run,1.0,positive,negative,0.7675
+TSLA,2026-05-11,09:35AM,"Tesla investors are getting Optimus for free at current valuation, Piper says",0.2,positive,positive,0.4949
+TSLA,2026-05-11,09:14AM,Tesla has built its last Model S and Model X as it converts the factory line to make robots,0.0,neutral,neutral,0.9107
+TSLA,2026-05-11,09:12AM,Tesla ends Model S and Model X production in pivot to robots,0.0,neutral,neutral,0.8905
+TSLA,2026-05-11,08:58AM,"Tesla Stock: China Sales, Cybertruck Recall Threaten Turnaround",0.0,neutral,neutral,0.7491
+TSLA,2026-05-11,08:50AM,Intel Stock Rises on Report of Second Huge Chip Customer,0.20000000000000004,positive,negative,0.6193
 TSLA,2026-05-11,07:07AM,Tesla Stock Is Starting a Run Higher. Thank China AI.,0.125,positive,positive,0.6061
 TSLA,2026-05-11,04:49AM,South Korean vehicle import sales surge 58% in April,0.0,neutral,positive,0.9372
-TSLA,2026-05-10,09:13PM,Microsoft boss to testify on his role in OpenAI's founding,0.0,neutral,neutral,0.9134
 TSLA,2026-05-10,10:05AM,Tesla recalls every Cybertruck RWD ever sold  all 173 of them  because the wheels could fall off,0.0,neutral,negative,0.7436
 TSLA,2026-05-10,06:42AM,The $1 trillion club's new members are powering the AI boom: Chart of the Day,0.13636363636363635,positive,neutral,0.8613
 TSLA,2026-05-08,09:54PM,Federal judge rejects immediate approval of Elon Musks $1.5m SEC settlement,-0.1,negative,negative,0.7967
@@ -180,32 +199,38 @@ TSLA,2026-05-05,07:45AM,"Tesla faces EU skepticism over automated-driving tech, 
 TSLA,2026-05-05,07:06AM,Two Numbers for Tesla Stock on Tuesday. Which One Matters More.,0.5,positive,neutral,0.9234
 TSLA,2026-05-05,07:00AM,Sen. Ted Cruz discusses Texas' vital role in AI buildout,0.1,positive,neutral,0.7946
 TSLA,2026-05-05,06:25AM,"Tech Stocks Eclipse Iran, Oil as the Market's Mover. Why That Will Continue.",0.0,neutral,neutral,0.8554
-TSLA,2026-05-05,06:00AM,Elon Musk says saving for retirement 'won't matter.' I'm not banking on it.,0.0,neutral,neutral,0.897
-TSLA,2026-05-05,04:53AM,Elon Musk settles SEC Twitter disclosures lawsuit for $1.5 million,-0.1,negative,neutral,0.6498
-TSLA,2026-05-05,01:06AM,"Exclusive-Tesla faces EU skepticism over automated-driving tech, records show",0.0,neutral,neutral,0.6634
-TSLA,2026-05-04,06:10PM,Elon Musk Settles X Lawsuit for a Cup of (Cheap) Coffee. What It Means for SpaceX's IPO.,0.4,positive,neutral,0.8719
-TSLA,2026-05-04,04:19PM,Bond Yields Are Rising. Why That Could End the Stock Market's Rally.,0.0,neutral,negative,0.4597
-TSLA,2026-05-04,01:06PM,Ouster Stock Is Up. Its New Lidar Answers an Elon Musk Problem.,0.13636363636363635,positive,positive,0.7044
-TSLA,2026-05-04,11:56AM,Elon Musk Is Now Worth More Than an Average Countrys GDP,0.21666666666666667,positive,neutral,0.8528
-TSLA,2026-05-04,10:43AM,Tesla just hit a 'symbolic' self-driving milestone. Real-world success will be tougher.,0.3,positive,neutral,0.7554
-TSLA,2026-05-04,09:29AM,Tesla Rival Jumps On Strong Orders For Updated Model 3 Competitor,0.4333333333333333,positive,positive,0.9407
-TSLA,2026-05-04,09:01AM,Tesla Model X Becomes Fastest-Selling Used Car in U.S.,0.0,neutral,positive,0.9163
-TSLA,2026-05-04,08:24AM,Don't Buy Tesla Stock.  Buy Options Instead.,0.0,neutral,neutral,0.914
-TSLA,2026-05-04,07:26AM,Tesla Stock Is an Attractive Options Play. Here's Why.,0.8,positive,neutral,0.9139
-TSLA,2026-05-03,05:55PM,SpaceX will pay Elon Musk a bonus if he gets at least 1 million people to live on Mars  here's the plan,-0.08181818181818182,negative,neutral,0.914
-TSLA,2026-05-03,01:27PM,Tesla Drivers Face a New Problem With FSD,0.13636363636363635,positive,negative,0.9338
-TSLA,2026-05-03,08:30AM,5 things we learned during S&P 500 earnings madness,0.0,neutral,neutral,0.9199
-TSLA,2026-05-01,05:06PM,Tesla ends week nearly 4% higher. What's driving the EV stock?,0.25,positive,neutral,0.7586
-TSLA,2026-05-01,04:20PM,What's Going On With Tesla Stock Friday,0.0,neutral,neutral,0.5625
-TSLA,2026-05-01,04:17PM,Tesla generates over $500 Million from Musk-linked companies,0.0,neutral,neutral,0.8988
-TSLA,2026-05-01,02:44PM,The Reason GM Stock Is Beating Ford and Tesla. (It Has Nothing to Do With Cars or Tariffs.),0.0,neutral,neutral,0.8858
-GOOGL,2026-05-11,05:04AM,Amazon Prepares to Issue Its First Swiss Franc Bond in AI Push,0.25,positive,neutral,0.8028
+GOOGL,2026-05-12,06:00AM,China Earns $500 Million an Hour From Exports Supercharged by AI,0.0,neutral,neutral,0.818
+GOOGL,2026-05-12,05:44AM,TikTok challenges EU 'gatekeeper' status at Europe's top court,0.5,positive,positive,0.7027
+GOOGL,2026-05-12,05:27AM,Amazon Kicks Off Swiss Franc Bond Sale in Record Six Parts,0.0,neutral,neutral,0.7741
+GOOGL,2026-05-12,04:52AM,Papa Johns partners with Wing for drone deliveries in North Carolina,0.0,neutral,positive,0.5915
+GOOGL,2026-05-12,04:10AM,Korea Roils Market by Floating Citizen Dividend From AI,0.0,neutral,negative,0.8309
+GOOGL,2026-05-11,09:31PM,Arm's AGI CPU demand surges as supply constraints loom,0.0,neutral,negative,0.7422
+GOOGL,2026-05-11,09:22PM,"OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports",0.0,neutral,negative,0.6367
+GOOGL,2026-05-11,08:43PM,Commentary: Musk's xAI exit shows Anthropic's AI strength,0.0,neutral,neutral,0.8478
+GOOGL,2026-05-11,04:03PM,"DeepSeek-R1 Hallucinates 4x More Than V3, Raising Red Flags for Crypto AI Agent Tokens",0.25,positive,negative,0.6484
+GOOGL,2026-05-11,03:51PM,"Big Tech earnings reinforce strength of AI demand across chips, cloud and software: Wedbush",0.0,neutral,positive,0.8501
+GOOGL,2026-05-11,03:37PM,"Microsoft, Google, xAI security test details deleted from US government website",0.0,neutral,neutral,0.8269
+GOOGL,2026-05-11,03:25PM,Fervo Energy Boosts IPO Target to $1.8 Billion,0.0,neutral,positive,0.9389
+GOOGL,2026-05-11,03:07PM,Big Tech Keeps Piling On AI Debt. Spending Is Set to Soar.,0.0,neutral,negative,0.7497
+GOOGL,2026-05-11,02:24PM,Alphabet Is Issuing Bonds in Yen. Why Not?,0.0,neutral,neutral,0.9279
+GOOGL,2026-05-11,01:52PM,By the numbers: Corporate profits haven't been this smoking hot in years,0.125,positive,neutral,0.4318
+GOOGL,2026-05-11,11:08AM,Airbnb CEO Brian Chesky says AI writes 60% of code,0.0,neutral,neutral,0.9473
+GOOGL,2026-05-11,11:08AM,Micron's stock soars toward fresh highs as a 'virtuous cycle' for memory unfolds,0.3,positive,positive,0.9183
+GOOGL,2026-05-11,10:40AM,Google deepens focus on India's AI infrastructure boom,0.0,neutral,positive,0.5094
+GOOGL,2026-05-11,10:17AM,Amazon Prepares to Sell First Swiss Franc Bond in AI Push,0.25,positive,neutral,0.8138
+GOOGL,2026-05-11,09:36AM,AI Wins Have Alphabet Poised to Become Worlds Biggest Company,0.3,positive,positive,0.5652
+GOOGL,2026-05-11,09:09AM,"Stock market concentration - a feature, not a bug: McGeever",0.0,neutral,neutral,0.9286
+GOOGL,2026-05-11,09:02AM,"Hackers Used AI to Build Zero-Day Attack, Google Researchers Say",0.0,neutral,neutral,0.7846
+GOOGL,2026-05-11,09:00AM,There arent enough rockets for space data centers. Cowboy Space raised $275 million to build them.,0.0,neutral,neutral,0.7622
+GOOGL,2026-05-11,08:44AM,Alphabet Explores First Yen Bond Sale for AI Expansion,0.25,positive,neutral,0.8886
+GOOGL,2026-05-11,08:18AM,Samsung is upgrading its smart refrigerators with Google AI to recognize thousands of foods,0.21428571428571427,positive,positive,0.6573
+GOOGL,2026-05-11,07:39AM,Anthropic secures $1.8bn cloud deal with Akamai for AI expansion,0.0,neutral,positive,0.8915
+GOOGL,2026-05-11,07:27AM,Alphabet considers first yen bond sale to fund AI goals,0.25,positive,neutral,0.8845
 GOOGL,2026-05-11,12:22AM,"Ambani's Jio Platforms IPO pivots to pure fundraising, no investor exits, sources say",0.21428571428571427,positive,neutral,0.8902
 GOOGL,2026-05-11,12:18AM,Alphabet Plans Debut Yen Bond Sale as AI Race Accelerates,0.0,neutral,positive,0.7775
 GOOGL,2026-05-10,01:32PM,"The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decadeand its not all AI spending",0.05,neutral,neutral,0.6719
 GOOGL,2026-05-10,01:25PM,NVIDIAs Huang says AI will make intelligence a commodity for billions,0.0,neutral,neutral,0.7129
 GOOGL,2026-05-10,10:00AM,Big Tech's AI spending is depriving investors of juicy payouts,0.0,neutral,negative,0.9483
-GOOGL,2026-05-10,09:00AM,AI Wins Have Alphabet Poised to Become Worlds Biggest Company,0.3,positive,positive,0.5652
 GOOGL,2026-05-10,06:42AM,The $1 trillion club's new members are powering the AI boom: Chart of the Day,0.13636363636363635,positive,neutral,0.8613
 GOOGL,2026-05-09,03:04AM,RGC Resources Inc (RGCO) Q2 2026 Earnings Call Highlights: Strong Income Growth Amid ...,0.4333333333333333,positive,positive,0.9569
 GOOGL,2026-05-09,01:43AM,Thailand's SiamAI denies exporting US AI servers to China,0.0,neutral,neutral,0.7476
@@ -274,28 +299,3 @@ GOOGL,2026-05-06,03:14PM,Meta asks California judge to throw out landmark social
 GOOGL,2026-05-06,02:27PM,Dan Ives Issues Stark Message For Tech Stocks Investors,-0.2,negative,neutral,0.7346
 GOOGL,2026-05-06,02:09PM,Does Zoom Look Undervalued At 18x Earnings?,0.0,neutral,neutral,0.7825
 GOOGL,2026-05-06,02:03PM,Anthropic to rent all AI capacity at SpaceX's Colossus data center,-0.1,negative,neutral,0.8956
-GOOGL,2026-05-06,01:06PM,How We Chose the TIME100 Companies of 2026,0.0,neutral,neutral,0.9445
-GOOGL,2026-05-06,01:04PM,Anthropic's $200 billion commitment to Google Cloud narrows Alphabet-Nvidia gap,0.0,neutral,neutral,0.5618
-GOOGL,2026-05-06,12:55PM,Google offers changes to spam policy to avert EU antitrust fine,0.25833333333333336,positive,neutral,0.6512
-GOOGL,2026-05-06,12:16PM,Anthropic unveils 'dreaming' feature to help its AI agents self-improve,0.0,neutral,positive,0.5442
-GOOGL,2026-05-06,10:56AM,Google Warns EU Search Data Rules Could Threaten User Privacy,0.0,neutral,negative,0.9487
-GOOGL,2026-05-06,10:52AM,Google Inks Massive $200 Billion AI Deal With Anthropic,0.0,neutral,positive,0.6049
-GOOGL,2026-05-06,09:55AM,Here's who benefits if the S&P 500 eases its rules for 'megacap' companies,0.0,neutral,neutral,0.8724
-GOOGL,2026-05-06,09:37AM,Nvidia Stock Falls Behind as Big Tech Rivals Enter Its Territory,-0.2,negative,negative,0.9427
-GOOGL,2026-05-06,09:17AM,"Anthropic, Google Deal Highlights Growing AI Compute Demand",0.0,neutral,positive,0.6953
-GOOGL,2026-05-06,09:13AM,Big Tech is letting the U.S. test AI models before launch,0.0,neutral,neutral,0.8623
-GOOGL,2026-05-06,09:13AM,"Microsoft may shelve 2030 clean energy target as AI lifts power use, Bloomberg News reports",0.3666666666666667,positive,neutral,0.5844
-GOOGL,2026-05-06,08:00AM,SPX Momentum Is Real: These Stocks Could Benefit,0.2,positive,neutral,0.4944
-GOOGL,2026-05-06,06:43AM,"AI Has Changed the Market Landscape. AMD, Google, Samsung Show Just How Much.",0.2,positive,neutral,0.8684
-GOOGL,2026-05-06,06:08AM,Schneider Electric to launch Southeast Asia training hub in Malaysia,0.0,neutral,neutral,0.7004
-GOOGL,2026-05-05,08:11PM,"Exclusive-Rivian mulls making its own lidar sensors, possibly in partnership with Chinese firms",0.19999999999999998,positive,neutral,0.785
-GOOGL,2026-05-05,05:06PM,Alphabet stock climbs 2% on report of massive Anthropic deal,0.0,neutral,negative,0.4964
-GOOGL,2026-05-05,04:53PM,Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal,0.5,positive,neutral,0.8296
-GOOGL,2026-05-05,04:49PM,"Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports",0.0,neutral,neutral,0.5285
-GOOGL,2026-05-05,03:24PM,AI infrastructure: Is it time to trade in the Mag 7 for the Air 7?,0.0,neutral,neutral,0.9196
-GOOGL,2026-05-05,03:14PM,"Amazon's stock has come alive, setting the company up to join an exclusive club",0.1,positive,positive,0.8211
-GOOGL,2026-05-05,03:00PM,Apple is planning to open iPhone AI software to rival models in iOS 27,0.0,neutral,positive,0.5784
-GOOGL,2026-05-05,02:22PM,Hon Hai Reports 29.7% Revenue Jump As AI Hardware Demand Holds,0.0,neutral,positive,0.9396
-GOOGL,2026-05-05,01:04PM,Alphabet (GOOGL) Stock Hits Record High on AI Boom,0.16,positive,positive,0.8762
-GOOGL,2026-05-05,12:52PM,Shopify Inc. Q1 2026 Earnings Call Summary,0.0,neutral,neutral,0.8806
-GOOGL,2026-05-05,11:11AM,Alphabet closes in on Nvidia's spot as world's biggest company,0.0,neutral,positive,0.9099
