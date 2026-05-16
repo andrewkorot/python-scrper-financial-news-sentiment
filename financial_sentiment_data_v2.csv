@@ -1,4 +1,16 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-05-15,06:57PM,"Arm Holdings to face US antitrust probe over chip tech, Bloomberg News reports",0.0,neutral,negative,0.7219
+AAPL,2026-05-15,06:44PM,Berkshire Hathaway triples Alphabet stake and invests in Delta and Macy's under new CEO,0.13636363636363635,positive,neutral,0.915
+AAPL,2026-05-15,05:29PM,George Soros's fund buys Berkshire Hathaway stock - now that Buffett is gone,0.0,neutral,neutral,0.9371
+AAPL,2026-05-15,05:26PM,Berkshire adds Delta and Macys stakes in first quarter,0.25,positive,neutral,0.9431
+AAPL,2026-05-15,01:35PM,How Cerebras Disrupted Chips-and Maybe the Future of IPOs,0.0,neutral,neutral,0.9271
+AAPL,2026-05-15,01:05PM,Apple Stock Rises After Surprise iPhone 17 Price Cuts in China,0.0,neutral,negative,0.4769
+AAPL,2026-05-15,12:29PM,"'Magnificent Seven' stocks are under pressure, as Tesla posts biggest drop",1.0,positive,negative,0.9562
+AAPL,2026-05-15,11:20AM,"OpenAI reportedly considering legal action over Apple ChatGPT deal, citing weak user growth",-0.024999999999999984,neutral,negative,0.9652
+AAPL,2026-05-15,11:07AM,Buy TSMC stock as recent concerns are overdone: BofA,0.0,neutral,neutral,0.7014
+AAPL,2026-05-15,09:19AM,Signal Threatens To Leave Canada Over Government Legislation,0.0,neutral,negative,0.8463
+AAPL,2026-05-15,09:06AM,Trump's disclosure shows hundreds of millions of dollars in US securities traded in first quarter,0.25,positive,neutral,0.9185
+AAPL,2026-05-15,06:36AM,Trump Bought the Software Stock Slump-and More Revelations From His Trades,0.5,positive,neutral,0.8476
 AAPL,2026-05-14,11:23PM,"Why are so many U.S. CEOs in China with Trump, and what do they want?",0.5,positive,neutral,0.8009
 AAPL,2026-05-14,10:42PM,"Lei Jun, Musk and Cook converge at China-US state dinner",0.0,neutral,neutral,0.9112
 AAPL,2026-05-14,10:39PM,"OpenAI May Raise More Money as Compute Crunch Deepens, CFO Says",0.5,positive,neutral,0.4743
@@ -87,18 +99,19 @@ AAPL,2026-05-11,08:05AM,Intel stock extends rally as potential Apple chip deal f
 AAPL,2026-05-11,07:38AM,Apple Stock Is at Risk From Nintendo's Memory-Chip Crisis,0.0,neutral,negative,0.9385
 AAPL,2026-05-11,06:00AM,"Tech stocks today: AI chipmaker Cerebras to stage blockbuster IPO, Nvidia's Jensen Huang goes to China",0.0,neutral,neutral,0.7867
 AAPL,2026-05-11,04:02AM,Why BofA remains cautious on Intel stock despite ongoing rally,0.0,neutral,neutral,0.7298
-AAPL,2026-05-10,06:35PM,"590,000 buyers paid $59 million for Trump's gold phone  not 1 has shipped and refunds look unlikely",-0.5,negative,neutral,0.7282
-AAPL,2026-05-10,10:00AM,Big Tech's AI spending is depriving investors of juicy payouts,0.0,neutral,negative,0.9483
-AAPL,2026-05-10,08:48AM,"New York Times: More Than Just News, But Is the Valuation Good Enough?",0.3340909090909091,positive,neutral,0.782
-AAPL,2026-05-10,06:42AM,Markets 'love chasing bottlenecks': Wall Street weighs epic run in AI stocks,0.3,positive,negative,0.4628
-AAPL,2026-05-10,06:42AM,The $1 trillion club's new members are powering the AI boom: Chart of the Day,0.13636363636363635,positive,neutral,0.8613
-AAPL,2026-05-09,08:27AM,The Nasdaq's top winners are now running hotter than in 2000: Chart of the Day,0.5,positive,neutral,0.7393
-AAPL,2026-05-08,11:00PM,MP Materials Corp (MP) Q1 2026 Earnings Call Highlights: Record NDPR Oxide Production and ...,0.0,neutral,positive,0.9298
-AAPL,2026-05-08,07:26PM,Intel CEO Who Won Over Trump and Musk Now Needs a Breakthrough,0.0,neutral,neutral,0.9125
-AAPL,2026-05-08,05:14PM,Dan Ives on Apple: AI chapter is finally underway,0.0,neutral,neutral,0.8481
-AAPL,2026-05-08,04:17PM,Intel Stock Hits All-Time High After Preliminary Chip Deal With Apple,0.16,positive,positive,0.7523
-AAPL,2026-05-08,04:12PM,Market Talk: Soaring chip stocks 'can go even higher from here',0.25,positive,positive,0.9097
-AAPL,2026-05-08,04:02PM,Intels comeback story is even wilder than it seems,0.0,neutral,neutral,0.7974
+TSLA,2026-05-15,05:29PM,George Soros's fund buys Berkshire Hathaway stock - now that Buffett is gone,0.0,neutral,neutral,0.9371
+TSLA,2026-05-15,04:44PM,"Trumps More Than 3,700 Trades Astonish Wall Street Insiders",0.5,positive,neutral,0.7972
+TSLA,2026-05-15,12:53PM,Tesla Slips After China Trip Disappoints,0.0,neutral,negative,0.7962
+TSLA,2026-05-15,12:42PM,What Baron Capital Plans to Do in the ETF Space,0.0,neutral,neutral,0.9483
+TSLA,2026-05-15,12:29PM,"'Magnificent Seven' stocks are under pressure, as Tesla posts biggest drop",1.0,positive,negative,0.9562
+TSLA,2026-05-15,10:27AM,SpaceX Has a Huge Week Ahead,0.4000000000000001,positive,neutral,0.5084
+TSLA,2026-05-15,10:00AM,"Large cryptocurrencies drop on Sui, Cardano declines",0.21428571428571427,positive,negative,0.9673
+TSLA,2026-05-15,09:52AM,Ford soars 20% on battery storage push,0.0,neutral,positive,0.8186
+TSLA,2026-05-15,09:14AM,Even GoPro is pivoting to defense,0.0,neutral,neutral,0.8774
+TSLA,2026-05-15,09:06AM,Trump's disclosure shows hundreds of millions of dollars in US securities traded in first quarter,0.25,positive,neutral,0.9185
+TSLA,2026-05-15,08:26AM,UBS warns AI stocks are overheating as growth expectations collide with history,0.0,neutral,negative,0.9628
+TSLA,2026-05-15,07:27AM,Tesla Stock Aims For 3 Weekly Gains. Trump's China Failure Could Stop It.,-0.3166666666666667,negative,neutral,0.3798
+TSLA,2026-05-15,03:57AM,CFOs On the Move: Week ending May 15,0.0,neutral,neutral,0.8396
 TSLA,2026-05-14,11:23PM,"Why are so many U.S. CEOs in China with Trump, and what do they want?",0.5,positive,neutral,0.8009
 TSLA,2026-05-14,10:42PM,"Lei Jun, Musk and Cook converge at China-US state dinner",0.0,neutral,neutral,0.9112
 TSLA,2026-05-14,10:17PM,Asian shares fall as US yields hit one-year high,0.08,positive,negative,0.9131
@@ -186,19 +199,36 @@ TSLA,2026-05-12,08:17AM,Elon Musk Is Expected to Join Trump in China. What It Me
 TSLA,2026-05-12,06:52AM,This Chip Stocks Rally Is Suddenly Fragile. Why Markets Should Worry.,0.0,neutral,neutral,0.6029
 TSLA,2026-05-12,06:01AM,Teslas robotaxi rollout features Texas-sized wait times,0.0,neutral,neutral,0.9168
 TSLA,2026-05-12,05:34AM,Nvidia Stock Falls After Report CEO Huang Is Excluded From Trump's China Trip,0.0,neutral,negative,0.9244
-TSLA,2026-05-12,03:28AM,"Panasonic eyes aggressive AI profit push, battery unit misses target",0.0,neutral,negative,0.7057
-TSLA,2026-05-11,08:43PM,Commentary: Musk's xAI exit shows Anthropic's AI strength,0.0,neutral,neutral,0.8478
-TSLA,2026-05-11,05:31PM,Microsoft boss 'proud' of profit-making OpenAI investment,0.8,positive,positive,0.7052
-TSLA,2026-05-11,05:29PM,Tesla Gains After Analyst Rating Update,0.0,neutral,positive,0.8332
-TSLA,2026-05-11,04:17PM,Will Tesla investors get Optimus upside for free if they buy now?,0.4,positive,neutral,0.8881
-TSLA,2026-05-11,04:11PM,"Tesla's Elon Musk, Apple's Tim Cook among CEOs set to join Trump on China trip",0.0,neutral,neutral,0.9255
-TSLA,2026-05-11,04:07PM,Ford Goes Full Tesla-Again,0.35,positive,neutral,0.7132
-TSLA,2026-05-11,03:34PM,"Musk, Cook Expected to Join Trump For Xi Summit in China",-0.1,negative,neutral,0.9192
-TSLA,2026-05-11,12:00PM,"Too early to talk IPO, Redwood Materials incoming CFO says",0.1,positive,neutral,0.9412
-TSLA,2026-05-11,11:28AM,Satya Nadella to testify in Elon Musk vs. OpenAI trial,0.0,neutral,neutral,0.9201
-TSLA,2026-05-11,11:13AM,Tesla Robotaxi Expansion Ignites Stock Surge as Musk Sets 2026 Target,0.0,neutral,neutral,0.6333
-TSLA,2026-05-11,10:54AM,"Tesla: Buying at these levels means you get Optimus for 'free', Piper Sandler says",0.4,positive,neutral,0.8118
-TSLA,2026-05-11,10:21AM,Nvidia shares climb as rest of 'Magnificent Seven' take a breather from leading stocks' bull run,1.0,positive,negative,0.7675
+GOOGL,2026-05-16,05:00AM,Ackman clarifies Alphabet exit was funding source for his new Microsoft position,0.13636363636363635,positive,neutral,0.9014
+GOOGL,2026-05-16,03:48AM,Bill Ackman says Alphabet stake sale not a bet against the company,0.0,neutral,neutral,0.9225
+GOOGL,2026-05-15,09:19PM,"YouTube, Snap and TikTok settle school district's social media addiction claims",0.03333333333333333,neutral,negative,0.692
+GOOGL,2026-05-15,08:11PM,"Ackman, Loeb take different routes on tech bets in early 2026",0.05,neutral,neutral,0.9268
+GOOGL,2026-05-15,06:44PM,Berkshire Hathaway triples Alphabet stake and invests in Delta and Macy's under new CEO,0.13636363636363635,positive,neutral,0.915
+GOOGL,2026-05-15,06:18PM,"Pershing Square Snapped Up Microsoft Shares, Exited Hilton, Slashed Alphabet Stake in First Quarter",0.25,positive,negative,0.9647
+GOOGL,2026-05-15,05:59PM,Stanley Druckenmiller Just Exited Alphabet. TCI Fund Management Is Buying.,0.0,neutral,neutral,0.9335
+GOOGL,2026-05-15,05:41PM,"Berkshire's Abel sours on some of Warren Buffett's picks, while betting big on Delta",0.0,neutral,negative,0.9556
+GOOGL,2026-05-15,05:29PM,George Soros's fund buys Berkshire Hathaway stock - now that Buffett is gone,0.0,neutral,neutral,0.9371
+GOOGL,2026-05-15,05:25PM,"Oracle, Google, Costco options trading: This expert explains all",0.0,neutral,neutral,0.9404
+GOOGL,2026-05-15,05:11PM,BofA Sends Blunt Message for Alphabet Investors Ahead of Google I/O,0.0,neutral,neutral,0.5726
+GOOGL,2026-05-15,04:17PM,How to navigate the tech-led market,0.0,neutral,neutral,0.9117
+GOOGL,2026-05-15,03:57PM,The global memory shortage is coming for Nintendo,0.0,neutral,negative,0.8835
+GOOGL,2026-05-15,02:49PM,Chasing The Alpha In Alphabet Stock - The Swing Trading Advantage,0.0,neutral,neutral,0.9219
+GOOGL,2026-05-15,02:12PM,"The market is at the start of the next commodity supercycle, Carlyle's Jeff Currie says",0.0,neutral,neutral,0.7178
+GOOGL,2026-05-15,12:29PM,"'Magnificent Seven' stocks are under pressure, as Tesla posts biggest drop",1.0,positive,negative,0.9562
+GOOGL,2026-05-15,11:06AM,Cerebras IPO in focus as Nvidia earnings loom,0.0,neutral,neutral,0.6091
+GOOGL,2026-05-15,11:02AM,"Microsoft, Meta, Amazon and Google. Is Ackman's Hedge Fund Just a Mag 7 Play?",0.0,neutral,neutral,0.9198
+GOOGL,2026-05-15,10:57AM,Sandisk Insiders Cash In on the AI Stock's Tremendous Surge,0.3333333333333333,positive,neutral,0.7417
+GOOGL,2026-05-15,10:47AM,"Ackman reveals new Microsoft position, calls stock highly compelling",0.21818181818181817,positive,positive,0.6519
+GOOGL,2026-05-15,10:40AM,Microsoft Goes Beast Mode on AI-and Almost-Round-the-Clock Trading Is Almost Here,0.0,neutral,neutral,0.8949
+GOOGL,2026-05-15,09:14AM,Even GoPro is pivoting to defense,0.0,neutral,neutral,0.8774
+GOOGL,2026-05-15,09:12AM,Is The Power Grid Now Nvidia's Biggest Growth Constraint?,0.0,neutral,neutral,0.8051
+GOOGL,2026-05-15,08:45AM,Alphabet Sells Record Yen Bond,0.0,neutral,positive,0.6805
+GOOGL,2026-05-15,08:19AM,Is Microsoft undervalued? Why Bill Ackman is buying MSFT at 21x earnings,0.0,neutral,neutral,0.9138
+GOOGL,2026-05-15,08:04AM,The Stock Market Rally Faces a Stark Reality. Things Could Get Tricky.,-0.2,negative,negative,0.8579
+GOOGL,2026-05-15,07:55AM,Alphabet sells record yen bonds worth $3.6 billion for AI,0.3,positive,neutral,0.7407
+GOOGL,2026-05-15,07:45AM,"Google's YouTube Revenue May Be Bigger Than Wall Street Thought, Topping Netflix",0.0,neutral,positive,0.661
+GOOGL,2026-05-15,07:02AM,How Microsoft Stock Rises 50% To $600,0.0,neutral,positive,0.9091
+GOOGL,2026-05-15,07:01AM,Figmas Earnings Just Flipped the Narrative,0.0,neutral,neutral,0.8568
 GOOGL,2026-05-15,05:27AM,"Ackman's Pershing Square takes stake in Microsoft, citing 'compelling' valuation",0.3,positive,neutral,0.8399
 GOOGL,2026-05-15,01:00AM,Alphabet Sells Biggest Yen Bond on Record by Foreign Issuer,-0.125,negative,neutral,0.5565
 GOOGL,2026-05-14,08:30PM,Alphabet's $60 Billion AI Debt Blitz Puts Credit Markets On Alert,0.0,neutral,negative,0.7993
@@ -269,33 +299,3 @@ GOOGL,2026-05-12,08:08AM,"The U.S. quietly deleted a page announcing AI security
 GOOGL,2026-05-12,07:36AM,An AI Windfall Tax? The Mere Mention Just Derailed the World's Hottest Stock Market.,-0.5,negative,negative,0.7896
 GOOGL,2026-05-12,07:32AM,Binance Says AI Blocked $10.5B in Fraud as Google Flags AI-Built Exploits,0.0,neutral,negative,0.7497
 GOOGL,2026-05-12,07:30AM,Integrated Quantum Technologies Opens VEIL(TM) Architecture to Global Kaggle Hackathon,0.0,neutral,neutral,0.7367
-GOOGL,2026-05-12,06:00AM,China Earns $500 Million an Hour From Exports Supercharged by AI,0.0,neutral,neutral,0.818
-GOOGL,2026-05-12,05:44AM,TikTok challenges EU 'gatekeeper' status at Europe's top court,0.5,positive,positive,0.7027
-GOOGL,2026-05-12,04:52AM,Papa Johns partners with Wing for drone deliveries in North Carolina,0.0,neutral,positive,0.5915
-GOOGL,2026-05-11,09:31PM,Arm's AGI CPU demand surges as supply constraints loom,0.0,neutral,negative,0.7422
-GOOGL,2026-05-11,09:22PM,"OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports",0.0,neutral,negative,0.6367
-GOOGL,2026-05-11,08:43PM,Commentary: Musk's xAI exit shows Anthropic's AI strength,0.0,neutral,neutral,0.8478
-GOOGL,2026-05-11,04:03PM,"DeepSeek-R1 Hallucinates 4x More Than V3, Raising Red Flags for Crypto AI Agent Tokens",0.25,positive,negative,0.6484
-GOOGL,2026-05-11,03:51PM,"Big Tech earnings reinforce strength of AI demand across chips, cloud and software: Wedbush",0.0,neutral,positive,0.8501
-GOOGL,2026-05-11,03:37PM,"Microsoft, Google, xAI security test details deleted from US government website",0.0,neutral,neutral,0.8269
-GOOGL,2026-05-11,03:25PM,Fervo Energy Boosts IPO Target to $1.8 Billion,0.0,neutral,positive,0.9389
-GOOGL,2026-05-11,03:07PM,Big Tech Keeps Piling On AI Debt. Spending Is Set to Soar.,0.0,neutral,negative,0.7497
-GOOGL,2026-05-11,02:24PM,Alphabet Is Issuing Bonds in Yen. Why Not?,0.0,neutral,neutral,0.9279
-GOOGL,2026-05-11,01:52PM,By the numbers: Corporate profits haven't been this smoking hot in years,0.125,positive,neutral,0.4318
-GOOGL,2026-05-11,11:08AM,Airbnb CEO Brian Chesky says AI writes 60% of code,0.0,neutral,neutral,0.9473
-GOOGL,2026-05-11,11:08AM,Micron's stock soars toward fresh highs as a 'virtuous cycle' for memory unfolds,0.3,positive,positive,0.9183
-GOOGL,2026-05-11,10:40AM,Google deepens focus on India's AI infrastructure boom,0.0,neutral,positive,0.5094
-GOOGL,2026-05-11,10:17AM,Amazon Prepares to Sell First Swiss Franc Bond in AI Push,0.25,positive,neutral,0.8138
-GOOGL,2026-05-11,09:36AM,AI Wins Have Alphabet Poised to Become Worlds Biggest Company,0.3,positive,positive,0.5652
-GOOGL,2026-05-11,09:09AM,"Stock market concentration - a feature, not a bug: McGeever",0.0,neutral,neutral,0.9286
-GOOGL,2026-05-11,09:02AM,"Hackers Used AI to Build Zero-Day Attack, Google Researchers Say",0.0,neutral,neutral,0.7846
-GOOGL,2026-05-11,09:00AM,There arent enough rockets for space data centers. Cowboy Space raised $275 million to build them.,0.0,neutral,neutral,0.7622
-GOOGL,2026-05-11,08:44AM,Alphabet Explores First Yen Bond Sale for AI Expansion,0.25,positive,neutral,0.8886
-GOOGL,2026-05-11,08:18AM,Samsung is upgrading its smart refrigerators with Google AI to recognize thousands of foods,0.21428571428571427,positive,positive,0.6573
-GOOGL,2026-05-11,07:39AM,Anthropic secures $1.8bn cloud deal with Akamai for AI expansion,0.0,neutral,positive,0.8915
-GOOGL,2026-05-11,07:27AM,Alphabet considers first yen bond sale to fund AI goals,0.25,positive,neutral,0.8845
-GOOGL,2026-05-11,12:22AM,"Ambani's Jio Platforms IPO pivots to pure fundraising, no investor exits, sources say",0.21428571428571427,positive,neutral,0.8902
-GOOGL,2026-05-11,12:18AM,Alphabet Plans Debut Yen Bond Sale as AI Race Accelerates,0.0,neutral,positive,0.7775
-GOOGL,2026-05-10,01:32PM,"The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decadeand its not all AI spending",0.05,neutral,neutral,0.6719
-GOOGL,2026-05-10,01:25PM,NVIDIAs Huang says AI will make intelligence a commodity for billions,0.0,neutral,neutral,0.7129
-GOOGL,2026-05-10,10:00AM,Big Tech's AI spending is depriving investors of juicy payouts,0.0,neutral,negative,0.9483
