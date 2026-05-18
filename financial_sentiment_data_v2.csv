@@ -1,4 +1,9 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-05-18,04:43AM,Apple Watch blood pressure alerts drive TASC demand as 2026 redesign looms,0.0,neutral,neutral,0.8007
+AAPL,2026-05-18,02:34AM,Indian court tells Apple to 'cooperate' in antitrust case,0.0,neutral,neutral,0.5694
+AAPL,2026-05-17,09:49PM,"Weekly news roundup: TSMC faces AI supply strain as Samsung, Intel, and Apple test foundry alternatives",0.0,neutral,negative,0.9578
+AAPL,2026-05-17,09:00AM,Volatile Chipmaker Stocks Emerge as Key Driver of S&P 500 Rally,0.0,neutral,positive,0.8017
+AAPL,2026-05-17,05:30AM,"5 big analyst AI moves: PT hikes for Samsung and SK Hynix, AMD downgraded",0.0,neutral,negative,0.7722
 AAPL,2026-05-15,06:57PM,"Arm Holdings to face US antitrust probe over chip tech, Bloomberg News reports",0.0,neutral,negative,0.7219
 AAPL,2026-05-15,06:44PM,Berkshire Hathaway triples Alphabet stake and invests in Delta and Macy's under new CEO,0.13636363636363635,positive,neutral,0.915
 AAPL,2026-05-15,05:29PM,George Soros's fund buys Berkshire Hathaway stock - now that Buffett is gone,0.0,neutral,neutral,0.9371
@@ -94,11 +99,11 @@ AAPL,2026-05-11,09:23AM,Apple Gets a Warning From Nintendo Memory-Chip Crisis. W
 AAPL,2026-05-11,09:17AM,Apple Stock: Alpha Engine Or Portfolio Diversifier?,0.0,neutral,neutral,0.9464
 AAPL,2026-05-11,08:52AM,Apple's AI strategy may finally be taking shape,0.0,neutral,neutral,0.5786
 AAPL,2026-05-11,08:50AM,Intel Stock Rises on Report of Second Huge Chip Customer,0.20000000000000004,positive,negative,0.6193
-AAPL,2026-05-11,08:36AM,Intel Rally Faces Skepticism From BofA,0.0,neutral,negative,0.7023
-AAPL,2026-05-11,08:05AM,Intel stock extends rally as potential Apple chip deal fuels recent gains,0.0,neutral,positive,0.7706
-AAPL,2026-05-11,07:38AM,Apple Stock Is at Risk From Nintendo's Memory-Chip Crisis,0.0,neutral,negative,0.9385
-AAPL,2026-05-11,06:00AM,"Tech stocks today: AI chipmaker Cerebras to stage blockbuster IPO, Nvidia's Jensen Huang goes to China",0.0,neutral,neutral,0.7867
-AAPL,2026-05-11,04:02AM,Why BofA remains cautious on Intel stock despite ongoing rally,0.0,neutral,neutral,0.7298
+TSLA,2026-05-18,07:05AM,Tesla Stock Drops as CFO Sells Shares. Can It Hold Above $400?,0.0,neutral,negative,0.7607
+TSLA,2026-05-18,05:26AM,Chinas Xpeng begins mass production of robotaxis in Guangzhou,0.0,neutral,neutral,0.8643
+TSLA,2026-05-18,04:18AM,Elon Musk Says He Wants to Get SpaceX IPO Underway Pretty Soon,0.225,positive,positive,0.6095
+TSLA,2026-05-17,10:49AM,Why SpaceX Split Its Stock and 2 More Trillion-Dollar Issues,0.5,positive,neutral,0.9002
+TSLA,2026-05-17,10:27AM,Tesla Just Raised Its EV Prices. Here's Why.,0.0,neutral,neutral,0.8715
 TSLA,2026-05-16,12:00PM,Tesla Raises U.S. Model Y Prices For First Time In Two Years. It's Also Forged A Lower Buy Point.,0.25,positive,positive,0.9018
 TSLA,2026-05-16,10:10AM,"Trumps More Than 3,700 Trades Astonish Wall Street Insiders",0.5,positive,neutral,0.7972
 TSLA,2026-05-15,11:24PM,SpaceX Holders Sign Off on 5-for-1 Stock Split Ahead of IPO,0.0,neutral,neutral,0.8635
@@ -194,11 +199,13 @@ TSLA,2026-05-12,09:57AM,Tesla invests $250 million to expand Germany battery pla
 TSLA,2026-05-12,09:40AM,Tesla China Sales Jump as Roadster Buzz Returns,0.0,neutral,positive,0.6721
 TSLA,2026-05-12,09:39AM,Nvidia's Jensen Huang left off Trump China trip list,0.0,neutral,negative,0.6907
 TSLA,2026-05-12,09:32AM,Ron Baron on upcoming SpaceX IPO: This is going to become the largest company on the planet,0.0,neutral,neutral,0.674
-TSLA,2026-05-12,09:24AM,Tesla to invest $250 million in battery plant outside Berlin,0.0,neutral,neutral,0.8203
-TSLA,2026-05-12,09:12AM,Redwood Materials hires former Tesla CFO Deepak Ahuja,0.0,neutral,neutral,0.7654
-TSLA,2026-05-12,08:38AM,"Nvidia Gets Snubbed as Trump China Trip Loads Up on Apple, Tesla Power",0.0,neutral,negative,0.8923
-TSLA,2026-05-12,08:17AM,Elon Musk Is Expected to Join Trump in China. What It Means for Tesla Stock.,-0.1,negative,neutral,0.9282
-TSLA,2026-05-12,06:52AM,This Chip Stocks Rally Is Suddenly Fragile. Why Markets Should Worry.,0.0,neutral,neutral,0.6029
+GOOGL,2026-05-18,07:24AM,"UnitedHealth, Delta Show a Berkshire After Buffett Can Still Move Stocks",0.0,neutral,neutral,0.5751
+GOOGL,2026-05-18,04:57AM,"South Korea's A2Z bets on autonomous buses as Waymo, Baidu's Apollo Go dominate robotaxi race",0.4,positive,neutral,0.5737
+GOOGL,2026-05-17,06:53PM,"Oppo, Vivo keep telephoto lenses separate to protect margins",0.0,neutral,neutral,0.9443
+GOOGL,2026-05-17,06:41PM,Reports Say NextEra in Talks to Acquire Dominion Energy,0.0,neutral,neutral,0.9067
+GOOGL,2026-05-17,11:32AM,Berkshire Likely Sold Stocks. 6 Takeaways and a Buffett Mystery.,0.0,neutral,neutral,0.9155
+GOOGL,2026-05-17,10:15AM,Gates' foundation sold all of its Microsoft shares. Bill Ackman is loading up on the stock. What is Wall Street missing?,-0.2,negative,neutral,0.7702
+GOOGL,2026-05-17,09:00AM,Volatile Chipmaker Stocks Emerge as Key Driver of S&P 500 Rally,0.0,neutral,positive,0.8017
 GOOGL,2026-05-16,10:29PM,A quarter of recent layoffs has been attributed to AI,0.0,neutral,negative,0.9648
 GOOGL,2026-05-16,03:35PM,$800B in AI spending is juicing GDP and stocks  while real wages fall and Americans cut back on goods,0.1,positive,negative,0.9705
 GOOGL,2026-05-16,09:00AM,Retail Euphoria Turns Six-Week Fund Into Record-Busting AI Trade,0.0,neutral,negative,0.8271
@@ -292,10 +299,3 @@ GOOGL,2026-05-12,12:17PM,Google AI legend raises big money for startup targeting
 GOOGL,2026-05-12,12:16PM,Korea Roils Market by Floating Citizen Dividend From AI,0.0,neutral,negative,0.8309
 GOOGL,2026-05-12,12:13PM,"Google, SpaceX in talks to explore data centers in orbit, WSJ reports",0.0,neutral,neutral,0.8802
 GOOGL,2026-05-12,11:21AM,Google-backed Isomorphic raises $2.1 billion to scale AI-driven drug discovery,0.0,neutral,positive,0.8054
-GOOGL,2026-05-12,10:26AM,Amazon Sells Swiss Franc Bond Offering in Record Six Parts,0.0,neutral,neutral,0.6822
-GOOGL,2026-05-12,10:09AM,Alphabet Warns of AI-Fueled Cyberattack Risks,0.0,neutral,negative,0.8852
-GOOGL,2026-05-12,09:45AM,Get Paid 12% To Buy AVGO At A 30% Discount - Here's How,0.0,neutral,neutral,0.9129
-GOOGL,2026-05-12,09:36AM,Google says it may have stopped a major AI powered cyberattack,0.0625,positive,negative,0.696
-GOOGL,2026-05-12,09:25AM,Amazon Launches Its First Swiss Franc Bond,0.25,positive,neutral,0.8751
-GOOGL,2026-05-12,09:23AM,Micron Stock Surged 9x But History Suggests Caution.,0.0,neutral,positive,0.9309
-GOOGL,2026-05-12,08:46AM,Broadcom stock target raised at Citi ahead of expected earnings beat,-0.1,negative,positive,0.5989
