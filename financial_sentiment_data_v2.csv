@@ -1,4 +1,24 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-05-25,07:11AM,"Apple: Strong Execution, But Valuation Leaves Me Cautious",0.4333333333333333,positive,negative,0.8215
+AAPL,2026-05-24,02:54PM,Berkshire Hathaway Will Embrace Tech,0.0,neutral,neutral,0.8069
+AAPL,2026-05-24,02:53PM,Keep an Eye on Netflix and Spotify (Inside Orchard),0.0,neutral,neutral,0.9336
+AAPL,2026-05-24,02:52PM,New Media's Authenticity Problem (Inside Orchard),0.13636363636363635,positive,neutral,0.8183
+AAPL,2026-05-24,02:50PM,Acquiring TBPN Is an OpenAI Hail Mary Pass (Inside Orchard),0.0,neutral,neutral,0.9118
+AAPL,2026-05-24,02:49PM,AI Is in a Weird Place Right Now (Inside Orchard),-0.10714285714285715,negative,negative,0.5514
+AAPL,2026-05-24,02:47PM,The Apple Silicon Renaissance (Inside Orchard),0.0,neutral,neutral,0.9256
+AAPL,2026-05-24,02:46PM,Anthropic Is Grabbing Wins (Inside Orchard),0.3,positive,neutral,0.705
+AAPL,2026-05-24,02:42PM,"Apple Closes Education Discount Loophole, Kansas City Schools to Become 'All-Apple,' Real Madrid on Apple Vision Pro",0.2,positive,neutral,0.8635
+AAPL,2026-05-24,02:37PM,"Apple Raises Entry-Level Mac Mini Price, DRAM and NAND Impact on iPhone, Apple Device SKU Management",0.0,neutral,neutral,0.5599
+AAPL,2026-05-24,02:36PM,"Apple and Intel to Partner on Chips, How Apple Benefits, TSMC Isn't Going Anywhere",0.0,neutral,neutral,0.8996
+AAPL,2026-05-24,02:34PM,"Reading Between the Lines of Apple's 2Q26 Earnings Q&A With Analysts, Takeaways From Apple's 2Q26 10-Q, Subscriber Q&A",0.0,neutral,neutral,0.8123
+AAPL,2026-05-24,02:33PM,"Apple Halts Share Buyback, Apple's Net Cash Trajectory, Net Cash Neutral vs. Excess Cash",0.0,neutral,neutral,0.6636
+AAPL,2026-05-24,02:32PM,Apple's 2Q26 In Three Charts,0.0,neutral,neutral,0.8904
+AAPL,2026-05-24,02:31PM,"Apple Earnings, Stellar iPhone Demand, Apple Sunsets Net Cash Neutral Target",0.125,positive,positive,0.9067
+AAPL,2026-05-24,02:30PM,Previewing Apple's 2Q26 Earnings: Above Avalon Estimates,0.0,neutral,neutral,0.8428
+AAPL,2026-05-24,02:28PM,Previewing Apple's 2Q26: It's All About Product Supply,0.0,neutral,neutral,0.9302
+AAPL,2026-05-24,02:27PM,Where Apple Is Headed,0.0,neutral,neutral,0.9375
+AAPL,2026-05-24,02:26PM,What Apple May Look Like With John Ternus as CEO,0.0,neutral,neutral,0.9394
+AAPL,2026-05-23,08:30PM,"Ebola Spreads Across Congo as Flights Halted, Supplies Run Low",0.0,neutral,negative,0.9464
 AAPL,2026-05-23,09:00AM,"Trumps 3,711 Trades Point to Multiple Stock-Market Strategies",0.0,neutral,neutral,0.9237
 AAPL,2026-05-22,08:47PM,"Alphabet, AMD Removed From Value Stock Status as Russell Reconstitutes Indexes",0.0,neutral,neutral,0.5291
 AAPL,2026-05-22,06:00PM,RDDT Stock Drops To Near One-Month Lows After Meta Launches Rival App,0.1,positive,negative,0.9647
@@ -66,7 +86,7 @@ AAPL,2026-05-19,07:46AM,Epic Games' 'Fortnite' returns to App Stores worldwide,0
 AAPL,2026-05-19,07:11AM,SEC Crypto News: Green Light for Tokenized Stocks on Crypto Platforms,0.033333333333333326,neutral,positive,0.7204
 AAPL,2026-05-19,06:00AM,"Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla",0.5,positive,positive,0.6769
 AAPL,2026-05-18,06:28PM,Anthropic to let partners share Mythos cybersecurity findings with others,0.0,neutral,neutral,0.8281
-AAPL,2026-05-18,05:56PM,The Spill: Apple (AAPL) Just Crushed It. Now What?,-0.1,negative,neutral,0.7301
+AAPL,2026-05-18,05:56PM,The Spill: Apple (AAPL) Just Crushed It. Now What?,-0.1,negative,neutral,0.7302
 AAPL,2026-05-18,05:25PM,The S&P 500 and most of its stocks are heading in opposite directions at a record pace. What investors should know.,0.25,positive,neutral,0.8642
 AAPL,2026-05-18,04:53PM,On Holding Founders Acquire $6.6 Million of Class A Shares,0.0,neutral,neutral,0.9178
 AAPL,2026-05-18,03:15PM,What Is an ETF? Everything Beginners Need to Know in 2026,0.0,neutral,neutral,0.9425
@@ -79,26 +99,10 @@ AAPL,2026-05-18,05:13AM,Apple India Court Rejects Bid to Pause Antitrust Case,0.
 AAPL,2026-05-18,04:43AM,Apple Watch blood pressure alerts drive TASC demand as 2026 redesign looms,0.0,neutral,neutral,0.8007
 AAPL,2026-05-18,02:34AM,Indian court tells Apple to 'cooperate' in antitrust case,0.0,neutral,neutral,0.5694
 AAPL,2026-05-17,09:49PM,"Weekly news roundup: TSMC faces AI supply strain as Samsung, Intel, and Apple test foundry alternatives",0.0,neutral,negative,0.9578
-AAPL,2026-05-17,09:00AM,Volatile Chipmaker Stocks Emerge as Key Driver of S&P 500 Rally,0.0,neutral,positive,0.8017
-AAPL,2026-05-17,05:30AM,"5 big analyst AI moves: PT hikes for Samsung and SK Hynix, AMD downgraded",0.0,neutral,negative,0.7722
-AAPL,2026-05-15,06:57PM,"Arm Holdings to face US antitrust probe over chip tech, Bloomberg News reports",0.0,neutral,negative,0.7219
-AAPL,2026-05-15,06:44PM,Berkshire Hathaway triples Alphabet stake and invests in Delta and Macy's under new CEO,0.13636363636363635,positive,neutral,0.915
-AAPL,2026-05-15,05:29PM,George Soros's fund buys Berkshire Hathaway stock - now that Buffett is gone,0.0,neutral,neutral,0.9371
-AAPL,2026-05-15,05:26PM,Berkshire adds Delta and Macys stakes in first quarter,0.25,positive,neutral,0.9431
-AAPL,2026-05-15,01:35PM,How Cerebras Disrupted Chips-and Maybe the Future of IPOs,0.0,neutral,neutral,0.9271
-AAPL,2026-05-15,01:05PM,Apple Stock Rises After Surprise iPhone 17 Price Cuts in China,0.0,neutral,negative,0.4769
-AAPL,2026-05-15,12:29PM,"'Magnificent Seven' stocks are under pressure, as Tesla posts biggest drop",1.0,positive,negative,0.9562
-AAPL,2026-05-15,11:20AM,"OpenAI reportedly considering legal action over Apple ChatGPT deal, citing weak user growth",-0.024999999999999984,neutral,negative,0.9652
-AAPL,2026-05-15,11:07AM,Buy TSMC stock as recent concerns are overdone: BofA,0.0,neutral,neutral,0.7014
-AAPL,2026-05-15,09:19AM,Signal Threatens To Leave Canada Over Government Legislation,0.0,neutral,negative,0.8463
-AAPL,2026-05-15,09:06AM,Trump's disclosure shows hundreds of millions of dollars in US securities traded in first quarter,0.25,positive,neutral,0.9185
-AAPL,2026-05-15,06:36AM,Trump Bought the Software Stock Slump-and More Revelations From His Trades,0.5,positive,neutral,0.8476
-AAPL,2026-05-14,11:23PM,"Why are so many U.S. CEOs in China with Trump, and what do they want?",0.5,positive,neutral,0.8009
-AAPL,2026-05-14,10:42PM,"Lei Jun, Musk and Cook converge at China-US state dinner",0.0,neutral,neutral,0.9112
-AAPL,2026-05-14,10:39PM,"OpenAI May Raise More Money as Compute Crunch Deepens, CFO Says",0.5,positive,neutral,0.4743
-AAPL,2026-05-14,04:24PM,OpenAI prepares legal action against Apple over ChatGPT deal,0.15000000000000002,positive,negative,0.7193
-AAPL,2026-05-14,04:24PM,The partnership that brought ChatGPT to iPhones is falling apart,0.0,neutral,negative,0.9446
-AAPL,2026-05-14,02:15PM,"Apple-OpenAI Alliance Frays, Setting Up Possible Legal Fight",0.1,positive,negative,0.9333
+TSLA,2026-05-25,07:31AM,Why Tesla Robotaxi Dreams Can't Rescue Today's Weak Fundamentals,-0.375,negative,negative,0.8805
+TSLA,2026-05-24,08:21PM,Grok falters across government and enterprise as SpaceX pivots to lease idle compute,0.0,neutral,negative,0.9666
+TSLA,2026-05-24,12:21PM,Elon Musk's Bugs Bunny Moment: Will SpaceX IPO Tank Tesla Stock?,0.0,neutral,neutral,0.9227
+TSLA,2026-05-24,09:00AM,'There's mania': Strategists weigh in on looming SpaceX IPO,0.0,neutral,negative,0.8028
 TSLA,2026-05-24,12:37AM,Ten things to know about humanoids,0.0,neutral,neutral,0.9386
 TSLA,2026-05-23,05:04PM,"Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly,"" Hormuz 'Will Be Opened'; Tesla, AI Stocks Near Buy Points",0.05,neutral,neutral,0.5828
 TSLA,2026-05-23,09:00AM,Elon Musk has given up on solar power (on Earth),0.0,neutral,neutral,0.9191
@@ -195,11 +199,14 @@ TSLA,2026-05-19,11:04AM,MetaMask Just Added Tokenized US Stocks  NOT for US User
 TSLA,2026-05-19,10:27AM,OpenAI Defeats Tesla CEO Elon Musk's Lawsuit,0.0,neutral,neutral,0.7127
 TSLA,2026-05-19,08:59AM,"Tech Weekly: data center deals, Meta's major job cuts",-0.018750000000000003,neutral,neutral,0.5563
 TSLA,2026-05-19,08:56AM,"Nissan To Follow Tesla By Possibly Exporting EVs From China To Canada, Report",0.0,neutral,positive,0.6525
-TSLA,2026-05-19,08:50AM,"Tesla Hikes Prices, and the Stock Takes a Hit",0.0,neutral,positive,0.64
-TSLA,2026-05-19,08:11AM,Nasdaq semis lead losses as bond yields put pressure on Iran talks,0.0,neutral,negative,0.9661
-TSLA,2026-05-19,07:47AM,Tesla Robotaxi Plans Face U.S. Expansion Test,0.0,neutral,positive,0.6502
-TSLA,2026-05-19,06:49AM,Stock Markets Now Shrug at Trump's Iran Rhetoric. That's a Big Worry.,0.0,neutral,negative,0.869
-GOOGL,2026-05-23,03:00PM,Hyperscaler Debt Flood Brings Derivatives Bonanza,0.0,neutral,negative,0.7284
+GOOGL,2026-05-25,03:37AM,3 Made in USA Coins to Watch as US Iran War Nears End,0.0,neutral,neutral,0.8738
+GOOGL,2026-05-24,02:54PM,Berkshire Hathaway Will Embrace Tech,0.0,neutral,neutral,0.8069
+GOOGL,2026-05-24,02:41PM,"Google I/O 2026, Google Search Is AI Search, Too Overwhelming",0.5,positive,neutral,0.9504
+GOOGL,2026-05-24,02:39PM,"Android Show 2026, Google Gives Googlebook Sneak Peek, A Neo Competitor?",0.0,neutral,neutral,0.9246
+GOOGL,2026-05-24,02:38PM,"Google Unveils Rebranded Health App, Google Unveils Fitbit Air, Google Health Coach",0.0,neutral,neutral,0.9358
+GOOGL,2026-05-24,10:30AM,Elon Musk wants to put data centers in space  here's what that could actually look like,0.1,positive,neutral,0.9385
+GOOGL,2026-05-24,08:42AM,Hyperscaler Debt Flood Brings Derivatives Bonanza,0.0,neutral,negative,0.7284
+GOOGL,2026-05-24,08:15AM,Gates' foundation sold all of its Microsoft shares. Bill Ackman is loading up on the stock. What is Wall Street missing?,-0.2,negative,neutral,0.7702
 GOOGL,2026-05-23,08:30AM,Hardcore gamers nurtured Nvidia and the AI boom. Now they feel betrayed by Big Tech.,0.0,neutral,negative,0.9218
 GOOGL,2026-05-23,07:38AM,Team Internet is now firmly in a scaling phase - ICYMI,-0.2,negative,neutral,0.7302
 GOOGL,2026-05-23,07:30AM,"49,000 Lake Tahoe residents fear they'll lose power as data centers strain grids. Experts see electricity crisis ahead",0.0,neutral,negative,0.9554
@@ -292,10 +299,3 @@ GOOGL,2026-05-20,12:38PM,"Meta Begins 8,000 Global Job Cuts in AI Efficiency Pus
 GOOGL,2026-05-20,11:11AM,Google rejects UK union recognition but offers talks via conciliation body,0.1,positive,neutral,0.4964
 GOOGL,2026-05-20,11:11AM,Google is launching AI audio glasses this fall with Warby Parker and Gentle Monster,0.2,positive,neutral,0.9066
 GOOGL,2026-05-20,10:48AM,The AI Boom Is Making Warshs Bond-Market Bind Even Worse,-0.4,negative,negative,0.8222
-GOOGL,2026-05-20,10:42AM,Jeff Bezos says Elon Musk's timeline for data centers in space is 'probably not right',-0.14285714285714285,negative,neutral,0.8092
-GOOGL,2026-05-20,10:40AM,Google is rolling out AI tools to help researchers generate hypotheses and run experiments faster,0.0,neutral,neutral,0.71
-GOOGL,2026-05-20,10:24AM,Alphabet Expands AI Talent Push With Contextual Deal,0.0,neutral,neutral,0.6042
-GOOGL,2026-05-20,10:05AM,Google Launches $100 Monthly AI Ultra Plan,0.0,neutral,neutral,0.9199
-GOOGL,2026-05-20,08:57AM,"How META Stock Rises To $1,000",0.0,neutral,neutral,0.906
-GOOGL,2026-05-20,08:01AM,Lamda wins cloud deal with Hudson River Trading to supply access to Nvidia chips,0.3,positive,positive,0.8712
-GOOGL,2026-05-20,07:13AM,Thales inks deal with Google for homegrown German cloud provider,0.0,neutral,positive,0.9038
