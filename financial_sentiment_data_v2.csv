@@ -1,4 +1,15 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-06-01,08:38AM,Apple Stock Has Been on a Hot Run. Siri Revamp Could Give It Another Boost Next Week.,0.125,positive,positive,0.9257
+AAPL,2026-06-01,07:15AM,"US stock futures rise as AI push eclipses US-Iran war; Nvidia, Microsoft up",0.0,neutral,neutral,0.6355
+AAPL,2026-06-01,07:09AM,"Nvidia Unveils New AI Chip for PCs, Taking On Intel and AMD",0.13636363636363635,positive,positive,0.5771
+AAPL,2026-06-01,06:57AM,This Tech Stocks Rally Can Rage Into June But Markets Face 3 Big Obstacles. And 5 Other Things to Know Today.,-0.05833333333333333,negative,neutral,0.9063
+AAPL,2026-06-01,05:56AM,Dell Stock Rises as It Goes Head-to-Head with Apple Over Cutting Edge Laptop,-0.6,negative,positive,0.5054
+AAPL,2026-05-31,09:40PM,Asus ready to compete as Apple expands into budget laptop market,0.2,positive,positive,0.8147
+AAPL,2026-05-31,07:05PM,Nvidia launches new chip to bring AI directly to personal computers,0.06818181818181818,positive,positive,0.5368
+AAPL,2026-05-31,06:53PM,Dell unveils $699 XPS 13 laptop in challenge to Apple's MacBook Neo,0.0,neutral,positive,0.7024
+AAPL,2026-05-31,01:52PM,China Insight: Why Fashion Must Rethink Globalization,0.0,neutral,neutral,0.9059
+AAPL,2026-05-31,12:00PM,"Here's what's worth streaming in June 2026 on Netflix, Hulu, HBO Max and more",0.4,positive,neutral,0.9452
+AAPL,2026-05-31,07:44AM,IPOs are no longer Wall Street's starting line  they're the exit ramp: Chart of the Day,0.0,neutral,neutral,0.9206
 AAPL,2026-05-31,03:00AM,Inside the Ambitious Plan That Actually Made Home Prices in Austin Affordable Again,0.125,positive,positive,0.5774
 AAPL,2026-05-30,09:00AM,"Tech Stars From the 90s Reborn: Nokia, Dell, Cisco Surge on AI",0.0,neutral,neutral,0.4929
 AAPL,2026-05-30,09:00AM,"As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",0.0,neutral,neutral,0.9101
@@ -88,17 +99,18 @@ AAPL,2026-05-24,02:32PM,Apple's 2Q26 In Three Charts,0.0,neutral,neutral,0.8904
 AAPL,2026-05-24,02:31PM,"Apple Earnings, Stellar iPhone Demand, Apple Sunsets Net Cash Neutral Target",0.125,positive,positive,0.9067
 AAPL,2026-05-24,02:30PM,Previewing Apple's 2Q26 Earnings: Above Avalon Estimates,0.0,neutral,neutral,0.8428
 AAPL,2026-05-24,02:28PM,Previewing Apple's 2Q26: It's All About Product Supply,0.0,neutral,neutral,0.9302
-AAPL,2026-05-24,02:27PM,Where Apple Is Headed,0.0,neutral,neutral,0.9375
-AAPL,2026-05-24,02:26PM,What Apple May Look Like With John Ternus as CEO,0.0,neutral,neutral,0.9394
-AAPL,2026-05-23,08:30PM,"Ebola Spreads Across Congo as Flights Halted, Supplies Run Low",0.0,neutral,negative,0.9464
-AAPL,2026-05-23,09:00AM,"Trumps 3,711 Trades Point to Multiple Stock-Market Strategies",0.0,neutral,neutral,0.9237
-AAPL,2026-05-22,08:47PM,"Alphabet, AMD Removed From Value Stock Status as Russell Reconstitutes Indexes",0.0,neutral,neutral,0.5291
-AAPL,2026-05-22,06:00PM,RDDT Stock Drops To Near One-Month Lows After Meta Launches Rival App,0.1,positive,negative,0.9647
-AAPL,2026-05-22,04:38PM,IMAX has bucked the trend as the movie-theater business fades - here's why it's so attractive to would-be buyers,0.8,positive,neutral,0.5116
-AAPL,2026-05-22,04:03PM,EUV ETF: The Chip-Making Technology Fueling AI,0.0,neutral,neutral,0.8951
-AAPL,2026-05-22,03:12PM,"Wall Street rises, Dow hits record high as Middle East hopes lift sentiment",0.08,positive,positive,0.8438
-AAPL,2026-05-22,02:44PM,SEC Delays Crypto Stock Tokens Amid Wall Street Pushback,-0.1,negative,negative,0.847
-AAPL,2026-05-22,02:18PM,Google appeals US court ruling on search monopoly,0.0,neutral,negative,0.869
+TSLA,2026-06-01,08:54AM,The Odds SpaceX Merges With Tesla Are Higher Than You Think,0.25,positive,neutral,0.8005
+TSLA,2026-06-01,08:00AM,"New climate fund targets ""rebuilding the physical economy""",0.06818181818181818,positive,positive,0.5693
+TSLA,2026-06-01,07:33AM,Tesla Stock Drops. OpenAI Is Coming for One Line of Its Business.,0.0,neutral,neutral,0.8597
+TSLA,2026-06-01,06:57AM,This Tech Stocks Rally Can Rage Into June But Markets Face 3 Big Obstacles. And 5 Other Things to Know Today.,-0.05833333333333333,negative,neutral,0.9063
+TSLA,2026-06-01,06:15AM,SpaceX IPO could hit popular index funds  and your 401(k)  in as little as 5 trading days as indexes relax their rules,0.20625,positive,neutral,0.774
+TSLA,2026-06-01,04:30AM,"Nasdaq, S&P 500 Futures Open June On Strong Footing: Why NVDA, DELL, HPE, TSM, TSLA, SPCE, RVMD Are In Focus",0.21666666666666665,positive,positive,0.8432
+TSLA,2026-06-01,02:08AM,"TSLA Stock Slips Overnight: SpaceX IPO Hype Is Starting To Look Like Amazon's Dot-Com Bubble Peak In 2000, Warns Ex-Lehman Trader",0.0,neutral,negative,0.9461
+TSLA,2026-05-31,07:49PM,Tesla withdraws termination notice on graphite supply deal with Australia's Syrah,0.0,neutral,negative,0.9507
+TSLA,2026-05-31,03:21PM,SpaceX Buys 8% of Tesla's Cybertrucks-and It Doesn't Get a Discount,0.0,neutral,neutral,0.9071
+TSLA,2026-05-31,10:30AM,"The S&P 500 returns 10% on average, but your mortgage costs 6.36%  here's what the math says to do",-0.15,negative,neutral,0.9058
+TSLA,2026-05-31,09:00AM,AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic,0.1,positive,neutral,0.5627
+TSLA,2026-05-31,07:44AM,IPOs are no longer Wall Street's starting line  they're the exit ramp: Chart of the Day,0.0,neutral,neutral,0.9206
 TSLA,2026-05-31,03:00AM,If Elon Musk merges SpaceX with Tesla hell create a $3.4 trillion behemothwith zero profits,0.0,neutral,neutral,0.7834
 TSLA,2026-05-30,09:07PM,"Dow Jones Futures: Trump Reportedly Stiffens Iran Deal Terms; Nvidia, Tesla Lead 5 Titans Near Buy Points",0.1,positive,positive,0.7771
 TSLA,2026-05-30,10:57AM,Teslas Next Act? Wall Street Begins Weighing a SpaceX Combination,0.0,neutral,neutral,0.9096
@@ -187,18 +199,14 @@ TSLA,2026-05-24,12:21PM,Elon Musk's Bugs Bunny Moment: Will SpaceX IPO Tank Tesl
 TSLA,2026-05-24,09:00AM,'There's mania': Strategists weigh in on looming SpaceX IPO,0.0,neutral,negative,0.8028
 TSLA,2026-05-24,12:37AM,Ten things to know about humanoids,0.0,neutral,neutral,0.9386
 TSLA,2026-05-23,09:00AM,Elon Musk has given up on solar power (on Earth),0.0,neutral,neutral,0.9191
-TSLA,2026-05-23,06:00AM,"Former Tesla president shares the secret to success he learned from his former boss, Elon Musk: He demands to only work with world-class talent",-0.020000000000000007,neutral,neutral,0.9129
-TSLA,2026-05-22,05:29PM,"Dow Jones Futures: Stock Market Rebounds To Highs; Tesla, These Five AI Plays Are At Buy Points",0.0,neutral,neutral,0.4539
-TSLA,2026-05-22,04:14PM,The SpaceX Paradox: How Can a Money-Losing Company Be Worth $2 Trillion?,0.3,positive,neutral,0.6825
-TSLA,2026-05-22,04:01PM,Ford Stock Soars as Wall Street Wakes Up to Its AI Play,0.0,neutral,neutral,0.5891
-TSLA,2026-05-22,03:55PM,Are mega-IPOs like SpaceX huge opportunities for options trades?,0.4000000000000001,positive,neutral,0.9119
-TSLA,2026-05-22,02:44PM,SEC Delays Crypto Stock Tokens Amid Wall Street Pushback,-0.1,negative,negative,0.847
-TSLA,2026-05-22,01:16PM,The Federal Government Ghosts Grok,0.0,neutral,neutral,0.7306
-TSLA,2026-05-22,12:20PM,One Problem for the SpaceX IPO,0.0,neutral,negative,0.5206
-TSLA,2026-05-22,12:17PM,Musk may already be a trillionaire while these SpaceX employees and investors will hit multibillion-dollar jackpots after blockbuster IPO,0.0,neutral,neutral,0.8631
-TSLA,2026-05-22,11:03AM,SpaceX Targets $75 Billion IPO at Up to $2 Trillion Valuation,0.0,neutral,neutral,0.849
-TSLA,2026-05-22,09:57AM,AI mania is fueling bubble-like concentration in the S&P 500,0.0,neutral,negative,0.9074
-TSLA,2026-05-22,09:29AM,Tesla Recalls Model Y SUVs Over Missing Weight Labels,-0.2,negative,negative,0.9618
+GOOGL,2026-06-01,08:50AM,The Chip Rally Has Gone Parabolic. It's Time to Separate the Pillars From the Pretenders.,0.0,neutral,neutral,0.8916
+GOOGL,2026-06-01,08:02AM,"Exclusive-EU cloud rules to curb Amazon, Google access to strategic tenders, draft document shows",0.0,neutral,neutral,0.8623
+GOOGL,2026-06-01,07:30AM,A Google engineer bet $2.7M on Polymarket using secret search data  and walked away with $1.2M in profit,-0.4,negative,negative,0.6882
+GOOGL,2026-06-01,01:01AM,Analysis-AI debt sales reshape global corporate bond markets,0.0,neutral,positive,0.9273
+GOOGL,2026-05-31,11:50AM,"One Google Employee Used The Companys Internal Data To Bet On Polymarket And Won $1.2M, DOJ Says",0.0,neutral,neutral,0.8569
+GOOGL,2026-05-31,09:00AM,AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic,0.1,positive,neutral,0.5627
+GOOGL,2026-05-31,08:30AM,Big Tech companies are screwing the average investor  here's how,-0.075,negative,neutral,0.9291
+GOOGL,2026-05-31,07:44AM,IPOs are no longer Wall Street's starting line  they're the exit ramp: Chart of the Day,0.0,neutral,neutral,0.9206
 GOOGL,2026-05-31,03:00AM,Inside the Ambitious Plan That Actually Made Home Prices in Austin Affordable Again,0.125,positive,positive,0.5774
 GOOGL,2026-05-30,10:49AM,The groupthink boom: what three top VCs really think about the AI frenzy,0.35,positive,neutral,0.9376
 GOOGL,2026-05-30,07:30AM,Nvidia CFO Colette Kress: AI is no longer a nice-to-have,0.0,neutral,neutral,0.7629
@@ -221,7 +229,6 @@ GOOGL,2026-05-29,11:00AM,The difference between on-prem AI vs. data centers,0.0,
 GOOGL,2026-05-29,10:22AM,Tesla Robotaxi Fleet Trails Waymo in Texas,0.0,neutral,neutral,0.8959
 GOOGL,2026-05-29,10:21AM,Google India Ad Ruling Raises Trademark Risk,0.0,neutral,negative,0.9226
 GOOGL,2026-05-29,10:14AM,Buy Or Sell Microsoft Stock At $425?,0.0,neutral,neutral,0.9259
-GOOGL,2026-05-29,10:14AM,The Chip Rally Has Gone Parabolic. It's Time to Separate the Pillars From the Pretenders.,0.0,neutral,neutral,0.8916
 GOOGL,2026-05-29,09:30AM,Anthropic's $965 Billion Valuation Eclipses OpenAI,0.0,neutral,neutral,0.846
 GOOGL,2026-05-29,09:21AM,Tesla Texas robotaxi fleet dwarfed by Waymo in new filings,0.13636363636363635,positive,positive,0.8395
 GOOGL,2026-05-29,09:21AM,"Tesla's Texas robotaxi fleet is a fraction of Waymo's, new state filings show",0.13636363636363635,positive,neutral,0.9324
@@ -292,10 +299,3 @@ GOOGL,2026-05-26,01:53PM,Coinbase Extends AI Payments Push With Base MCP Launch,
 GOOGL,2026-05-26,10:49AM,Qualcomm Strikes AI Chip Deal With TikTok Owner ByteDance,0.0,neutral,positive,0.808
 GOOGL,2026-05-26,10:24AM,Micron stock surges as UBS triples price target on AI demand,0.0,neutral,positive,0.4537
 GOOGL,2026-05-26,10:15AM,"Dropbox CEO Andrew Houston to step down, insider Ashraf Alkarmi named successor",-0.15555555555555559,negative,neutral,0.679
-GOOGL,2026-05-26,10:10AM,The SpaceX IPO Is a Game You Play at Your Own Risk,0.09999999999999998,positive,neutral,0.915
-GOOGL,2026-05-26,09:57AM,"Dropbox CEO Drew Houston steps down, Ashraf Alkarmi named co-CEO",-0.15555555555555559,negative,neutral,0.6916
-GOOGL,2026-05-26,09:44AM,Amazon Stocks Simple Path To 20% Upside,0.0,neutral,positive,0.7986
-GOOGL,2026-05-26,09:30AM,Alphabet Faces Potential Record EU Fine,0.20833333333333334,positive,negative,0.9317
-GOOGL,2026-05-26,09:25AM,"Google, Meta, Amazon, and 6 other tech stocks powering the stock market's profit excitement",-0.125,negative,positive,0.6892
-GOOGL,2026-05-26,08:43AM,"Ex-bankers charge $25,000 a day to teach Wall Street AI",0.0,neutral,neutral,0.8522
-GOOGL,2026-05-25,09:44PM,"Why Are MU, SNDK Stocks Surging In Overnight Trading?",0.0,neutral,neutral,0.8277
