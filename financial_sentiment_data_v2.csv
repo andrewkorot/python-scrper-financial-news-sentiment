@@ -1,4 +1,19 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-06-08,08:04AM,Tech stocks today: Chip stocks rebound as Nvidia CEO Jensen Huang says investors should be 'very happy' about pullback,1.0,positive,positive,0.8335
+AAPL,2026-06-08,08:04AM,Tech stocks today: Chip stocks rebound after Nvidia's Jensen Huang says investors should be 'very happy',1.0,positive,positive,0.9199
+AAPL,2026-06-08,08:00AM,Apple's AI strategy all comes down to a Siri revamp,-0.15555555555555559,negative,neutral,0.9334
+AAPL,2026-06-08,07:48AM,Apple's Siri Overhaul Takes Center Stage,-0.1,negative,neutral,0.915
+AAPL,2026-06-08,07:08AM,Apple WWDC 2026 is just hours away. Here's what to watch for.,0.0,neutral,neutral,0.9363
+AAPL,2026-06-08,07:08AM,It's the final WWDC of the Tim Cook era,0.0,neutral,neutral,0.9399
+AAPL,2026-06-08,06:57AM,"Broadcom, AMD, Super Micro, and More Stocks That Explain Today's Market",0.41666666666666663,positive,neutral,0.947
+AAPL,2026-06-08,06:52AM,Analysis-Nvidia's AI PC push banks on unproven demand beyond niche users,0.0,neutral,positive,0.9129
+AAPL,2026-06-08,06:38AM,"Tech Slump, Iran Strikes, Inflation, SpaceX-This Week Could Make or Break Markets",0.0,neutral,negative,0.7341
+AAPL,2026-06-08,05:45AM,"Middle East tensions, AI concerns and Apples developer event dominate market attention: Dow Jones, S&P, Nasdaq, Wall Street Futures",0.0,neutral,neutral,0.9232
+AAPL,2026-06-08,04:58AM,"Nasdaq, S&P 500, Dow Futures Mixed As Iran-Israel Escalation Lifts Oil Prices: Why NVDA, STI, MRVL, LLY, SOC Are In Focus",0.0,neutral,negative,0.691
+AAPL,2026-06-08,04:29AM,Apple Stock Inches Higher Premarket As WWDC Kicks Off: Whats In Store From The iPhone Maker?,0.25,positive,neutral,0.4995
+AAPL,2026-06-08,02:33AM,Apple's 2026 WWDC Starts Today. AI to Take Center Stage.,-0.1,negative,neutral,0.9144
+AAPL,2026-06-08,02:33AM,Apple's WWDC Event Is Nearly Here. What to Watch.,0.1,positive,neutral,0.9077
+AAPL,2026-06-07,09:42AM,Apple WWDC preview: Apple gets a second shot at its AI rollout,0.0,neutral,positive,0.9181
 AAPL,2026-06-06,10:51PM,Let's Hear From Siri (AVALON Podcast),0.0,neutral,neutral,0.9323
 AAPL,2026-06-06,09:30PM,What About an Agentic Ferrari? (AVALON Podcast),0.0,neutral,neutral,0.9348
 AAPL,2026-06-06,09:28PM,Too Much Vision Noise (AVALON podcast),0.2,positive,neutral,0.9282
@@ -59,7 +74,7 @@ AAPL,2026-06-03,04:12PM,Broadcom Adds $280 Billion Before Earnings as AI Rally F
 AAPL,2026-06-03,03:59PM,Apple's new feature takes the pain out of splitting the check,0.13636363636363635,positive,neutral,0.4617
 AAPL,2026-06-03,03:43PM,These Fortune 500 companies are bigger than most national economiesheres where theyd rank as countries,-0.10000000000000002,negative,neutral,0.8104
 AAPL,2026-06-03,02:52PM,Is PayPal the Ultimate Asymmetric Fintech Bet at 8x Earnings?,0.0,neutral,neutral,0.9164
-AAPL,2026-06-03,12:07PM,"Apple Investors Looking For A WWDC Boost May Be Disappointed, UBS Warns",-0.75,negative,negative,0.7369
+AAPL,2026-06-03,12:07PM,"Apple Investors Looking For A WWDC Boost May Be Disappointed, UBS Warns",-0.75,negative,negative,0.7368
 AAPL,2026-06-03,12:02PM,"Apple's WWDC Event Is Just Days Away. Don't Expect Fireworks for the Stock, UBS Says.",0.0,neutral,neutral,0.8169
 AAPL,2026-06-03,09:59AM,Nvidia chief meets Foxconn chairman at Taiwan tech show,0.0,neutral,neutral,0.9114
 AAPL,2026-06-03,09:14AM,What Apple Stock Was Shouting Before the Surge,0.0,neutral,neutral,0.8924
@@ -84,21 +99,17 @@ AAPL,2026-06-02,05:14AM,Dell Stock Surges Toward Record Win Streak After Doublin
 AAPL,2026-06-02,03:57AM,Jensen Huang: Nvidia can fuel AI growth despite supply constraints,0.0,neutral,positive,0.8647
 AAPL,2026-06-02,02:30AM,Even Nvidia Will Struggle to Save the PC,0.0,neutral,negative,0.5859
 AAPL,2026-06-01,09:21PM,Nvidia CEO says has capacity to supply robust CPU and GPU growth,0.0,neutral,positive,0.9208
-AAPL,2026-06-01,07:38PM,"Apples WWDC 2026 Key Catalyst For AAPL Stock, Will Decide AI Positioning: Morgan Stanley",0.0,neutral,neutral,0.9321
-AAPL,2026-06-01,04:17PM,Nvidia Is Taking On Intel and AMD With AI Chip for Computers,0.0,neutral,neutral,0.738
-AAPL,2026-06-01,02:34PM,Apple AI Strategy Could Drive Next Stock Move,0.0,neutral,neutral,0.8605
-AAPL,2026-06-01,01:57PM,Dell Unveils $699 XPS 13 To Challenge Apple's MacBook Neo,0.0,neutral,positive,0.762
-AAPL,2026-06-01,12:12PM,"Dell Stock Extends Massive Rally on Morgan Stanley Upgrade, New Apple-Rivaling Laptop",0.06818181818181818,positive,positive,0.903
-AAPL,2026-06-01,11:29AM,"Intel, AMD, Qualcomm shares slide as Nvidia crashes the PC chip market",0.0,neutral,negative,0.959
-AAPL,2026-06-01,10:50AM,Apple reportedly targeting 2027 launch for smart glasses amid AI refinement efforts,0.21428571428571427,positive,positive,0.5629
-AAPL,2026-06-01,10:19AM,Dell Targets Apple With $699 XPS 13,0.0,neutral,neutral,0.8392
-AAPL,2026-06-01,10:17AM,Nvidia Pushes Into PCs With New Arm Chip,0.13636363636363635,positive,positive,0.7498
-AAPL,2026-06-01,08:38AM,Apple Stock Has Been on a Hot Run. Siri Revamp Could Give It Another Boost Next Week.,0.125,positive,positive,0.9257
-AAPL,2026-06-01,07:15AM,"US stock futures rise as AI push eclipses US-Iran war; Nvidia, Microsoft up",0.0,neutral,neutral,0.6355
-AAPL,2026-06-01,06:57AM,This Tech Stocks Rally Can Rage Into June But Markets Face 3 Big Obstacles. And 5 Other Things to Know Today.,-0.05833333333333333,negative,neutral,0.9063
-AAPL,2026-06-01,05:56AM,Dell Stock Rises as It Goes Head-to-Head with Apple Over Cutting Edge Laptop,-0.6,negative,positive,0.5054
-AAPL,2026-05-31,09:40PM,Asus ready to compete as Apple expands into budget laptop market,0.2,positive,positive,0.8147
-AAPL,2026-05-31,07:05PM,Nvidia launches new chip to bring AI directly to personal computers,0.06818181818181818,positive,positive,0.5368
+TSLA,2026-06-08,08:28AM,Tesla China Retail Sales Jump 22%. The Stock Is Bouncing.,0.0,neutral,negative,0.7155
+TSLA,2026-06-08,08:27AM,Should You Buy SpaceX Stock This Week?,0.0,neutral,neutral,0.9379
+TSLA,2026-06-08,08:00AM,"SpaceX is being 'rushed' into the public market, strategist says",0.0,neutral,neutral,0.7963
+TSLA,2026-06-08,07:24AM,Tesla Stock Rises Ahead of SpaceX Event. IPO Demand Better Pick Up.,0.5,positive,positive,0.9106
+TSLA,2026-06-08,06:34AM,Stock Market Today: Futures Mostly Higher After Indexes Plunge to End Last Week; Oil Prices Jump on Israel-Iran Fighting,0.125,positive,positive,0.5519
+TSLA,2026-06-08,05:00AM,How Teslas Semi could reshape transform freight transport,0.0,neutral,neutral,0.8761
+TSLA,2026-06-08,04:01AM,Panasonic to start US data centre battery production by fiscal 2028,0.0,neutral,neutral,0.85
+TSLA,2026-06-08,03:42AM,"Should You Buy SpaceX Stock This Week? Bull, Bear Arguments, and Red Herrings.",0.0,neutral,neutral,0.6458
+TSLA,2026-06-07,02:51PM,Starlink Is Incredible-and It's the Key to the SpaceX IPO,0.0,neutral,neutral,0.5434
+TSLA,2026-06-07,02:25PM,I Used SpaceX's Starlink. It's Something Else.,0.0,neutral,neutral,0.9163
+TSLA,2026-06-07,07:58AM,Patrick Bet-David Shows Adam Sosnick Compares His Bitcoin 'Dry Powder' To The Tesla Cash That Built SpaceX,-0.06666666666666665,negative,neutral,0.8954
 TSLA,2026-06-07,03:51AM,Where do Waymo and Tesla currently stand in the AV race?,0.0,neutral,neutral,0.9229
 TSLA,2026-06-06,10:36PM,"While China floods the humanoid market, America's top three are quietly building patent moats",0.25,positive,neutral,0.7207
 TSLA,2026-06-06,06:30AM,Elon Musk is poised to become the first trillionaire. Just how much money is $1 trillion?,0.225,positive,neutral,0.9328
@@ -188,17 +199,18 @@ TSLA,2026-06-02,11:00AM,"Palantir, XAI, PayPal, and Robinhood stock analysis",0.
 TSLA,2026-06-02,10:54AM,"Tesla Gets A Rival To Its Robotics Business, As Sales In China Eye A Recovery",0.0,neutral,positive,0.9522
 TSLA,2026-06-02,10:00AM,Large cryptocurrencies fall as Bitcoin declines,0.21428571428571427,positive,negative,0.9683
 TSLA,2026-06-02,09:43AM,Teslas China-Made EV Deliveries Rise Nearly 40% in May Despite Intensifying Competition (TSLA),0.1,positive,positive,0.9502
-TSLA,2026-06-02,08:27AM,"Sam Altman backs Alfred, a physical AI startup for robotics",0.0,neutral,neutral,0.8985
-TSLA,2026-06-02,08:23AM,Tesla EU Sales Recovery Gains Steam in May,0.0,neutral,positive,0.935
-TSLA,2026-06-02,07:36AM,"Tesla's Market Cap Is Up 1,000-Fold Since Its 2010 IPO. What That Means for SpaceX.",0.0,neutral,positive,0.7986
-TSLA,2026-06-02,06:24AM,STMicro Raises Data Centre Revenue Forecast to $1 Billion as AI Demand Accelerates (STM),0.0,neutral,positive,0.9441
-TSLA,2026-06-02,06:21AM,"Nvidia Stock Pops as Cathie Wood's ARK Piles In, Sells This Rival Chip Maker's Shares",0.0,neutral,neutral,0.8077
-TSLA,2026-06-02,06:00AM,AI is carrying the S&P 500 rally: Chart of the Day,0.0,neutral,neutral,0.9125
-TSLA,2026-06-02,04:46AM,"Nasdaq, S&P 500 Futures Edge Lower Despite AI Momentum As Iran Risks Linger: Why HPE, MRVL, INTC, TSLA, SPCE, ASTS Are In Focus",0.0,neutral,negative,0.8996
-TSLA,2026-06-02,04:20AM,TSLA Stock Climbs Premarket: Elon Musk Revives Tesla's IPO-Era Bull Case To Defend SpaceX's $1.8 Trillion Valuation,0.0,neutral,neutral,0.6615
-TSLA,2026-06-02,03:32AM,Elon Musk Says Anthropic-SpaceX Deal Is Short-Term 'Because We Might Need The Compute Back'  Here's What That Means,0.0,neutral,neutral,0.9062
-TSLA,2026-06-02,03:00AM,"If S&P Dow Jones rewrites its listing rules, SpaceX and Anthropic will benefitinvestors wont",0.0,neutral,negative,0.7776
-TSLA,2026-06-02,01:48AM,The Short Seller Who Took On GameStop Just Got Convicted Of Fraud  And Says This Is Not Over,0.0,neutral,neutral,0.7296
+GOOGL,2026-06-08,08:27AM,Should You Buy SpaceX Stock This Week?,0.0,neutral,neutral,0.9379
+GOOGL,2026-06-08,08:17AM,AI IPO Wave Could Add $4 Trillion As Markets Face Supply Test,0.0,neutral,neutral,0.5288
+GOOGL,2026-06-08,07:52AM,Alphabet Uses New Financing Playbook to Support AI Power Demand,0.13636363636363635,positive,positive,0.5032
+GOOGL,2026-06-08,07:00AM,"Uber, Wayve and Waymo are headed towards a robotaxi showdown in London",0.0,neutral,neutral,0.9385
+GOOGL,2026-06-08,06:53AM,Wall Street's 'Fear Gauge' Leaps. What's Weighing Hard on the Stock Market.,-0.2916666666666667,negative,negative,0.7652
+GOOGL,2026-06-08,05:13AM,SpaceX signs $920m monthly cloud deal with Google ahead of IPO,0.0,neutral,neutral,0.5344
+GOOGL,2026-06-08,04:39AM,Tech stocks gain as Trump mulls government stake in AI companies,0.0,neutral,negative,0.7905
+GOOGL,2026-06-08,03:42AM,"Should You Buy SpaceX Stock This Week? Bull, Bear Arguments, and Red Herrings.",0.0,neutral,neutral,0.6458
+GOOGL,2026-06-07,11:30PM,SpaceX's Google deal highlights shift from AI model ambitions to infrastructure monetization,0.0,neutral,neutral,0.7818
+GOOGL,2026-06-07,04:57PM,How durable is the impact of the World Cup on stocks?,0.0,neutral,neutral,0.6968
+GOOGL,2026-06-07,12:50PM,Google to pay SpaceX $290 million a month,0.0,neutral,neutral,0.9128
+GOOGL,2026-06-07,08:53AM,Why UBS remains bullish on the hyperscaler stocks despite capex concerns,0.0,neutral,neutral,0.7538
 GOOGL,2026-06-07,03:51AM,Where do Waymo and Tesla currently stand in the AV race?,0.0,neutral,neutral,0.9229
 GOOGL,2026-06-06,08:50PM,"Hook, Line, and Sinker (AVALON Podcast)",0.0,neutral,neutral,0.9269
 GOOGL,2026-06-06,08:41PM,"Alphabet Raises Equity, Berkshire Increases Alphabet Stake, Apple Implications",0.0,neutral,neutral,0.7762
@@ -287,15 +299,3 @@ GOOGL,2026-06-03,08:06PM,Meta lashes Australia's bid to make tech giants pay for
 GOOGL,2026-06-03,07:43PM,"Dow Logs Worst Day Since March, S&P 500 And Nasdaq Snap Win Streak After US-Iran Exchange Fire  SNDK, TSLA, GOOGL, META, IREN In Focus",-0.09999999999999998,negative,negative,0.9101
 GOOGL,2026-06-03,07:15PM,Meta lashes Australia bid to make tech giants pay for news,0.0,neutral,positive,0.4729
 GOOGL,2026-06-03,06:59PM,US FCC plans tighter rules that will help US firms in undersea internet cable market,0.0,neutral,positive,0.8752
-GOOGL,2026-06-03,06:56PM,"Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",0.5,positive,positive,0.945
-GOOGL,2026-06-03,04:59PM,"IRENs 800MW in Australia, Zcash bug, and Google upscales to $84B: Podcast",0.0,neutral,positive,0.5805
-GOOGL,2026-06-03,04:28PM,"Jeff Park says crypto helped bring preferred equity into the mainstream, points to Alphabets $84.75 billion raise: Video-Analysis",0.0,neutral,neutral,0.8951
-GOOGL,2026-06-03,04:18PM,Broadcom's second-quarter revenue misses estimates as competition bites,0.0,neutral,negative,0.9576
-GOOGL,2026-06-03,04:14PM,Why Alphabet is upsizing its $80 billion equity offering: Video-Analysis,0.0,neutral,neutral,0.939
-GOOGL,2026-06-03,04:12PM,Google Faces UK Order To Change AI Search Summaries,0.0,neutral,negative,0.5756
-GOOGL,2026-06-03,03:38PM,Alphabets record-breaking $85B raise for Googles AI business is a helluva good signal,0.7,positive,positive,0.9349
-GOOGL,2026-06-03,03:33PM,Google Faces New UK Rules Over AI Search Content,0.13636363636363635,positive,negative,0.875
-GOOGL,2026-06-03,03:24PM,"Exclusive-Uber's commitment to self-driving startup Nuro is close to $500 million, sources say",0.0,neutral,neutral,0.5989
-GOOGL,2026-06-03,03:17PM,"Tesla launches robotaxi service in Austin, accelerating autonomous vehicle push AI",0.4,positive,neutral,0.6439
-GOOGL,2026-06-03,03:06PM,Google Gets 9 Months To Reshape UK AI Search,0.0,neutral,positive,0.6874
-GOOGL,2026-06-03,02:57PM,Alphabet Shares Fall After Unveiling Massive $80 Billion AI Funding Plan,0.0,neutral,negative,0.9404
