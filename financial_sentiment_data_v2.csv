@@ -1,5 +1,11 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-06-19,01:57PM,ASML Faces Fresh China Export Scrutiny,0.3,positive,negative,0.8441
+AAPL,2026-06-19,01:05PM,ASML Draws Fresh China Scrutiny,0.3,positive,neutral,0.6209
+AAPL,2026-06-19,11:53AM,Make It Make Sense: Why your iPhone is about to cost you more,0.5,positive,neutral,0.8526
+AAPL,2026-06-19,08:57AM,"Trump Handed Intel Stock a 10% Pop, but Markets Are Hedging",0.0,neutral,negative,0.5101
+AAPL,2026-06-19,08:39AM,Intel Leads Big Chip Stock Rally,0.0,neutral,neutral,0.7404
 AAPL,2026-06-19,07:05AM,US Tells ASML Its Concerned China May Have Top Chip Tool,0.5,positive,neutral,0.4972
+AAPL,2026-06-19,06:00AM,The Best Nasdaq Stocks to Buy for Long-Term Upside,1.0,positive,neutral,0.8274
 AAPL,2026-06-19,01:37AM,"Apple to work with Intel on US chip design and production, Trump says",0.0,neutral,neutral,0.5457
 AAPL,2026-06-19,01:00AM,"Under Tim Cook, Apple's Stock Soared More Than 2,000%. Investors Will Miss Him.",0.5,positive,neutral,0.8194
 AAPL,2026-06-18,10:52PM,"Apple to work with Intel on US chip design and manufacturing, Trump says",0.0,neutral,neutral,0.5626
@@ -93,12 +99,11 @@ AAPL,2026-06-16,04:10PM,What Trump's clamp down on Anthropic is signaling to res
 AAPL,2026-06-16,03:19PM,Apple Stock Rises on AI AirPods and Foldable iPhone Report,0.0,neutral,positive,0.7434
 AAPL,2026-06-16,02:39PM,"AAPL Stock Gains  Apple Reportedly Eyes Foldable iPhone, Camera-Equipped AirPods Launches In 2027",0.0,neutral,neutral,0.5029
 AAPL,2026-06-16,02:09PM,The Real Engine Behind Netflix Stock Is Not Subscribers,-0.1,negative,neutral,0.9368
-AAPL,2026-06-16,12:49PM,"SpaceX rockets past Amazon, eyes Microsoft in sprint toward $3 trillion",-0.25,negative,neutral,0.8146
-AAPL,2026-06-16,12:35PM,Elon Musk could lose nearly $1 trillion and still be the world's richest person,0.1,positive,neutral,0.9048
-AAPL,2026-06-16,12:19PM,Tata says India pollution board drops scrutiny of Apple iPhone parts plant,0.0,neutral,negative,0.6968
-AAPL,2026-06-16,12:18PM,SpaceX Stock Extends Its Post-IPO Climb. It's Worth More Than Amazon Now,0.4,positive,positive,0.7288
-AAPL,2026-06-16,12:01PM,Apple Plans Camera AirPods Alongside Upgraded Foldable iPhone in 2027,0.0,neutral,neutral,0.8622
-AAPL,2026-06-16,11:19AM,Apple's iCloud Advantage Gets Scrutiny,0.0,neutral,positive,0.7009
+TSLA,2026-06-19,01:58PM,"Cathie Wood Makes Bold Tesla Bet, Dumps $77 Million in Roku Shares",0.3333333333333333,positive,neutral,0.8473
+TSLA,2026-06-19,08:57AM,"Trump Handed Intel Stock a 10% Pop, but Markets Are Hedging",0.0,neutral,negative,0.5101
+TSLA,2026-06-19,08:40AM,Tesla Faces Fresh FSD Roadblock in Europe,0.3,positive,negative,0.9264
+TSLA,2026-06-19,08:12AM,Tesla Hits EU Speed Bump,0.0,neutral,positive,0.6055
+TSLA,2026-06-19,08:08AM,Cathie Wood Rotates Into Tesla and Snowflake,0.0,neutral,neutral,0.9278
 TSLA,2026-06-19,06:29AM,Cathie Wood Backs the Musk Factor as ARK Buys Tesla After SpaceX Pile-In,0.0,neutral,neutral,0.5887
 TSLA,2026-06-19,06:07AM,The SpaceX Era Is Making the Magnificent Seven Irrelevant,0.25,positive,neutral,0.8916
 TSLA,2026-06-19,04:37AM,SpaceX lands investment-grade credit ratings as shares tumble from record high,0.16,positive,negative,0.9629
@@ -194,11 +199,16 @@ TSLA,2026-06-15,01:20PM,Why Tesla Stock Is Rising Today,0.0,neutral,neutral,0.69
 TSLA,2026-06-15,01:20PM,2 SpaceX retail investors explain why they bought the IPO & still want more shares,0.5,positive,neutral,0.9119
 TSLA,2026-06-15,11:01AM,SpaceX's trading debut puts the market on notice,0.0,neutral,positive,0.5904
 TSLA,2026-06-15,10:33AM,"SpaceX stock jumps for 2nd day, now up over 25% since debut",0.0,neutral,positive,0.9392
-TSLA,2026-06-15,10:07AM,Tesla Stock Is Getting a U.S.-Iran Deal Bump,0.0,neutral,positive,0.5456
-TSLA,2026-06-15,10:00AM,"Large cryptocurrencies climb on Cardano, Sui increases",0.21428571428571427,positive,positive,0.5922
-TSLA,2026-06-15,09:52AM,Musk Hits $1.05 Trillion As SpaceX Opens 11% Above IPO Price,0.0,neutral,positive,0.7353
-TSLA,2026-06-15,09:51AM,SpaceX stock gains: What its IPO signals about its future success,0.15,positive,neutral,0.8769
-TSLA,2026-06-15,07:24AM,SpaceX stock pops again after biggest IPO history,0.0,neutral,positive,0.6081
+GOOGL,2026-06-19,10:18PM,Google DeepMind maps four paths from AGI to ASI,0.0,neutral,neutral,0.934
+GOOGL,2026-06-19,02:11PM,Amazon's Quantum Bet Nears Reality,0.0,neutral,positive,0.5504
+GOOGL,2026-06-19,01:48PM,Google Takes On Nvidia With Bold New AI Chip Strategy,0.23484848484848483,positive,positive,0.616
+GOOGL,2026-06-19,12:50PM,Every fusion startup that has raised over $100M,0.0,neutral,neutral,0.6297
+GOOGL,2026-06-19,09:35AM,Zurich warns data centre boom is outpacing insurance capacity  report,0.0,neutral,negative,0.9617
+GOOGL,2026-06-19,08:45AM,Meta Seeks Legal Shield in Child Safety Cases as KOSA Debate Continues (META),0.2,positive,neutral,0.8256
+GOOGL,2026-06-19,08:34AM,Google Takes Aim at Nvidia,0.0,neutral,negative,0.652
+GOOGL,2026-06-19,08:30AM,How SpaceX benefits from its Cursor acquisition,0.0,neutral,neutral,0.889
+GOOGL,2026-06-19,08:10AM,Social Media Faces New Child Safety Test,0.08484848484848484,positive,negative,0.5913
+GOOGL,2026-06-19,08:09AM,Google's AI Chip Strategy Gets More Ambitious,0.375,positive,neutral,0.6249
 GOOGL,2026-06-19,06:07AM,The SpaceX Era Is Making the Magnificent Seven Irrelevant,0.25,positive,neutral,0.8916
 GOOGL,2026-06-19,05:07AM,Amazon points to water conservation steps in India amid data centre scrutiny,0.0,neutral,positive,0.586
 GOOGL,2026-06-19,02:28AM,"Gemini Co-Lead Noam Shazeer Quits Google, Joins OpenAI Before IPO",0.0,neutral,neutral,0.7226
@@ -289,13 +299,3 @@ GOOGL,2026-06-16,07:04PM,HSBC partners with Google Cloud to expand AI usage,0.0,
 GOOGL,2026-06-16,05:47PM,Wall Street can't stop talking about 'MANGOS' stocks as the 'Magnificent Seven' becomes passe,1.0,positive,neutral,0.5415
 GOOGL,2026-06-16,05:25PM,Elon Musk Keeps Getting Richer. Here's How His Wealth Blew Past $1 Trillion.,-0.25,negative,neutral,0.871
 GOOGL,2026-06-16,04:53PM,Most people now get their news from social media. But many say they dislike it and are tuning out.,0.3444444444444444,positive,negative,0.8466
-GOOGL,2026-06-16,04:44PM,Tesla Seeks Customer Backing To Oppose New Jersey Driverless Vehicle Bills,0.13636363636363635,positive,positive,0.6637
-GOOGL,2026-06-16,04:42PM,"Snap unveils its $2,195 augmented reality glasses as rivalry with Meta heats up",0.0,neutral,neutral,0.5764
-GOOGL,2026-06-16,04:36PM,"Amazon may face penalties from potential FTC ad suit, Bloomberg News reports",0.0,neutral,negative,0.953
-GOOGL,2026-06-16,04:11PM,"SpaceX valuation balloons to $2.6T, briefly passes Amazon",0.0,neutral,positive,0.6305
-GOOGL,2026-06-16,03:19PM,Databricks' Data Warehouse Business Hits $1.5 Billion Run Rate,0.0,neutral,positive,0.4988
-GOOGL,2026-06-16,02:52PM,"Oppenheimer Picks Alphabet, Dumps Meta in Highest-Conviction Stock Picks",0.0,neutral,neutral,0.8429
-GOOGL,2026-06-16,01:37PM,Scared of Big Tech's AI Spending? Just Wait Until 2027.,0.0,neutral,neutral,0.8835
-GOOGL,2026-06-16,12:53PM,"Hamm Institute Awards $225,000 in Google-Supported Seed Grants at Oklahoma State University",0.0,neutral,positive,0.7545
-GOOGL,2026-06-16,12:49PM,"SpaceX rockets past Amazon, eyes Microsoft in sprint toward $3 trillion",-0.25,negative,neutral,0.8146
-GOOGL,2026-06-16,12:35PM,Elon Musk could lose nearly $1 trillion and still be the world's richest person,0.1,positive,neutral,0.9048
