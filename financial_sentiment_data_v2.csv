@@ -1,4 +1,9 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-07-03,02:43PM,The browser wars arent about search anymore  here are the best alternatives to Chrome and Safari,1.0,positive,neutral,0.9264
+AAPL,2026-07-03,12:00PM,AI Exuberance Warning Hits Investors,0.0,neutral,negative,0.6184
+AAPL,2026-07-03,08:24AM,Why Nvidia Must Be More Like Apple to Remain World's Most Valuable Company,0.5,positive,neutral,0.8221
+AAPL,2026-07-03,08:18AM,The Contracted Revenue Backlog Microsoft Stock Bears Keep Missing,-0.2,negative,negative,0.9369
+AAPL,2026-07-03,08:13AM,Apple Stock: A Familiar Ride With Better Shocks,0.4375,positive,neutral,0.7969
 AAPL,2026-07-02,11:07PM,"AMP Says Bonds No Longer a Hedge, Cuts From Some Pension Funds",0.0,neutral,negative,0.7751
 AAPL,2026-07-02,07:59PM,Chip Industry Urges US to Avoid Moves That Distort Memory Market,0.0,neutral,neutral,0.5904
 AAPL,2026-07-02,04:31PM,Inside Securitize's SPAC IPO and tokenization strategy,0.0,neutral,neutral,0.9406
@@ -94,11 +99,11 @@ AAPL,2026-06-29,11:10AM,"Tech stocks today: Tech stocks halt slide, Google rises
 AAPL,2026-06-29,11:06AM,Why Samsung & SK Hynix are investing so much in South Korea's AI build-out,0.2,positive,neutral,0.9123
 AAPL,2026-06-29,10:43AM,'Magnificent Seven' rally as popular hedge-fund trade reverses,0.8,positive,negative,0.811
 AAPL,2026-06-29,09:54AM,"Mizuho says ignore Apple noise, flags key catalyst for Micron and memory in H2",0.0,neutral,neutral,0.689
-AAPL,2026-06-29,09:43AM,'Magnificent 7' stocks are having a dreadful year,0.0,neutral,negative,0.9696
-AAPL,2026-06-29,09:01AM,AI Memory Crunch Hits Hardware Makers,0.0,neutral,negative,0.9528
-AAPL,2026-06-29,08:40AM,"Apple Defies U.S. Ban, Begs Trump for Access to Blacklisted Chinese Chips",0.0,neutral,neutral,0.67
-AAPL,2026-06-29,08:16AM,Bank of America Issues Stark Warning on AI Stocks Rally,-0.2,negative,negative,0.9034
-AAPL,2026-06-29,08:08AM,"Dan Ives Says MSFT, ORCL Are 'Way Oversold', Expects A Reversal In Next 6-9 Months",0.0,neutral,negative,0.9391
+TSLA,2026-07-03,12:21PM,Tesla Caps Staff AI Spending,0.0,neutral,negative,0.8243
+TSLA,2026-07-03,10:59AM,Tesla rolls out robotaxi service in Miami,0.0,neutral,neutral,0.9163
+TSLA,2026-07-03,09:13AM,Tesla sales soar 25% in sign its troubles may be easing,0.0,neutral,positive,0.7057
+TSLA,2026-07-03,08:10AM,Tesla Q2 deliveries up 25% on last year,0.0,neutral,positive,0.9524
+TSLA,2026-07-03,07:12AM,Taiwan new vehicle sales jump 25% in June,0.13636363636363635,positive,positive,0.9454
 TSLA,2026-07-03,05:21AM,Teslas strong Q2 deliveries lift Chinese supplier shares,0.21666666666666665,positive,positive,0.8559
 TSLA,2026-07-03,05:19AM,"U.S. holiday pause, softer Fed expectations and Asia rebound shape global markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",0.0,neutral,neutral,0.8424
 TSLA,2026-07-03,04:36AM,"Tesla posts record Q2 deliveries, boosting growth hopes",0.0,neutral,positive,0.9538
@@ -194,11 +199,15 @@ TSLA,2026-06-30,02:36PM,Tesla's Stock Just Bounced Back in a Big Way. Here's Whe
 TSLA,2026-06-30,11:43AM,Is Tesla Stock A Bet On Cars Or A Cash-Burning Bet on AI?,0.0,neutral,neutral,0.9097
 TSLA,2026-06-30,11:29AM,"Tesla Q2 delivery preview: Europe, international sales the driver as US sales in decline",0.0,neutral,negative,0.8856
 TSLA,2026-06-30,11:19AM,"Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says",0.1,positive,positive,0.8719
-TSLA,2026-06-30,11:03AM,"Tech Weekly: Tesla's FSD tech up for debate, Shell unveils concept car",0.0,neutral,neutral,0.8017
-TSLA,2026-06-30,10:49AM,YOLO Crowd Wants Little to Do With Tech Megacaps It Once Adored,0.0062500000000000056,neutral,neutral,0.9394
-TSLA,2026-06-30,10:41AM,Tesla Q2 Deliveries Due Later This Week. Stock Gains On Newest FSD Update.,-0.0625,negative,neutral,0.5764
-TSLA,2026-06-30,10:00AM,Large cryptocurrencies fall as Dogecoin tumbles,0.21428571428571427,positive,negative,0.9679
-TSLA,2026-06-30,09:00AM,Magnificent Seven shed $2.3 trillion in June as AI spending comes under closer scrutiny (MSFT),1.0,positive,negative,0.9557
+GOOGL,2026-07-03,12:58PM,Meta's AI Payoff Timeline Looks Messier,0.0,neutral,neutral,0.6802
+GOOGL,2026-07-03,10:59AM,Tesla rolls out robotaxi service in Miami,0.0,neutral,neutral,0.9163
+GOOGL,2026-07-03,09:50AM,Alphabet and FBI Disrupt Global Malware Network,0.0,neutral,negative,0.8219
+GOOGL,2026-07-03,09:02AM,Alphabet Takes Aim at Malicious Web Traffic,0.0,neutral,neutral,0.7668
+GOOGL,2026-07-03,08:26AM,"Palantir Stock: A Different Engine, Not A Quieter One",0.0,neutral,neutral,0.9004
+GOOGL,2026-07-03,08:24AM,Why Nvidia Must Be More Like Apple to Remain World's Most Valuable Company,0.5,positive,neutral,0.8221
+GOOGL,2026-07-03,08:18AM,The Contracted Revenue Backlog Microsoft Stock Bears Keep Missing,-0.2,negative,negative,0.9369
+GOOGL,2026-07-03,08:13AM,Apple Stock: A Familiar Ride With Better Shocks,0.4375,positive,neutral,0.7969
+GOOGL,2026-07-03,08:00AM,"Tokenmaxxing is out, but companies are still spending on AI. What's changed?",0.0,neutral,neutral,0.618
 GOOGL,2026-07-03,03:05AM,EUs top court confirms Googles $4.7bn Android antitrust fine,0.45833333333333337,positive,neutral,0.6596
 GOOGL,2026-07-02,11:07PM,"AMP Says Bonds No Longer a Hedge, Cuts From Some Pension Funds",0.0,neutral,negative,0.7751
 GOOGL,2026-07-02,09:54PM,Samsung eyes marquee AI win as Anthropic explores custom chip beyond Nvidia,0.8,positive,positive,0.7446
@@ -290,12 +299,3 @@ GOOGL,2026-06-30,08:08PM,"SpaceX Is Much More Of An AI Play Than A Space Company
 GOOGL,2026-06-30,06:44PM,Mizuho lifts TSMC CoWoS capacity forecasts as server CPU demand surges,0.0,neutral,positive,0.8947
 GOOGL,2026-06-30,04:32PM,What Could Send Google Stock Into A New Gear?,0.13636363636363635,positive,neutral,0.6268
 GOOGL,2026-06-30,04:30PM,Waymo and Uber end robotaxi pilot in Phoenix,0.0,neutral,neutral,0.8601
-GOOGL,2026-06-30,04:20PM,"Retail Trading in Magnificent Seven Falls to 6%, Citi Says",1.0,positive,negative,0.9685
-GOOGL,2026-06-30,04:19PM,Alphabet Pushes Deeper Into AI Creation,0.0,neutral,neutral,0.845
-GOOGL,2026-06-30,04:16PM,How Microsoft Stock Rises 50% To $550?,0.0,neutral,neutral,0.5278
-GOOGL,2026-06-30,03:34PM,"Nvidia, AMD, Intel Lead AI Chip Stock Rally as Wall Street Rebounds",0.0,neutral,positive,0.4707
-GOOGL,2026-06-30,03:22PM,Meta Stock Faces New AI Challenge as Google Limits Gemini Access,0.13636363636363635,positive,negative,0.9501
-GOOGL,2026-06-30,03:22PM,Extreme Heat is Coming. The Electric Grid and Data Centers Could See Strains.,-0.125,negative,negative,0.9533
-GOOGL,2026-06-30,03:20PM,"AMD stock jumps, Circle plummets on stablecoin competition",0.0,neutral,negative,0.9507
-GOOGL,2026-06-30,02:44PM,"Which Stock Sent the Dow to 52,000? Hint: It Wasn't a Tech Giant",0.0,neutral,neutral,0.894
-GOOGL,2026-06-30,01:42PM,Dozens of Major Companies Become Open USD Launch Partners,0.03125,neutral,neutral,0.8722
