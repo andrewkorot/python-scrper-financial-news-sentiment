@@ -1,4 +1,6 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-07-04,10:44PM,Component inflation weighs on manufacturing momentum as Taiwan PMI growth moderates,0.0,neutral,negative,0.5898
+AAPL,2026-07-04,10:30AM,Tennessee deputy spent seized drug money on Apple gear for his family  now he owes $339K in pension clawbacks,-0.1,negative,negative,0.799
 AAPL,2026-07-03,02:43PM,The browser wars arent about search anymore  here are the best alternatives to Chrome and Safari,1.0,positive,neutral,0.9264
 AAPL,2026-07-03,12:00PM,AI Exuberance Warning Hits Investors,0.0,neutral,negative,0.6184
 AAPL,2026-07-03,08:24AM,Why Nvidia Must Be More Like Apple to Remain World's Most Valuable Company,0.5,positive,neutral,0.8221
@@ -97,8 +99,8 @@ AAPL,2026-06-29,11:20AM,Alphabet debuts in Dow Jones Industrial Average as index
 AAPL,2026-06-29,11:11AM,Apple says India 'copy-pasted' rivals' claims in antitrust probe,0.0,neutral,negative,0.9113
 AAPL,2026-06-29,11:10AM,"Tech stocks today: Tech stocks halt slide, Google rises after joining the Dow",0.0,neutral,positive,0.8504
 AAPL,2026-06-29,11:06AM,Why Samsung & SK Hynix are investing so much in South Korea's AI build-out,0.2,positive,neutral,0.9123
-AAPL,2026-06-29,10:43AM,'Magnificent Seven' rally as popular hedge-fund trade reverses,0.8,positive,negative,0.811
-AAPL,2026-06-29,09:54AM,"Mizuho says ignore Apple noise, flags key catalyst for Micron and memory in H2",0.0,neutral,neutral,0.689
+TSLA,2026-07-05,02:59AM,EV battery durability exceeds expectations as replacement fears persist,0.0,neutral,positive,0.9429
+TSLA,2026-07-04,07:14AM,Strategy's Michael Saylor Turns Elon Musk's Viral July 4 Video Into A Bitcoin Pitch: 'We Can Still Make Something etter',0.0,neutral,neutral,0.8652
 TSLA,2026-07-03,12:21PM,Tesla Caps Staff AI Spending,0.0,neutral,negative,0.8243
 TSLA,2026-07-03,10:59AM,Tesla rolls out robotaxi service in Miami,0.0,neutral,neutral,0.9163
 TSLA,2026-07-03,09:13AM,Tesla sales soar 25% in sign its troubles may be easing,0.0,neutral,positive,0.7057
@@ -197,8 +199,7 @@ TSLA,2026-06-30,04:20PM,"Retail Trading in Magnificent Seven Falls to 6%, Citi S
 TSLA,2026-06-30,03:47PM,Should You 'Buy' or 'Sell' Tesla Stock Before July 2,0.0,neutral,neutral,0.9383
 TSLA,2026-06-30,02:36PM,Tesla's Stock Just Bounced Back in a Big Way. Here's Where Traders See It Going Next,0.0,neutral,neutral,0.8985
 TSLA,2026-06-30,11:43AM,Is Tesla Stock A Bet On Cars Or A Cash-Burning Bet on AI?,0.0,neutral,neutral,0.9097
-TSLA,2026-06-30,11:29AM,"Tesla Q2 delivery preview: Europe, international sales the driver as US sales in decline",0.0,neutral,negative,0.8856
-TSLA,2026-06-30,11:19AM,"Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says",0.1,positive,positive,0.8719
+GOOGL,2026-07-04,11:21AM,It Quietly Exited Bitcoin Mining Last Year  Now This AI Supplier To Meta Is Chasing A $30 Billion Valuation,0.0,neutral,neutral,0.8646
 GOOGL,2026-07-03,12:58PM,Meta's AI Payoff Timeline Looks Messier,0.0,neutral,neutral,0.6802
 GOOGL,2026-07-03,10:59AM,Tesla rolls out robotaxi service in Miami,0.0,neutral,neutral,0.9163
 GOOGL,2026-07-03,09:50AM,Alphabet and FBI Disrupt Global Malware Network,0.0,neutral,negative,0.8219
@@ -298,4 +299,3 @@ GOOGL,2026-06-30,11:04PM,South Korean trade watchdog alleges Google abused its p
 GOOGL,2026-06-30,08:08PM,"SpaceX Is Much More Of An AI Play Than A Space Company, Says Dan Ives  Heres The Bull Case",0.5,positive,neutral,0.9334
 GOOGL,2026-06-30,06:44PM,Mizuho lifts TSMC CoWoS capacity forecasts as server CPU demand surges,0.0,neutral,positive,0.8947
 GOOGL,2026-06-30,04:32PM,What Could Send Google Stock Into A New Gear?,0.13636363636363635,positive,neutral,0.6268
-GOOGL,2026-06-30,04:30PM,Waymo and Uber end robotaxi pilot in Phoenix,0.0,neutral,neutral,0.8601
