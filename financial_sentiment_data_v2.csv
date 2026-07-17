@@ -1,4 +1,32 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-07-17,01:56AM,Network School founder says immigration probe at tech commune is a risk to Malaysia's tech ambitions,0.0,neutral,negative,0.8478
+AAPL,2026-07-16,11:47PM,Exclusive: PC brands reportedly rush to secure CXMT memory as orders extend to end-2027,0.4,positive,positive,0.9312
+AAPL,2026-07-16,11:02PM,"Why Did AAPL, ATAI, UNH Stocks Jump To 52-Week Highs Today?",0.0,neutral,neutral,0.8378
+AAPL,2026-07-16,10:20PM,AAPL Stock Hits Fresh Record As July Rally Nears Best Month In Nearly 4 Years  HSBC Sees Another 10% Upside,0.46666666666666673,positive,positive,0.9311
+AAPL,2026-07-16,04:50PM,"Silicon Valley Midas Investor Michael Moritz on AI, Venture Capital, and Just About Everything",0.0,neutral,neutral,0.9441
+AAPL,2026-07-16,03:41PM,Alibaba Jumps 7.9% as Apple Intelligence Approval Revives China Tech Rally,0.0,neutral,positive,0.9081
+AAPL,2026-07-16,03:04PM,Apple Raises AppleCare+ Prices Again Ahead of Expected iPhone Price Increases,-0.1,negative,neutral,0.6328
+AAPL,2026-07-16,02:58PM,TSMC Adds $100 Billion to U.S. Expansion,0.0,neutral,positive,0.6671
+AAPL,2026-07-16,01:56PM,Why Apple's 'Standard Oil' Strategy Is Driving the Stock to All-Time Highs,0.0,neutral,neutral,0.7228
+AAPL,2026-07-16,01:33PM,"Big Tech ETF declines, with Nvidia shares posting sharpest slide in its portfolio",0.0,neutral,negative,0.9607
+AAPL,2026-07-16,01:24PM,The Debates That Matter For AAPL Stock,0.0,neutral,neutral,0.9424
+AAPL,2026-07-16,11:23AM,How Apple Is Boosting Baidu and Other Chinese Tech Stocks,-0.0625,negative,positive,0.5317
+AAPL,2026-07-16,11:01AM,The Real Engine Driving Netflix Stock Is Its Earnings Power,0.2,positive,neutral,0.9149
+AAPL,2026-07-16,10:08AM,Morgan Stanley sees China Apple Intelligence approval as key AI catalyst,0.0,neutral,neutral,0.689
+AAPL,2026-07-16,09:52AM,The Great Rotation Is Here. Why Money Is Fleeing Chips for Old Favorites.,0.45,positive,neutral,0.9173
+AAPL,2026-07-16,09:17AM,Apple Intelligence approved for launch in China with Alibaba and Baidu,0.0,neutral,positive,0.7061
+AAPL,2026-07-16,09:13AM,"EU orders Google to open Android, search data to OpenAI and AI rivals",0.0,neutral,neutral,0.8519
+AAPL,2026-07-16,09:05AM,AAPL's China Memory Chip Plans Draw National Security Scrutiny  Lawmakers Say Every Memory Chip Purchase Will Subsidize PLA,0.0,neutral,neutral,0.6766
+AAPL,2026-07-16,09:03AM,"AI Weekly: SK Hynix shares jump up and down, Apple sues OpenAI",-0.15555555555555559,negative,neutral,0.4163
+AAPL,2026-07-16,08:30AM,The Hidden Turbulence in Microsoft Stock,-0.16666666666666666,negative,neutral,0.6344
+AAPL,2026-07-16,08:26AM,TSMC Plans Bigger U.S. Chip Expansion,0.0,neutral,positive,0.5111
+AAPL,2026-07-16,08:24AM,TSMC posts record profit and pledges $100bn to expand US manufacturing,0.0,neutral,positive,0.9406
+AAPL,2026-07-16,08:14AM,These Chinese Tech Stocks Are on the Rise. Thank Apple and Its AI.,0.0,neutral,positive,0.6594
+AAPL,2026-07-16,08:05AM,"Alibaba, Baidu Shares Jump After Apple Chooses Their AI Models for China",0.0,neutral,neutral,0.6141
+AAPL,2026-07-16,07:50AM,The stock market has a 'Magnificent Seven' problem - but not the one bears are warning about,1.0,positive,negative,0.5952
+AAPL,2026-07-16,07:48AM,The Surprising Tech Rotation Boosting Stocks This Earnings Season,0.7,positive,positive,0.9253
+AAPL,2026-07-16,06:31AM,"Stock market today: Dow, S&P 500, Nasdaq futures mixed as chip stocks slide after TSMC earnings",0.0,neutral,negative,0.9572
+AAPL,2026-07-16,06:00AM,US lawmakers urge Trump administration to ban Chinese memory chips,0.0,neutral,negative,0.7641
 AAPL,2026-07-16,06:00AM,$3.2 trillion rotation from chips to the 'Magnificent 7' has left the S&P 500 going nowhere: Chart of the Day,0.5,positive,neutral,0.6275
 AAPL,2026-07-16,04:31AM,"TSMC scores record profit, eyes on retail sales, earnings - Whats moving markets",0.0,neutral,neutral,0.7557
 AAPL,2026-07-16,03:44AM,DeepSeek eyes $70bn valuation and Shanghai IPO as Apple Intelligence enters China,0.0,neutral,neutral,0.8488
@@ -26,7 +54,6 @@ AAPL,2026-07-15,02:33PM,India Approves $19.7 Billion to Expand Chip and Smartpho
 AAPL,2026-07-15,01:07PM,Apple Goes Shopping For AI Chip Startups Amid Struggles With Performance Of In-House Server Chips: Report,0.0,neutral,negative,0.9379
 AAPL,2026-07-15,11:42AM,"Apple chasing AI chip company deals, The Information reports",0.0,neutral,neutral,0.933
 AAPL,2026-07-15,11:32AM,OpenAI Rejects Apple Trade-Secret Lawsuit Claims,0.0,neutral,neutral,0.5904
-AAPL,2026-07-15,11:29AM,Apple Intelligence approved for launch in China with Alibabas Qwen AI,0.0,neutral,neutral,0.6509
 AAPL,2026-07-15,11:17AM,Apple explores chip acquisitions to bolster AI server capabilities,0.0,neutral,positive,0.7586
 AAPL,2026-07-15,11:14AM,OpenAI Targets 2026 AI Speaker Launch as Apple Lawsuit Looms,0.0,neutral,neutral,0.8001
 AAPL,2026-07-15,10:51AM,Does the PayPal takeover deal make any sense?,0.0,neutral,neutral,0.8991
@@ -72,34 +99,34 @@ AAPL,2026-07-14,03:07PM,Apple Stock Has Been Flying Lately. This Expert Says Its
 AAPL,2026-07-14,02:30PM,"Dow Jones Leader Apple Hits Latest Buy Point; Datadog, Lincoln, Match In Or Near Buy Zones",0.3,positive,neutral,0.5231
 AAPL,2026-07-14,02:22PM,Apple in talks with startup that shrinks AI models to run on an iPhone,0.0,neutral,neutral,0.773
 AAPL,2026-07-14,01:42PM,How To Get Paid To Buy Microsoft Stock At A 30% Discount,0.0,neutral,neutral,0.9313
-AAPL,2026-07-14,12:59PM,AAPL Stock Slips  Why This Analyst Turned Bearish On Apple After The iPhone Maker Hit An All-Time High,0.16,positive,negative,0.6161
-AAPL,2026-07-14,12:56PM,Apple Widens China Smartphone Lead,0.0,neutral,neutral,0.6027
-AAPL,2026-07-14,12:41PM,Good News For Apple Stock Fans,0.7,positive,positive,0.83
-AAPL,2026-07-14,11:06AM,IBM stock plummets more than 25% on Q2 earnings warning,0.5,positive,negative,0.9712
-AAPL,2026-07-14,10:30AM,"The Altman-Musk Feud Is Back: Musk Says Altman Takes Scamming to a Whole New Level, Altman Mocks His SpaceX IPO",0.11212121212121212,positive,negative,0.676
-AAPL,2026-07-14,09:53AM,Apple Stock Downgraded To Sell. Here's Why.,0.0,neutral,neutral,0.5667
-AAPL,2026-07-14,09:36AM,"Apple, IBM downgraded: Wall Street's top analyst calls",0.5,positive,negative,0.6658
-AAPL,2026-07-14,08:47AM,What Could Push GOOGL Stock Higher From Here?,0.25,positive,negative,0.6008
-AAPL,2026-07-14,08:41AM,"KeyBanc cuts Apple to Underweight, cites slowing hardware demand",0.0,neutral,negative,0.9482
-AAPL,2026-07-14,08:14AM,Apple's lawsuit shows the importance of AI devices for the iPhone maker's future: Analyst,0.0,neutral,neutral,0.9
-AAPL,2026-07-14,07:50AM,Apple Gets Rare Bear Rating as KeyBanc Downgrades on Demand Risk,0.3,positive,negative,0.7234
-AAPL,2026-07-14,07:08AM,3 Reasons Apple Stock Just Got Downgraded,0.0,neutral,negative,0.5904
-AAPL,2026-07-14,07:02AM,The U.S. Stock Market Has a KOSPI Problem,0.0,neutral,neutral,0.8597
-AAPL,2026-07-14,06:58AM,"Tech Weekly: Big Tech v EU, solar-powered EVs",0.0,neutral,neutral,0.8816
-AAPL,2026-07-14,06:54AM,Buy Apple stock ahead of expected $200 iPhone price hikes: Morgan Stanley,-0.1,negative,neutral,0.8497
-AAPL,2026-07-14,03:49AM,Apple Stock Hits a Record as the AI Memory Crisis Guts Cheap Phones,0.4,positive,negative,0.6802
-AAPL,2026-07-14,02:25AM,"OpenAI CEO Sam Altman Throws Shade At Anthropic's New Ad Amid Tussle With Elon Musk, Apple: 'Thought This Was Satire'",0.13636363636363635,positive,negative,0.8232
-AAPL,2026-07-14,01:23AM,China smartphone shipments fall for fifth straight quarter as costs rise - IDC,0.2,positive,negative,0.9689
-AAPL,2026-07-13,11:17PM,Apple supplier Lingyi iTech bets big on AI with US$590M bid for assets of bankrupt fiber maker Futong,0.0,neutral,positive,0.8887
-AAPL,2026-07-13,11:11PM,TSMC seen riding AI boom to fifth straight quarter of record profit,0.2,positive,positive,0.8777
-AAPL,2026-07-13,10:14PM,"Why Did AAPL, QTTB, CSX Stocks Surge To 52-Week Highs Today?",0.0,neutral,neutral,0.808
-AAPL,2026-07-13,04:31PM,Apples iPhone And Google Pixel Q2 Sales Shine Even As Global Smartphone Market Drops To 13-Year Low,0.0,neutral,negative,0.931
-AAPL,2026-07-13,04:24PM,Apple and Google Are Likely to Strengthen AI Ties Following OpenAI Lawsuit,0.0,neutral,positive,0.9514
-AAPL,2026-07-13,04:09PM,"Stocks Down, US-Iran War Action Up: Stock Market Today",-0.02777777777777779,neutral,negative,0.8403
-AAPL,2026-07-13,04:00PM,Apple says former employee exploited rare bug to download confidential files after leaving for OpenAI,0.15,positive,negative,0.56
-AAPL,2026-07-13,03:50PM,Global smartphone shipments at 13-year low amid memory chip crunch,0.0,neutral,negative,0.9653
-AAPL,2026-07-13,03:48PM,Apple Gets Stunning Price Target Hike from Citi Ahead of Phone 18,0.5,positive,positive,0.6736
+TSLA,2026-07-17,04:28AM,"Nasdaq, S&P 500 Futures Slide As Chip Stocks Tumble, Iran Tensions Fuel Risk-Off Mood: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus",0.0,neutral,negative,0.8322
+TSLA,2026-07-17,02:29AM,TSLA Stock Slips Overnight: Gary Black Says SpaceX Cant Afford Tesla  The Math Wont Pass Muster,-0.16666666666666666,negative,negative,0.9425
+TSLA,2026-07-17,01:31AM,MSFT Stock Dips Overnight: Satya Nadella Calls Anthropics Fable 5 Editorially Controlled Amid Backlash Over Safeguards,0.0,neutral,negative,0.9651
+TSLA,2026-07-16,08:36PM,DeepSeek Champions Chinas Bid to Flood the World With Cheap AI,0.4,positive,positive,0.615
+TSLA,2026-07-16,04:50PM,"Silicon Valley Midas Investor Michael Moritz on AI, Venture Capital, and Just About Everything",0.0,neutral,neutral,0.9441
+TSLA,2026-07-16,03:37PM,Tesla Earnings Loom After Surprise Delivery Beat Stuns Wall Street,0.0,neutral,negative,0.5062
+TSLA,2026-07-16,03:24PM,Elon Musk's Political Spending Hits $90 Million With New $5 Million Donation,0.06818181818181818,positive,neutral,0.5467
+TSLA,2026-07-16,03:21PM,SpaceX Bears Gain as Stock Drops,0.0,neutral,positive,0.4676
+TSLA,2026-07-16,02:00PM,NTSB says Tesla driver floored the accelerator to override self-driving in fatal Texas crash,0.0,neutral,negative,0.8714
+TSLA,2026-07-16,01:33PM,"Big Tech ETF declines, with Nvidia shares posting sharpest slide in its portfolio",0.0,neutral,negative,0.9607
+TSLA,2026-07-16,01:14PM,Is Ford Stock A New Engine For Your Portfolio?,0.13636363636363635,positive,neutral,0.897
+TSLA,2026-07-16,11:48AM,EV adoption is slowly regaining traction  but affordability concerns are rising,-0.30000000000000004,negative,positive,0.566
+TSLA,2026-07-16,11:17AM,"Piper cautious on SpaceX, points to near-term headwinds",0.0,neutral,negative,0.9617
+TSLA,2026-07-16,11:00AM,Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service,0.0,neutral,neutral,0.8452
+TSLA,2026-07-16,10:54AM,Tesla Stock's Future Comes With A Hefty Price Tag,0.0,neutral,neutral,0.588
+TSLA,2026-07-16,10:00AM,Ethereum leads way as large cryptocurrencies decline,0.21428571428571427,positive,neutral,0.7699
+TSLA,2026-07-16,09:19AM,Tesla Stock: Here's What Retail Investors Want To Know Ahead Of Earnings,0.0,neutral,neutral,0.9434
+TSLA,2026-07-16,09:06AM,Does LIT's History Justify Buying This Dip?,0.0,neutral,neutral,0.8924
+TSLA,2026-07-16,09:01AM,SpaceX Stock Tests $135 IPO Price-and Cathie Wood Keeps Buying the Dip,0.0,neutral,neutral,0.8808
+TSLA,2026-07-16,08:54AM,Tesla Cleared in Recent Texas Crash. Why the Stock Is Down Anyway.,-0.07777777777777779,negative,negative,0.7705
+TSLA,2026-07-16,08:32AM,Why is Cathie Wood's ARK Fund Backing this Israeli Innovator? (NASDAQ: MDWD),0.0,neutral,neutral,0.9314
+TSLA,2026-07-16,08:32AM,The Week Ahead: Q2 Earnings Season Hits Full Stride,0.35,positive,positive,0.7465
+TSLA,2026-07-16,08:21AM,Morgan Stanley Resets Tesla Stock Price Target for 2027,0.0,neutral,neutral,0.7748
+TSLA,2026-07-16,08:11AM,"Tesla Stock Is Down, Despite Good News From NTSB",0.2722222222222222,positive,negative,0.9678
+TSLA,2026-07-16,07:50AM,The stock market has a 'Magnificent Seven' problem - but not the one bears are warning about,1.0,positive,negative,0.5952
+TSLA,2026-07-16,07:32AM,Cathie Wood's ARK Buys SpaceX Stock Ahead of Starship Test 13.,0.0,neutral,neutral,0.9366
 TSLA,2026-07-16,06:00AM,SpaceX IPO & why oil could hit $150: Robinhood Exec,0.0,neutral,neutral,0.9291
+TSLA,2026-07-16,05:55AM,Traders cool on Tesla-SpaceX merger as Polymarket odds slide,0.35,positive,negative,0.4407
 TSLA,2026-07-16,04:30AM,TSLA Stock Eyes Weekly Loss: Retail Investors Grill Musk On Missed Robotaxi Targets Ahead Of Q2 Earnings,0.0,neutral,negative,0.9608
 TSLA,2026-07-16,01:30AM,Consumer-Discretionary Stocks Are 'Coiled' for a Rebound. But Which Ones?,0.0,neutral,neutral,0.6031
 TSLA,2026-07-15,05:19PM,"AI is so big, it's now impossible for investors to avoid",-0.3333333333333333,negative,neutral,0.655
@@ -172,33 +199,54 @@ TSLA,2026-07-09,08:38AM,Musk Wins Approval for SEC Settlement,0.0999999999999999
 TSLA,2026-07-09,08:29AM,"Don't Buy Tesla Stock, Analyst Says, Despite 'Immense' Potential",0.0,neutral,neutral,0.9008
 TSLA,2026-07-09,08:11AM,How SpaceX Stock Can Hit $900,0.0,neutral,neutral,0.8898
 TSLA,2026-07-09,07:11AM,Tesla Stock Has 'Immense' AI Potential. Why You Shouldn't Buy It.,0.0,neutral,neutral,0.8415
-TSLA,2026-07-09,03:25AM,SpaceX Stock Has Some Sky-High Bull Targets-How It Can Hit $900,0.0,neutral,neutral,0.8734
-TSLA,2026-07-08,10:51PM,SPCX Stock Records 3-Day Slide: Elon Musk Admits Anthropics Fable Is 'Definitely Better' Than Grok 4.5,0.5,positive,positive,0.9341
-TSLA,2026-07-08,06:00PM,"Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices  TSLA, NVDA, BE, AAPL, WBD  In Focus",-0.45,negative,negative,0.9585
-TSLA,2026-07-08,04:46PM,ARKK's Dip History Comes With A Warning,0.0,neutral,neutral,0.7035
-TSLA,2026-07-08,03:20PM,TSLA Stock Slips: Tesla's AI Chief Confirms Voice Commands For FSD Under Works,0.0,neutral,negative,0.5112
-TSLA,2026-07-08,02:41PM,Your Solar Panels Could Be Used to Power AI Data Centers,0.0,neutral,neutral,0.9072
-TSLA,2026-07-08,02:33PM,'Big Short' Michael Burry Bets Against Nvidia and Tesla Again,0.0,neutral,neutral,0.8173
-TSLA,2026-07-08,02:28PM,Why a Tesla-SpaceX Merger Is No Sure Thing,-0.25,negative,neutral,0.9379
-TSLA,2026-07-08,01:40PM,Elon Musk loses $50 billion in a single day; SpaceX moves bitcoin,-0.18571428571428572,negative,neutral,0.4796
-TSLA,2026-07-08,01:37PM,Musk's OpenAI Fight Moves Toward Mediation,0.0,neutral,positive,0.5158
-TSLA,2026-07-08,01:15PM,Is senior housing sexy? One multimillionaire gambled on it amid COVID  and turned it into a $160 billion business,0.5,positive,neutral,0.7336
-TSLA,2026-07-08,12:54PM,"Waymo Widens Lead Over Tesla, Expands Robotaxis To Four New Cities",0.13636363636363635,positive,positive,0.8037
-TSLA,2026-07-08,12:07PM,China EV Exports Surge 150% as Tesla Posts Best 2026 Monthly Deliveries,1.0,positive,positive,0.9382
-TSLA,2026-07-08,11:51AM,Morgan Stanley's Adam Jonas Says SPCX Will Need To Raise About $700B In Debt To Achieve Its $22.7 Trillion TAM Ambitions,0.0,neutral,positive,0.806
-TSLA,2026-07-08,11:29AM,Teslaand Two More Stocks Wall Street Thinks Could Benefit From Their Links to Elon Musks SpaceX,0.5,positive,neutral,0.7285
-TSLA,2026-07-08,10:00AM,"Large cryptocurrencies drop on Solana, Cardano decreases",0.21428571428571427,positive,negative,0.96
-TSLA,2026-07-08,09:33AM,"Tesla, GM And Ford Converge On The BESS Market. Here's What That Means.",0.0,neutral,neutral,0.9367
-TSLA,2026-07-08,09:31AM,SpaceX Shifts Bitcoin Out Of Crypto Wallet,0.0,neutral,neutral,0.9006
-TSLA,2026-07-08,08:54AM,Tesla's New Car Might Give Sales a Boost. Why It Isn't Boosting the Stock.,0.13636363636363635,positive,neutral,0.5263
-TSLA,2026-07-08,08:50AM,The Math Behind All the Crazy SpaceX Valuations,-0.5,negative,neutral,0.8603
-TSLA,2026-07-08,08:17AM,Tesla Has a New Car but the Stock Is Falling,0.13636363636363635,positive,neutral,0.7908
-TSLA,2026-07-08,08:00AM,"Tesla latest: The 'inevitable' SpaceX merger, Robotaxi's Miami launch, & more",0.3333333333333333,positive,neutral,0.9423
-TSLA,2026-07-08,07:29AM,It's Not Easy to Value SpaceX Stock. Here's How Wall Street Does It.,-0.21666666666666667,negative,neutral,0.9298
-TSLA,2026-07-08,07:23AM,The Cash Machine The Market Put On Sale: Ford,0.0,neutral,neutral,0.9425
-TSLA,2026-07-08,06:56AM,"SpaceXAI to Launch Grok 4.5 for Public Access, Musk Confirms (SPCX)",0.0,neutral,neutral,0.9001
-TSLA,2026-07-08,12:00AM,China cost cuts put US$1T robotaxi market within reach by 2040,0.0,neutral,positive,0.9307
-TSLA,2026-07-07,11:01PM,TSLA Stock Rises Overnight: JPMorgan Says Tesla-SpaceX Merger Looks Coherent On Paper  But China Approval Risks Loom,0.5,positive,positive,0.6161
+GOOGL,2026-07-17,03:02AM,Google and Visa join the online micro-payments revolution,0.0,neutral,neutral,0.9309
+GOOGL,2026-07-17,02:38AM,Google's Gemini 3.5 Pro delay deepens doubts over its standing in AI coding race,0.0,neutral,negative,0.9618
+GOOGL,2026-07-17,01:56AM,Network School founder says immigration probe at tech commune is a risk to Malaysia's tech ambitions,0.0,neutral,negative,0.8478
+GOOGL,2026-07-17,01:31AM,MSFT Stock Dips Overnight: Satya Nadella Calls Anthropics Fable 5 Editorially Controlled Amid Backlash Over Safeguards,0.0,neutral,negative,0.9651
+GOOGL,2026-07-17,01:30AM,North Sea gas to power offshore AI data centre,0.0,neutral,neutral,0.9068
+GOOGL,2026-07-16,10:37PM,"EU orders Google to open Android AI features, share Search data with rivals under DMA",0.0,neutral,neutral,0.4978
+GOOGL,2026-07-16,10:30PM,Alphabet Stock Slips on Gemini Delay and EU Order Despite Buffett Bet,0.0,neutral,negative,0.933
+GOOGL,2026-07-16,05:32PM,Alphabet's stock falls as Gemini delays suggest Google is struggling to keep up in the AI race,0.0,neutral,negative,0.9606
+GOOGL,2026-07-16,05:31PM,"S&P 500, Nasdaq, Dow End Lower As Chip Stocks Slide On TSMC Capex Concerns  TSM, MU, NVDA, UNH, GOOGL In Focus",0.0,neutral,negative,0.9476
+GOOGL,2026-07-16,04:44PM,GOOGL Stock Falls 5% As Googles Flagship AI Model Reportedly Runs Behind Schedule  Why Retail Traders Arent Worried,-0.4,negative,negative,0.9678
+GOOGL,2026-07-16,04:17PM,DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models,0.0,neutral,neutral,0.8384
+GOOGL,2026-07-16,04:01PM,"Most Stocks Gained, but Chip Selloff Drags Market",0.5,positive,negative,0.9398
+GOOGL,2026-07-16,03:35PM,"Dow down nearly 275 points on losses for Goldman Sachs, Alphabet Inc. Cl A stocks",-0.02777777777777779,neutral,negative,0.9624
+GOOGL,2026-07-16,03:33PM,"Alphabet could crush estimates on Cloud strength, Anthropic windfall: BofA",0.0,neutral,negative,0.7336
+GOOGL,2026-07-16,03:27PM,"Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal Boom",0.0,neutral,positive,0.9328
+GOOGL,2026-07-16,03:17PM,Microsoft Sees Paid-Search Ad Media Buys Rise,0.0,neutral,neutral,0.9004
+GOOGL,2026-07-16,03:09PM,Google Must Open Android to AI Rivals,0.0,neutral,neutral,0.9255
+GOOGL,2026-07-16,03:09PM,Intel Target Raised Ahead of Q2,0.0,neutral,positive,0.774
+GOOGL,2026-07-16,03:01PM,Microsoft Stock Rises 2.9% as AI Sales Push Targets OpenAI and Anthropic,0.0,neutral,positive,0.9287
+GOOGL,2026-07-16,03:00PM,"Microsoft Stock Rises. Why It's Taking On OpenAI, Google, and Anthropic",0.0,neutral,neutral,0.819
+GOOGL,2026-07-16,02:48PM,Alphabet stock falls on report of Gemini AI model delays,0.0,neutral,negative,0.9475
+GOOGL,2026-07-16,02:07PM,Google Gemini Launch Delayed as Tech Falls Short of Internal Goals,0.0,neutral,negative,0.9545
+GOOGL,2026-07-16,01:56PM,Why Apple's 'Standard Oil' Strategy Is Driving the Stock to All-Time Highs,0.0,neutral,neutral,0.7228
+GOOGL,2026-07-16,01:34PM,"INTC Stock Falls To 2-Month Low  Susquehanna Sees 20% Upside, Google Cloud Deepens Its AI Bet",0.0,neutral,negative,0.8937
+GOOGL,2026-07-16,01:33PM,"Big Tech ETF declines, with Nvidia shares posting sharpest slide in its portfolio",0.0,neutral,negative,0.9607
+GOOGL,2026-07-16,01:24PM,The Debates That Matter For AAPL Stock,0.0,neutral,neutral,0.9424
+GOOGL,2026-07-16,12:50PM,Big Tech earnings will put focus on AI spending,0.0,neutral,neutral,0.8013
+GOOGL,2026-07-16,12:40PM,Meta's data center plans could help solve its AI spending problems,-0.1,negative,positive,0.9036
+GOOGL,2026-07-16,12:27PM,AI Internet Hyperscalers: Why Wedbush Prefers Google And Amazon To Meta,0.0,neutral,neutral,0.937
+GOOGL,2026-07-16,12:00PM,Oracle Risks Falling Behind in AI Race as Spending Binge Bites,-0.4,negative,negative,0.9669
+GOOGL,2026-07-16,11:23AM,How Apple Is Boosting Baidu and Other Chinese Tech Stocks,-0.0625,negative,positive,0.5317
+GOOGL,2026-07-16,09:52AM,The Great Rotation Is Here. Why Money Is Fleeing Chips for Old Favorites.,0.45,positive,neutral,0.9173
+GOOGL,2026-07-16,09:13AM,"EU orders Google to open Android, search data to OpenAI and AI rivals",0.0,neutral,neutral,0.8519
+GOOGL,2026-07-16,08:54AM,"GOOGL, UBER, RDDT, XMTR Stocks Top Wedbush's Internet Picks  AI Called 'Single Most Impactful Swing Factor'",0.30952380952380953,positive,positive,0.6693
+GOOGL,2026-07-16,08:42AM,Why ZM Stock Hands You So Much Cash Right Now,0.24285714285714285,positive,neutral,0.9083
+GOOGL,2026-07-16,08:36AM,"At 23x Earnings, Is Meta Stock a Steal or a Trap?",0.0,neutral,neutral,0.8112
+GOOGL,2026-07-16,08:36AM,Is Oracle Stock's Large AI Backlog Worth the Execution Risk?,0.2571428571428571,positive,neutral,0.797
+GOOGL,2026-07-16,08:30AM,The Hidden Turbulence in Microsoft Stock,-0.16666666666666666,negative,neutral,0.6344
+GOOGL,2026-07-16,08:26AM,Microsoft Pushes Its Own AI Models,0.6,positive,neutral,0.8902
+GOOGL,2026-07-16,08:19AM,Buffett Backs Alphabet as Berkshire Builds $21 Billion Stake,0.0,neutral,neutral,0.4671
+GOOGL,2026-07-16,08:14AM,These Chinese Tech Stocks Are on the Rise. Thank Apple and Its AI.,0.0,neutral,positive,0.6594
+GOOGL,2026-07-16,08:13AM,"EU Gives Google Binding Instructions to Open Android, Search Engine Data to AI Rivals",0.0,neutral,neutral,0.9096
+GOOGL,2026-07-16,08:03AM,Microsoft Pushes In-House AI in Sales Strategy,0.0,neutral,positive,0.6879
+GOOGL,2026-07-16,07:50AM,The stock market has a 'Magnificent Seven' problem - but not the one bears are warning about,1.0,positive,negative,0.5952
+GOOGL,2026-07-16,07:48AM,The Surprising Tech Rotation Boosting Stocks This Earnings Season,0.7,positive,positive,0.9253
+GOOGL,2026-07-16,07:10AM,Portfolios are becoming much riskier: How to make defensive investments before the AI bubble pops,0.325,positive,neutral,0.8911
+GOOGL,2026-07-16,06:56AM,US probes Samsung for alleged infringement of Netlist's memory-chip patents,-0.1,negative,negative,0.9153
+GOOGL,2026-07-16,06:35AM,"Citi sees Google, Meta and Amazon capex spending at over $800 billion in 2027",0.0,neutral,neutral,0.6687
 GOOGL,2026-07-16,06:00AM,SpaceX IPO & why oil could hit $150: Robinhood Exec,0.0,neutral,neutral,0.9291
 GOOGL,2026-07-16,04:37AM,"Google loses court fight against $854,250 Italian fine over gambling advertising",0.038888888888888896,neutral,negative,0.9448
 GOOGL,2026-07-16,01:32AM,ORCL Stock Snaps 3-Day Losing Streak: Whats Making Retail Traders Extremely Bullish?,-0.125,negative,negative,0.9206
@@ -251,51 +299,3 @@ GOOGL,2026-07-14,05:31PM,What You Actually Pay To Join The AAPL Run,0.0,neutral,
 GOOGL,2026-07-14,04:57PM,Chinese AI model developer DeepSeek preps for IPO: What to know,0.0,neutral,neutral,0.9414
 GOOGL,2026-07-14,04:52PM,"OpenAIs First Device Will Be Movable, Screenless Speaker Built as AI Companion",0.25,positive,neutral,0.9158
 GOOGL,2026-07-14,04:17PM,Wells Fargo Says Disney Could Rally 40%,0.0,neutral,positive,0.9463
-GOOGL,2026-07-14,03:20PM,Google Stock Slips as Swiss Regulators Launch Android Search Probe,0.0,neutral,negative,0.9305
-GOOGL,2026-07-14,03:14PM,Fortinet's AI Surge Is Impressive. Is Microsoft The Smarter Play?,1.0,positive,neutral,0.8539
-GOOGL,2026-07-14,02:33PM,Google faces another AI training lawsuit from major publishers,0.0625,positive,negative,0.9415
-GOOGL,2026-07-14,02:27PM,"Amazon, Microsoft Drive Data Center Demand",-0.1,negative,neutral,0.952
-GOOGL,2026-07-14,01:42PM,How To Get Paid To Buy Microsoft Stock At A 30% Discount,0.0,neutral,neutral,0.9313
-GOOGL,2026-07-14,01:11PM,Google Faces Swiss Search Probe,0.0,neutral,neutral,0.8759
-GOOGL,2026-07-14,01:10PM,Google DeepMind's Demis Hassabis is pushing for a U.S.-led AI watchdog,0.0,neutral,neutral,0.8662
-GOOGL,2026-07-14,12:28PM,New York Imposes First Statewide Data Center Moratorium as AI Faces Growing Opposition,0.09545454545454546,positive,negative,0.9435
-GOOGL,2026-07-14,12:09PM,What Could Power The Next Rally In META Stock,0.0,neutral,neutral,0.9174
-GOOGL,2026-07-14,11:07AM,Palantir Stock's Profitability Challenges the Market's Slowdown Fears.,0.0,neutral,positive,0.9508
-GOOGL,2026-07-14,11:00AM,Meta expands Louisiana data center to 5GW in new AI push,0.018181818181818174,neutral,neutral,0.6656
-GOOGL,2026-07-14,09:48AM,"This chipmaker ""remains a core AI winner and a close #2 behind NVDA"": MS",-0.4,negative,positive,0.7518
-GOOGL,2026-07-14,09:10AM,How Deep Can Oracle Stock Fall?,0.0,neutral,negative,0.6708
-GOOGL,2026-07-14,08:52AM,The Free Cash Flow Silence That Reshapes The Amazon Stock Bull Case,0.4,positive,positive,0.8386
-GOOGL,2026-07-14,08:47AM,What Could Push GOOGL Stock Higher From Here?,0.25,positive,negative,0.6008
-GOOGL,2026-07-14,08:43AM,Circle Has A Message For Stablecoin Rivals: We Are Playing The Long Game,-0.225,negative,neutral,0.8605
-GOOGL,2026-07-14,08:27AM,Swiss probe Google dropping search choice on Android phones,0.0,neutral,negative,0.7803
-GOOGL,2026-07-14,07:36AM,Uber Has 48% Upside on Paper,0.0,neutral,neutral,0.8103
-GOOGL,2026-07-14,07:25AM,Goldman Blows Past Stock-Trading Records With $7.42 Billion Boon,-0.25,negative,neutral,0.4045
-GOOGL,2026-07-14,07:14AM,Alphabet Signs the Biggest Solar Deal of Its Kind in the U.S.,0.6,positive,positive,0.6916
-GOOGL,2026-07-14,07:02AM,The U.S. Stock Market Has a KOSPI Problem,0.0,neutral,neutral,0.8597
-GOOGL,2026-07-14,03:16AM,Google probed by Swiss regulator over Android default search feature,0.0,neutral,negative,0.9336
-GOOGL,2026-07-13,11:12PM,Google reportedly ramps up TPU push to court Nvidia-backed cloud providers,0.0,neutral,positive,0.9222
-GOOGL,2026-07-13,11:04PM,SoftBanks Masayoshi Son Sees Fusion Power as Key to AIs Future,0.0,neutral,neutral,0.7252
-GOOGL,2026-07-13,06:36PM,"S&P 500, Nasdaq, Dow End Lower As US-Iran War Fear Remerges  PSKY, META, GOOGL, INTC, NFLX In Focus",0.0,neutral,negative,0.8314
-GOOGL,2026-07-13,04:34PM,Meta's data center costs are skyrocketing. Here's what you need to know.,-0.1,negative,neutral,0.87
-GOOGL,2026-07-13,04:31PM,Apples iPhone And Google Pixel Q2 Sales Shine Even As Global Smartphone Market Drops To 13-Year Low,0.0,neutral,negative,0.931
-GOOGL,2026-07-13,04:24PM,Apple and Google Are Likely to Strengthen AI Ties Following OpenAI Lawsuit,0.0,neutral,positive,0.9514
-GOOGL,2026-07-13,03:36PM,Google Takes Aim at Nvidia's AI Chip Market,0.0,neutral,negative,0.5378
-GOOGL,2026-07-13,03:30PM,AI-related debt jumped 99% over the past year. It's a 'shock to the system' for investors.,-0.25,negative,negative,0.8194
-GOOGL,2026-07-13,03:27PM,Google Takes TPUs Deeper Into Neoclouds,0.0,neutral,neutral,0.9271
-GOOGL,2026-07-13,03:24PM,"Google holds steady as Claude, Gemini surge in June user growth",0.16666666666666666,positive,positive,0.9332
-GOOGL,2026-07-13,02:36PM,Meta and Amazon are leading a trillion-dollar Big Tech spending spree,0.0,neutral,neutral,0.7654
-GOOGL,2026-07-13,01:22PM,GOOGL Reportedly Expands TPU Sales To Battle Nvidia Amid Wall Street Price Target Cuts On Big Tech Ahead Of Q2 Earnings,0.0,neutral,positive,0.9169
-GOOGL,2026-07-13,01:14PM,Google Traffic Grows Even as AI Rivals Explode,0.0,neutral,positive,0.885
-GOOGL,2026-07-13,12:45PM,How hyperscalers are financing the AI boom,0.0,neutral,neutral,0.935
-GOOGL,2026-07-13,12:05PM,MSFT Stock Has Bounced From This Price Before. Now What?,0.0,neutral,neutral,0.5153
-GOOGL,2026-07-13,11:32AM,"SpaceX & Google will boost big bank earnings, but can the AI-driven supercycle really last?",0.0,neutral,positive,0.5436
-GOOGL,2026-07-13,11:02AM,"Nvidia, Micron, and other chip players are poised to become cash-producing machines",-0.125,negative,positive,0.7649
-GOOGL,2026-07-13,10:56AM,Tech Sell-Off: How investors should navigate the market,0.0,neutral,neutral,0.9155
-GOOGL,2026-07-13,09:56AM,Wall Street Banks Set to Pull in Almost $39 Billion From Trading,0.0,neutral,positive,0.5872
-GOOGL,2026-07-13,09:45AM,Apple Stock Rises. Why This Analyst Just Hiked His Price Target to $365.,0.0,neutral,neutral,0.6434
-GOOGL,2026-07-13,09:12AM,"Is Adobe Stock Really Broken, or Just Violently Marked Down?",-0.15185185185185188,negative,negative,0.8585
-GOOGL,2026-07-13,09:01AM,Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It?,0.0,neutral,negative,0.8994
-GOOGL,2026-07-13,08:55AM,"Meta Expands AI Data Center to 5GW, Raises Investment Above $50 Billion",-0.05,neutral,positive,0.9224
-GOOGL,2026-07-13,08:01AM,Tesla Stock Nudges Lower as Elon Musk Preps for Robots,0.0,neutral,negative,0.903
-GOOGL,2026-07-13,07:06AM,Over 200 experts call for urgent action to tackle AI's economic impact,0.15000000000000002,positive,positive,0.6604
-GOOGL,2026-07-13,06:13AM,Apples $600 Billion Rally Fueled by Traders Fleeing AI Selloff,0.0,neutral,negative,0.7593
