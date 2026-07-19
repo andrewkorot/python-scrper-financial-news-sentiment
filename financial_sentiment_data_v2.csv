@@ -1,5 +1,8 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-07-19,05:30AM,5 big analyst AI moves: Apple upgraded as HSBC flags operational turning point,0.0,neutral,positive,0.8614
+AAPL,2026-07-18,09:16AM,This week's AI winners and losers,-0.2,negative,neutral,0.8842
 AAPL,2026-07-18,04:44AM,China smartphone makers turn to agentic AI as device sales slow,-0.30000000000000004,negative,neutral,0.818
+AAPL,2026-07-18,02:00AM,China's Memory Chip Giants Are Going Public. How to Play Them.,0.0,neutral,neutral,0.9421
 AAPL,2026-07-17,09:32PM,VTI Is Cheaper Than It Used to Be. So What's the Catch?,0.0,neutral,neutral,0.8906
 AAPL,2026-07-17,07:17PM,Can 'The Odyssey' Beat the World Cup?,0.0,neutral,neutral,0.8627
 AAPL,2026-07-17,05:53PM,"S&P 500, Nasdaq Slide Sharply As Netflix Guidance Disappoints And Chip Stocks Extend Losses  NFLX, GE, META, AAPL, SPCX In Focus",-0.125,negative,negative,0.9688
@@ -96,9 +99,7 @@ AAPL,2026-07-15,04:19PM,OpenAI's AI speaker marks its entry into consumer hardwa
 AAPL,2026-07-15,04:18PM,Apple clears key hurdle for iPhone AI launch in China,0.0,neutral,neutral,0.4734
 AAPL,2026-07-15,02:47PM,Alibaba Stock Is Jumping -- Apple Picks Qwen AI for China iPhones,0.0,neutral,neutral,0.6909
 AAPL,2026-07-15,02:45PM,Apple Looks to Buy AI Chip Startups,0.0,neutral,neutral,0.5962
-AAPL,2026-07-15,02:33PM,India Approves $19.7 Billion to Expand Chip and Smartphone Manufacturing,0.0,neutral,positive,0.8663
-AAPL,2026-07-15,01:07PM,Apple Goes Shopping For AI Chip Startups Amid Struggles With Performance Of In-House Server Chips: Report,0.0,neutral,negative,0.9379
-AAPL,2026-07-15,11:42AM,"Apple chasing AI chip company deals, The Information reports",0.0,neutral,neutral,0.933
+TSLA,2026-07-18,07:44PM,Tesla stock: How much does an improved auto business matter?,0.2,positive,neutral,0.8685
 TSLA,2026-07-17,04:39PM,"Yahoo Finance test drives Mercedes-Benz's new luxury EV, the CLA 250+",0.13636363636363635,positive,neutral,0.6651
 TSLA,2026-07-17,04:19PM,Agility Robotics plants its flag in Teslas backyard,0.0,neutral,neutral,0.9464
 TSLA,2026-07-17,04:08PM,"China AI Fears, Netflix Earnings Sink Stocks: Stock Market Today",0.0,neutral,negative,0.895
@@ -198,7 +199,6 @@ TSLA,2026-07-10,08:36AM,"SpaceX Will Be 'Worth More Than the Rest of Earth,' Mus
 TSLA,2026-07-10,07:16AM,Elon Musk Has Some Wild Thoughts About SpaceX's Valuation,0.1,positive,neutral,0.9149
 TSLA,2026-07-10,07:14AM,"Pierre Ferragu Says Tesla FSD Could Be At An 'Inflection Point,' Compares It To The iPhone Playbook  'Give Us 2 More Quarters'",0.5,positive,neutral,0.8118
 TSLA,2026-07-10,07:00AM,"A Month After SpaceX IPO, Teslas Stock Keeps Holding Its Ground",0.0,neutral,positive,0.6257
-TSLA,2026-07-10,01:52AM,"TSLA Stock Slips Overnight: Analyst Sees 2027, 2028 Revenue Below Consensus On Slower Optimus, Robotaxi Ramp",0.0,neutral,negative,0.9682
 GOOGL,2026-07-17,07:17PM,Can 'The Odyssey' Beat the World Cup?,0.0,neutral,neutral,0.8627
 GOOGL,2026-07-17,05:17PM,"Alphabet, Intel results in focus for AI trade as US earnings rev up",0.0,neutral,positive,0.8077
 GOOGL,2026-07-17,05:07PM,Meta in talks to rent some of its billions in AI infrastructure to Anthropic,0.0,neutral,neutral,0.7809
