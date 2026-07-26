@@ -1,4 +1,6 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-07-25,09:19AM,Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors,0.0,neutral,neutral,0.909
+AAPL,2026-07-25,08:14AM,Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day,-0.16666666666666666,negative,negative,0.8874
 AAPL,2026-07-24,11:09PM,Trump faces Apple-Micron clash over Chinese memory chips - WSJ,0.0,neutral,negative,0.6615
 AAPL,2026-07-24,10:40PM,Commentary: OpenAI and Apple heat up AI hardware; Anthropic stands apart,0.0,neutral,neutral,0.777
 AAPL,2026-07-24,08:21PM,Meta quits clean energy pledge amid gas-powered data center push,0.13333333333333336,positive,neutral,0.5823
@@ -97,8 +99,13 @@ AAPL,2026-07-20,04:07PM,Apple Faces Margin Test Before Earnings,0.0,neutral,nega
 AAPL,2026-07-20,03:14PM,Apple set to beat Q3 estimates as BofA sees margin dip as transitory,0.0,neutral,positive,0.6427
 AAPL,2026-07-20,01:08PM,Apple Stock Falls Ahead of Earnings Despite BofA's Bullish Outlook,0.0,neutral,negative,0.9082
 AAPL,2026-07-20,12:55PM,Why it's time to retire the 'Magnificent 7' name: Strategist,1.0,positive,neutral,0.9309
-AAPL,2026-07-20,12:43PM,How To Bank 8.8% On GOOGL Stock Before Buying A Single Share,-0.07142857142857142,negative,neutral,0.9468
-AAPL,2026-07-20,12:39PM,Apple Reclaims World's Most Valuable Company Title at $4.9 Trillion,0.5,positive,neutral,0.6503
+TSLA,2026-07-25,05:41PM,Top 3 US Stock Market Stories From This Week,0.5,positive,neutral,0.903
+TSLA,2026-07-25,10:43AM,Tesla's Revenue Beat Hid The Number That Actually Sank The Stock,0.0,neutral,positive,0.7131
+TSLA,2026-07-25,10:00AM,How Free Batteries Help NYC Small Businesses Save on Electric Bills,0.07500000000000001,positive,neutral,0.8069
+TSLA,2026-07-25,09:19AM,Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors,0.0,neutral,neutral,0.909
+TSLA,2026-07-25,08:38AM,"Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap",0.0,neutral,neutral,0.915
+TSLA,2026-07-25,08:14AM,Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day,-0.16666666666666666,negative,negative,0.8874
+TSLA,2026-07-25,04:00AM,SpaceX may have missed its window to buy Tesla,0.0,neutral,negative,0.8813
 TSLA,2026-07-25,02:00AM,"Why Economist Mohamed El-Erian Monitors South Korea, U.K. Bonds, and the Yen",0.0,neutral,neutral,0.8769
 TSLA,2026-07-24,08:00PM,Good News For Tesla Stock Fans,0.7,positive,positive,0.8112
 TSLA,2026-07-24,06:56PM,"Michael Burry Doubles Down On MU, NVDA Shorts While Holding TSLA, PLTR Bets  Heres What Hes Buying",-0.15555555555555559,negative,neutral,0.8833
@@ -192,13 +199,9 @@ TSLA,2026-07-23,10:11AM,Tesla Stock Slides 12% After Earnings Miss,0.0,neutral,n
 TSLA,2026-07-23,10:09AM,Earnings: Negative cash flows make Big Tech more 'economically sensitive',0.07500000000000001,positive,negative,0.9689
 TSLA,2026-07-23,10:04AM,"Consumer discretionary leads sector decliners, because of Tesla",0.0,neutral,negative,0.9527
 TSLA,2026-07-23,10:04AM,"Elon Musk Preaches Patience On Robotaxi, Optimus Rollout. Tesla Stock Plummets.",0.0,neutral,negative,0.9221
-TSLA,2026-07-23,10:00AM,Dogecoin leads way as large cryptocurrencies fall,0.21428571428571427,positive,neutral,0.6786
-TSLA,2026-07-23,09:58AM,'More and more overlap': Musk edges toward a Tesla-SpaceX merger,0.5,positive,positive,0.679
-TSLA,2026-07-23,09:54AM,"Stocks to Watch: Alphabet, Tesla, Nestle, Intel",0.0,neutral,neutral,0.9398
-TSLA,2026-07-23,09:45AM,"S&P 500, Nasdaq and Dow drop as oil and bond yields surge and mega-tech earnings disappoint",0.0,neutral,negative,0.9612
-TSLA,2026-07-23,09:42AM,The Metric Spooking Wall Street Is Free Cash Flow,0.4,positive,negative,0.918
-TSLA,2026-07-23,09:31AM,Stocks Tumble After Oil Touches $100. Mag 7 Earnings Didn't Help.,0.0,neutral,negative,0.9523
-TSLA,2026-07-23,09:21AM,"Wall Street set for lower open as Alphabet and Tesla disappoint while oil prices climb: Dow Jones, S&P, Nasdaq, Futures",0.0,neutral,negative,0.8631
+GOOGL,2026-07-25,05:41PM,Top 3 US Stock Market Stories From This Week,0.5,positive,neutral,0.903
+GOOGL,2026-07-25,08:38AM,"Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap",0.0,neutral,neutral,0.915
+GOOGL,2026-07-25,08:14AM,Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day,-0.16666666666666666,negative,negative,0.8874
 GOOGL,2026-07-24,10:40PM,Commentary: OpenAI and Apple heat up AI hardware; Anthropic stands apart,0.0,neutral,neutral,0.777
 GOOGL,2026-07-24,08:21PM,Meta quits clean energy pledge amid gas-powered data center push,0.13333333333333336,positive,neutral,0.5823
 GOOGL,2026-07-24,07:55PM,Review & Preview: An Earnings Week to Forget,0.0,neutral,neutral,0.9018
@@ -296,6 +299,3 @@ GOOGL,2026-07-23,01:43PM,"TSLA, GOOGL Stocks Lead 'Magnificent Seven' Rout  MAGS
 GOOGL,2026-07-23,01:39PM,"EU fines Google 890 mn euros, risking US fury",0.0,neutral,negative,0.9485
 GOOGL,2026-07-23,01:33PM,"Dow drops 525 points on losses in Alphabet Inc. Cl A, Amazon.com Inc. stocks",0.0,neutral,negative,0.8989
 GOOGL,2026-07-23,01:30PM,E.U. fined Google $1 billion for favoring its own services in search,0.6,positive,negative,0.9565
-GOOGL,2026-07-23,01:20PM,E.U. fines Google $1 billion under Digital Markets Act,0.0,neutral,negative,0.8039
-GOOGL,2026-07-23,01:20PM,Alphabet Lost $32 Billion on SpaceX in the Blink of an Eye,0.0,neutral,negative,0.5932
-GOOGL,2026-07-23,01:14PM,Alphabet Keeps Quarterly Dividend Unchanged,0.0,neutral,neutral,0.8493
