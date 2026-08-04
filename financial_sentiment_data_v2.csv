@@ -1,4 +1,35 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-08-04,06:19AM,Apple Seeks Court Order Against OpenAI in Expanding Trade Secrets Dispute,0.0,neutral,negative,0.8436
+AAPL,2026-08-04,04:23AM,"OpenAI Has Three Words For Apple's Lawsuit: 'Careless, Aggressive And Oddly Personal'",-0.25,negative,neutral,0.5212
+AAPL,2026-08-04,03:40AM,Amazon And Microsoft Ace Wall Streets AI Test  Analyst Warns Mag Seven Now Faces A Higher Burden Of Proof,0.25,positive,negative,0.9173
+AAPL,2026-08-04,03:23AM,Apples India Sales Top $10 Billion on Widening Retail Push,0.5,positive,positive,0.8139
+AAPL,2026-08-03,10:19PM,"India rumored to move to extend electronics tax breaks to 2041, widening pitch against China",0.0,neutral,positive,0.7417
+AAPL,2026-08-03,10:13PM,NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits,0.0,neutral,neutral,0.9053
+AAPL,2026-08-03,07:24PM,What Wall Street Pushed Microsoft To Explain,0.0,neutral,neutral,0.9369
+AAPL,2026-08-03,04:58PM,The 3 ETFs That Hold the Most Magnificent 7  and How They're Performing in a Tougher 2026,0.75,positive,neutral,0.735
+AAPL,2026-08-03,04:44PM,Amazon Stock Hits Record on Stunning Signal,0.5,positive,positive,0.736
+AAPL,2026-08-03,04:41PM,Apple Stock Falls Again as Four-Day Loss Exceeds 10%,0.0,neutral,negative,0.9653
+AAPL,2026-08-03,04:06PM,"Buffett-Inspired ETF Owns Berkshire, Apple, Amex and Generates 15% Yield",0.0,neutral,neutral,0.9257
+AAPL,2026-08-03,03:37PM,"'Magnificent Seven' add $1.88 trillion in market cap, head for record 3-day gain",1.0,positive,positive,0.6374
+AAPL,2026-08-03,03:34PM,A 'Magnificent' Monday,1.0,positive,positive,0.5865
+AAPL,2026-08-03,03:13PM,Alphabet trails behind Microsoft and Apple in growing hyperscaler divide,-0.4,negative,neutral,0.7834
+AAPL,2026-08-03,03:05PM,Micron Stock Falls -- Apple Tests Chinese Memory Chips From Rising Rival,0.0,neutral,negative,0.8714
+AAPL,2026-08-03,03:02PM,Apple Makes Surprise Manufacturing Power Play,0.0,neutral,neutral,0.6635
+AAPL,2026-08-03,02:33PM,What's Going On With CoreWeave Stock Monday,0.0,neutral,neutral,0.5966
+AAPL,2026-08-03,02:20PM,Amazon Stock Jumps 5% -- Tops $3 Trillion for the First Time Ever,0.25,positive,positive,0.8807
+AAPL,2026-08-03,02:19PM,Apple Is Quietly Building a New Manufacturing Edge,0.06818181818181818,positive,neutral,0.8004
+AAPL,2026-08-03,01:53PM,Apple Stock Dips After European Commission Reveals April Acquisition,0.0,neutral,negative,0.9272
+AAPL,2026-08-03,01:19PM,Soon American highways could be overrun with self-driving trucks,0.0,neutral,negative,0.76
+AAPL,2026-08-03,12:13PM,"Alphabet Is Not Your Diversifier, And It Has Still Been Worth Owning",0.3,positive,neutral,0.8345
+AAPL,2026-08-03,12:07PM,'Magnificent Seven' ETF heads for best three-day run since May 2025,1.0,positive,positive,0.7655
+AAPL,2026-08-03,11:42AM,The Toll of Apple's Losing Streak,0.0,neutral,negative,0.7704
+AAPL,2026-08-03,11:08AM,Apple set to trail Nvidia and Alphabet as four-day selloff erases $503 billion,0.0,neutral,negative,0.883
+AAPL,2026-08-03,11:07AM,Amazon Becomes Fifth Company To Join $3 Trillion Club  Retail Says Market Is Rewarding AMZNs Strong Fundamentals,0.4666666666666667,positive,positive,0.9474
+AAPL,2026-08-03,10:44AM,This valuation signal shows how investors are rethinking tech stocks,0.0,neutral,neutral,0.7541
+AAPL,2026-08-03,09:38AM,Amazon Joins Elite List of Stocks to Top $3 Trillion in Value,0.5,positive,neutral,0.5114
+AAPL,2026-08-03,08:39AM,Apple's Record Quarter Ran Into A Memory Bill,0.0,neutral,negative,0.9277
+AAPL,2026-08-03,08:38AM,Can the S&P 500 Escape Its Trading Range This Month?,0.0,neutral,neutral,0.464
+AAPL,2026-08-03,08:01AM,Apple Stock Faces a Stark Warning -- KeyBanc Sees 19% Downside,-0.2,negative,negative,0.9626
 AAPL,2026-08-03,05:20AM,India proposes extending tax breaks for contract manufacturing in a boost for Apple,0.0,neutral,positive,0.749
 AAPL,2026-08-03,05:10AM,"U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",0.0,neutral,neutral,0.6765
 AAPL,2026-08-02,10:19PM,Pat Gelsinger joins xLight in bid to bring TSMC into US-made lithography project,0.0,neutral,neutral,0.8301
@@ -68,37 +99,29 @@ AAPL,2026-07-31,05:48AM,Why Micron Stock Is Rising on What Apple's Tim Cook Didn
 AAPL,2026-07-31,05:34AM,Earn 8.4% On AAPL Stock By Selling Upside You Might Not Miss,0.0,neutral,neutral,0.9073
 AAPL,2026-07-31,05:30AM,This Chinese computer chip maker burned through $5 billion in a decade  then made it all back in a single quarter,-0.023809523809523808,neutral,neutral,0.8822
 AAPL,2026-07-31,04:54AM,"Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus",0.0,neutral,neutral,0.9069
-AAPL,2026-07-31,04:31AM,Stock Market Today: Nasdaq Futures Gain Despite Apple Selloff,0.0,neutral,positive,0.9252
-AAPL,2026-07-31,04:28AM,"Apple slides as supply snags cloud outlook, putting iPhone demand in focus",0.0,neutral,negative,0.9579
-AAPL,2026-07-31,04:21AM,Apple Stock Stumbles But Citi Keeps the Faith,0.0,neutral,negative,0.899
-AAPL,2026-07-31,04:12AM,"Stock market today: Nasdaq, Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up",0.25,positive,positive,0.8941
-AAPL,2026-07-31,03:49AM,U.S. stocks set to climb after strong Amazon results,0.4333333333333333,positive,positive,0.8778
-AAPL,2026-07-31,03:49AM,"Stock Market Today: Dow, S&P 500 and Nasdaq poised for strong session as Amazon climbs on earnings, chips gain following surge for South Korea's Kospi",0.21666666666666665,positive,positive,0.9219
-AAPL,2026-07-31,03:03AM,DeepSeeks 1GW Ulanqab Pivot Signals Chinas Sovereign Compute Escalation,0.0,neutral,neutral,0.4404
-AAPL,2026-07-31,01:02AM,Apple Inc (AAPL) (Q3 2026) Earnings Call Highlights: Record Revenue Amid Supply Constraints and ...,0.0,neutral,positive,0.9402
-AAPL,2026-07-30,10:13PM,AAPL Stock Slides 6% On Forecast Miss: Retail Mood Turns Dim But Traders Urge A Closer Look,0.1,positive,negative,0.4782
-AAPL,2026-07-30,09:35PM,"Dow, S&P 500, Nasdaq Futures Extend Rally As Big Tech Earnings Revive AI Trade: AMZN, AAPL, NBIS, RDDT In Focus",0.0,neutral,positive,0.5564
-AAPL,2026-07-30,09:31PM,Apple targets AI subscription revenue as Cook exits and Ternus inherits next growth strategy,0.0,neutral,neutral,0.8256
-AAPL,2026-07-30,09:15PM,Apple braces for 'hundred-year flood' in component costs,0.0,neutral,negative,0.8421
-AAPL,2026-07-30,08:28PM,Tim Cook signed off on his final Apple earnings call with a warning about a hundred year flood in memory chip pricing,0.0,neutral,negative,0.8467
-AAPL,2026-07-30,08:09PM,"MU, SNDK, WDC, SKHY Stock Jump After-Hours  Memory Chipmakers Soar After Amazon, Apple Management Flag Soaring Costs, Supply Crunch",0.0,neutral,negative,0.6565
-AAPL,2026-07-30,07:28PM,Apple stockpiles inventory as it braces for significant supply constraints,0.375,positive,neutral,0.4551
-AAPL,2026-07-30,07:07PM,"AAPL Stock Drops 7% After-Hours  Apple's Q3 China Sales Slow, Tim Cook Flags Memory Supply Constraints Affecting Q4 Revenue",-0.30000000000000004,negative,negative,0.9698
-AAPL,2026-07-30,06:51PM,Tim Cook's final earnings call as Apple CEO,0.0,neutral,neutral,0.8906
-AAPL,2026-07-30,06:38PM,"Apple tops estimates in CEO Cook's final quarter, but shares fall",0.0,neutral,negative,0.8203
-AAPL,2026-07-30,06:37PM,Apple says gaming slowdown and App Store changes hurt services growth,0.0,neutral,negative,0.969
-AAPL,2026-07-30,06:36PM,Explosive iPhone and Mac demand caught Apple off guard,0.0,neutral,negative,0.9237
-AAPL,2026-07-30,06:26PM,Apple's stock could see its worst post-earnings drop in over a decade,-1.0,negative,negative,0.9728
-AAPL,2026-07-30,06:24PM,Apple Slides After Supply Shortages Hurts Sales Forecast,0.0,neutral,negative,0.9479
-AAPL,2026-07-30,06:23PM,"Apple's on-device processing will be a 'competitive weapon,' Cook says",0.0,neutral,neutral,0.6001
-AAPL,2026-07-30,06:10PM,Apple Stock Down 6% as Earnings Call Ends,-0.15555555555555559,negative,negative,0.9648
-AAPL,2026-07-30,06:10PM,Tim Cook says Apple may charge for AI Siri,0.0,neutral,neutral,0.5662
-AAPL,2026-07-30,06:08PM,Apple commits more than $30 billion to US manufacturing,0.5,positive,neutral,0.7822
-AAPL,2026-07-30,06:06PM,John Ternus takes the mic on Apple's earnings call,0.0,neutral,neutral,0.9362
-AAPL,2026-07-30,06:02PM,Did Tim Cook drop a subtle hint on the topic of Chinese memory?,-0.16666666666666666,negative,neutral,0.7404
-AAPL,2026-07-30,06:01PM,Apple Says It Raised Mac Prices 'Reluctantly',0.0,neutral,positive,0.8868
-AAPL,2026-07-30,06:00PM,"Supply constraints could hit more products going forward, Tim Cook says",0.5,positive,negative,0.9447
-AAPL,2026-07-30,05:53PM,Breaking Down Apple's 3Q Results and Outlook,-0.15555555555555559,negative,negative,0.512
+TSLA,2026-08-04,03:40AM,Amazon And Microsoft Ace Wall Streets AI Test  Analyst Warns Mag Seven Now Faces A Higher Burden Of Proof,0.25,positive,negative,0.9173
+TSLA,2026-08-03,10:13PM,NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits,0.0,neutral,neutral,0.9053
+TSLA,2026-08-03,05:58PM,Musk likely to face tough questions during SpaceX's first earnings call as a public company,-0.034722222222222224,neutral,neutral,0.7583
+TSLA,2026-08-03,04:58PM,The 3 ETFs That Hold the Most Magnificent 7  and How They're Performing in a Tougher 2026,0.75,positive,neutral,0.735
+TSLA,2026-08-03,04:36PM,Tesla Stock Rises Despite 1.2 Million-Vehicle Safety Probe,0.0,neutral,positive,0.871
+TSLA,2026-08-03,03:37PM,"'Magnificent Seven' add $1.88 trillion in market cap, head for record 3-day gain",1.0,positive,positive,0.6374
+TSLA,2026-08-03,03:34PM,A 'Magnificent' Monday,1.0,positive,positive,0.5865
+TSLA,2026-08-03,02:38PM,Cathie Wood Spends $26 Million On Battered Tech Stock,0.0,neutral,neutral,0.8944
+TSLA,2026-08-03,01:51PM,Veteran Analyst Flags Tesla Stock's Next Critical Test,0.0,neutral,neutral,0.7432
+TSLA,2026-08-03,01:37PM,Smart charging stations for electronic cars are extremely vulnerable to hacking,-0.14285714285714285,negative,neutral,0.5722
+TSLA,2026-08-03,12:56PM,Cathie Wood Just Bet $26 Million on SpaceX Days Before Earnings,0.0,neutral,neutral,0.937
+TSLA,2026-08-03,12:50PM,Elon Musk Backs Bullish View On SPCXs Insane Opportunity  Wall Street Sees Attractive Valuation in SpaceX Despite Lock-Up Overhang,-0.09999999999999998,negative,positive,0.9399
+TSLA,2026-08-03,12:23PM,Cathie Wood Is Leaning Harder Into Her Highest-Conviction Themes,-0.1,negative,neutral,0.8565
+TSLA,2026-08-03,12:22PM,"Tesla Stock Climbs, Brushing Off Safety Probe And Class Action Settlement",0.1,positive,negative,0.8079
+TSLA,2026-08-03,10:00AM,"Open-weight AI models add new spark to China, Silicon Valley's AI race",0.13636363636363635,positive,positive,0.5392
+TSLA,2026-08-03,09:25AM,Rivian Automotive Stock Asks The Market's Price For Sales That Do Not Yet Pay,0.0,neutral,neutral,0.9409
+TSLA,2026-08-03,09:23AM,SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview,0.06818181818181818,positive,negative,0.9519
+TSLA,2026-08-03,09:23AM,SpaceX's first-ever earnings report comes as stock faces big pressure: Q2 preview,0.0,neutral,negative,0.6372
+TSLA,2026-08-03,09:01AM,Tesla Could Be Giving Up More Than a Business,0.5,positive,neutral,0.8535
+TSLA,2026-08-03,08:48AM,Tesla Stock Steady as July Registrations Split Europe in Half,0.0,neutral,positive,0.5914
+TSLA,2026-08-03,08:29AM,Record Exports Boost BYD Sales as Chinese EV Stocks Suffer,0.0,neutral,positive,0.9274
+TSLA,2026-08-03,07:30AM,Buoyant BYD has Tesla in it's rear view mirror. Musk needs to put his foot down,-0.15555555555555559,negative,neutral,0.7773
+TSLA,2026-08-03,06:57AM,"Elon Musk wants engineers and trade talent: All you need is 3 bullet points, a resume, and a desire to create the best data centers off Earth",0.6,positive,neutral,0.8955
 TSLA,2026-08-03,06:56AM,Tesla Stock Goes For 3 Gains in a Row as It Shrugs Off Safety Inquiry,0.0,neutral,positive,0.899
 TSLA,2026-08-03,04:34AM,"Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",0.0,neutral,neutral,0.6707
 TSLA,2026-08-03,02:56AM,"SPCX Heads Into First Earnings: Musk Hints At Tesla-Sized Revenue, Jefferies Downplays Governance Risks",0.25,positive,neutral,0.7833
@@ -176,29 +199,58 @@ TSLA,2026-07-29,05:00PM,An economist dared Elon Musk to give away his $1t fortun
 TSLA,2026-07-29,02:54PM,"Rivian R2 production ramp, profit path key for investors: Q2 preview",0.0,neutral,neutral,0.7712
 TSLA,2026-07-29,02:34PM,Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure,0.0,neutral,negative,0.9607
 TSLA,2026-07-29,09:47AM,Nvidia's Latest Rebound Comes With Fresh Support,0.4,positive,positive,0.8838
-TSLA,2026-07-29,09:41AM,ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission.,0.0,neutral,neutral,0.893
-TSLA,2026-07-29,09:19AM,"Direxion unveils options income ETF suite tied to Nvidia, Tesla and other megacap",-0.125,negative,neutral,0.8408
-TSLA,2026-07-29,08:31AM,"ARK Warns Crypto Bankruptcies and Shutdowns Will Rise, Cathie Woods Stock Buys Show Why",0.0,neutral,negative,0.9241
-TSLA,2026-07-29,07:30AM,"Tesla Stock Falls Again, Putting Trillion-Dollar Status at Risk",0.0,neutral,negative,0.9598
-TSLA,2026-07-29,04:53AM,"Tesla, ContourGlobal sign 1TWh/year PPA for Project Sterling in Arizona",0.0,neutral,positive,0.5913
-TSLA,2026-07-29,03:27AM,Binance Adds 10 More Tokenized Stocks to Its bStocks Lineup,0.5,positive,neutral,0.785
-TSLA,2026-07-29,03:17AM,"A Potential Tesla-SpaceX Merger Could Create Orbit-To-Ground AI Powerhouse With Over $1 Trillion In Chip Savings, Says Analyst",0.0,neutral,positive,0.902
-TSLA,2026-07-29,01:24AM,"Cathie Woods ARK Loads Up On Musks SpaceX, Tesla Again As US Tightens Its Grip On AI Competition With Robotics Curbs",0.0,neutral,positive,0.855
-TSLA,2026-07-29,01:20AM,Asian stock rout deepens as AI worries grip markets,0.0,neutral,negative,0.8976
-TSLA,2026-07-28,07:55PM,Review & Preview: 'One Big Global Trade',0.0,neutral,neutral,0.927
-TSLA,2026-07-28,04:50PM,"US stocks mixed ahead key tech earnings, Fed",0.0,neutral,negative,0.696
-TSLA,2026-07-28,04:13PM,SpaceX Erased Teslas Marketcap in Little Over a Month,-0.1875,negative,negative,0.8274
-TSLA,2026-07-28,04:08PM,Veteran Bank Revises Tesla Stock Price Target for 2027,0.0,neutral,neutral,0.8981
-TSLA,2026-07-28,04:06PM,Tesla-SpaceX Merger Math Gets RBC View,0.0,neutral,positive,0.6015
-TSLA,2026-07-28,03:46PM,"Mag 7 earnings: Alphabet 'really set the tone,' strategist says",0.2,positive,positive,0.9299
-TSLA,2026-07-28,02:43PM,Why General Motors Stock Could Keep Climbing As A One-Time Bill Fades,0.05000000000000002,positive,neutral,0.904
-TSLA,2026-07-28,02:20PM,Tesla Keeps Falling and ARK's Cathie Wood Keeps Buying,0.0,neutral,negative,0.5206
-TSLA,2026-07-28,12:31PM,Cathie Wood Buys the Tesla Dip Again With $23 Million Bet on AI Future,0.0,neutral,positive,0.5474
-TSLA,2026-07-28,12:30PM,"CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron",0.0,neutral,neutral,0.8584
-TSLA,2026-07-28,12:10PM,Tesla Signs Agreement To Purchase Energy From KKR-Backed Solar Plant,0.0,neutral,positive,0.8863
-TSLA,2026-07-28,11:57AM,CLARITY Act hits summer roadblock,0.0,neutral,neutral,0.711
-TSLA,2026-07-28,10:59AM,"Cathie Wood Keeps The Faith; Rakes In Diving SpaceX, Tesla Shares",0.0,neutral,neutral,0.849
-TSLA,2026-07-28,10:43AM,Musk's Wealth Has Taken a Huge SpaceX Hit. He's Still Worth 45 Times China's CXMT Billionaire.,0.35000000000000003,positive,neutral,0.9221
+GOOGL,2026-08-04,06:00AM,Absolutely the right time for geothermal  Q&A with Baker Hughes Geothermal VP,0.24285714285714285,positive,neutral,0.8172
+GOOGL,2026-08-04,03:40AM,Amazon And Microsoft Ace Wall Streets AI Test  Analyst Warns Mag Seven Now Faces A Higher Burden Of Proof,0.25,positive,negative,0.9173
+GOOGL,2026-08-04,03:21AM,Palantir's Rule Of 40 Score Hit 155%  Here's The Math And Why It Matters For Software Valuations,0.0,neutral,neutral,0.9268
+GOOGL,2026-08-04,12:00AM,Inside Googles $200bn Wall Street finance machine for Anthropic,0.0,neutral,neutral,0.9185
+GOOGL,2026-08-03,10:13PM,NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits,0.0,neutral,neutral,0.9053
+GOOGL,2026-08-03,09:37PM,The Sharpest Exchanges From META's Earnings Call,0.0,neutral,negative,0.5827
+GOOGL,2026-08-03,07:44PM,"META, GOOGL Stocks In Focus  White House Plans Meeting With Tech Giants On Tuesday Over AI Safety Tests, Says Report",0.0,neutral,neutral,0.7322
+GOOGL,2026-08-03,07:24PM,What Wall Street Pushed Microsoft To Explain,0.0,neutral,neutral,0.9369
+GOOGL,2026-08-03,06:43PM,"Wall Street rallies, Dow closes at record on Iran talks optimism",0.0,neutral,neutral,0.4968
+GOOGL,2026-08-03,04:58PM,The 3 ETFs That Hold the Most Magnificent 7  and How They're Performing in a Tougher 2026,0.75,positive,neutral,0.735
+GOOGL,2026-08-03,04:44PM,Amazon Stock Hits Record on Stunning Signal,0.5,positive,positive,0.736
+GOOGL,2026-08-03,04:41PM,Apple Stock Falls Again as Four-Day Loss Exceeds 10%,0.0,neutral,negative,0.9653
+GOOGL,2026-08-03,03:52PM,"Why Microsoft, Amazon, & other Big Tech stocks are soaring post-earnings",-0.0625,negative,neutral,0.6912
+GOOGL,2026-08-03,03:37PM,"'Magnificent Seven' add $1.88 trillion in market cap, head for record 3-day gain",1.0,positive,positive,0.6374
+GOOGL,2026-08-03,03:34PM,A 'Magnificent' Monday,1.0,positive,positive,0.5865
+GOOGL,2026-08-03,03:26PM,"Dow's 711-point rally highlighted by gains in Boeing, Microsoft shares",0.0,neutral,positive,0.8688
+GOOGL,2026-08-03,03:25PM,"Microsoft, Amazon and Alphabet are all winning in AI, says D.A. Davidson's Gil Luria",0.5,positive,positive,0.7726
+GOOGL,2026-08-03,03:17PM,Anthropic Will Review Trump's Security Framework for AI,0.0,neutral,neutral,0.9261
+GOOGL,2026-08-03,03:13PM,Alphabet trails behind Microsoft and Apple in growing hyperscaler divide,-0.4,negative,neutral,0.7834
+GOOGL,2026-08-03,03:00PM,DeepSeek Drops New Bombshell on AI Stocks,0.13636363636363635,positive,neutral,0.7641
+GOOGL,2026-08-03,02:41PM,Google Exec Teases Bigger Plan Behind AI Spending,-0.2,negative,negative,0.7461
+GOOGL,2026-08-03,02:37PM,Alphabet Stock Jumps 5.3% as Investors Rethink Massive AI Spending,0.0,neutral,positive,0.4372
+GOOGL,2026-08-03,02:14PM,Big Tech's cloud backlog just hit $2.3 trillion  and it's feeding AI capex plans,0.0,neutral,negative,0.6866
+GOOGL,2026-08-03,02:11PM,The AI spending boom is hitting a key Wall Street metric: Chart of the Day,0.0,neutral,neutral,0.6158
+GOOGL,2026-08-03,01:45PM,OK Glass? Google gives an augmented peek at a transparent future,0.25,positive,neutral,0.915
+GOOGL,2026-08-03,01:34PM,"Step aside Google, here come the real bionic glasses",0.2,positive,neutral,0.9274
+GOOGL,2026-08-03,01:30PM,GOOGL Stock Gains Over 5%: Google Locks Major Long-Term Solar Power Deal With RWE  Retail Sees An AI Infrastructure Play,0.0625,positive,positive,0.89
+GOOGL,2026-08-03,01:22PM,What Google Glass has taught us one year in,0.0,neutral,neutral,0.8421
+GOOGL,2026-08-03,12:50PM,How the S&P 500 Survives a Chip Meltdown Without Falling Into a Bear Market,0.0,neutral,neutral,0.8595
+GOOGL,2026-08-03,12:43PM,Google AI Misfire Puts Alphabet Stock in Focus,-0.2,negative,negative,0.9132
+GOOGL,2026-08-03,12:37PM,"Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results",0.4333333333333333,positive,positive,0.9311
+GOOGL,2026-08-03,12:13PM,"Alphabet Is Not Your Diversifier, And It Has Still Been Worth Owning",0.3,positive,neutral,0.8345
+GOOGL,2026-08-03,12:08PM,Amazon Hits $3 Trillion Market Cap for the First Time as Stock Heads Toward Record,0.25,positive,positive,0.6826
+GOOGL,2026-08-03,12:07PM,'Magnificent Seven' ETF heads for best three-day run since May 2025,1.0,positive,positive,0.7655
+GOOGL,2026-08-03,12:04PM,Morgan Stanley Sees Cloud Spending Hitting $1.4 Trillion in 2027,0.0,neutral,positive,0.886
+GOOGL,2026-08-03,11:46AM,Meta and Google Face a Costlier Choice in Australia,0.0,neutral,neutral,0.711
+GOOGL,2026-08-03,11:24AM,Amazon's Cloud Profit Line Is What The Market Actually Bought,0.0,neutral,neutral,0.9103
+GOOGL,2026-08-03,11:07AM,Amazon Becomes Fifth Company To Join $3 Trillion Club  Retail Says Market Is Rewarding AMZNs Strong Fundamentals,0.4666666666666667,positive,positive,0.9474
+GOOGL,2026-08-03,11:01AM,Citadel Securities Sees a $500 Billion Chip Financing Debt Binge,0.0,neutral,neutral,0.7202
+GOOGL,2026-08-03,10:51AM,Robinhood Private Company Fund to Back Y Combinator Startups,0.0,neutral,neutral,0.7906
+GOOGL,2026-08-03,10:44AM,This valuation signal shows how investors are rethinking tech stocks,0.0,neutral,neutral,0.7541
+GOOGL,2026-08-03,10:29AM,Amazon Raised Its AI Spending And Had Its Best Day In Years,1.0,positive,positive,0.9512
+GOOGL,2026-08-03,10:27AM,Here's the single biggest reason the bull market is broadening,-0.07142857142857142,negative,neutral,0.8962
+GOOGL,2026-08-03,10:09AM,"Stocks are ignoring higher bond yields, but that can't last for 'very long'",0.06166666666666667,positive,negative,0.847
+GOOGL,2026-08-03,10:04AM,"SpaceX Stock Hits Record Low-New Month, Same Problems Ahead of Earnings",0.0,neutral,negative,0.8609
+GOOGL,2026-08-03,09:45AM,"Dow's 568-point rally highlighted by gains for shares of Microsoft, Amazon.com Inc.",0.0,neutral,positive,0.8827
+GOOGL,2026-08-03,09:38AM,Amazon Joins Elite List of Stocks to Top $3 Trillion in Value,0.5,positive,neutral,0.5114
+GOOGL,2026-08-03,08:39AM,Apple's Record Quarter Ran Into A Memory Bill,0.0,neutral,negative,0.9277
+GOOGL,2026-08-03,08:12AM,Absolutely the right time for geothermal  Q&A with Baker Hughes Geothermal VP,0.24285714285714285,positive,neutral,0.8172
+GOOGL,2026-08-03,08:12AM,Could Oracle Go Bankrupt - Really?,0.2,positive,neutral,0.6668
+GOOGL,2026-08-03,08:06AM,Goldman Sachs Has Stark Message for AI Stock Investors,-0.2,negative,neutral,0.8169
+GOOGL,2026-08-03,07:16AM,"SpaceX Stock Falls Again-New Month, Same Problems Ahead of Earnings",0.0,neutral,negative,0.9628
 GOOGL,2026-08-03,05:30AM,How to Play the Flood of AI Bonds,0.0,neutral,neutral,0.921
 GOOGL,2026-08-02,10:00AM,S&P 500 profit growth is getting even wilder as Amazon makes its mark,0.0,neutral,positive,0.8831
 GOOGL,2026-08-02,09:00AM,How Apple's cheap MacBook Neo sparked a war in budget laptops,0.4,positive,negative,0.8464
@@ -247,55 +299,3 @@ GOOGL,2026-07-31,06:00AM,Apple is growing without the AI spending spree engulfin
 GOOGL,2026-07-31,05:14AM,Amazon jumps as AWS growth soothes fears over rising AI spending,0.0,neutral,positive,0.7668
 GOOGL,2026-07-31,04:21AM,Apple Stock Stumbles But Citi Keeps the Faith,0.0,neutral,negative,0.899
 GOOGL,2026-07-31,02:39AM,"META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff  Analyst Says Shares Are Attractively Priced Now",0.8,positive,positive,0.9421
-GOOGL,2026-07-31,12:43AM,"AMZN Stock Rises After Q2, AWS Beat: CEO Says Even Higher CapEx Wont Be Enough To Meet Soaring Cloud Demand",0.125,positive,positive,0.9376
-GOOGL,2026-07-30,05:58PM,"S&P 500, Nasdaq End Best Day In A Month On Support From Microsoft Gains, AI Stocks   ORCL, GOOGL, MSFT, BE, TSLA Stock In Focus",1.0,positive,positive,0.6214
-GOOGL,2026-07-30,05:04PM,"Apple Is Spending More, Too",0.5,positive,neutral,0.5664
-GOOGL,2026-07-30,05:02PM,How To Bank 13% On IBM Stock Before Buying A Single Share,-0.07142857142857142,negative,neutral,0.9432
-GOOGL,2026-07-30,04:48PM,Amazon's AI spending is growing fast,0.2,positive,positive,0.8845
-GOOGL,2026-07-30,04:44PM,"Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",0.0,neutral,positive,0.5875
-GOOGL,2026-07-30,04:20PM,Amazon posts a big gain on its Anthropic investment,0.0,neutral,positive,0.9439
-GOOGL,2026-07-30,04:13PM,Amazon Shares Jump as Cloud Sales Accelerate,0.0,neutral,negative,0.4729
-GOOGL,2026-07-30,04:04PM,Amazon beats estimates for quarterly cloud revenue growth,0.0,neutral,positive,0.8586
-GOOGL,2026-07-30,04:02PM,Google Expands Its Robotics AI,0.0,neutral,neutral,0.5334
-GOOGL,2026-07-30,04:00PM,Google To Guarantee Billions For Anthropic's Lease Of Data Centers,0.0,neutral,neutral,0.5413
-GOOGL,2026-07-30,04:00PM,"Wall Street ends sharply higher, lifted by soaring Microsoft",0.25,positive,positive,0.9276
-GOOGL,2026-07-30,03:54PM,Expect to see less stock buybacks from Big Tech as companies ramp up AI capex,-0.08333333333333333,negative,positive,0.9225
-GOOGL,2026-07-30,03:46PM,GOOGL Backs $15B Financing For Anthropic-Linked Texas AI Campus  Project Reportedly Includes 1.6GW Power Plant,0.0,neutral,neutral,0.504
-GOOGL,2026-07-30,03:38PM,Anthropic Cant Self-Fund Infrastructure Despite a $965 Billion Valuation  So Google Is Backstopping It,0.0,neutral,negative,0.7486
-GOOGL,2026-07-30,03:19PM,Tesla Stock Rises as Robotaxi Service Expands to Miami,0.0,neutral,positive,0.9214
-GOOGL,2026-07-30,03:14PM,Cathie Wood Invests $28.7 Million in Two High-Stakes Tech Stocks,0.0,neutral,neutral,0.9341
-GOOGL,2026-07-30,03:06PM,Google reportedly backs $15B data center loan for Anthropic in Texas,-0.1,negative,positive,0.7174
-GOOGL,2026-07-30,02:45PM,"ASML, Lam Research, and a Ton of Other Stocks to Buy Right Now",0.08035714285714285,positive,neutral,0.9134
-GOOGL,2026-07-30,02:30PM,Amazon's robotaxi unit is ramping up,0.0,neutral,positive,0.8516
-GOOGL,2026-07-30,02:25PM,"Banks in talks to lend $15 billion for Anthropic data center backed by Google, WSJ reports",-0.1,negative,neutral,0.5416
-GOOGL,2026-07-30,01:50PM,Scale AI is tapping a former Google Cloud executive as its new CEO,0.06818181818181818,positive,neutral,0.8981
-GOOGL,2026-07-30,01:47PM,'Magnificent Seven' ETF is up as four of its Big Tech holdings climb sharply,0.2916666666666667,positive,positive,0.9463
-GOOGL,2026-07-30,01:32PM,Adobe Stock Trades Below The Market On Earnings While Its Growth Engine Is Being Rebuilt,0.0,neutral,negative,0.7631
-GOOGL,2026-07-30,12:30PM,Google raised the bar for Amazon's cloud business,0.0,neutral,positive,0.5739
-GOOGL,2026-07-30,12:28PM,"Vertiv CEO: How Google, Meta, Microsoft earnings are 'reinforcing' data center acceleration",-0.1,negative,neutral,0.8989
-GOOGL,2026-07-30,12:17PM,GOOGL Expands Gemini Into Robotics As Big Tech Races To Build Physical AI  New Robot AI Can Tap Google Search For Real-World Tasks,0.04545454545454545,neutral,neutral,0.8151
-GOOGL,2026-07-30,12:11PM,Meta stock poised for a new losing streak: Earnings call takeaways,0.13636363636363635,positive,negative,0.5342
-GOOGL,2026-07-30,12:08PM,Satellite maker K2 Space secures $6.8 billion valuation in new funding round,-0.03181818181818183,neutral,positive,0.9116
-GOOGL,2026-07-30,12:05PM,Snowflake Stock Nearly Doubled On A Product Its Own Forecast Could Not See,0.35,positive,positive,0.9153
-GOOGL,2026-07-30,11:36AM,"Rene Haas Says NVDA GPUs, GOOGL TPUs Validate ARM's AI Bet  'Every AI Workload Is Going to Run Through Arm'",0.0,neutral,neutral,0.6155
-GOOGL,2026-07-30,11:26AM,Veteran Macro Investor Says AIs Easy Money Is Over and Bitcoin Is Next,0.14444444444444446,positive,neutral,0.7454
-GOOGL,2026-07-30,11:01AM,Meta is in need of a new 'lead singer' beyond advertising: Brent Thill,0.13636363636363635,positive,neutral,0.9097
-GOOGL,2026-07-30,10:20AM,"Microsoft stock surges on earnings: A closer look at Copilot, Azure, and capex",0.0,neutral,neutral,0.7813
-GOOGL,2026-07-30,10:18AM,Oracle Shares Climb as Expanded Google Cloud Alliance Brings Gemini AI to Enterprise Software,0.0,neutral,negative,0.7236
-GOOGL,2026-07-30,10:02AM,"ORCL Stock Gains After Googles Gemini Joins Meta, OpenAI, xAI In Oracles AI Model Lineup",0.0,neutral,neutral,0.7454
-GOOGL,2026-07-30,09:47AM,Meta's capex guidance isn't cutting it for investors. Stock drops.,-0.6,negative,negative,0.915
-GOOGL,2026-07-30,09:35AM,Oracle shares pop 3.3% as Google cloud AI partnership expands,0.0,neutral,positive,0.7966
-GOOGL,2026-07-30,09:30AM,Anthropic could sway Amazon's earnings - at least on paper,-0.3,negative,negative,0.5827
-GOOGL,2026-07-30,08:46AM,"Morgan Stanley Says Amazon, Microsoft, and Google's AI Spending Will Pay Off Big",0.0,neutral,positive,0.834
-GOOGL,2026-07-30,08:41AM,How a New $1.6 Billion Space Force Contract is Fueling SpaceX Stock Today,0.13636363636363635,positive,neutral,0.8725
-GOOGL,2026-07-30,07:59AM,IBM Swapped Its AI Scoreboard For A Quantum One,0.0,neutral,neutral,0.9251
-GOOGL,2026-07-30,07:46AM,IBM is Finally Fixing One of Quantum Computing's Biggest Headaches,0.0,neutral,positive,0.8644
-GOOGL,2026-07-30,07:44AM,SpaceX Stock Rises On Hope Big U.S. Space Force Launch Order Can Stem Slump,0.0,neutral,positive,0.7727
-GOOGL,2026-07-30,06:16AM,"Exclusive: Bitget Wallet to launch Assetback, with cashback pays out in BTC, Gold",0.0,neutral,neutral,0.8561
-GOOGL,2026-07-30,06:15AM,AI data centre supplier Zhongji InnoLight slips on Hong Kong debut,0.0,neutral,negative,0.9371
-GOOGL,2026-07-30,06:02AM,How Do You Know a Quantum Computer Isn't Lying? IBM Says It Has the Answer.,0.0,neutral,neutral,0.9213
-GOOGL,2026-07-30,05:30AM,Meta's Case for Its AI Spending Keeps Getting Weaker,0.0,neutral,positive,0.7477
-GOOGL,2026-07-30,04:09AM,"AMZN Stock Rises Premarket Ahead Of Results: AWS, CapEx In Focus",0.0,neutral,neutral,0.4746
-GOOGL,2026-07-30,03:00AM,Amazon Reports Earnings Thursday With Its Cloud Under the Microscope,0.0,neutral,negative,0.5347
-GOOGL,2026-07-29,10:47PM,Even $64 Billion in Quarterly Profit Is a Disappointment for Chip Investors,-0.6,negative,negative,0.9696
-GOOGL,2026-07-29,10:06PM,"MSFT Stock Soars After Results: CFO Dismisses AI Overcapacity Narrative, Says Can Rein In Spending If Demand Changes",0.0,neutral,positive,0.4846
