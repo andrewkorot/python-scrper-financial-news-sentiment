@@ -1,4 +1,5 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-08-08,08:34AM,Apple says Mac users in China can connect to Alibaba's Qwen AI service,0.0,neutral,neutral,0.8105
 AAPL,2026-08-07,04:39PM,Apple and OpenAI escalate legal battle over devices,0.2,positive,negative,0.9087
 AAPL,2026-08-07,04:20PM,OpenAI developing $300+ AI speaker to challenge Amazon Alexa,0.0,neutral,positive,0.5509
 AAPL,2026-08-07,04:13PM,"Tougher Google Antitrust Penalties Would Threaten Firefox, Mozilla Warns",0.0,neutral,negative,0.9474
@@ -98,7 +99,8 @@ AAPL,2026-07-31,06:41PM,Wall Street ends higher as Amazon soothes AI jitters,0.2
 AAPL,2026-07-31,05:33PM,Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility,0.0,neutral,negative,0.9351
 AAPL,2026-07-31,05:18PM,The worlds most valuable companies are taking opposite paths in the AI race,0.25,positive,neutral,0.8888
 AAPL,2026-07-31,04:54PM,"Market Talk: Apple sinks, Amazon soars in split verdict on AI winners",-0.1,negative,neutral,0.4404
-AAPL,2026-07-31,04:29PM,"Apple Stock Tumbles, Wiping Out $359 Billion in Value",0.0,neutral,negative,0.963
+TSLA,2026-08-08,10:31AM,Rivian's make-or-break R2 midsize EV delivers: Road test,0.0,neutral,neutral,0.7656
+TSLA,2026-08-08,09:23AM,Tesla UK sales drop as craze for Chinese rivals surges,0.0,neutral,negative,0.9684
 TSLA,2026-08-07,08:52PM,SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building,0.0,neutral,neutral,0.5947
 TSLA,2026-08-07,03:29PM,Tesla Stock Jumps Nearly 4% as $16.8 Billion Terafab Breaks Ground,0.1,positive,positive,0.4629
 TSLA,2026-08-07,03:14PM,Tesla Jumps as Rate Fears Ease,0.0,neutral,negative,0.5681
@@ -108,12 +110,12 @@ TSLA,2026-08-07,12:54PM,SpaceX's stock is having one of its best days ever - wit
 TSLA,2026-08-07,10:07AM,"SpaceXs Terafab will rely on natural gas power plants, not Tesla solar panels",0.1,positive,neutral,0.9353
 TSLA,2026-08-07,09:48AM,Stock Market Forecast: Weak Jobs Report Triggers Premarket Tech Rally,-0.375,negative,negative,0.9611
 TSLA,2026-08-07,09:30AM,The New Wild West: Texas Experiments With Raw Capitalism,0.001864801864801859,neutral,neutral,0.8889
-TSLA,2026-08-07,08:07AM,Tesla Stock Rises to End Good Week. Thank the Usual Suspects.,0.22499999999999998,positive,positive,0.5191
+TSLA,2026-08-07,08:07AM,Tesla Stock Rises to End Good Week. Thank the Usual Suspects.,0.22499999999999998,positive,positive,0.5192
 TSLA,2026-08-07,07:05AM,"SPCX Stock Hasnt Bottomed Out Yet, But Its A Really Great Time To Buy, Says This Asset Manager",0.8,positive,neutral,0.6471
 TSLA,2026-08-07,06:30AM,Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes,0.0,neutral,negative,0.6637
-TSLA,2026-08-07,06:27AM,SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory  and the Compute Landlord Thesis Just Got Its Most Expensive Chapter,0.20000000000000004,positive,neutral,0.8599
+TSLA,2026-08-07,06:27AM,SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory  and the Compute Landlord Thesis Just Got Its Most Expensive Chapter,0.20000000000000004,positive,neutral,0.8598
 TSLA,2026-08-07,03:43AM,"Elon Musks Terafab Will Be Earths Most Valuable Building, 50x the Size of the Pentagon",0.5,positive,neutral,0.7325
-TSLA,2026-08-07,12:56AM,"Shark Tank Judge Kevin OLeary Passed On SpaceX IPO, But May Buy Soon: The Bigger Opportunity Is",0.0,neutral,neutral,0.8578
+TSLA,2026-08-07,12:56AM,"Shark Tank Judge Kevin OLeary Passed On SpaceX IPO, But May Buy Soon: The Bigger Opportunity Is",0.0,neutral,neutral,0.8577
 TSLA,2026-08-06,11:47PM,Inside Terafab: Musk's US$16.8B bet to turn AI chip shortages into a homegrown supply chain,0.0,neutral,positive,0.5458
 TSLA,2026-08-06,11:12PM,TSLA Stock Eyes Weekly Comeback As Elon Musk Touts Terafabs Colossal Scale  Analyst Flags A Big Intel Question Mark,0.15,positive,neutral,0.6223
 TSLA,2026-08-06,05:32PM,Why Rivian's R2 EV could be its new star vehicle,0.13636363636363635,positive,neutral,0.8479
@@ -197,8 +199,9 @@ TSLA,2026-08-03,03:37PM,"'Magnificent Seven' add $1.88 trillion in market cap, h
 TSLA,2026-08-03,03:34PM,A 'Magnificent' Monday,1.0,positive,positive,0.5865
 TSLA,2026-08-03,02:38PM,Cathie Wood Spends $26 Million On Battered Tech Stock,0.0,neutral,neutral,0.8944
 TSLA,2026-08-03,01:51PM,Veteran Analyst Flags Tesla Stock's Next Critical Test,0.0,neutral,neutral,0.7432
-TSLA,2026-08-03,01:37PM,Smart charging stations for electronic cars are extremely vulnerable to hacking,-0.14285714285714285,negative,neutral,0.5722
-TSLA,2026-08-03,12:56PM,Cathie Wood Just Bet $26 Million on SpaceX Days Before Earnings,0.0,neutral,neutral,0.937
+GOOGL,2026-08-09,03:08AM,Earnings beats ease concerns over record U.S. stock rally - WSJ,0.0,neutral,positive,0.5382
+GOOGL,2026-08-08,09:29AM,Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile,0.06818181818181818,positive,neutral,0.8784
+GOOGL,2026-08-08,08:38AM,Berkshires profit doubles as equity holdings surge; buys back $4.5 bln shares,0.0,neutral,positive,0.8239
 GOOGL,2026-08-07,07:46PM,Banks Lead a Bonus Boom,0.0,neutral,neutral,0.9007
 GOOGL,2026-08-07,04:54PM,META Stock Returns To Familiar Ground,0.375,positive,neutral,0.5869
 GOOGL,2026-08-07,04:49PM,AI theme has 'a long way to run': Strategist,-0.05,neutral,neutral,0.917
@@ -264,7 +267,7 @@ GOOGL,2026-08-06,08:54AM,Alphabet taps bond market for up to $25 billion in 10-p
 GOOGL,2026-08-06,08:49AM,"Alphabet seeks up to $25 billion from its latest bond sale, Bloomberg News reports",0.5,positive,positive,0.6041
 GOOGL,2026-08-06,08:42AM,Berkshire's Buybacks and 2 More Big Things in Its Earnings Report,0.25,positive,neutral,0.911
 GOOGL,2026-08-06,08:31AM,Alphabet launches 10-part bond sale to support massive AI investment plans,0.0,neutral,positive,0.6741
-GOOGL,2026-08-06,07:45AM,"Cathie Wood invests a combined $28.7 million in TSMC, SpaceX after trimming investments in Amazon, Alphabet and Shopify",0.0,neutral,neutral,0.7024
+GOOGL,2026-08-06,07:45AM,"Cathie Wood invests a combined $28.7 million in TSMC, SpaceX after trimming investments in Amazon, Alphabet and Shopify",0.0,neutral,neutral,0.7023
 GOOGL,2026-08-06,07:41AM,"S&P, Dow futures steady as MidEast deal in focus; chip, software stocks tumble",0.16666666666666666,positive,positive,0.4578
 GOOGL,2026-08-06,06:55AM,How El Nino Will Supercharge Global Inflation,0.0,neutral,neutral,0.8093
 GOOGL,2026-08-06,06:44AM,Stock Markets May Be Tired of Iran But a Hormuz Deal Is Vital,-0.15000000000000002,negative,neutral,0.5623
@@ -296,6 +299,3 @@ GOOGL,2026-08-05,02:06PM,DeepMind Chief Scientist Leaves To Start A Company Goog
 GOOGL,2026-08-05,01:58PM,Google AI Leadership Shakeup Weighs on Alphabet Stock,0.0,neutral,negative,0.9308
 GOOGL,2026-08-05,01:52PM,"Google Stock Falls 5% as 4 AI Leaders Quit, Including the Most-Cited Researchers",0.0,neutral,negative,0.9589
 GOOGL,2026-08-05,01:46PM,"DeepMind's Hassabis Steps Down, Adding To Worries Over Google's AI Push",-0.15555555555555559,negative,negative,0.9552
-GOOGL,2026-08-05,01:28PM,Nvidia Stock Is the Only Magnificent 7 Name in the Green,0.26666666666666666,positive,neutral,0.9401
-GOOGL,2026-08-05,01:27PM,"Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and Amazon Stocks",0.0,neutral,positive,0.9266
-GOOGL,2026-08-05,01:20PM,Google Eyes $1.5B Investment In AI Coding Startup As AI Brain Drain Continues With Jeff Dean's Exit,0.0,neutral,neutral,0.5585
