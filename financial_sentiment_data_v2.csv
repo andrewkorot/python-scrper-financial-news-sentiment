@@ -1,4 +1,9 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-08-10,04:24AM,"S&P 500, Nasdaq, Dow Futures Mixed As Hormuz Uncertainty Weighs: Why AAPL, TSM, MU, SPCX, ASTS, SLS Stocks Are In Focus",0.0,neutral,negative,0.7702
+AAPL,2026-08-10,12:58AM,"Apples Foldable Phone, Whoop-Like Band, CXMT Memory Tests Buzz Keep Traders Hooked",0.0,neutral,neutral,0.8747
+AAPL,2026-08-09,11:40PM,"Apple tests CXMT memory chips as shortage, price pressures persist",0.0,neutral,neutral,0.6859
+AAPL,2026-08-09,08:06AM,"Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",0.0,neutral,neutral,0.6947
+AAPL,2026-08-09,06:54AM,Apple Tests Chinese Memory Chips as Supply Squeeze Bites,0.0,neutral,negative,0.763
 AAPL,2026-08-08,08:34AM,Apple says Mac users in China can connect to Alibaba's Qwen AI service,0.0,neutral,neutral,0.8105
 AAPL,2026-08-07,04:39PM,Apple and OpenAI escalate legal battle over devices,0.2,positive,negative,0.9087
 AAPL,2026-08-07,04:20PM,OpenAI developing $300+ AI speaker to challenge Amazon Alexa,0.0,neutral,positive,0.5509
@@ -94,12 +99,10 @@ AAPL,2026-08-02,09:00AM,How Apple's cheap MacBook Neo sparked a war in budget la
 AAPL,2026-08-02,07:00AM,Tim Cook's lasting legacy: Keeping Apple's eye on the ball,0.0,neutral,neutral,0.9012
 AAPL,2026-08-01,02:47PM,Should you still buy your next smartphone  or subscribe to it instead?,0.0,neutral,neutral,0.9368
 AAPL,2026-07-31,11:01PM,South Korea exports beat forecasts in July on AI chip demand,0.0,neutral,positive,0.9132
-AAPL,2026-07-31,09:05PM,South Korea July exports beat forecasts on robust demand for AI investments,0.0,neutral,positive,0.9346
-AAPL,2026-07-31,06:41PM,Wall Street ends higher as Amazon soothes AI jitters,0.25,positive,positive,0.8505
-AAPL,2026-07-31,05:33PM,Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility,0.0,neutral,negative,0.9351
-AAPL,2026-07-31,05:18PM,The worlds most valuable companies are taking opposite paths in the AI race,0.25,positive,neutral,0.8888
-AAPL,2026-07-31,04:54PM,"Market Talk: Apple sinks, Amazon soars in split verdict on AI winners",-0.1,negative,neutral,0.4404
+TSLA,2026-08-09,11:29PM,"Elon Musk Backs Study Showing Bot Traffic Will Be 1,000X Human Traffic  Michael Burry Wants To Know Who's Actually Paying",0.06666666666666667,positive,neutral,0.9417
+TSLA,2026-08-09,10:36PM,Explainer-What is Unitree and why are Chinas humanoid robot makers racing to list?,0.0,neutral,neutral,0.8989
 TSLA,2026-08-08,10:31AM,Rivian's make-or-break R2 midsize EV delivers: Road test,0.0,neutral,neutral,0.7656
+TSLA,2026-08-08,09:23AM,Tesla UK sales drop as drivers opt for Chinese rivals,0.0,neutral,negative,0.9709
 TSLA,2026-08-08,09:23AM,Tesla UK sales drop as craze for Chinese rivals surges,0.0,neutral,negative,0.9684
 TSLA,2026-08-07,08:52PM,SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building,0.0,neutral,neutral,0.5947
 TSLA,2026-08-07,03:29PM,Tesla Stock Jumps Nearly 4% as $16.8 Billion Terafab Breaks Ground,0.1,positive,positive,0.4629
@@ -196,10 +199,13 @@ TSLA,2026-08-03,05:58PM,Musk likely to face tough questions during SpaceX's firs
 TSLA,2026-08-03,04:58PM,The 3 ETFs That Hold the Most Magnificent 7  and How They're Performing in a Tougher 2026,0.75,positive,neutral,0.735
 TSLA,2026-08-03,04:36PM,Tesla Stock Rises Despite 1.2 Million-Vehicle Safety Probe,0.0,neutral,positive,0.871
 TSLA,2026-08-03,03:37PM,"'Magnificent Seven' add $1.88 trillion in market cap, head for record 3-day gain",1.0,positive,positive,0.6374
-TSLA,2026-08-03,03:34PM,A 'Magnificent' Monday,1.0,positive,positive,0.5865
-TSLA,2026-08-03,02:38PM,Cathie Wood Spends $26 Million On Battered Tech Stock,0.0,neutral,neutral,0.8944
-TSLA,2026-08-03,01:51PM,Veteran Analyst Flags Tesla Stock's Next Critical Test,0.0,neutral,neutral,0.7432
+GOOGL,2026-08-10,12:58AM,"Apples Foldable Phone, Whoop-Like Band, CXMT Memory Tests Buzz Keep Traders Hooked",0.0,neutral,neutral,0.8747
+GOOGL,2026-08-09,08:48PM,Tencent AI Spending Key After Magnificent 7 Rout,0.5,positive,neutral,0.6314
+GOOGL,2026-08-09,06:21PM,Berkshire Earnings Were Good-Not Great. A Real Bright Spot Was This.,0.9,positive,positive,0.6917
+GOOGL,2026-08-09,03:40PM,Berkshire breaks 14-quarter selling streak with $23.5B of stock buys  $10B went to 1 company at a private price,0.0,neutral,neutral,0.823
+GOOGL,2026-08-09,01:05PM,A $13.5 Billion Berkshire Hathaway Mystery: What Is Greg Abel Buying Beyond Alphabet?,0.0,neutral,neutral,0.9312
 GOOGL,2026-08-09,03:08AM,Earnings beats ease concerns over record U.S. stock rally - WSJ,0.0,neutral,positive,0.5382
+GOOGL,2026-08-09,12:01AM,"With SEO Rizz Fading, Brands Compete For Chatbot Love",0.5,positive,neutral,0.818
 GOOGL,2026-08-08,09:29AM,Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile,0.06818181818181818,positive,neutral,0.8784
 GOOGL,2026-08-08,08:38AM,Berkshires profit doubles as equity holdings surge; buys back $4.5 bln shares,0.0,neutral,positive,0.8239
 GOOGL,2026-08-07,07:46PM,Banks Lead a Bonus Boom,0.0,neutral,neutral,0.9007
@@ -293,9 +299,3 @@ GOOGL,2026-08-05,04:02PM,"Dow Weathers Mag 7 Slide, Cruises to Third-Straight Re
 GOOGL,2026-08-05,03:19PM,Googles AI Leadership Is Undergoing Some Major Changes. The Stock Is Sliding,0.0625,positive,neutral,0.8686
 GOOGL,2026-08-05,03:00PM,TeraWulf Inc (WULF) (Q2 2026) Earnings Call Highlights: $19B Anthropic Lease and Strategic ...,0.0,neutral,neutral,0.802
 GOOGL,2026-08-05,02:28PM,Alphabet Stock Falls as Jeff Dean Exits After 27 Years,0.0,neutral,negative,0.9122
-GOOGL,2026-08-05,02:24PM,Uber Stock Falls 4.8% as $10 Billion Robotaxi Bet Expands,0.0,neutral,negative,0.9356
-GOOGL,2026-08-05,02:17PM,New York Times Stock Sinks 13% as Subscriber Growth Slows,0.018181818181818174,neutral,negative,0.9722
-GOOGL,2026-08-05,02:06PM,DeepMind Chief Scientist Leaves To Start A Company Google Will Invest In,0.0,neutral,neutral,0.9378
-GOOGL,2026-08-05,01:58PM,Google AI Leadership Shakeup Weighs on Alphabet Stock,0.0,neutral,negative,0.9308
-GOOGL,2026-08-05,01:52PM,"Google Stock Falls 5% as 4 AI Leaders Quit, Including the Most-Cited Researchers",0.0,neutral,negative,0.9589
-GOOGL,2026-08-05,01:46PM,"DeepMind's Hassabis Steps Down, Adding To Worries Over Google's AI Push",-0.15555555555555559,negative,negative,0.9552
