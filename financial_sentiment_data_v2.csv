@@ -1,4 +1,6 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-08-15,03:08PM,"Tariff refunds are juicing corporate profits and GDP as more tailwinds converge to propel growth to a blistering 4.3% pace, top economist says",0.3333333333333333,positive,negative,0.6928
+AAPL,2026-08-15,05:25AM,US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports,0.0,neutral,negative,0.7857
 AAPL,2026-08-14,10:09PM,Duan Yongping's Second Quarter 2026 13F: A Strategic Pivot Away from NVIDIA,0.0,neutral,negative,0.5208
 AAPL,2026-08-14,07:28PM,Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy,0.0,neutral,neutral,0.8693
 AAPL,2026-08-14,07:06PM,"Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",0.0,neutral,neutral,0.4925
@@ -24,7 +26,7 @@ AAPL,2026-08-14,08:51AM,Apple in Focus as New Houston AI Manufacturing Hub Opens
 AAPL,2026-08-14,08:18AM,Quantinuum Is Working With This Apple Partner to Scale Quantum Computing,0.0,neutral,positive,0.5536
 AAPL,2026-08-14,07:59AM,"Apple opens Houston Advanced Manufacturing Center, Mac mini coming to Texas",0.15000000000000002,positive,neutral,0.8246
 AAPL,2026-08-14,07:00AM,Trumps Golden Age Economy Pitch Fizzles With Midterm Voters,0.3,positive,neutral,0.5584
-AAPL,2026-08-14,06:30AM,Boeing Analysts Turn Most Bullish Since 2022 on Momentum Shift,0.5,positive,negative,0.5692
+AAPL,2026-08-14,06:30AM,Boeing Analysts Turn Most Bullish Since 2022 on Momentum Shift,0.5,positive,negative,0.5691
 AAPL,2026-08-14,06:14AM,"Apple Develops China-Specific AI Model With Alibaba Support, Reuters Reports",0.0,neutral,neutral,0.7671
 AAPL,2026-08-14,05:11AM,Taiwan projects 2026 economic growth at fastest in four decades on AI demand,0.2,positive,positive,0.8516
 AAPL,2026-08-13,04:07PM,Berkshire Bought Alphabet Stock in Q2-and Maybe Microsoft Too,0.0,neutral,neutral,0.9423
@@ -58,7 +60,7 @@ AAPL,2026-08-12,10:20AM,OpenAI vs. Anthropic: Which AI giant is the better IPO b
 AAPL,2026-08-12,10:00AM,"Google launches Pixel 11 smartphone line, including Pixel 11 Pro Fold, as Apple preps foldable iPhone",0.0,neutral,neutral,0.6818
 AAPL,2026-08-12,09:22AM,Apple is testing Chinese DRAM even after CXMT refused to cut prices,0.0,neutral,positive,0.733
 AAPL,2026-08-12,09:09AM,Crypto.com Launches Tokenized Stock Derivatives,0.0,neutral,neutral,0.8918
-AAPL,2026-08-12,08:54AM,"US Core Inflation Comes in Subdued, Easing Pressure on Fed",0.0,neutral,positive,0.6128
+AAPL,2026-08-12,08:54AM,"US Core Inflation Comes in Subdued, Easing Pressure on Fed",0.0,neutral,positive,0.6129
 AAPL,2026-08-12,08:45AM,"Apple Stock's Biggest Risk Is The Memory Bill, Not Demand",0.0,neutral,neutral,0.882
 AAPL,2026-08-12,06:54AM,CPI Inflation Data May Keep Fed Rate Hikes On Hold (Live Coverage),0.13636363636363635,positive,neutral,0.6528
 AAPL,2026-08-12,06:00AM,Forget big tech: the real AI money is in plumbing,0.1,positive,neutral,0.9138
@@ -97,8 +99,6 @@ AAPL,2026-08-10,02:15PM,"Apple reportedly testing Chinese-made memory chips for 
 AAPL,2026-08-10,01:46PM,Apple Stock Falls Amid Concerns About iPhone Setback,0.0,neutral,negative,0.9477
 AAPL,2026-08-10,01:31PM,Apple downgraded by Jefferies on iPhone pricing concerns,0.0,neutral,negative,0.9415
 AAPL,2026-08-10,12:27PM,"Microsoft to Boost AI Chip Production, Information Says",0.0,neutral,positive,0.8708
-AAPL,2026-08-10,11:52AM,Apple Stock Falls on Downgrade -- Jefferies Warns of Major iPhone Setback,0.0625,positive,negative,0.9593
-AAPL,2026-08-10,11:46AM,Apple Stock Falls 2.2% as Jefferies Turns Bearish,0.0,neutral,negative,0.945
 TSLA,2026-08-14,06:10PM,Catherine Wood's Top Second Quarter 2026 Move: Space Exploration Technologies Corp at a 4. ...,0.25,positive,neutral,0.5059
 TSLA,2026-08-14,05:07PM,Waymo Scales Toward 1 Million Weekly Rides After California Approval For Expansion,0.0,neutral,positive,0.8436
 TSLA,2026-08-14,04:05PM,Tesla Stock Rises as Musk Teases Potential 'Flying' Roadster Debut,0.0,neutral,negative,0.4304
@@ -182,12 +182,12 @@ TSLA,2026-08-07,12:54PM,SpaceX's stock is having one of its best days ever - wit
 TSLA,2026-08-07,10:07AM,"SpaceXs Terafab will rely on natural gas power plants, not Tesla solar panels",0.1,positive,neutral,0.9353
 TSLA,2026-08-07,09:48AM,Stock Market Forecast: Weak Jobs Report Triggers Premarket Tech Rally,-0.375,negative,negative,0.9611
 TSLA,2026-08-07,09:30AM,The New Wild West: Texas Experiments With Raw Capitalism,0.001864801864801859,neutral,neutral,0.8889
-TSLA,2026-08-07,08:07AM,Tesla Stock Rises to End Good Week. Thank the Usual Suspects.,0.22499999999999998,positive,positive,0.5191
+TSLA,2026-08-07,08:07AM,Tesla Stock Rises to End Good Week. Thank the Usual Suspects.,0.22499999999999998,positive,positive,0.5192
 TSLA,2026-08-07,07:05AM,"SPCX Stock Hasnt Bottomed Out Yet, But Its A Really Great Time To Buy, Says This Asset Manager",0.8,positive,neutral,0.6471
 TSLA,2026-08-07,06:30AM,Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes,0.0,neutral,negative,0.6637
-TSLA,2026-08-07,06:27AM,SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory  and the Compute Landlord Thesis Just Got Its Most Expensive Chapter,0.20000000000000004,positive,neutral,0.8599
+TSLA,2026-08-07,06:27AM,SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory  and the Compute Landlord Thesis Just Got Its Most Expensive Chapter,0.20000000000000004,positive,neutral,0.8598
 TSLA,2026-08-07,03:43AM,"Elon Musks Terafab Will Be Earths Most Valuable Building, 50x the Size of the Pentagon",0.5,positive,neutral,0.7325
-TSLA,2026-08-07,12:56AM,"Shark Tank Judge Kevin OLeary Passed On SpaceX IPO, But May Buy Soon: The Bigger Opportunity Is",0.0,neutral,neutral,0.8578
+TSLA,2026-08-07,12:56AM,"Shark Tank Judge Kevin OLeary Passed On SpaceX IPO, But May Buy Soon: The Bigger Opportunity Is",0.0,neutral,neutral,0.8577
 TSLA,2026-08-06,11:47PM,Inside Terafab: Musk's US$16.8B bet to turn AI chip shortages into a homegrown supply chain,0.0,neutral,positive,0.5458
 TSLA,2026-08-06,11:12PM,TSLA Stock Eyes Weekly Comeback As Elon Musk Touts Terafabs Colossal Scale  Analyst Flags A Big Intel Question Mark,0.15,positive,neutral,0.6223
 TSLA,2026-08-06,05:32PM,Why Rivian's R2 EV could be its new star vehicle,0.13636363636363635,positive,neutral,0.8479
@@ -199,12 +199,20 @@ TSLA,2026-08-06,03:31PM,TSLA-SPCXs $16.8B Terafab Nears Construction As Elon Mus
 TSLA,2026-08-06,02:10PM,SpaceX spent $295 million on Tesla batteries in Q2 to power its AI data centers,-0.1,negative,neutral,0.7958
 TSLA,2026-08-06,02:09PM,SpaceX Q2 Tesla Megapack purchases: $295 million for AI data centers,0.0,neutral,neutral,0.9089
 TSLA,2026-08-06,01:32PM,Tesla's $16.8 Billion Chip Bet Could Create Several New Winners,0.06818181818181818,positive,neutral,0.7593
+GOOGL,2026-08-15,07:52PM,How could open-weight models impact GenAI ROIC?,0.0,neutral,neutral,0.8352
+GOOGL,2026-08-15,05:31PM,"Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter",0.0,neutral,positive,0.8198
+GOOGL,2026-08-15,12:30PM,SpaceX officially closes its Cursor acquisition,0.0,neutral,neutral,0.6477
+GOOGL,2026-08-15,08:30AM,Alphabet Counts the Ka-Ching With SpaceX Returns,0.0,neutral,neutral,0.9366
+GOOGL,2026-08-15,08:00AM,AI compute is 'critical infrastructure' like railroads & steel: Hut 8 CEO,0.0,neutral,neutral,0.9362
+GOOGL,2026-08-15,08:00AM,A decade of internal AI battles is finally catching up to Google,0.3,positive,neutral,0.7146
+GOOGL,2026-08-15,05:16AM,"Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",0.0,neutral,positive,0.5143
 GOOGL,2026-08-14,07:42PM,Why AI is unlikely to be an apocalypse for jobs,-0.5,negative,neutral,0.9171
 GOOGL,2026-08-14,07:28PM,Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy,0.0,neutral,neutral,0.8693
 GOOGL,2026-08-14,07:06PM,"Maryland tax court voids digital ad tax, orders refunds to Apple, Google and Peacock TV",0.0,neutral,neutral,0.4925
 GOOGL,2026-08-14,07:02PM,All the Stocks Berkshire Hathaway Bought and Sold in Q2,0.0,neutral,neutral,0.9499
 GOOGL,2026-08-14,06:10PM,Li Lu's Bold Q2 2026 Move: PDD Holdings Inc Surges to a 12.68% Portfolio Impact,0.3333333333333333,positive,positive,0.9413
 GOOGL,2026-08-14,06:00PM,Warren Buffett's Top Second Quarter 2026 Move: Alphabet Inc at a 2.93% Portfolio Impact,0.25,positive,neutral,0.9066
+GOOGL,2026-08-14,05:46PM,"Berkshire Hathaway Boosted Alphabet, Delta Stakes, Sold Bank of America",0.0,neutral,neutral,0.6839
 GOOGL,2026-08-14,05:37PM,"Reddit Stock's Pullback Is Tempting, But Don't Ignore The User Question",0.0,neutral,neutral,0.5501
 GOOGL,2026-08-14,05:34PM,Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock,0.0722222222222222,positive,negative,0.6833
 GOOGL,2026-08-14,05:29PM,"Berkshire ups Alphabet stake under Greg Abel, making it a top-3 holding",0.0,neutral,positive,0.7684
@@ -291,11 +299,3 @@ GOOGL,2026-08-12,01:08PM,Alphabet Stock Slips as Australia Expands News-Payment 
 GOOGL,2026-08-12,12:58PM,"The Sign Before Alphabet Stock's Surge Was Google Cloud's Margin, Not Its Growth",0.0,neutral,neutral,0.892
 GOOGL,2026-08-12,11:37AM,Amazon Stock's Next Leg Is Already On The Order Book,0.0,neutral,neutral,0.9335
 GOOGL,2026-08-12,11:18AM,Google Pixel 11 Launch Disappoints as Alphabet Stock Falls,0.0,neutral,negative,0.9486
-GOOGL,2026-08-12,11:15AM,Google raises Pixel prices by $100 as memory costs climb,0.0,neutral,neutral,0.4649
-GOOGL,2026-08-12,11:00AM,Why Intel's $20 Billion Stock Offering Is Actually a Great Sign for the Company,0.8,positive,positive,0.7735
-GOOGL,2026-08-12,10:12AM,Google's Gemini Just Crossed 1 Billion Users,0.0,neutral,neutral,0.8491
-GOOGL,2026-08-12,10:00AM,"Google launches Pixel 11 smartphone line, including Pixel 11 Pro Fold, as Apple preps foldable iPhone",0.0,neutral,neutral,0.6818
-GOOGL,2026-08-12,09:48AM,Palantir Stock's Premium Sits On One Country's Demand,0.0,neutral,neutral,0.9188
-GOOGL,2026-08-12,09:38AM,Why Michael Burry says Berkshire is no longer attractive under Abel,0.8,positive,neutral,0.8753
-GOOGL,2026-08-12,09:00AM,Ryanair is turning to Google Cloud and AI to manage crews and avoid outages,0.0,neutral,neutral,0.9187
-GOOGL,2026-08-12,08:58AM,Ryanair signs 5-year Google Cloud AI deal for crew scheduling,0.0,neutral,positive,0.8274
