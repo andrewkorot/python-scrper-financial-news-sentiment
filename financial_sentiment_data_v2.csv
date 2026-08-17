@@ -1,4 +1,12 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-08-16,11:14PM,Apple reportedly builds China-specific AI model with Alibaba as Qwen partnership deepens,0.0,neutral,positive,0.595
+AAPL,2026-08-16,11:10PM,Apple faces US pressure over potential Chinese memory chip sourcing,0.0,neutral,negative,0.9624
+AAPL,2026-08-16,10:34PM,"Micron Nears $1,000  And Apple Could Be The Next Catalyst",0.0,neutral,neutral,0.8927
+AAPL,2026-08-16,10:16PM,Berkshire Piles $17 Billion More into Google: Why Is Michael Burry Worried?,0.5,positive,neutral,0.8617
+AAPL,2026-08-16,06:30AM,Street Calls of the Week,0.0,neutral,neutral,0.8238
+AAPL,2026-08-16,06:30AM,This 'Boring' Stock Has Nearly Doubled The Nasdaq-100's Returns Over The Past 5 Years,-0.3833333333333333,negative,positive,0.9317
+AAPL,2026-08-16,05:30AM,5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded,0.0,neutral,negative,0.9397
+AAPL,2026-08-15,04:00PM,AI Chipflation Washes Ashore in the UK Economy,0.0,neutral,negative,0.9038
 AAPL,2026-08-15,03:08PM,"Tariff refunds are juicing corporate profits and GDP as more tailwinds converge to propel growth to a blistering 4.3% pace, top economist says",0.3333333333333333,positive,negative,0.6928
 AAPL,2026-08-15,05:25AM,US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports,0.0,neutral,negative,0.7857
 AAPL,2026-08-14,10:09PM,Duan Yongping's Second Quarter 2026 13F: A Strategic Pivot Away from NVIDIA,0.0,neutral,negative,0.5208
@@ -91,14 +99,9 @@ AAPL,2026-08-10,04:56PM,Apple Stock Downgraded Ahead Of iPhone 18 Launch,0.0,neu
 AAPL,2026-08-10,04:51PM,"Apple, Sionna, AbCellera, Sandisk, SpaceX, Berkshire,  and More Stocks That Explain Today's Market",0.5,positive,neutral,0.9494
 AAPL,2026-08-10,04:40PM,NFLX Stock: Where Compounding Could Take The Price,0.0,neutral,neutral,0.5989
 AAPL,2026-08-10,04:29PM,Apple downgraded at Jefferies over iPhone yields and growth concerns,0.0,neutral,negative,0.9674
-AAPL,2026-08-10,04:21PM,Buy Lenovo Group (LNVGY) Stock for Higher Highs Ahead of Earnings?,0.25,positive,neutral,0.8513
-AAPL,2026-08-10,04:07PM,Micron Stock Rises Despite Reported Apple Supplier Threat,0.0,neutral,negative,0.6333
-AAPL,2026-08-10,04:01PM,AI Spending Boom Isn't Boosting Profit Margins-at Least Not Yet,-0.3,negative,positive,0.7961
-AAPL,2026-08-10,03:28PM,Apple Users Face Major iPhone 18 Shock,0.0625,positive,negative,0.7528
-AAPL,2026-08-10,02:15PM,"Apple reportedly testing Chinese-made memory chips for iPhones, MacBooks amid global shortage",0.0,neutral,positive,0.839
-AAPL,2026-08-10,01:46PM,Apple Stock Falls Amid Concerns About iPhone Setback,0.0,neutral,negative,0.9477
-AAPL,2026-08-10,01:31PM,Apple downgraded by Jefferies on iPhone pricing concerns,0.0,neutral,negative,0.9415
-AAPL,2026-08-10,12:27PM,"Microsoft to Boost AI Chip Production, Information Says",0.0,neutral,positive,0.8708
+TSLA,2026-08-16,12:46PM,Elon Musk's SpaceX Holdings Revealed. (Hint: It's A Lot.),0.0,neutral,neutral,0.9333
+TSLA,2026-08-16,12:30PM,"Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",0.0,neutral,neutral,0.4145
+TSLA,2026-08-16,08:30AM,"At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",0.0,neutral,neutral,0.4331
 TSLA,2026-08-14,06:10PM,Catherine Wood's Top Second Quarter 2026 Move: Space Exploration Technologies Corp at a 4. ...,0.25,positive,neutral,0.5059
 TSLA,2026-08-14,05:07PM,Waymo Scales Toward 1 Million Weekly Rides After California Approval For Expansion,0.0,neutral,positive,0.8436
 TSLA,2026-08-14,04:05PM,Tesla Stock Rises as Musk Teases Potential 'Flying' Roadster Debut,0.0,neutral,negative,0.4304
@@ -196,9 +199,16 @@ TSLA,2026-08-06,04:55PM,The Debates That Matter For TSLA Stock,0.0,neutral,neutr
 TSLA,2026-08-06,04:12PM,"SpaceX And Tesla Announce Terafab Location, $16.8 Billion Investment",0.0,neutral,neutral,0.8849
 TSLA,2026-08-06,04:03PM,Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus.,0.0,neutral,neutral,0.8968
 TSLA,2026-08-06,03:31PM,TSLA-SPCXs $16.8B Terafab Nears Construction As Elon Musk Details Compute Split  25% For Tesla Optimus And ~75% For AI Spacecraft,0.0,neutral,neutral,0.5087
-TSLA,2026-08-06,02:10PM,SpaceX spent $295 million on Tesla batteries in Q2 to power its AI data centers,-0.1,negative,neutral,0.7958
-TSLA,2026-08-06,02:09PM,SpaceX Q2 Tesla Megapack purchases: $295 million for AI data centers,0.0,neutral,neutral,0.9089
-TSLA,2026-08-06,01:32PM,Tesla's $16.8 Billion Chip Bet Could Create Several New Winners,0.06818181818181818,positive,neutral,0.7593
+GOOGL,2026-08-17,04:07AM,Payments processing firm Stripe to acquire OpenRouter for over $7bn  report,-0.2,negative,neutral,0.8567
+GOOGL,2026-08-17,03:10AM,BABA Stock Gains Ground: Alibaba Reportedly Sells Gaming Unit For $1.5B As Qwen Fuels Bigger AI Push,0.0,neutral,positive,0.8877
+GOOGL,2026-08-17,01:52AM,Michael Burry Says You Could Have Heard It First  As Big Techs $3T AI Spending Risk Comes Into Focus,0.125,positive,neutral,0.9038
+GOOGL,2026-08-16,10:16PM,Berkshire Piles $17 Billion More into Google: Why Is Michael Burry Worried?,0.5,positive,neutral,0.8617
+GOOGL,2026-08-16,09:40PM,GOOGL Is Already Borrowing Billions For AI  Now Its Reportedly Eyeing Australias Bond Market,0.0,neutral,neutral,0.6443
+GOOGL,2026-08-16,04:57PM,Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+,0.0,neutral,neutral,0.9055
+GOOGL,2026-08-16,12:46PM,Elon Musk's SpaceX Holdings Revealed. (Hint: It's A Lot.),0.0,neutral,neutral,0.9333
+GOOGL,2026-08-16,11:16AM,'Spending is leading to earnings': Wall Street strategists see payoff from Big Tech's AI investment,0.0,neutral,negative,0.6451
+GOOGL,2026-08-16,08:30AM,"At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",0.0,neutral,neutral,0.4331
+GOOGL,2026-08-16,05:30AM,Open-Weight AI Won't Crimp Demand for Picks and Shovels,0.0,neutral,neutral,0.5996
 GOOGL,2026-08-15,07:52PM,How could open-weight models impact GenAI ROIC?,0.0,neutral,neutral,0.8352
 GOOGL,2026-08-15,05:31PM,"Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter",0.0,neutral,positive,0.8198
 GOOGL,2026-08-15,12:30PM,SpaceX officially closes its Cursor acquisition,0.0,neutral,neutral,0.6477
@@ -289,13 +299,3 @@ GOOGL,2026-08-12,09:00PM,Infiltrated: North Korea's Secret U.S. Workforce,-0.4,n
 GOOGL,2026-08-12,07:07PM,"Q2 Earnings Scorecard: Record Margins, Strong Beats, and Upward Revisions",0.4333333333333333,positive,positive,0.9534
 GOOGL,2026-08-12,05:20PM,"S&P500, Nasdaq End Higher As Fresh CPI Data Calms Earlier-Than-Expected Rate Hike Fears  GOOGL, DJT, WEN, BE, SNDK In Focus",0.275,positive,positive,0.7847
 GOOGL,2026-08-12,04:59PM,Googles Pixel 11 isnt the story; Gemini AI is,0.0,neutral,neutral,0.9186
-GOOGL,2026-08-12,03:28PM,Google Raises Pixel 11 Prices by $100,0.0,neutral,neutral,0.786
-GOOGL,2026-08-12,03:20PM,Google's Sergey Brin Has Reportedly Urged AI Talent To Go All In On Gemini Models To Tackle Rivals,0.0,neutral,neutral,0.7767
-GOOGL,2026-08-12,02:19PM,Google unveils new Pixel phones,0.13636363636363635,positive,neutral,0.8298
-GOOGL,2026-08-12,02:19PM,Alphabet's stock slips as Nvidia's $500 billion financing deal threatens custom chips,0.0,neutral,negative,0.9606
-GOOGL,2026-08-12,01:42PM,Google launched Pixel 11 with agentic AI weeks before Apple ships a Gemini-powered Siri,0.0,neutral,neutral,0.8444
-GOOGL,2026-08-12,01:17PM,Alphabet stock slides as Google hikes Pixel 11 prices,0.0,neutral,negative,0.9392
-GOOGL,2026-08-12,01:08PM,Alphabet Stock Slips as Australia Expands News-Payment Rules,0.0,neutral,negative,0.9324
-GOOGL,2026-08-12,12:58PM,"The Sign Before Alphabet Stock's Surge Was Google Cloud's Margin, Not Its Growth",0.0,neutral,neutral,0.892
-GOOGL,2026-08-12,11:37AM,Amazon Stock's Next Leg Is Already On The Order Book,0.0,neutral,neutral,0.9335
-GOOGL,2026-08-12,11:18AM,Google Pixel 11 Launch Disappoints as Alphabet Stock Falls,0.0,neutral,negative,0.9486
