@@ -1,4 +1,5 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-08-24,02:22AM,"Xiaomi launches new Xring chip, partners with TSMC for production, sources say",0.13636363636363635,positive,positive,0.6716
 AAPL,2026-08-22,01:34PM,Will Apples risk appetite change under John Ternus?,0.0,neutral,neutral,0.8622
 AAPL,2026-08-22,08:47AM,Anthropic market debut could break SpaceX IPO record: media,0.0,neutral,neutral,0.6839
 AAPL,2026-08-21,07:34PM,The Lakers as a $12.5 Billion Tax Shelter,0.0,neutral,neutral,0.8805
@@ -98,7 +99,7 @@ AAPL,2026-08-17,12:11PM,Microsoft's Cloud Pitch Moved From Migrations To Meters,
 AAPL,2026-08-17,12:00PM,"Apple's stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says",0.0,neutral,positive,0.9111
 AAPL,2026-08-17,10:16AM,Micron shares rise as White House pushes Apple away from Chinese memory chips,0.0,neutral,negative,0.7892
 AAPL,2026-08-17,10:00AM,Netflix Stock Has Fallen On Slowing Sales While Margin And Buybacks Compound Earnings,0.0,neutral,negative,0.9759
-AAPL,2026-08-17,09:36AM,"Apple upgraded, Workday downgraded: Wall Street's top analyst calls",0.5,positive,negative,0.8443
+TSLA,2026-08-24,01:29AM,"Elon Musk's Tesla Has 'Massive Advantage' Before Selling Optimus in the Market, Says This Analyst  Crypto Prediction Market Weighs 2026 Launch Odds",0.0,neutral,neutral,0.7751
 TSLA,2026-08-21,05:48PM,"US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields  PSKY, MSTR, WMT, TSLA, NVDA In Focus",0.0,neutral,negative,0.934
 TSLA,2026-08-21,04:00PM,Alphabet Rises as Waymo Secures Another Robotaxi Market,0.0,neutral,positive,0.7935
 TSLA,2026-08-21,02:22PM,Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate,0.0,neutral,positive,0.9451
@@ -198,7 +199,16 @@ TSLA,2026-08-14,01:27PM,Tesla Ends Three-Year Swedish Strike Without Union Deal,
 TSLA,2026-08-14,01:08PM,From Math Wont Pass Muster To Full Expectation: Fund Managers Dramatic Pivot On TSLA-SPCX Deal,-0.04166666666666666,neutral,neutral,0.8183
 TSLA,2026-08-14,12:26PM,Tesla owners in California have until Sept. 25 to claim this settlement money,0.0,neutral,neutral,0.822
 TSLA,2026-08-14,11:49AM,Tesla Reportedly Will Demo Flying Roadster,0.0,neutral,neutral,0.8055
-TSLA,2026-08-14,10:00AM,"Large cryptocurrencies drop on Cardano, Sui declines",0.21428571428571427,positive,negative,0.9652
+GOOGL,2026-08-24,02:20AM,Pixel 11 preorder surge lifts Google's Taiwan smartphone share,0.0,neutral,positive,0.8974
+GOOGL,2026-08-23,10:57PM,"Siri AI taps Google Gemini LLM technology, with future development focused on deep third-party app integration",0.0,neutral,neutral,0.5318
+GOOGL,2026-08-23,09:51PM,Alibaba shares fall 8% after $10 billion Hong Kong share sale,0.0,neutral,negative,0.971
+GOOGL,2026-08-23,09:34PM,"Weekly news roundup: Google diversifies custom chips, TSMC share falls, SK Hynix deepens HBM co-design",0.0,neutral,negative,0.7373
+GOOGL,2026-08-23,04:00PM,"Hugging Face exploring sale valuing it at $13 billion, Business Insider says",0.0,neutral,neutral,0.8757
+GOOGL,2026-08-23,12:38PM,"Texas welcomed the AI boom. Now Abbott says data centers ""dug their own grave""",0.6,positive,neutral,0.7195
+GOOGL,2026-08-23,10:08AM,Alibaba Launches Record $10 Billion Share Sale to Enter the AI Race,0.0,neutral,neutral,0.7801
+GOOGL,2026-08-23,09:00AM,Bessent Has No Easy Fix for Whats Really Driving Bond Yields Up,-0.008333333333333331,neutral,neutral,0.8009
+GOOGL,2026-08-23,07:25AM,Nvidia's Q2 earnings to test resurgent AI trade,0.0,neutral,positive,0.944
+GOOGL,2026-08-23,06:28AM,Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers,0.5,positive,negative,0.6105
 GOOGL,2026-08-22,05:17PM,Nvidia customers face over 15% server price hikes as memory costs soar - report,0.0,neutral,negative,0.958
 GOOGL,2026-08-22,03:20PM,"Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",0.0,neutral,negative,0.8736
 GOOGL,2026-08-21,05:15PM,Anthropic hires ex-Google chip chief as AI lab pushes into hardware - Bloomberg,0.0,neutral,neutral,0.8103
@@ -289,13 +299,3 @@ GOOGL,2026-08-19,01:35PM,AMD Stock Tumbles Nearly 4% as Custom AI Chips Gain Gro
 GOOGL,2026-08-19,12:11PM,"Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain",0.07878787878787878,positive,neutral,0.5886
 GOOGL,2026-08-19,11:31AM,Inside Google's $12 Billion Stake in Marvell-and Why It's Bad News for Broadcom.,-0.6999999999999998,negative,negative,0.5653
 GOOGL,2026-08-19,11:15AM,Marvell Jumps 12% on New Google AI Chip Deal,0.13636363636363635,positive,positive,0.912
-GOOGL,2026-08-19,11:09AM,Alphabet's AI Spending Push Comes With a Higher Price,0.25,positive,positive,0.7707
-GOOGL,2026-08-19,11:00AM,Alphabet Raises $3.9B in First Australian Bond Sale as AI Spending Surges,0.125,positive,positive,0.8839
-GOOGL,2026-08-19,10:49AM,Marvell shares jump as Google warrant deepens AI chip partnership,0.0,neutral,negative,0.6126
-GOOGL,2026-08-19,10:37AM,"Broadcom Rival Marvell Surges After Google Strikes AI Chip Deal, Gets Option to Buy $12.2B Stake",0.0,neutral,positive,0.7593
-GOOGL,2026-08-19,10:08AM,There's 'light at the end of the tunnel' for tech stocks amid bond rout: Eric Jackson,0.4,positive,neutral,0.8374
-GOOGL,2026-08-19,09:48AM,Marvell Stock Soars as Chip Company Issues Warrant to Google to Buy Stake of $12.2 Billion,0.0,neutral,neutral,0.8148
-GOOGL,2026-08-19,09:44AM,MRVL Stock Jumps After Google Gets A $12B Ticket To Own 7% Of Marvell  With Strings Attached,0.6,positive,positive,0.5035
-GOOGL,2026-08-19,09:31AM,Marvell stock surges after chipmaker hands Google a $12.2 billion stake option in new AI chip deal,0.13636363636363635,positive,positive,0.7217
-GOOGL,2026-08-19,09:25AM,Marvell shares jump after giving Google warrants amid custom chip deal,0.0,neutral,positive,0.6248
-GOOGL,2026-08-19,09:18AM,Google Just Paid $10 Million for Spirit Airlines Data. Inside the Race to Feed AI Models.,0.0,neutral,neutral,0.9294
