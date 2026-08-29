@@ -1,4 +1,12 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-08-29,08:30AM,Tim Cook wasn't a 'product guy' - so he re-engineered Apple instead,0.0,neutral,neutral,0.9328
+AAPL,2026-08-29,07:00AM,The S&P 500 keeps climbing on days when stocks broadly struggle. Here's what's going on.,0.0625,positive,neutral,0.7422
+AAPL,2026-08-28,10:09PM,Apple implements price hikes for its TV streaming service and 'One' subscription bundle,0.0,neutral,positive,0.4765
+AAPL,2026-08-28,06:24PM,Apple Makes Costly Move Subscribers Won't Miss,0.0,neutral,neutral,0.8484
+AAPL,2026-08-28,06:10PM,Has Microsoft Stock Run Ahead Of Its AI Payoff?,0.0,neutral,negative,0.9003
+AAPL,2026-08-28,05:58PM,Weekly Wrap: Bitcoin Holds Onto Gains,0.0,neutral,positive,0.7606
+AAPL,2026-08-28,05:53PM,How Much Upside Can AAPL Stock's Growth Deliver?,0.2,positive,neutral,0.6805
+AAPL,2026-08-28,05:05PM,Dell Stock Widens Your Portfolio Instead Of Steadying It,0.0,neutral,neutral,0.8711
 AAPL,2026-08-28,02:04PM,"Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?",0.5,positive,negative,0.8899
 AAPL,2026-08-28,01:48PM,Apple TV+ price increase to $14.99 per month in 2026,0.0,neutral,positive,0.9343
 AAPL,2026-08-28,01:48PM,Apple is hiking its streaming service subscription price to $14.99 a month,0.0,neutral,neutral,0.629
@@ -91,14 +99,7 @@ AAPL,2026-08-25,06:02AM,Nvidia faces growth test as Rubin debut meets AI financi
 AAPL,2026-08-25,05:54AM,"Monster Run: This Consumer Stock Turned $1,000 Into $1M Over 22 Years",0.0,neutral,neutral,0.7795
 AAPL,2026-08-24,08:35PM,Walmart Waves the White Flag to Apple Pay,0.0,neutral,neutral,0.8474
 AAPL,2026-08-24,05:56PM,Get Paid 12% A Year To Hold NFLX Stock You Already Own,0.6,positive,neutral,0.9381
-AAPL,2026-08-24,05:30PM,"What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",0.0,neutral,neutral,0.8835
-AAPL,2026-08-24,05:03PM,Q2 Earnings Season Winds Down: 3 Companies That Broke Records,0.17222222222222222,positive,negative,0.9701
-AAPL,2026-08-24,04:43PM,How to Find the Market's Long-Term Winners,0.0,neutral,neutral,0.9307
-AAPL,2026-08-24,04:26PM,Google plans to move all Pixel manufacturing out of China by 2027: report,0.0,neutral,neutral,0.9221
-AAPL,2026-08-24,04:25PM,Coinbase Enters the Tokenized Stock Wars,0.0,neutral,neutral,0.9309
-AAPL,2026-08-24,04:16PM,Coinbase Debuts Tokenized Stocks On Base Network,-0.8,negative,neutral,0.9377
-AAPL,2026-08-24,03:49PM,TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks,0.0,neutral,negative,0.958
-AAPL,2026-08-24,03:43PM,Coinbase Brings Tokenized Stocks to Ethereum L2 Base,-0.8,negative,neutral,0.7948
+TSLA,2026-08-29,07:00AM,The S&P 500 keeps climbing on days when stocks broadly struggle. Here's what's going on.,0.0625,positive,neutral,0.7422
 TSLA,2026-08-28,10:45AM,BYD's EV Sales Plunge in China. What It Means for Tesla.,0.0,neutral,neutral,0.7314
 TSLA,2026-08-28,09:00AM,China's Robot Boom Is Raising Security Fears as the US Robotics Race Accelerates,0.0,neutral,negative,0.8863
 TSLA,2026-08-28,08:40AM,Tesla Stock Has Trailed the S&P 500 for 5 Years. There Are 3 Reasons Why.,0.0,neutral,neutral,0.6524
@@ -198,7 +199,18 @@ TSLA,2026-08-20,01:15AM,Red-Hot Rivals: How Chinese Tech IPOs Are Outshining Ame
 TSLA,2026-08-19,01:53PM,Apple stock stands out among Magnificent Seven on low AI spending,0.5,positive,positive,0.4219
 TSLA,2026-08-19,01:48PM,Tesla Stock Surges 2.9% Despite Its 321-Times Earnings Valuation,0.0,neutral,positive,0.5281
 TSLA,2026-08-19,01:36PM,Nvidia Stalls as Google's $12.2 Billion Custom-Chip Push Expands,0.0,neutral,negative,0.9604
-TSLA,2026-08-19,01:27PM,Tesla Stock Jumps as Cybercab Launch Puts Robotaxi Plans in Focus,0.0,neutral,positive,0.5452
+GOOGL,2026-08-29,07:00AM,The S&P 500 keeps climbing on days when stocks broadly struggle. Here's what's going on.,0.0625,positive,neutral,0.7422
+GOOGL,2026-08-29,03:16AM,How networking became the critical layer of AI,0.0,neutral,neutral,0.9244
+GOOGL,2026-08-29,03:00AM,Google Bets Deutsche Bank Can Make AI Agents Work Inside a Global Banks Compliance Framework,0.0,neutral,neutral,0.8235
+GOOGL,2026-08-28,10:00PM,Expert ranks top 5 U.S. tech companies to recruit from,0.5,positive,neutral,0.7024
+GOOGL,2026-08-28,06:21PM,Marvell Stock Crashes 10% After Guidance Disappoints Investors,0.0,neutral,negative,0.9662
+GOOGL,2026-08-28,06:17PM,Why ZM Stock Prints So Much Cash Right Now,0.24285714285714285,positive,neutral,0.8594
+GOOGL,2026-08-28,06:10PM,Has Microsoft Stock Run Ahead Of Its AI Payoff?,0.0,neutral,negative,0.9003
+GOOGL,2026-08-28,05:59PM,Is Adobe Stocks AI Strategy Worth The Near-Term Risk?,0.3,positive,neutral,0.9072
+GOOGL,2026-08-28,05:58PM,Weekly Wrap: Bitcoin Holds Onto Gains,0.0,neutral,positive,0.7606
+GOOGL,2026-08-28,05:53PM,How Much Upside Can AAPL Stock's Growth Deliver?,0.2,positive,neutral,0.6805
+GOOGL,2026-08-28,05:52PM,Marvell (MRVL) Stock Falls 10% After Q2 Earnings: Buy the Dip?,0.0,neutral,negative,0.9295
+GOOGL,2026-08-28,05:48PM,Can PLTR Stock Live Up To Its Multiple?,0.06818181818181818,positive,neutral,0.7773
 GOOGL,2026-08-28,01:49PM,How Wide Is The Risk Band On IBM Stock?,-0.1,negative,neutral,0.9154
 GOOGL,2026-08-28,01:45PM,Apple Just Raised the Price of Streaming Again,0.0,neutral,neutral,0.8259
 GOOGL,2026-08-28,01:17PM,Marvell Drops 8% as Google's $120 Billion Promise Arrives Too Late,-0.3,negative,negative,0.9563
@@ -287,15 +299,3 @@ GOOGL,2026-08-26,11:02AM,Nvidia earnings countdown: 2 things investors need to s
 GOOGL,2026-08-26,10:54AM,"Meta's social media payout sets precedent for Snap, Google, Roblox  and could be a 'negative'",-0.13333333333333333,negative,negative,0.9445
 GOOGL,2026-08-26,10:39AM,The Robo-Taxi Championship Bout Is Set: Tesla vs. Waymo,0.0,neutral,neutral,0.9209
 GOOGL,2026-08-26,10:19AM,Is Meta a buy after its $16.68 billion social media case settlement?,0.03333333333333333,neutral,neutral,0.899
-GOOGL,2026-08-26,09:46AM,Is Soaring AI CapEx Putting Microsoft Stocks Valuation At Risk?,0.0,neutral,negative,0.7923
-GOOGL,2026-08-26,09:30AM,Exclusive: Google targets AI sticker shock with suite of new tools,0.13636363636363635,positive,neutral,0.8337
-GOOGL,2026-08-26,09:21AM,Is IBM Stock A Bargain After Its 28% Drawdown?,0.0,neutral,negative,0.4878
-GOOGL,2026-08-26,09:04AM,Meta settles with US states over social media harms,0.03333333333333333,neutral,negative,0.9288
-GOOGL,2026-08-26,08:46AM,"MSFT, AMZN, GOOGL Reportedly In Revenue-Sharing Talks With China's Moonshot AI Over Kimi K3 Model",0.0,neutral,positive,0.6285
-GOOGL,2026-08-26,08:24AM,Waymo to enter EU market with Munich robotaxi plans,0.0,neutral,neutral,0.8189
-GOOGL,2026-08-26,08:20AM,OpenAI head of data centers Chris Malone exits amid departures,0.0,neutral,negative,0.8761
-GOOGL,2026-08-26,08:14AM,"Moonshot AI seeks revenue-sharing deals with Microsoft, Amazon, Google",0.0,neutral,positive,0.818
-GOOGL,2026-08-26,08:14AM,"China's Moonshot AI is seeking a revenue cut from Microsoft, Amazon, and Google",0.0,neutral,negative,0.9623
-GOOGL,2026-08-26,08:13AM,The Cost Apple Now Leads With Is Priced By Three Suppliers,0.0,neutral,neutral,0.922
-GOOGL,2026-08-26,08:04AM,Canadas Carney to Address EU Allies Amid Pressure From Trump,0.0,neutral,neutral,0.5023
-GOOGL,2026-08-26,08:00AM,Is Nvidia's AI data center dominance slipping as the market expands?,-0.1,negative,negative,0.9568
