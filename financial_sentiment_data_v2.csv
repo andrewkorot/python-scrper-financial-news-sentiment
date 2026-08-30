@@ -1,4 +1,6 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-08-30,07:46AM,Tim Cook Owns Crypto But Apple Never Bought Bitcoin: Will This Change?,0.0,neutral,neutral,0.9386
+AAPL,2026-08-30,06:00AM,Apple's big handoff and a jobs report: What to watch this week,0.0,neutral,neutral,0.8351
 AAPL,2026-08-29,08:30AM,Tim Cook wasn't a 'product guy' - so he re-engineered Apple instead,0.0,neutral,neutral,0.9328
 AAPL,2026-08-29,07:00AM,The S&P 500 keeps climbing on days when stocks broadly struggle. Here's what's going on.,0.0625,positive,neutral,0.7422
 AAPL,2026-08-28,10:09PM,Apple implements price hikes for its TV streaming service and 'One' subscription bundle,0.0,neutral,positive,0.4765
@@ -97,8 +99,6 @@ AAPL,2026-08-25,08:02AM,Coinbase Put Nvidia and Apple Stock Onchain: But Does We
 AAPL,2026-08-25,07:08AM,Nvidia Earnings Put Rubin Growth Story and AI Financing Strategy Under the Spotlight,0.0,neutral,positive,0.8495
 AAPL,2026-08-25,06:02AM,Nvidia faces growth test as Rubin debut meets AI financing scrutiny,0.0,neutral,positive,0.6708
 AAPL,2026-08-25,05:54AM,"Monster Run: This Consumer Stock Turned $1,000 Into $1M Over 22 Years",0.0,neutral,neutral,0.7795
-AAPL,2026-08-24,08:35PM,Walmart Waves the White Flag to Apple Pay,0.0,neutral,neutral,0.8474
-AAPL,2026-08-24,05:56PM,Get Paid 12% A Year To Hold NFLX Stock You Already Own,0.6,positive,neutral,0.9381
 TSLA,2026-08-29,07:00AM,The S&P 500 keeps climbing on days when stocks broadly struggle. Here's what's going on.,0.0625,positive,neutral,0.7422
 TSLA,2026-08-28,10:45AM,BYD's EV Sales Plunge in China. What It Means for Tesla.,0.0,neutral,neutral,0.7314
 TSLA,2026-08-28,09:00AM,China's Robot Boom Is Raising Security Fears as the US Robotics Race Accelerates,0.0,neutral,negative,0.8863
