@@ -1,4 +1,21 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-09-05,06:41AM,MicroStrategy Drops $250 Bitcoin Jordans. But You Cant Buy With Crypto,0.0,neutral,neutral,0.4945
+AAPL,2026-09-04,07:17PM,Self-Driving's Next Task: Potholes,0.0,neutral,neutral,0.9202
+AAPL,2026-09-04,06:15PM,What to watch at Apple's big event next week,0.0,neutral,neutral,0.9247
+AAPL,2026-09-04,06:02PM,"Exclusive-China's Xi seeks to bring large CEO delegation on US visit, sources say",0.21428571428571427,positive,positive,0.6738
+AAPL,2026-09-04,05:16PM,"Top Research Reports for Apple, Broadcom & Shell",0.5,positive,neutral,0.9419
+AAPL,2026-09-04,04:38PM,Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2',0.6,positive,neutral,0.9048
+AAPL,2026-09-04,03:51PM,Magnificent Seven Flash Strong Signal Never Seen Before,0.7166666666666667,positive,neutral,0.6784
+AAPL,2026-09-04,02:20PM,Apple Slips 1.1% as Face ID Fight Reaches a $218 Billion Engine,0.0,neutral,negative,0.9625
+AAPL,2026-09-04,02:10PM,"Jim Cramer Says Buy the Magnificent Seven Again, Traders See Nvidia as Clear Winner",0.55,positive,positive,0.8621
+AAPL,2026-09-04,01:28PM,S&P 500 struggles as most Big Tech stocks fall,0.25,positive,negative,0.963
+AAPL,2026-09-04,01:14PM,Does Google Stock's Cloud Margin Justify Its AI Bill?,0.0,neutral,neutral,0.8844
+AAPL,2026-09-04,11:00AM,"Academy Moves Forward With Lee, Wolski-David",0.0,neutral,positive,0.6692
+AAPL,2026-09-04,10:40AM,Apple's Memory Costs Quadrupled and Ternus Sets the Price,0.0,neutral,neutral,0.3631
+AAPL,2026-09-04,10:37AM,Apple's First Foldable Could Launch With a Supply Problem,0.25,positive,neutral,0.8073
+AAPL,2026-09-04,10:20AM,Apple's Foldable iPhone Runs Into Early Trouble,-0.05,neutral,negative,0.9256
+AAPL,2026-09-04,09:30AM,Citi names key Apple supply chain gainers before iPhone 18 debut,0.0,neutral,neutral,0.8286
+AAPL,2026-09-04,08:28AM,Apple Poised To Unveil Folding iPhone,0.0,neutral,neutral,0.8824
 AAPL,2026-09-04,08:18AM,Apple Makes Surprising Shift in Future MacBook Lineup,0.35,positive,positive,0.5653
 AAPL,2026-09-04,08:12AM,"Alphabet Just Gave Search, Maps and Gemini a New AI Advantage",0.13636363636363635,positive,neutral,0.8935
 AAPL,2026-09-04,08:10AM,Apple Cancels Major Foldable MacBook Plan,0.0625,positive,negative,0.9412
@@ -82,24 +99,38 @@ AAPL,2026-09-01,12:45PM,"Apple's Ternus Era Begins After Tim Cook Delivers 2,300
 AAPL,2026-09-01,12:32PM,Big Tech ETF kicks off September on a downbeat note,0.0,neutral,negative,0.4785
 AAPL,2026-09-01,12:14PM,Apple Stock Did Great During Cook's Time as CEO-But So Did the Mag 7,0.8,positive,positive,0.8675
 AAPL,2026-09-01,11:46AM,John Ternus's mission: Make Apple more than just an iPhone company,0.5,positive,neutral,0.8842
-AAPL,2026-09-01,11:16AM,Gap Up on Leadership Shift; Shein's Market Debut | Stock Movers,0.0,neutral,positive,0.5739
-AAPL,2026-09-01,10:53AM,Apple Says Ex-Employee Gave Secret Files to OpenAI,-0.4,negative,neutral,0.6986
-AAPL,2026-09-01,10:00AM,Is Apple's hardware the key to John Ternus's success as new CEO?,0.14545454545454545,positive,neutral,0.8734
-AAPL,2026-09-01,09:45AM,Apple enters John Ternus era as AI challenges and memory crunch intensify,0.0,neutral,negative,0.8742
-AAPL,2026-09-01,09:17AM,AAPL Stock Price Target Hiked Ahead Of iPhone Launch  But Analyst Still Sees Downside Amid CEO Transition,0.0,neutral,positive,0.6932
-AAPL,2026-09-01,08:40AM,OpenAI blamed Apple's own security practices for its trade secrets mess,0.2125,positive,negative,0.7479
-AAPL,2026-09-01,08:00AM,"John Ternus's first day as Apple CEO, JOLTS data, Dell earnings: What to Watch",0.25,positive,neutral,0.9177
-AAPL,2026-09-01,07:34AM,The Market's September Curse Is Here but There's a Scarier Spell on Stocks,0.0,neutral,negative,0.7394
-AAPL,2026-09-01,07:08AM,Apple accuses OpenAI of destroying evidence in trade secrets case,-0.2,negative,negative,0.7309
-AAPL,2026-09-01,07:01AM,New Apple CEO John Ternus's first big challenge: Leading when his old boss is still in the building,0.12159090909090908,positive,neutral,0.8852
-AAPL,2026-09-01,06:33AM,OpenAI rejects Apple trade-secret allegations in employee dispute,0.0,neutral,negative,0.5925
-AAPL,2026-09-01,06:29AM,"Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",0.13636363636363635,positive,neutral,0.9225
-AAPL,2026-09-01,06:00AM,John Ternus's biggest challenges as Apple's new CEO,0.13636363636363635,positive,neutral,0.8786
-AAPL,2026-09-01,05:20AM,Tim Cook's legacy hinges on Apple's AI bet,0.0,neutral,neutral,0.9456
-AAPL,2026-09-01,04:45AM,"Nasdaq, Dow, S&P 500 Futures Begin September On Weak Footing: Why NVDA, AAPL, TSLA, PANW, DELL, SLS, HUT Are In Focus",-0.375,negative,negative,0.9583
-AAPL,2026-09-01,03:43AM,"Apples 2,275% Gain Under Tim Cook Is A Tough Act for John Ternus to Follow",-0.3888888888888889,negative,negative,0.7874
-AAPL,2026-08-31,11:50PM,"Apple reshuffles leadership, shifts Schiller out of App Store",0.0,neutral,negative,0.7117
+TSLA,2026-09-05,04:00AM,A Used EV Is the Way to Get Those Luxury Wheels,0.0,neutral,neutral,0.9022
+TSLA,2026-09-04,07:17PM,Self-Driving's Next Task: Potholes,0.0,neutral,neutral,0.9202
+TSLA,2026-09-04,06:18PM,"S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq TSLA, NFLX, BE, NVDA In Focus",0.0,neutral,negative,0.9015
+TSLA,2026-09-04,04:16PM,"No steering wheel, no problem: Can Tesla speed by Cybercab probe?",0.0,neutral,neutral,0.9298
+TSLA,2026-09-04,04:08PM,"TSLA Stock Drops On Disappointing Cybercab Event, NHTSA Probe  But Elon Musk Highlights Growth Since IPO",-0.6,negative,negative,0.8949
+TSLA,2026-09-04,03:53PM,Tesla Stock Falls 6% as NHTSA Probes Its Cybercabs,0.0,neutral,negative,0.9709
+TSLA,2026-09-04,03:51PM,Magnificent Seven Flash Strong Signal Never Seen Before,0.7166666666666667,positive,neutral,0.6784
+TSLA,2026-09-04,02:10PM,"Tesla Drops Over 4.6% as 1,000 Cybercabs Enter Federal Audit",0.0,neutral,negative,0.9698
+TSLA,2026-09-04,02:10PM,Tesla stock sinks as Cybercab launch underwhelms and federal probe opens,-0.1,negative,negative,0.9506
+TSLA,2026-09-04,02:01PM,Tesla stock drops 6% after Cybercab launch and NHTSA probe,0.0,neutral,negative,0.9709
+TSLA,2026-09-04,01:39PM,Why Tesla Stock Is Crashing Today,0.0,neutral,negative,0.7257
+TSLA,2026-09-04,01:30PM,"U.S. auto safety regulator opens probe into nearly 1,000 Tesla Cybercabs",0.1,positive,negative,0.8434
+TSLA,2026-09-04,01:28PM,S&P 500 struggles as most Big Tech stocks fall,0.25,positive,negative,0.963
+TSLA,2026-09-04,12:37PM,NHTSA Says Its Looking Into Teslas Cybercab Safety Standards. The Stock Is Sliding,0.0,neutral,neutral,0.9303
+TSLA,2026-09-04,12:20PM,What Are You Actually Buying In Aurora Innovation Stock?,0.0,neutral,neutral,0.9348
+TSLA,2026-09-04,12:09PM,TSLA Stock Slides 6%  Wells Fargo Says Cybercab Launch Likely Fell Short Of Investor Expectations,0.0,neutral,negative,0.9471
+TSLA,2026-09-04,10:54AM,"Musk Could Need $1 Trillion to Build Enough Chips for His AI Ambitions, ARK Says",0.0,neutral,neutral,0.8093
+TSLA,2026-09-04,10:41AM,Tesla's Cybercab Just Moved From Demo to Public Rides,0.0,neutral,neutral,0.9235
+TSLA,2026-09-04,10:39AM,Lululemon Falls on China Business; Tesla Cybercab Service | Stock Movers,0.0,neutral,negative,0.9624
+TSLA,2026-09-04,10:32AM,Elon Musk Just Opened His Midterm War Chest,0.0,neutral,neutral,0.8
+TSLA,2026-09-04,10:24AM,Good News For Tesla Stock Fans,0.7,positive,positive,0.8112
+TSLA,2026-09-04,10:18AM,Tesla Cybercab Faces Its Biggest Test Yet,0.0,neutral,neutral,0.5381
+TSLA,2026-09-04,10:00AM,"Large cryptocurrencies drop on Sui, XRP decreases",0.21428571428571427,positive,negative,0.967
+TSLA,2026-09-04,09:42AM,Morgan Stanley Hands Elon Musk a New X Headache,0.13636363636363635,positive,neutral,0.8704
+TSLA,2026-09-04,09:31AM,Tesla Begins Cybercab Rides in Austin as NHTSA Evaluates Rollout,0.0,neutral,neutral,0.8796
+TSLA,2026-09-04,09:27AM,Tesla launches Cybercab service in Austin,0.0,neutral,neutral,0.8569
+TSLA,2026-09-04,09:25AM,Tesla's stock falls as Cybercab launch lands with a thud,0.0,neutral,negative,0.9046
+TSLA,2026-09-04,09:21AM,"Tesla's Cybercab 'Storm' Was More of a 'Drizzle,' WSJ's Tim Higgins Says",0.5,positive,negative,0.689
+TSLA,2026-09-04,09:06AM,Tesla Cybercab Arrives to Mixed Reviews and a Falling Stock,0.0,neutral,negative,0.9736
+TSLA,2026-09-04,09:03AM,NHTSA Opens Probe Into Tesla's Cybercab Rollout,0.0,neutral,neutral,0.7657
 TSLA,2026-09-04,08:17AM,Stock Market Today: Dow Falls Ahead Of Jobs Report; Lululemon Plunges 21% As Tesla Sinks (Live Coverage),0.018181818181818174,neutral,negative,0.9576
+TSLA,2026-09-04,08:07AM,5 Things to Know Before the Stock Market Opens on Friday,0.0,neutral,neutral,0.9312
 TSLA,2026-09-04,08:01AM,Feds launch investigation into Teslas Cybercab deployment,0.0,neutral,neutral,0.7806
 TSLA,2026-09-04,08:00AM,Are Meta and Nvidia redefining value vs. growth stocks in the era of AI?,0.0,neutral,neutral,0.8557
 TSLA,2026-09-04,07:59AM,Tesla Stock Slips After Meh Cybercab Launch. What You Need to Know.,0.0,neutral,neutral,0.8024
@@ -168,37 +199,20 @@ TSLA,2026-09-02,06:43AM,Tesla Prepares Cybercab Event in Austin as Robotaxi Roll
 TSLA,2026-09-02,06:15AM,"Tesla set to hold Cybercab event in Austin, Texas",0.0,neutral,neutral,0.9329
 TSLA,2026-09-01,11:37PM,"Tesla Could Make Robotaxis 60x Bigger, Cathie Woods ARK Says  But Gary Black Thinks Uber Will Win The Race",0.21111111111111114,positive,positive,0.6361
 TSLA,2026-09-01,04:19PM,Tesla's French Registrations Nearly Quadrupled While Norway Fell 79%,0.05,neutral,negative,0.945
-TSLA,2026-09-01,03:47PM,Tesla Stock Jumps 2.7% as France Registrations Soar 279%,0.0,neutral,positive,0.8187
-TSLA,2026-09-01,03:09PM,Tesla Just Posted a 279% Surge and a 79% Plunge,0.0,neutral,positive,0.884
-TSLA,2026-09-01,03:00PM,Tesla Stock Faces Crucial Test After Mixed Europe Sales,0.0,neutral,positive,0.9025
-TSLA,2026-09-01,02:30PM,Tesla Touts Full Self-Driving as 4.1X Less Likely to Crash as Europe Weighs Wider Approval,0.06111111111111111,positive,positive,0.6572
-TSLA,2026-09-01,01:28PM,There's a 750% Reason You Should Check Which S&P 500 ETF You're Invested In,0.0,neutral,neutral,0.9253
-TSLA,2026-09-01,01:18PM,Elon Musk Sees a Power Crisis Coming and Other Takeaways From His G20 Speech,-0.125,negative,negative,0.7053
-TSLA,2026-09-01,12:49PM,Waymo goes on offense ahead of Teslas Cybercab launch,0.0,neutral,neutral,0.8909
-TSLA,2026-09-01,12:32PM,Big Tech ETF kicks off September on a downbeat note,0.0,neutral,negative,0.4785
-TSLA,2026-09-01,12:23PM,Tesla Cybercab Hype Is Out of Control-but Can It Save the Stock?,0.0,neutral,neutral,0.8529
-TSLA,2026-09-01,11:39AM,"Elon Musk Talks AI, Robots, and a 'Crisis of Power' at G20 Meeting",0.0,neutral,neutral,0.9049
-TSLA,2026-09-01,11:17AM,Tesla touts European supervised self-driving safety data ahead of EU vote,0.0,neutral,neutral,0.9281
-TSLA,2026-09-01,10:28AM,Tesla Stock Jumps 5.5% Ahead of Cybercab Launch. Is $400 Next?,0.0,neutral,neutral,0.8869
-TSLA,2026-09-01,10:20AM,"Waymo accelerates robotaxi expansion with launches in Denver, San Diego, and Tampa",0.0,neutral,positive,0.9181
-TSLA,2026-09-01,08:56AM,BYD Overseas Sales Strategy Pays Off; Tesla Reports A Mixed Bag In Europe,0.0,neutral,positive,0.8498
-TSLA,2026-09-01,08:22AM,Tesla Stock Fans Just Got Good News From Europe,0.7,positive,positive,0.8557
-TSLA,2026-09-01,08:20AM,U.S. is urging G20 nations to avoid new AI rules at North Carolina summit,0.13636363636363635,positive,negative,0.475
-TSLA,2026-09-01,08:09AM,"Tesla's AI Investments Pale In Comparison To Microsoft, Amazon, and Alphabet",-0.21,negative,negative,0.8472
-TSLA,2026-09-01,08:08AM,Tesla Stock Soars. Robotaxi Event Could Be the Next Big Catalyst,0.0,neutral,neutral,0.8712
-TSLA,2026-09-01,08:06AM,Tesla Stock Drops. Cybercab Hype Is Out of Control.,0.0,neutral,negative,0.9514
-TSLA,2026-09-01,08:00AM,Billionaire SpaceX investor is selling his private island for $7.9M or best offer  but Tanzania says the land isn't his,0.5,positive,neutral,0.9375
-TSLA,2026-09-01,07:50AM,How SpaceX Is Following Amazon as the Market's Great Disruptor,0.4,positive,neutral,0.8062
-TSLA,2026-09-01,07:15AM,"Remember Elon Musks warning that America will 1,000% go bankrupt? Well, US debt just soared through $40T",0.0,neutral,positive,0.568
-TSLA,2026-09-01,06:54AM,"What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARKs August Trades  While Cutting These Growth Stocks",-0.6,negative,neutral,0.7351
-TSLA,2026-09-01,06:40AM,BYD's Domestic Sales Plunge. China's Car Market Continues to Struggle.,0.0,neutral,negative,0.9704
-TSLA,2026-09-01,06:35AM,Tesla registrations show mixed performance across European markets in August,0.0,neutral,negative,0.9691
-TSLA,2026-09-01,04:45AM,"Nasdaq, Dow, S&P 500 Futures Begin September On Weak Footing: Why NVDA, AAPL, TSLA, PANW, DELL, SLS, HUT Are In Focus",-0.375,negative,negative,0.9583
-TSLA,2026-09-01,02:51AM,Ather Energys 130% Stock Surge Leaves Tesla and BYD Behind in 2026,-0.4,negative,negative,0.85
-TSLA,2026-09-01,01:34AM,"Tesla Stock Crushes Rivian, Chinese EV Rivals In August  Wall Street Sees More Upside Before Cybercab Event",0.25,positive,negative,0.7439
-TSLA,2026-08-31,11:02PM,"Dow Futures Climb While S&P 500, Nasdaq Futures Slide After Strong August Rally: TTWO, TSLA, EIX, MDB Stocks In Focus",0.4333333333333333,positive,negative,0.9048
-TSLA,2026-08-31,10:54PM,Tesla Stock Jumps After Unveiling Cheaper Model 3 in Hong Kong,0.0,neutral,positive,0.7276
-TSLA,2026-08-31,05:44PM,"S&P500, Dow End Lower On US-Iran Flare-Up, While Dow Records Fifth Straight Month Of Gains  NVDA, META, AON, MSTR, TSLA In Focus",0.2,positive,negative,0.9374
+GOOGL,2026-09-04,06:20PM,Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?,-0.15555555555555559,negative,negative,0.9557
+GOOGL,2026-09-04,06:05PM,Looking Ahead to the Q3 Earnings Season: What to Expect,0.0,neutral,neutral,0.9346
+GOOGL,2026-09-04,04:21PM,"Why IBM, Microsoft Back Move for Quantum Policy Czar",0.0,neutral,neutral,0.9159
+GOOGL,2026-09-04,03:51PM,Magnificent Seven Flash Strong Signal Never Seen Before,0.7166666666666667,positive,neutral,0.6784
+GOOGL,2026-09-04,03:38PM,Google Turns Three Everyday Apps Into Paid Gemini Microphones,-0.2,negative,neutral,0.9277
+GOOGL,2026-09-04,01:37PM,Should You Worry That IBM Has Gone Quiet On Its AI Total?,0.0,neutral,negative,0.8655
+GOOGL,2026-09-04,01:28PM,S&P 500 struggles as most Big Tech stocks fall,0.25,positive,negative,0.963
+GOOGL,2026-09-04,01:24PM,What Pays Adobe Stock Owners While The Freemium Bet Waits,0.0,neutral,neutral,0.9375
+GOOGL,2026-09-04,01:14PM,Does Google Stock's Cloud Margin Justify Its AI Bill?,0.0,neutral,neutral,0.8844
+GOOGL,2026-09-04,12:41PM,"Nvidia Is Backstopping AI Boom as 'Buyer of Last Resort,' Prominent Economist Tells 'Prof G'",0.25,positive,positive,0.8246
+GOOGL,2026-09-04,12:20PM,What Are You Actually Buying In Aurora Innovation Stock?,0.0,neutral,neutral,0.9348
+GOOGL,2026-09-04,10:54AM,2 Reasons Why Microsoft Can Deliver on Its Massive AI Spending,0.0,neutral,neutral,0.8573
+GOOGL,2026-09-04,09:25AM,Nvidia AI equity investments hit $99 billion in one year,0.0,neutral,positive,0.7696
+GOOGL,2026-09-04,08:19AM,Google Cloud Trails Azure by $4.6 Billion--But Growth Still Has Leverage,0.0,neutral,positive,0.8487
 GOOGL,2026-09-04,08:14AM,Google Says Your Weather Forecasts Are About to Get Better,0.5,positive,neutral,0.8035
 GOOGL,2026-09-04,08:12AM,"Alphabet Just Gave Search, Maps and Gemini a New AI Advantage",0.13636363636363635,positive,neutral,0.8935
 GOOGL,2026-09-04,07:42AM,Jim Cramer says it's time to buy the Magnificent Seven again,1.0,positive,neutral,0.8472
@@ -285,17 +299,3 @@ GOOGL,2026-09-02,11:34AM,Berkshire's $37.8 Billion Alphabet Stake Highlights Its
 GOOGL,2026-09-02,11:19AM,Apple v. OpenAI: Governance Lessons in Trade Secret Protection from Both Sides of the V,-0.4,negative,neutral,0.9077
 GOOGL,2026-09-02,11:09AM,Google avoids breakup as judge rejects ad tech sale order,0.0,neutral,negative,0.739
 GOOGL,2026-09-02,10:50AM,Tesla's Cybercab moment is coming. Elon Musk needs to prove the car isn't just hype.,0.0,neutral,neutral,0.8451
-GOOGL,2026-09-02,10:44AM,Google defeats US bid to force ad tech sale,0.0,neutral,positive,0.4634
-GOOGL,2026-09-02,10:42AM,"BlackRock: AI Boom Still in Phase 1 as Amazon, Google, Microsoft Fuel 'Massive Build-Out'",0.0,neutral,negative,0.644
-GOOGL,2026-09-02,09:53AM,Eos Energy Shares Rise 12% Following West Virginia Solar and Storage Project Announcement,0.0,neutral,positive,0.9172
-GOOGL,2026-09-02,09:26AM,Broadcom Earnings Prediction Market Preview: Will Hock Tan Talk Competition?,0.0,neutral,neutral,0.9254
-GOOGL,2026-09-02,09:13AM,How Berkshire's New CEO Plans to Protect Iowa Power Costs From Hyperscaler Data Center Expansion,0.018181818181818174,neutral,neutral,0.9201
-GOOGL,2026-09-02,08:41AM,Greg Abel Says AI Data Center Power Demand Is A Big Constraint  And A Berkshire Opportunity,-0.05,neutral,negative,0.5148
-GOOGL,2026-09-02,08:40AM,Will Broadcom Earnings Rebuild Confidence in Its AI Growth Story?,0.0,neutral,positive,0.9178
-GOOGL,2026-09-02,08:40AM,Google is readying a coding-focused AI model to narrow the gap with Anthropic and OpenAI,-0.2,negative,positive,0.77
-GOOGL,2026-09-02,08:12AM,Alphabet Stock Rises as Google Nears Launch of Gemini 3.8 Flash,0.0,neutral,neutral,0.6526
-GOOGL,2026-09-02,08:08AM,Berkshires Abel says data centers are energy opportunity,0.0,neutral,neutral,0.9082
-GOOGL,2026-09-02,07:55AM,Berkshire CEO Abel Says It Will Provide Power to Data Centers Only If Consumers Benefit,0.0,neutral,neutral,0.9099
-GOOGL,2026-09-02,07:43AM,Low Costs and No Steering Wheels: What to Watch at Tesla's Cybercab Event,0.0,neutral,neutral,0.9385
-GOOGL,2026-09-02,07:33AM,Greg Abel explains Berkshire's $37 billion Alphabet stake on CNBC,0.0,neutral,neutral,0.9438
-GOOGL,2026-09-02,04:48AM,Fervo Energy signs 396MW geothermal PPA with Google in Utah,0.0,neutral,neutral,0.7586
