@@ -1,4 +1,6 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-09-06,06:30AM,The world is about to meet Apples new CEO. Here are his biggest challenges,0.13636363636363635,positive,neutral,0.9255
+AAPL,2026-09-05,09:10AM,Morgan Stanley estimates Apple foldable iPhone could generate $14 billion in December-quarter revenue,0.0,neutral,neutral,0.523
 AAPL,2026-09-05,06:41AM,MicroStrategy Drops $250 Bitcoin Jordans. But You Cant Buy With Crypto,0.0,neutral,neutral,0.4945
 AAPL,2026-09-04,07:17PM,Self-Driving's Next Task: Potholes,0.0,neutral,neutral,0.9202
 AAPL,2026-09-04,06:15PM,What to watch at Apple's big event next week,0.0,neutral,neutral,0.9247
@@ -56,7 +58,7 @@ AAPL,2026-09-02,02:55PM,"Apple's new CEO will be largely focused on product, say
 AAPL,2026-09-02,02:47PM,Apple's New CEO Has Millions Riding on the Stock Beating the Market,0.13636363636363635,positive,neutral,0.7553
 AAPL,2026-09-02,01:30PM,Apple will now show Lake America instead of Lake Ontario to U.S. users,0.0,neutral,neutral,0.9086
 AAPL,2026-09-02,12:34PM,What's the Real Fuel for Apple Stock's Next Climb?,0.1,positive,neutral,0.9111
-AAPL,2026-09-02,12:10PM,Apple's $54.25 Billion iPhone Engine Faces Its Foldable Moment,0.0,neutral,negative,0.6436
+AAPL,2026-09-02,12:10PM,Apple's $54.25 Billion iPhone Engine Faces Its Foldable Moment,0.0,neutral,negative,0.6437
 AAPL,2026-09-02,11:48AM,Apple CEO Sends First Message Ahead of Massive iPhone 18 Launch,0.125,positive,neutral,0.9257
 AAPL,2026-09-02,11:40AM,This Apple Trade Captures Profit In Either Direction The iPhone Maker's Stock Flies,0.0,neutral,neutral,0.7319
 AAPL,2026-09-02,11:19AM,Apple v. OpenAI: Governance Lessons in Trade Secret Protection from Both Sides of the V,-0.4,negative,neutral,0.9077
@@ -97,8 +99,6 @@ AAPL,2026-09-01,01:04PM,Apple Stock Did Great During Cook's Time as CEO-But So D
 AAPL,2026-09-01,12:45PM,3 Ways Warren Buffett Utilizes Patience Over Profit When Investing,0.0,neutral,neutral,0.9245
 AAPL,2026-09-01,12:45PM,"Apple's Ternus Era Begins After Tim Cook Delivers 2,300% Stock Gain",0.0,neutral,neutral,0.8907
 AAPL,2026-09-01,12:32PM,Big Tech ETF kicks off September on a downbeat note,0.0,neutral,negative,0.4785
-AAPL,2026-09-01,12:14PM,Apple Stock Did Great During Cook's Time as CEO-But So Did the Mag 7,0.8,positive,positive,0.8675
-AAPL,2026-09-01,11:46AM,John Ternus's mission: Make Apple more than just an iPhone company,0.5,positive,neutral,0.8842
 TSLA,2026-09-05,04:00AM,A Used EV Is the Way to Get Those Luxury Wheels,0.0,neutral,neutral,0.9022
 TSLA,2026-09-04,07:17PM,Self-Driving's Next Task: Potholes,0.0,neutral,neutral,0.9202
 TSLA,2026-09-04,06:18PM,"S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq TSLA, NFLX, BE, NVDA In Focus",0.0,neutral,negative,0.9015
@@ -199,6 +199,7 @@ TSLA,2026-09-02,06:43AM,Tesla Prepares Cybercab Event in Austin as Robotaxi Roll
 TSLA,2026-09-02,06:15AM,"Tesla set to hold Cybercab event in Austin, Texas",0.0,neutral,neutral,0.9329
 TSLA,2026-09-01,11:37PM,"Tesla Could Make Robotaxis 60x Bigger, Cathie Woods ARK Says  But Gary Black Thinks Uber Will Win The Race",0.21111111111111114,positive,positive,0.6361
 TSLA,2026-09-01,04:19PM,Tesla's French Registrations Nearly Quadrupled While Norway Fell 79%,0.05,neutral,negative,0.945
+GOOGL,2026-09-05,12:13PM,Google's quantum boss says five years; his engineer says not so fast,0.2,positive,neutral,0.9276
 GOOGL,2026-09-04,06:20PM,Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?,-0.15555555555555559,negative,negative,0.9557
 GOOGL,2026-09-04,06:05PM,Looking Ahead to the Q3 Earnings Season: What to Expect,0.0,neutral,neutral,0.9346
 GOOGL,2026-09-04,04:21PM,"Why IBM, Microsoft Back Move for Quantum Policy Czar",0.0,neutral,neutral,0.9159
@@ -298,4 +299,3 @@ GOOGL,2026-09-02,11:45AM,Nvidia Nears $12.9 Billion Deal for Hugging Face,0.0,ne
 GOOGL,2026-09-02,11:34AM,Berkshire's $37.8 Billion Alphabet Stake Highlights Its Two-Front AI Exposure,0.0,neutral,neutral,0.8754
 GOOGL,2026-09-02,11:19AM,Apple v. OpenAI: Governance Lessons in Trade Secret Protection from Both Sides of the V,-0.4,negative,neutral,0.9077
 GOOGL,2026-09-02,11:09AM,Google avoids breakup as judge rejects ad tech sale order,0.0,neutral,negative,0.739
-GOOGL,2026-09-02,10:50AM,Tesla's Cybercab moment is coming. Elon Musk needs to prove the car isn't just hype.,0.0,neutral,neutral,0.8451
