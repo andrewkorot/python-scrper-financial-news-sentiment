@@ -1,5 +1,17 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-09-07,08:58AM,Apple's Foldable iPhone Is About to Face a China Problem,0.0,neutral,negative,0.5203
+AAPL,2026-09-07,08:38AM,Apple Faces New Threat From Huawei and Xiaomi,0.13636363636363635,positive,negative,0.9436
+AAPL,2026-09-07,08:16AM,Apple Faces Major New Threat Before Crucial iPhone Launch,0.06628787878787878,positive,negative,0.8171
+AAPL,2026-09-07,07:00AM,"A $2,000 iPhone is coming soon as Apple aims for high-end buyers",0.0,neutral,neutral,0.7005
+AAPL,2026-09-07,06:31AM,"Bettors wager Apple's foldable iPhone will cost more than $2,000",0.5,positive,neutral,0.6197
+AAPL,2026-09-07,12:42AM,"Huawei, Xiaomi to Debut New Top Phones on Eve of Foldable iPhone",0.3181818181818182,positive,positive,0.7862
+AAPL,2026-09-06,05:41PM,Phil Schillers App Store exit reportedly driven by wariness over future plans,0.0,neutral,negative,0.966
+AAPL,2026-09-06,02:00PM,"Inflation, Apple, Adobe, Oracle, Macy's, and More to Watch This Week",0.5,positive,neutral,0.9398
+AAPL,2026-09-06,01:35PM,KeyBanc warns Apples iPhone 18 launch may be a negative catalyst for shares,-0.3,negative,negative,0.9646
+AAPL,2026-09-06,11:41AM,Stock Market Week Ahead: Week Of The Big Bond Scheme,0.0,neutral,neutral,0.9199
+AAPL,2026-09-06,07:00AM,What to Expect in Markets This Week: Fresh Inflation Data; Apples Fall Launch Event and Oracle Earnings,0.3,positive,neutral,0.9289
 AAPL,2026-09-06,06:30AM,The world is about to meet Apples new CEO. Here are his biggest challenges,0.13636363636363635,positive,neutral,0.9255
+AAPL,2026-09-05,02:25PM,5 big analyst AI moves: iPhone launch to be negative for Apple stock,-0.15,negative,negative,0.9561
 AAPL,2026-09-05,09:10AM,Morgan Stanley estimates Apple foldable iPhone could generate $14 billion in December-quarter revenue,0.0,neutral,neutral,0.523
 AAPL,2026-09-05,06:41AM,MicroStrategy Drops $250 Bitcoin Jordans. But You Cant Buy With Crypto,0.0,neutral,neutral,0.4945
 AAPL,2026-09-04,07:17PM,Self-Driving's Next Task: Potholes,0.0,neutral,neutral,0.9202
@@ -58,7 +70,7 @@ AAPL,2026-09-02,02:55PM,"Apple's new CEO will be largely focused on product, say
 AAPL,2026-09-02,02:47PM,Apple's New CEO Has Millions Riding on the Stock Beating the Market,0.13636363636363635,positive,neutral,0.7553
 AAPL,2026-09-02,01:30PM,Apple will now show Lake America instead of Lake Ontario to U.S. users,0.0,neutral,neutral,0.9086
 AAPL,2026-09-02,12:34PM,What's the Real Fuel for Apple Stock's Next Climb?,0.1,positive,neutral,0.9111
-AAPL,2026-09-02,12:10PM,Apple's $54.25 Billion iPhone Engine Faces Its Foldable Moment,0.0,neutral,negative,0.6437
+AAPL,2026-09-02,12:10PM,Apple's $54.25 Billion iPhone Engine Faces Its Foldable Moment,0.0,neutral,negative,0.6436
 AAPL,2026-09-02,11:48AM,Apple CEO Sends First Message Ahead of Massive iPhone 18 Launch,0.125,positive,neutral,0.9257
 AAPL,2026-09-02,11:40AM,This Apple Trade Captures Profit In Either Direction The iPhone Maker's Stock Flies,0.0,neutral,neutral,0.7319
 AAPL,2026-09-02,11:19AM,Apple v. OpenAI: Governance Lessons in Trade Secret Protection from Both Sides of the V,-0.4,negative,neutral,0.9077
@@ -87,18 +99,9 @@ AAPL,2026-09-01,05:26PM,"Apple outlines Ternus, Cook compensation in CEO transit
 AAPL,2026-09-01,04:33PM,"Are you willing to pay $2,000 for an iPhone? These customers may.",0.25,positive,neutral,0.8551
 AAPL,2026-09-01,04:24PM,Apple enters a new era as John Ternus takes over as CEO,0.13636363636363635,positive,neutral,0.8702
 AAPL,2026-09-01,04:16PM,Dow Falls 419 Points as Bond Yields Rise: Stock Market Today,0.0,neutral,negative,0.8716
-AAPL,2026-09-01,03:14PM,Apple's New CEO Inherits a 33x Valuation and an $840 Billion Legacy,0.13636363636363635,positive,neutral,0.9488
-AAPL,2026-09-01,03:10PM,Apple Turns to John Ternus for Its Next Chapter,0.0,neutral,neutral,0.9443
-AAPL,2026-09-01,03:04PM,Ripe Brings Old School DeFi Farming to Robinhood Chain,0.1,positive,neutral,0.8511
-AAPL,2026-09-01,02:53PM,AAPL Stock Sees Best Day In Over A Month  CEO John Ternus Reportedly Touts 'Phenomenal' iPhone Launch In First Memo To Employees,0.5833333333333334,positive,neutral,0.7418
-AAPL,2026-09-01,02:20PM,"Apple new CEO Ternus teases ""phenomenal"" iPhone launch in first memo",0.29545454545454547,positive,neutral,0.624
-AAPL,2026-09-01,02:15PM,Apple shares climb as Ternus era begins,0.0,neutral,positive,0.5364
-AAPL,2026-09-01,02:02PM,"Who is John Ternus, the new Apple CEO?",0.13636363636363635,positive,neutral,0.8827
-AAPL,2026-09-01,01:55PM,Apple Climbs Nearly 2.5% as OpenAI Fights Claims After 400 Hires,0.1,positive,positive,0.5601
-AAPL,2026-09-01,01:04PM,Apple Stock Did Great During Cook's Time as CEO-But So Did Everyone Else,0.8,positive,positive,0.7997
-AAPL,2026-09-01,12:45PM,3 Ways Warren Buffett Utilizes Patience Over Profit When Investing,0.0,neutral,neutral,0.9245
-AAPL,2026-09-01,12:45PM,"Apple's Ternus Era Begins After Tim Cook Delivers 2,300% Stock Gain",0.0,neutral,neutral,0.8907
-AAPL,2026-09-01,12:32PM,Big Tech ETF kicks off September on a downbeat note,0.0,neutral,negative,0.4785
+TSLA,2026-09-07,08:49AM,"OpenAI, Anthropic IPOs Could Spark a Selloff in These Struggling Stocks  IBM, Tesla, AppLovin Among Names at Risk",0.0,neutral,negative,0.9531
+TSLA,2026-09-06,05:46PM,Goldman sees Cybercab giving Tesla a cost advantage in robotaxis,0.0,neutral,positive,0.9029
+TSLA,2026-09-06,07:38AM,Elon Musk Fires Back at Bernie Sanders Over His $900 Billion Fortune,0.0,neutral,negative,0.9208
 TSLA,2026-09-05,04:00AM,A Used EV Is the Way to Get Those Luxury Wheels,0.0,neutral,neutral,0.9022
 TSLA,2026-09-04,07:17PM,Self-Driving's Next Task: Potholes,0.0,neutral,neutral,0.9202
 TSLA,2026-09-04,06:18PM,"S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq TSLA, NFLX, BE, NVDA In Focus",0.0,neutral,negative,0.9015
@@ -196,9 +199,12 @@ TSLA,2026-09-02,08:28AM,Trump Declares Bulk Power 'Emergency'; These Energy Stor
 TSLA,2026-09-02,08:10AM,Tesla Keeps China Sales Streak Alive; Cybercab Event On Deck,0.1,positive,positive,0.7474
 TSLA,2026-09-02,07:43AM,Low Costs and No Steering Wheels: What to Watch at Tesla's Cybercab Event,0.0,neutral,neutral,0.9385
 TSLA,2026-09-02,06:43AM,Tesla Prepares Cybercab Event in Austin as Robotaxi Rollout Develops,0.0,neutral,neutral,0.9127
-TSLA,2026-09-02,06:15AM,"Tesla set to hold Cybercab event in Austin, Texas",0.0,neutral,neutral,0.9329
-TSLA,2026-09-01,11:37PM,"Tesla Could Make Robotaxis 60x Bigger, Cathie Woods ARK Says  But Gary Black Thinks Uber Will Win The Race",0.21111111111111114,positive,positive,0.6361
-TSLA,2026-09-01,04:19PM,Tesla's French Registrations Nearly Quadrupled While Norway Fell 79%,0.05,neutral,negative,0.945
+GOOGL,2026-09-07,08:34AM,"Nvidia, Tech Giants Flash Stunning Market Signal",0.5,positive,neutral,0.8049
+GOOGL,2026-09-07,06:35AM,"Exclusive: Ineffable Intelligence adds six cofounders, hiring veterans from Google DeepMind, InstaDeep and venture firm Flying Fish",-0.2,negative,neutral,0.7406
+GOOGL,2026-09-07,06:00AM,"AI computing demand may never be sated, says CEO of Nvidia partner Iren",0.0,neutral,neutral,0.7541
+GOOGL,2026-09-07,06:00AM,Weight loss is just the beginning of GLP-1's: Novo Nordisk CEO,0.0,neutral,neutral,0.9092
+GOOGL,2026-09-06,09:32PM,Google-backed Indian space startup raises $100 million in latest funding round,0.15,positive,positive,0.7343
+GOOGL,2026-09-05,02:25PM,5 big analyst AI moves: iPhone launch to be negative for Apple stock,-0.15,negative,negative,0.9561
 GOOGL,2026-09-05,12:13PM,Google's quantum boss says five years; his engineer says not so fast,0.2,positive,neutral,0.9276
 GOOGL,2026-09-04,06:20PM,Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?,-0.15555555555555559,negative,negative,0.9557
 GOOGL,2026-09-04,06:05PM,Looking Ahead to the Q3 Earnings Season: What to Expect,0.0,neutral,neutral,0.9346
@@ -293,9 +299,3 @@ GOOGL,2026-09-02,12:36PM,Alphabet Rises After Judge Rejects Forced Sale of 20%-F
 GOOGL,2026-09-02,12:34PM,What's the Real Fuel for Apple Stock's Next Climb?,0.1,positive,neutral,0.9111
 GOOGL,2026-09-02,12:33PM,Google launches Gemini 3.8 Flash Cyber for government security,0.0,neutral,neutral,0.8603
 GOOGL,2026-09-02,12:20PM,Abel Says Berkshire Bought Google at a 6.5% Discount,0.0,neutral,neutral,0.9203
-GOOGL,2026-09-02,12:03PM,Top 20 most viewed music videos on YouTube in 2026,0.5,positive,neutral,0.9171
-GOOGL,2026-09-02,11:57AM,Google won't be forced to break up its ads business,-0.30000000000000004,negative,neutral,0.9294
-GOOGL,2026-09-02,11:45AM,Nvidia Nears $12.9 Billion Deal for Hugging Face,0.0,neutral,neutral,0.6162
-GOOGL,2026-09-02,11:34AM,Berkshire's $37.8 Billion Alphabet Stake Highlights Its Two-Front AI Exposure,0.0,neutral,neutral,0.8754
-GOOGL,2026-09-02,11:19AM,Apple v. OpenAI: Governance Lessons in Trade Secret Protection from Both Sides of the V,-0.4,negative,neutral,0.9077
-GOOGL,2026-09-02,11:09AM,Google avoids breakup as judge rejects ad tech sale order,0.0,neutral,negative,0.739
