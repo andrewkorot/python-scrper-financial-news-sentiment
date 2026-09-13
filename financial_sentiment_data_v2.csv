@@ -1,4 +1,5 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-09-13,08:30AM,Apple's iPhone Duo event should put the bears to rest,0.0,neutral,neutral,0.5618
 AAPL,2026-09-12,07:15AM,Tim Cook warns of US crisis: Ive never seen anything like it and Musk agrees. Shockproof your hard cash today,-0.2916666666666667,negative,neutral,0.8136
 AAPL,2026-09-12,07:00AM,CP Group leader tells of modernizing Bocas Innovation Campus: It became a place,0.0,neutral,neutral,0.6652
 AAPL,2026-09-12,06:00AM,Apple's AI vision is tailored for the moment of AI panic,0.0,neutral,neutral,0.9114
@@ -98,7 +99,7 @@ AAPL,2026-09-09,03:56PM,"What it's like to use Apple's iPhone Duo, the company's
 AAPL,2026-09-09,03:54PM,Can Microsoft Stock Keep Earning Like This?,0.0,neutral,neutral,0.7739
 AAPL,2026-09-09,03:33PM,5 Takeaways From Today's Apple Event,0.0,neutral,neutral,0.8839
 AAPL,2026-09-09,03:31PM,Foldable iPhone Duo's software helps it 'shine' against competitors,0.0,neutral,positive,0.8859
-AAPL,2026-09-09,03:25PM,Apple unveils first foldable iPhone at first Ternus keynote,0.25,positive,neutral,0.8311
+TSLA,2026-09-12,09:00PM,Tesla Is Reclaiming the U.S. EV Market as Legacy Automakers Retreat,0.0,neutral,neutral,0.8271
 TSLA,2026-09-12,07:15AM,Tim Cook warns of US crisis: Ive never seen anything like it and Musk agrees. Shockproof your hard cash today,-0.2916666666666667,negative,neutral,0.8136
 TSLA,2026-09-11,05:12PM,Tesla Gains as Semi Opens a $17 Billion Software Door,0.0,neutral,positive,0.7422
 TSLA,2026-09-11,04:21PM,Inside Teslas Cybertruck and robotaxi experience,0.0,neutral,neutral,0.9418
@@ -198,7 +199,7 @@ TSLA,2026-09-04,09:03AM,NHTSA Opens Probe Into Tesla's Cybercab Rollout,0.0,neut
 TSLA,2026-09-04,08:17AM,Stock Market Today: Dow Falls Ahead Of Jobs Report; Lululemon Plunges 21% As Tesla Sinks (Live Coverage),0.018181818181818174,neutral,negative,0.9576
 TSLA,2026-09-04,08:07AM,5 Things to Know Before the Stock Market Opens on Friday,0.0,neutral,neutral,0.9312
 TSLA,2026-09-04,08:01AM,Feds launch investigation into Teslas Cybercab deployment,0.0,neutral,neutral,0.7806
-TSLA,2026-09-04,08:00AM,Are Meta and Nvidia redefining value vs. growth stocks in the era of AI?,0.0,neutral,neutral,0.8557
+GOOGL,2026-09-12,05:33PM,Agentic commerce: Is Payments the winner this time?,0.0,neutral,neutral,0.9192
 GOOGL,2026-09-12,07:00AM,CP Group leader tells of modernizing Bocas Innovation Campus: It became a place,0.0,neutral,neutral,0.6652
 GOOGL,2026-09-11,05:47PM,What Are You Really Paying For Reddit's Ad Growth?,0.2,positive,neutral,0.915
 GOOGL,2026-09-11,04:04PM,Alphabet Jumps 2.5% After Locking In 22 Years of Nuclear Power,0.0,neutral,positive,0.9221
@@ -298,4 +299,3 @@ GOOGL,2026-09-09,12:44AM,"AI Is Splitting the Magnificent Seven Into Winners and
 GOOGL,2026-09-08,05:45PM,Google Warns EU Regulations Will Result In Lower Search Quality,0.0,neutral,negative,0.9574
 GOOGL,2026-09-08,05:00PM,Google DeepMind Maps All 9 Billion Human DNA Variants,0.0,neutral,neutral,0.9469
 GOOGL,2026-09-08,04:57PM,Bank of America Spots Reassuring Signal for Google Stock,0.0,neutral,positive,0.8693
-GOOGL,2026-09-08,04:25PM,"Google, Blackstone Venture Faces Delays at Data-Center Sites",0.0,neutral,negative,0.9564
