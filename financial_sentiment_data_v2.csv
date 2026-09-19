@@ -1,7 +1,29 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-09-19,06:30AM,Warren Buffett found the most boring way to bet on AI,-0.25,negative,neutral,0.8815
+AAPL,2026-09-18,05:01PM,"Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",0.0,neutral,neutral,0.9494
+AAPL,2026-09-18,04:21PM,Apple Stock Gets Stunning Price Target Hike on Strong iPhone Demand,0.4666666666666667,positive,positive,0.9172
+AAPL,2026-09-18,03:49PM,ETF tracking Nasdaq-100 outperforms,0.0,neutral,positive,0.4931
+AAPL,2026-09-18,03:24PM,Where AAPL Stock's $510 Billion Of Shareholder Cash Came From,0.0,neutral,neutral,0.9251
+AAPL,2026-09-18,03:10PM,Intel vs. SK Hynix: Which Chip Stock Is Worth Chasing After This Week's Surge?,0.3,positive,neutral,0.8795
+AAPL,2026-09-18,02:41PM,"Apple Stock Drops as 1,600+ Italian Workers Strike on iPhone 18 Pro Launch",0.0,neutral,negative,0.9668
+AAPL,2026-09-18,02:35PM,"Tech stocks today: Apple's iPhone 18 Pro goes on sale, AI safety debate continues",0.0,neutral,neutral,0.7916
+AAPL,2026-09-18,01:45PM,"In India, the new iPhone can arrive faster than a pizza",0.13636363636363635,positive,neutral,0.6837
+AAPL,2026-09-18,01:37PM,Coinbase Seeks Approval to List Perpetual Futures Tied to U.S. Stocks,0.0,neutral,neutral,0.8613
+AAPL,2026-09-18,12:44PM,"iPhone 18 Pro Hits Stores Today. Apple Stock Could Rise 13% if Demand Sticks, Analyst Says.",0.0,neutral,positive,0.9467
+AAPL,2026-09-18,12:19PM,Apple's iPhone 18 Pro hits shelves: Here's what you need to know,0.0,neutral,neutral,0.9076
+AAPL,2026-09-18,12:14PM,Evercore Resets Apple Stock Price Target for 2026,0.0,neutral,neutral,0.8359
+AAPL,2026-09-18,11:57AM,"Apple's iPhone 18 Pro line hits stores with a $100 price bump amid memory crunch, AI pressure",0.0,neutral,negative,0.9159
+AAPL,2026-09-18,11:15AM,These Magnificent Seven Members Still Look Cheap,0.7,positive,neutral,0.7297
+AAPL,2026-09-18,10:51AM,The Options Market Says Dell Stock Can Halve Or Double,0.0,neutral,neutral,0.8008
+AAPL,2026-09-18,10:36AM,"Apple's iPhone leasing program: How it works, what to consider as prices increase",0.0,neutral,neutral,0.9478
+AAPL,2026-09-18,09:43AM,Survey shows Apple is seeing a better-than-expected iPhone refresh cycle,0.0,neutral,positive,0.9514
+AAPL,2026-09-18,09:29AM,Dan Ives Says AI Leaders Can't 'Stop The Elevator' With Meta In The 'Ferrari Left Lane' As AI Race Accelerates,0.0,neutral,negative,0.6323
+AAPL,2026-09-18,09:13AM,What Did Microsoft Tell You Before Its Stock Ran?,0.0,neutral,neutral,0.8553
 AAPL,2026-09-18,08:21AM,"How Apple's iPhone 18 price increases impact your trade-in value at Verizon, T-Mobile, or AT&T",0.0,neutral,neutral,0.8832
 AAPL,2026-09-18,08:14AM,"Apple iPhone Refresh Cycle Better-Than-Expected, Says Evercore As AAPL Stock Heads For 5th Straight Weekly Gain",0.2,positive,positive,0.9399
 AAPL,2026-09-18,08:03AM,"Stock Market Today: Dow Wavers As Oil Extends Losses; Apple, AMD In Buy Zones (Live Coverage)",0.13636363636363635,positive,negative,0.4892
+AAPL,2026-09-18,08:02AM,5 Things to Know Before the Stock Market Opens on Friday,0.0,neutral,neutral,0.9312
+AAPL,2026-09-18,05:08AM,CFOs On the Move: Week ending Sept. 18,0.0,neutral,neutral,0.7791
 AAPL,2026-09-18,02:00AM,Apple's Chip Strategy Keeps Paying Dividends,0.0,neutral,neutral,0.8874
 AAPL,2026-09-17,11:42PM,Going Beyond Apple's Presentation: Interesting Tidbits and Observations From Apple's 'Surprise and Shine' Event (Part 3),0.5,positive,neutral,0.9234
 AAPL,2026-09-17,10:31PM,Mobile SoC battle for 2026 centers on NPUs,0.0,neutral,neutral,0.9487
@@ -77,28 +99,17 @@ AAPL,2026-09-14,01:08PM,"Apple iPhone 18 Pro pre-orders point to mixed demand si
 AAPL,2026-09-14,11:22AM,Musks xAI Resolves Claims Against Apple Over AI Competition,0.0,neutral,negative,0.7924
 AAPL,2026-09-14,10:13AM,Should You Buy Dell Technologies Stock For All That AI Revenue?,0.0,neutral,neutral,0.9313
 AAPL,2026-09-14,08:12AM,Apple Foldable iPhone Could Change Smartphones Forever,0.0,neutral,neutral,0.8777
-AAPL,2026-09-14,06:17AM,"Apple iPhone 18 Pro Delivery Lead Times Below Last Year, JPMorgan Says",0.0,neutral,negative,0.7735
-AAPL,2026-09-14,04:54AM,GLW Stock Drops Premarket As Corning Launches $2B Equity Offering,0.0,neutral,negative,0.5845
-AAPL,2026-09-13,10:38PM,iPhone Duo's price opens room for Android rivals,0.0,neutral,positive,0.8745
-AAPL,2026-09-13,10:29PM,Foldable smartphone panel shipments to grow 23% in 2026,0.0,neutral,positive,0.9443
-AAPL,2026-09-13,09:44PM,"Why Retail Traders Couldnt Take Their Eyes Off These Stocks Last Week: AAPL, NVDA, ORCL, NOK, SPCX",0.0,neutral,neutral,0.9388
-AAPL,2026-09-13,04:34PM,"Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Aheadan, SpaceX's Musk Call For AI Slowdown",0.0,neutral,neutral,0.7892
-AAPL,2026-09-13,08:30AM,Apple's iPhone Duo event should put the bears to rest,0.0,neutral,neutral,0.5618
-AAPL,2026-09-12,07:15AM,Tim Cook warns of US crisis: Ive never seen anything like it and Musk agrees. Shockproof your hard cash today,-0.2916666666666667,negative,neutral,0.8136
-AAPL,2026-09-12,07:00AM,CP Group leader tells of modernizing Bocas Innovation Campus: It became a place,0.0,neutral,neutral,0.6652
-AAPL,2026-09-12,06:00AM,Apple's AI vision is tailored for the moment of AI panic,0.0,neutral,neutral,0.9114
-AAPL,2026-09-12,05:30AM,Apple Health Chief Knows the Health App Needs Work,0.0,neutral,neutral,0.9191
-AAPL,2026-09-11,09:20PM,Apple foldable plans drive new demand for Japanese smartphone parts makers,0.06818181818181818,positive,positive,0.8476
-AAPL,2026-09-11,09:13PM,"Pegatron's AI server engine starts to outweigh notebook drag, with Apple adding lift",-0.1,negative,positive,0.9436
-AAPL,2026-09-11,09:13PM,"Commentary: Apple sends off Cook with a foldable flourish, but Ternus's trial is still ahead",0.0,neutral,neutral,0.8712
-AAPL,2026-09-11,06:42PM,Novartis: More Pain on the Way?,0.5,positive,negative,0.5314
-AAPL,2026-09-11,05:10PM,"Apple Launches $1,999 Foldable iPhone Duo, but Analysts Question Its Mass-Market Appeal",0.0,neutral,neutral,0.5771
-AAPL,2026-09-11,04:40PM,What Did Dell Technologies Say Before Its Stock Quadrupled?,0.0,neutral,neutral,0.8124
-AAPL,2026-09-11,03:34PM,How Far Could Alphabet Stock Move On You In A Year?,0.1,positive,neutral,0.8299
-AAPL,2026-09-11,03:27PM,Five Warning Signs the AI Stock Bubble Is in Its Final Stages,0.0,neutral,negative,0.6173
-AAPL,2026-09-11,02:13PM,Can Apple Stock's Premium Survive The Memory Squeeze On Its Margin?,0.0,neutral,positive,0.5904
-AAPL,2026-09-11,02:08PM,Are Value ETFs the New AI Trade?,0.13636363636363635,positive,neutral,0.927
-AAPL,2026-09-11,01:52PM,Should Qualcomm Stockholders Worry About Its Shrinking Revenue?,0.0,neutral,negative,0.9602
+TSLA,2026-09-18,09:28PM,"A Nine-Year-Late Sports Car, An Unpriced Robotaxi Pact, Supplier Snags And GMs Hybrid Gap: The EV Wrap",0.0,neutral,neutral,0.8975
+TSLA,2026-09-18,07:35PM,"Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil  NVDA, TSLA, SPCX, ONON In Focus",-1.0,negative,negative,0.9543
+TSLA,2026-09-18,06:01PM,"Weekly Wrap: Bitcoin Climbs Back Above $80,000",0.0,neutral,positive,0.9337
+TSLA,2026-09-18,05:01PM,"Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",0.0,neutral,neutral,0.9494
+TSLA,2026-09-18,01:37PM,Coinbase Seeks Approval to List Perpetual Futures Tied to U.S. Stocks,0.0,neutral,neutral,0.8613
+TSLA,2026-09-18,01:34PM,"Tesla Q3 Deliveries Could Beat Expectations, Says Barclays  Analyst Calls Fundamentals An Afterthought To AI Story",0.0,neutral,positive,0.9425
+TSLA,2026-09-18,01:27PM,Tesla Slips 1% as $16.8 Billion AI Fab Meets a Naming Fight,0.0,neutral,negative,0.9111
+TSLA,2026-09-18,12:49PM,Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting,0.0,neutral,neutral,0.6091
+TSLA,2026-09-18,12:41PM,What's Going On With Tesla Stock Friday,0.0,neutral,neutral,0.5625
+TSLA,2026-09-18,10:32AM,"SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares",0.0,neutral,negative,0.9603
+TSLA,2026-09-18,10:00AM,Large cryptocurrencies rise as Sui increases,0.21428571428571427,positive,positive,0.824
 TSLA,2026-09-18,05:30AM,SpaceX Stock Is on a Good Run While Retail Investors Are Selling. What Gives?,0.7,positive,neutral,0.8593
 TSLA,2026-09-18,04:40AM,Inside Tesla's Shanghai Gigafactory. What Its Largest Plant Means for the Stock.,0.0,neutral,neutral,0.9322
 TSLA,2026-09-17,11:24PM,Early Uber Investor Sees All Car Companies Joining Robotaxi Gold Rush  Lucid And Baidu Take It Global,0.05,neutral,positive,0.5659
@@ -179,7 +190,7 @@ TSLA,2026-09-11,05:12PM,Tesla Gains as Semi Opens a $17 Billion Software Door,0.
 TSLA,2026-09-11,04:21PM,Inside Teslas Cybertruck and robotaxi experience,0.0,neutral,neutral,0.9418
 TSLA,2026-09-11,03:53PM,Elon Musks Boring Company raises $3B at $23B valuation,-1.0,negative,neutral,0.5471
 TSLA,2026-09-11,02:03PM,Morgan Stanley Sees $80 Billion Tesla Semi Opportunity as Diesel Hits Record $6.06,0.0,neutral,positive,0.8455
-TSLA,2026-09-11,01:41PM,Tesla could transform the trucking business - and capitalize on high diesel prices,0.16,positive,positive,0.7776
+TSLA,2026-09-11,01:41PM,Tesla could transform the trucking business - and capitalize on high diesel prices,0.16,positive,positive,0.7777
 TSLA,2026-09-11,01:23PM,Tesla to introduce Semi electric truck in Europe,0.0,neutral,neutral,0.7325
 TSLA,2026-09-11,01:05PM,Is Tesla Stock Priced For Its Earnings Or Its Robots?,0.0,neutral,neutral,0.9374
 TSLA,2026-09-11,12:47PM,Can Rivian Automotive Stock Rally If Its Factory Catches Up With Demand?,0.0,neutral,positive,0.7167
@@ -188,17 +199,29 @@ TSLA,2026-09-11,11:36AM,Does Slovenia's FSD Approval Bring Tesla Closer to EU-Wi
 TSLA,2026-09-11,11:16AM,Tesla Semi Gets Boost From $6 Diesel; Morgan Stanley Says Earnings Potential 'Underappreciated',0.0,neutral,negative,0.8883
 TSLA,2026-09-11,09:43AM,"Teslas Trucking Business Could Unlock A $17B Software Opportunity, Morgan Stanley Says",0.0,neutral,positive,0.9245
 TSLA,2026-09-11,09:26AM,Should You Buy Ford Motor Stock Because It Is Selling Fewer Vehicles At Better Prices?,0.5,positive,neutral,0.8233
-TSLA,2026-09-11,08:00AM,What a Republican 'wipeout' in the midterm elections means for investors,0.0,neutral,neutral,0.8484
-TSLA,2026-09-11,07:58AM,South Korean import sales rise 9% in August,0.0,neutral,positive,0.9425
-TSLA,2026-09-11,07:16AM,Tesla's Electric Semi Could Win From High Diesel Prices,0.48000000000000004,positive,positive,0.9323
-TSLA,2026-09-11,06:13AM,"Kalshi Eyes 24/7 Leveraged Bets on TSLA, NVDA and AAPL With New Perpetual Futures Push: Report",0.13636363636363635,positive,neutral,0.8856
-TSLA,2026-09-11,04:33AM,"Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",0.21428571428571427,positive,negative,0.4887
-TSLA,2026-09-11,04:09AM,"TSLA Stock Rises Premarket On Global Blitz  Cybercab In Japan, Hotter Model Y In China, Powershare In US",0.0,neutral,positive,0.7337
-TSLA,2026-09-11,12:00AM,Elon Musk's gas turbines could shake up the backlogged sector,0.0,neutral,negative,0.9391
-TSLA,2026-09-10,05:36PM,Uber Stock Pops After CEO Buys Shares Worth $10 Million,0.3,positive,negative,0.4406
-TSLA,2026-09-10,05:32PM,"SpaceX Sues Texas AG, Grimes County Over Terafab Project Information",0.0,neutral,negative,0.7401
-TSLA,2026-09-10,03:59PM,House Democrat Calls for Action Against Tesla After 43 Videos Show Drivers Apparently Asleep,0.07500000000000001,positive,negative,0.9022
-TSLA,2026-09-10,02:47PM,Tesla Stock Slips as China's Auto Attack Expands Beyond EVs,0.0,neutral,negative,0.9611
+GOOGL,2026-09-19,07:00AM,AI leaders want to 'pace the frontier' as part of a safety slowdown. But how?,0.0,neutral,neutral,0.8977
+GOOGL,2026-09-19,06:30AM,Warren Buffett found the most boring way to bet on AI,-0.25,negative,neutral,0.8815
+GOOGL,2026-09-18,11:30PM,Artificial Intelligence and Green City Transition Forum successfully held at GreenCities 2026,-0.01666666666666668,neutral,neutral,0.6639
+GOOGL,2026-09-18,09:36PM,How to position for the next wave of AI-led scientific breakthroughs,0.0,neutral,neutral,0.8999
+GOOGL,2026-09-18,06:37PM,"IONQ Stock Surges On Tech Wins, But The Heavy Burn Persists",0.04999999999999999,neutral,negative,0.569
+GOOGL,2026-09-18,05:36PM,What Happens To Reddit Stock If Search Keeps Sending Fewer People?,0.0,neutral,negative,0.6063
+GOOGL,2026-09-18,03:35PM,Goldman Sachs Sends Stark Warning on S&P 500 Earnings,-0.2,negative,negative,0.8815
+GOOGL,2026-09-18,03:24PM,Where AAPL Stock's $510 Billion Of Shareholder Cash Came From,0.0,neutral,neutral,0.9251
+GOOGL,2026-09-18,02:43PM,Analyst Sets Jaw-Dropping Price Target on Alphabet Stock,0.0,neutral,neutral,0.6322
+GOOGL,2026-09-18,02:00PM,Is Palantir's Lead Over Its Peers Already Priced In?,0.0,neutral,neutral,0.5644
+GOOGL,2026-09-18,12:23PM,Berkshire's Next Chapter Comes With a Buffett-Sized Question,0.0,neutral,neutral,0.9264
+GOOGL,2026-09-18,12:18PM,Goldman Sachs Delivers Surprising Verdict on Big Tech Stocks,0.35,positive,positive,0.7617
+GOOGL,2026-09-18,12:14PM,What Happens To Snowflake Stock If AI Keeps Costing It Margin?,0.0,neutral,negative,0.6335
+GOOGL,2026-09-18,12:08PM,California to Reconsider AI 'Kill Switch' With Newsom's New Executive Order,0.13636363636363635,positive,neutral,0.5795
+GOOGL,2026-09-18,11:36AM,Wells Fargo Sends Stark Warning on Netflix Stock -- Sees 24% Downside,-0.2,negative,negative,0.9577
+GOOGL,2026-09-18,11:32AM,Alphabet stock jumps as Wall Street raises targets and search rebounds,0.0,neutral,neutral,0.656
+GOOGL,2026-09-18,10:34AM,Wall St slips as higher Treasury yields weigh on sentiment,0.25,positive,negative,0.9209
+GOOGL,2026-09-18,10:13AM,S&P 500 wavers after best one-day rally in six weeks: AlphaCheck,1.0,positive,neutral,0.39
+GOOGL,2026-09-18,10:04AM,Google Brain Co-Founder Pushes Back on AI Doom Warnings,0.0,neutral,negative,0.8296
+GOOGL,2026-09-18,09:54AM,What Needs To Be True To Buy Rigetti Stock Today?,0.35,positive,neutral,0.927
+GOOGL,2026-09-18,09:30AM,"NVIDIA, Google, Emerald AI launch AI data center power coalition",-0.1,negative,neutral,0.8736
+GOOGL,2026-09-18,09:30AM,NVIDIA and Google are launching a coalition to make AI data centers flex their power use,0.0,neutral,positive,0.673
+GOOGL,2026-09-18,09:13AM,What Did Microsoft Tell You Before Its Stock Ran?,0.0,neutral,neutral,0.8553
 GOOGL,2026-09-18,07:45AM,Here's How Google Advertising Antitrust Ruling Could Play Out,0.0,neutral,neutral,0.9151
 GOOGL,2026-09-18,07:09AM,AgentCard Gives AI Agents Their Own Identity. That Is the Point.,0.6,positive,neutral,0.9146
 GOOGL,2026-09-18,03:10AM,Google Delays Thompson Center Opening to 2028 in Chicago,-0.1,negative,neutral,0.9058
@@ -276,26 +299,3 @@ GOOGL,2026-09-15,11:36AM,"Nvidia Rebounds, but AI's $1.08 Trillion Boom Faces It
 GOOGL,2026-09-15,11:26AM,How Far Could RGTI Stock Drop If the Broader Market Breaks?,0.1,positive,negative,0.9344
 GOOGL,2026-09-15,10:46AM,"Goldman Sachs, Nike share losses lead Dow's nearly 500-point fall",0.1,positive,negative,0.89
 GOOGL,2026-09-15,10:36AM,Planted Raises $31.8 Million to Accelerate Autonomous Solar Deployment,0.4,positive,positive,0.8061
-GOOGL,2026-09-15,10:00AM,"Malone Lam, 22, pleads guilty to stealing $245 million in crypto through a Google impersonation scheme",-0.5,negative,negative,0.6005
-GOOGL,2026-09-15,09:54AM,"Oppenheimer lifts Etsy on AI search, app engagement gains",0.0,neutral,neutral,0.6844
-GOOGL,2026-09-15,09:49AM,OpenAI acquires Glass Imaging camera startup for $300 million,0.0,neutral,neutral,0.899
-GOOGL,2026-09-15,09:19AM,Is The Trade Desk's Cash Worth More Than Its Lost Growth?,0.4,positive,neutral,0.9035
-GOOGL,2026-09-15,08:19AM,Cathie Wood Makes Striking Switch Between AI Stock Giants,0.5,positive,neutral,0.9042
-GOOGL,2026-09-15,06:20AM,"Mag 7 fund poised for breakout to record high, says Fundstrat",0.16,positive,positive,0.9174
-GOOGL,2026-09-15,06:00AM,Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day,-0.05,neutral,negative,0.7665
-GOOGL,2026-09-15,04:00AM,Bull of the Day: Caterpillar (CAT),0.0,neutral,neutral,0.8542
-GOOGL,2026-09-15,03:08AM,Worldline launches UCP payment handler for agentic commerce payments,0.0,neutral,neutral,0.8527
-GOOGL,2026-09-14,05:04PM,Maryland Seeks To Reinstate Digital Ad Tax,0.0,neutral,neutral,0.874
-GOOGL,2026-09-14,04:21PM,Is META Stocks $130B AI Buildout Your Ticket to an 8.7% Yield?,0.0,neutral,neutral,0.7262
-GOOGL,2026-09-14,03:31PM,How Far Can Adobe Stock Fall While It Waits On Freemium?,0.1,positive,neutral,0.5688
-GOOGL,2026-09-14,03:12PM,Michael Burry Spots Troubling Signal for AI Stocks,0.0,neutral,negative,0.9201
-GOOGL,2026-09-14,03:11PM,"Google, OpenAI, Anthropic Weigh High-Stakes AI Pact",0.0,neutral,neutral,0.909
-GOOGL,2026-09-14,02:31PM,Alphabet Gains as AI Slowdown Fears Split the Computing Trade,0.0,neutral,positive,0.4714
-GOOGL,2026-09-14,02:00PM,Did You Pay For Palantir's Guidance Or For Something Else?,0.0,neutral,neutral,0.9146
-GOOGL,2026-09-14,01:31PM,"Alphabet, Meta stocks rally because of AI slowdown fears, not in spite of them",0.0,neutral,negative,0.8245
-GOOGL,2026-09-14,01:30PM,"Netflix, Amazon, and YouTube are forming a Washington lobbying coalition to defend streaming",0.0,neutral,neutral,0.8401
-GOOGL,2026-09-14,01:21PM,"Netflix, Amazon, YouTube form streaming lobbying coalition",0.0,neutral,neutral,0.9433
-GOOGL,2026-09-14,01:10PM,"Netflix, Amazon And YouTube Reportedly Form Coalition As Washington Scrutinizes Sports Broadcasting",0.0,neutral,neutral,0.4278
-GOOGL,2026-09-14,12:59PM,Can Palantir Deploy Fast Enough To Move Its Stock Higher?,0.15,positive,positive,0.8964
-GOOGL,2026-09-14,12:49PM,The Winners and Losers in an AI Slowdown,-0.2,negative,neutral,0.6119
-GOOGL,2026-09-14,12:09PM,Google: Measurement Shouldn't Be A Record Of Where Budget Went,0.0,neutral,neutral,0.9004
