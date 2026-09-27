@@ -1,4 +1,7 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-09-27,09:02AM,"Apples Tiny iPhone, Watch Feature Just Triggered A $5.7B Legal Blow  What Investors Need To Know",0.1,positive,neutral,0.8632
+AAPL,2026-09-27,09:00AM,"Look closer, and Wall Street's rally is showing cracks",0.0,neutral,positive,0.7093
+AAPL,2026-09-27,07:11AM,"Gene Munster Says Personalized AI Could Be Apple, Metas Next Big Profit Machine  'Numbers So Large Theyre Hard To Believe'",-0.019345238095238103,neutral,neutral,0.7579
 AAPL,2026-09-26,06:07AM,"China, U.S. agree to $30 billion tariff cut, launch AI dialogue",0.0,neutral,positive,0.5156
 AAPL,2026-09-25,04:18PM,Weekly Wrap: The Crypto Rally Continues,0.0,neutral,neutral,0.9221
 AAPL,2026-09-25,04:02PM,"Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street.",0.5,positive,neutral,0.8178
@@ -96,9 +99,7 @@ AAPL,2026-09-22,06:41AM,"Stock Market Today: Futures Tick Higher After Nasdaq Cl
 AAPL,2026-09-22,05:48AM,Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth,0.16666666666666666,positive,neutral,0.8836
 AAPL,2026-09-22,03:00AM,Steve Jobs made Apple iconic. Tim Cook made it a $5 trillion behemoth,0.5,positive,neutral,0.9231
 AAPL,2026-09-22,03:00AM,Apples first 50 years: Charts show how the iPhone maker became a $4.85 trillion giant,0.125,positive,neutral,0.9135
-AAPL,2026-09-22,02:02AM,"TSLA, SPCX, AAPL Could Be Next To Rip After Metas Muse Rally, Analyst Says  Here Are The Catalysts",0.0,neutral,neutral,0.8736
-AAPL,2026-09-22,12:30AM,Meta Jumps 11% As Muse Shines and Investors Show an Appetite for Advancing AI,0.0,neutral,positive,0.9411
-AAPL,2026-09-21,11:21PM,META Stock Rallies As Muse AI Tops App Charts  Exec Admits Its Heavily Inspired By OpenClaw,-0.2,negative,positive,0.6892
+TSLA,2026-09-27,09:00AM,"Look closer, and Wall Street's rally is showing cracks",0.0,neutral,positive,0.7093
 TSLA,2026-09-26,04:43AM,Ross Gerber Asks Why There Are Starlink Ads On TV But Not Tesla EVs As Gas Prices Soar  'Doesn't The CEO Know?',0.0,neutral,neutral,0.912
 TSLA,2026-09-25,09:30PM,"The Auto Weekly: Tesla's Semi Play, Rivian's Cheaper Model Promise And Detroit's Market Share Threat",0.0,neutral,neutral,0.6658
 TSLA,2026-09-25,05:08PM,"Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due",0.025000000000000005,neutral,neutral,0.8251
@@ -108,7 +109,7 @@ TSLA,2026-09-25,03:38PM,Trump says China's Xi 'seemed to like' renaming AI as su
 TSLA,2026-09-25,02:33PM,Trump-Xi Meeting Puts These 5 Chinese AI Stocks in Focus,0.0,neutral,neutral,0.9429
 TSLA,2026-09-25,01:56PM,"Tesla Stock: Tent-Shape Options Strategy Strives To Surpass $3,700 In Profit",0.0,neutral,positive,0.6502
 TSLA,2026-09-25,01:04PM,What Musk's Tesla and SpaceX Stocks Are Doing After That White House State Dinner,0.0,neutral,neutral,0.9431
-TSLA,2026-09-25,01:01PM,Elon Musk Sighs At EU-Wide FSD Approval Delay  TSLA Stock Slips,0.0,neutral,neutral,0.6052
+TSLA,2026-09-25,01:01PM,Elon Musk Sighs At EU-Wide FSD Approval Delay  TSLA Stock Slips,0.0,neutral,neutral,0.6053
 TSLA,2026-09-25,12:39PM,Tesla Stock Drops as Europe Delays FSD Scale,0.0,neutral,negative,0.9482
 TSLA,2026-09-25,12:11PM,Tesla Semi: Diesel's surge gives the electric truck an opening as high prices improve the math for fleets,0.16,positive,positive,0.8999
 TSLA,2026-09-25,12:01PM,Coinbase Tokenized Stocks Added as Collateral for USDC Loans on Aave,0.0,neutral,neutral,0.8976
@@ -198,7 +199,13 @@ TSLA,2026-09-21,10:00AM,"Large cryptocurrencies climb on Sui, Cardano increases"
 TSLA,2026-09-21,09:50AM,"Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",0.0,neutral,neutral,0.4452
 TSLA,2026-09-21,09:50AM,"Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",0.0,neutral,positive,0.6025
 TSLA,2026-09-21,09:27AM,Should You Pay Up For Tesla's Narrow Lead Over Its Peers?,-0.2,negative,negative,0.4749
-TSLA,2026-09-21,08:08AM,Musk Has a New Route for Texas and It's Underground,0.13636363636363635,positive,neutral,0.8114
+GOOGL,2026-09-27,09:00AM,"Look closer, and Wall Street's rally is showing cracks",0.0,neutral,positive,0.7093
+GOOGL,2026-09-27,07:50AM,The AI gold rush is fueling a record corporate bond boom: Chart of the Day,0.0,neutral,neutral,0.7995
+GOOGL,2026-09-27,06:29AM,Could Europes data centre boom trigger a nuclear power revival?,0.0,neutral,neutral,0.805
+GOOGL,2026-09-27,05:48AM,Amazon Opened Seller Central to Walmart and eBay but Blocked Metas Muse. Heres What Connects the Two Moves,0.0,neutral,neutral,0.9332
+GOOGL,2026-09-27,04:22AM,Forget Google. This Is the Marvell Story That Matters Right Now,0.2857142857142857,positive,neutral,0.8781
+GOOGL,2026-09-26,09:30PM,Google tests buying from Flipkart through Gemini in India,0.0,neutral,positive,0.6259
+GOOGL,2026-09-26,03:58PM,'Don't Ship Products Until They're in Control': Nvidia's Huang Weighs In on AI Safety Debate,0.0,neutral,neutral,0.7966
 GOOGL,2026-09-26,07:41AM,Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.,0.0,neutral,neutral,0.573
 GOOGL,2026-09-25,04:58PM,What Will the Q3 Earnings Season Show?,0.0,neutral,neutral,0.8687
 GOOGL,2026-09-25,04:18PM,Weekly Wrap: The Crypto Rally Continues,0.0,neutral,neutral,0.9221
@@ -292,10 +299,3 @@ GOOGL,2026-09-22,09:59PM,"Alibaba to Add Data Centers in Europe, Middle East in 
 GOOGL,2026-09-22,05:51PM,$223 Billion Back To Shareholders: Inside The MSFT Machine,0.0,neutral,neutral,0.9383
 GOOGL,2026-09-22,04:57PM,Micron vs. SanDisk: Comparing Two Red-Hot AI Memory Stocks,0.0,neutral,neutral,0.5932
 GOOGL,2026-09-22,04:48PM,Can This Number Push IBM Stock Higher?,0.25,positive,positive,0.7392
-GOOGL,2026-09-22,04:36PM,Google Appeals $425M Privacy Verdict,0.0,neutral,negative,0.505
-GOOGL,2026-09-22,03:50PM,"Meta's Muse AI teams up with Shopify, lifting its stock",0.0,neutral,positive,0.9342
-GOOGL,2026-09-22,03:28PM,"Dell Falls 2.5% as $1,199 Googlebook Tests PC Margin",0.0,neutral,negative,0.9495
-GOOGL,2026-09-22,02:56PM,Shopify Just Gave Meta's AI Agent a Major Boost,0.0625,positive,positive,0.742
-GOOGL,2026-09-22,02:29PM,Invest Like Buffett: Lessons From the Oracle of Omaha,0.0,neutral,neutral,0.8989
-GOOGL,2026-09-22,02:07PM,Meta Platforms Just Hit an Amazon Roadblock,0.0,neutral,negative,0.819
-GOOGL,2026-09-22,01:32PM,Musk: Amazon Wont Know Whether the Buyer Is a Human in Muse Battle,0.0,neutral,neutral,0.9408
