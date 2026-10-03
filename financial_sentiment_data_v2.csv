@@ -1,4 +1,16 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-10-02,10:01PM,"Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A New OS For Work This Week",0.13636363636363635,positive,neutral,0.7481
+AAPL,2026-10-02,06:01PM,Apple iPhone 18 Pro Max AT&T Glitch Requires Device Replacements,0.0,neutral,neutral,0.678
+AAPL,2026-10-02,04:18PM,"Microsoft Entered the Smart Home Through Your Washing Machine, Not Your Phone",0.21428571428571427,positive,neutral,0.9484
+AAPL,2026-10-02,04:03PM,Morgan Stanley Has Strong Verdict for Apple Stock Investors,0.4333333333333333,positive,positive,0.8889
+AAPL,2026-10-02,03:26PM,"Buy, Hold, or Fade Tesla Stock After Its Q3 Delivery Beat?",0.0,neutral,neutral,0.8011
+AAPL,2026-10-02,03:12PM,Apple Stocks Rises Although AI Agents Threaten App-Store Gatekeeping,0.0,neutral,negative,0.8035
+AAPL,2026-10-02,01:30PM,Nvidia Hits Record High as Market Value Reaches $5.7 Trillion,0.16,positive,positive,0.8747
+AAPL,2026-10-02,11:35AM,Jefferies Sees Signs of Softer iPhone 18 Demand in Resale Pricing,0.0,neutral,negative,0.775
+AAPL,2026-10-02,11:24AM,"Early October Prime Day deals: Save up to $600 on Mac, Apple Watch, Jackery, Ugreen",0.1,positive,neutral,0.8814
+AAPL,2026-10-02,11:16AM,How Much Upside Is Left In Apple Stock?,0.1,positive,neutral,0.5883
+AAPL,2026-10-02,11:03AM,Morgan Stanley Strategist Sees 5 or 10% Market Drawdown Potential as Five Megacaps Carry the S&P 500,0.0,neutral,negative,0.9375
+AAPL,2026-10-02,10:58AM,Why You Should Think About Netflix Differently Now,0.0,neutral,neutral,0.9074
 AAPL,2026-10-02,09:18AM,Should You Trim Or Add To Your Dell Position Now?,0.0,neutral,neutral,0.8679
 AAPL,2026-10-02,09:17AM,Musk's Remarks Don't Mean SpaceX Cut Its Starship Launches,-0.3125,negative,neutral,0.551
 AAPL,2026-10-02,09:05AM,Guidance Raise And Momentum - Dell Stock Has Both,0.0,neutral,positive,0.9237
@@ -87,18 +99,30 @@ AAPL,2026-09-29,05:43AM,Just 5 Tech Stocks Are Hiding the Bear Market From You,0
 AAPL,2026-09-29,04:09AM,J.P. Morgan Drops Sharp Take on Magnificent 7 Stocks,0.4375,positive,negative,0.5899
 AAPL,2026-09-28,10:34PM,What Should Apple Do With Vision Pro?,0.0,neutral,neutral,0.9374
 AAPL,2026-09-28,05:41PM,Dell Stock Looks Less Expensive Once You Count The AI Backlog,-0.3333333333333333,negative,neutral,0.8615
-AAPL,2026-09-28,05:18PM,What Nvidia's $150 billion stock buyback means for shareholders and potential investors,0.0,neutral,neutral,0.9046
-AAPL,2026-09-28,04:41PM,Nvidia Just Put a Record $150 Billion Behind Its Own Stock,0.09999999999999998,positive,neutral,0.8927
-AAPL,2026-09-28,04:15PM,Stocks fall; oil prices off highs amid renewed hopes for Middle East negotiations,0.0,neutral,negative,0.8841
-AAPL,2026-09-28,03:57PM,Nvidia's $235 Billion Buyback Shows Who Is Really Winning the AI Boom,0.5,positive,neutral,0.8686
-AAPL,2026-09-28,03:31PM,How Has Alphabet Stock's Story Changed?,0.0,neutral,neutral,0.8166
-AAPL,2026-09-28,03:26PM,Apple Stock Edges Higher Although Two Legal Bills Stack Up,0.225,positive,positive,0.8457
-AAPL,2026-09-28,01:42PM,What You Actually Pay To Join The AAPL Run,0.0,neutral,neutral,0.9386
-AAPL,2026-09-28,01:15PM,Nvidia Thinks Its Stock Is Cheap. Its Buying Back $150 Billion.,0.2,positive,neutral,0.8052
-AAPL,2026-09-28,01:00PM,Nvidia Is Following Apple's Playbook. A Record Buyback Proves It.,0.15,positive,positive,0.8373
-AAPL,2026-09-28,11:52AM,Opinion: Apples Gangster Move to Boost iPhone Sales Has a Hidden Benefit Every Shareholder Will Love,0.16666666666666669,positive,neutral,0.5016
-AAPL,2026-09-28,11:16AM,Burford Capital shares gain on $5.7B Apple patent verdict,0.0,neutral,positive,0.7834
-AAPL,2026-09-28,10:47AM,OpenAI DevDay 2026  The Agent Platform Race Arrives at OpenAIs Doorstep,0.0,neutral,neutral,0.9232
+TSLA,2026-10-03,07:35AM,"Elon Musk: America is 1,000% going to go bankrupt and fail as a country  but he says 1 powerful force can save us",-0.1,negative,neutral,0.7899
+TSLA,2026-10-03,05:30AM,The Carmaker Vying With Tesla to Conquer the Robot Future,0.0,neutral,neutral,0.8596
+TSLA,2026-10-03,03:09AM,"Dan Ives Says Tesla Could Have A Golden Year In 2027  Robotaxis, Optimus And Cybercab In Focus",0.3,positive,positive,0.881
+TSLA,2026-10-02,08:29PM,"Stocktwits Zero To Sixty   Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard",-0.09583333333333333,negative,negative,0.9714
+TSLA,2026-10-02,08:24PM,"Tesla, Rivian Deliveries Beat Estimates: Analysts Explain Why TSLA Rallied While RIVN Fell",0.0,neutral,positive,0.9491
+TSLA,2026-10-02,03:57PM,Tesla Stock Jumps After Massive Operational Victory,0.0,neutral,positive,0.5392
+TSLA,2026-10-02,03:56PM,Dan Ives on Tesla stocks: A big step in the right direction,0.14285714285714285,positive,positive,0.7042
+TSLA,2026-10-02,03:26PM,"Buy, Hold, or Fade Tesla Stock After Its Q3 Delivery Beat?",0.0,neutral,neutral,0.8011
+TSLA,2026-10-02,02:57PM,Former Tesla President Says Car Sales Are Funding the Longer Road to Robots and Cybercabs,0.0,neutral,positive,0.5359
+TSLA,2026-10-02,01:49PM,Tesla's Delivery Beat Offers Something the Stock Has Been Missing,-0.05,neutral,neutral,0.7539
+TSLA,2026-10-02,01:20PM,Shivon Zilis says Elon Musk broke up with her with no warning,0.0,neutral,neutral,0.8406
+TSLA,2026-10-02,01:10PM,Did Gas Vehicle Sales Just Dip Below 50% For The First Time?,0.25,positive,negative,0.6188
+TSLA,2026-10-02,01:08PM,Tesla Stocks Jump 5.43% as Deliveries Clear Company Consensus,0.10000000000000002,positive,neutral,0.4556
+TSLA,2026-10-02,12:43PM,Tesla shares jump after global car sales top estimates,0.25,positive,positive,0.6121
+TSLA,2026-10-02,12:36PM,Billionaire Investor Ron Baron Raves About Elon Musks Tesla Technology: The Time to Buy the Stock Is Now,0.0,neutral,neutral,0.9295
+TSLA,2026-10-02,12:33PM,Tesla Stock Jumps After Surprise Q3 Delivery Beat,0.0,neutral,neutral,0.393
+TSLA,2026-10-02,12:09PM,Nasdaq hits record high after softer jobs data tempers rate-hike bets,0.16,positive,negative,0.4596
+TSLA,2026-10-02,11:52AM,EV sales rebound as Tesla and Rivian top expectations,0.5,positive,positive,0.9346
+TSLA,2026-10-02,11:42AM,"Stock Market Finishes Strong, Yields Off Highs; Micron, Meta, Nvidia, Tesla In Focus: Weekly Review",0.4333333333333333,positive,neutral,0.8383
+TSLA,2026-10-02,11:36AM,Tesla Stock Jumps After Deliveries Top Estimates,0.5,positive,positive,0.5544
+TSLA,2026-10-02,11:15AM,Rivian Crushes Delivery Numbers. Why the Stock Is Down.,-0.15555555555555559,negative,negative,0.9386
+TSLA,2026-10-02,11:07AM,Rivian Q3 Deliveries Hit Record  Retail Says Sub-$50K R2 Could Make It Stronger Rival To Tesla,0.0,neutral,positive,0.9412
+TSLA,2026-10-02,10:40AM,"Tesla Q3 Deliveries Beat Street Estimate, Gene Munster Says EV Winter Is Thawing  Sees 15% Growth In Full Year 2027",0.35,positive,positive,0.9303
+TSLA,2026-10-02,10:32AM,Tesla Stock Jumps 6% on Delivery Beat: Will Earnings Back It Up?,0.0,neutral,positive,0.8895
 TSLA,2026-10-02,10:18AM,"Stocks to Watch: Nike, Tesla, Volvo Car",0.0,neutral,neutral,0.9317
 TSLA,2026-10-02,09:48AM,Tesla's EV sales top estimates with auto business rebounding,0.5,positive,positive,0.9526
 TSLA,2026-10-02,09:39AM,Tesla stock rises as company reports Q3 deliveries that top analyst estimates,0.5,positive,positive,0.5909
@@ -112,7 +136,6 @@ TSLA,2026-10-02,09:08AM,"Tesla Delivered 486,532 Electric Vehicles In Q3, Beatin
 TSLA,2026-10-02,08:30AM,"To win the humanoid-robots race, the U.S. needs this critical machine component that's hard to find",0.16944444444444443,positive,neutral,0.8947
 TSLA,2026-10-02,08:15AM,US Regulator Backs Tesla Plan Allowing Investors to Auto Vote Proxy Ballots With Management,0.0,neutral,neutral,0.8249
 TSLA,2026-10-02,08:08AM,Stock Market Today: Dow Rises Ahead Of Jobs Report; Nike Plunges On Earnings (Live Coverage),0.13636363636363635,positive,negative,0.954
-TSLA,2026-10-02,07:45AM,"Wall St futures rise ahead of jobs report as bond market steadies, oil slips",0.0,neutral,positive,0.4383
 TSLA,2026-10-02,07:39AM,Markets Need the Jobs Report to Point to a Fed Hold,0.0,neutral,neutral,0.696
 TSLA,2026-10-02,06:45AM,Ron Baron: Elon Musks unbelievable new product that all Americans will want  and now is the time to buy stock,-0.05681818181818182,negative,neutral,0.8178
 TSLA,2026-10-02,06:27AM,How Bad Would A Cash Shortfall Be For Tesla Stock?,-0.6999999999999998,negative,negative,0.953
@@ -176,29 +199,22 @@ TSLA,2026-09-29,04:09AM,J.P. Morgan Drops Sharp Take on Magnificent 7 Stocks,0.4
 TSLA,2026-09-29,03:38AM,Safety group urges EU to reject Tesla FSD over speed offset,0.0,neutral,neutral,0.7295
 TSLA,2026-09-28,11:51PM,TSLA Stock Slides As Retail Turns Cautious Ahead Of Q3 Deliveries  But Musks Terafab Is Moving Fast,0.2,positive,negative,0.9459
 TSLA,2026-09-28,07:30PM,TSLA Heads Into Fridays Delivery Print With Family-Targeted Model Y L Already Sold Into Next Year,0.0,neutral,positive,0.6031
-TSLA,2026-09-28,04:20PM,"Tesla Pushes Roadster Event To Oct. 15 After Storm Forecast, Says It Can Only Be Held Outdoors",0.0,neutral,neutral,0.8709
-TSLA,2026-09-28,03:22PM,Tesla Stock Drops Over 3% Before Cybercab's Federal Answers Come Due,-0.125,negative,negative,0.9666
-TSLA,2026-09-28,02:28PM,Tesla launches high-volume Semi production,0.0,neutral,neutral,0.6555
-TSLA,2026-09-28,01:10PM,Why Tesla Stock Is Tied to SpaceX Ahead of a Big Week for the EV Maker,0.0,neutral,neutral,0.9174
-TSLA,2026-09-28,10:27AM,Can This Number Push Tesla Stock Higher?,0.25,positive,neutral,0.5039
-TSLA,2026-09-28,10:16AM,Is Rivian Stock Riskier Than It Looks?,0.0,neutral,neutral,0.6871
-TSLA,2026-09-28,09:45AM,"Stocks slip as bond yields rise, but Nvidia stock is rising: AlphaCheck",0.0,neutral,negative,0.8811
-TSLA,2026-09-28,09:15AM,EXCLUSIVE: Faraday Chairman Warns Cutting China Out of US Robot Supply Chain Too Fast Could Backfire,-0.19999999999999998,negative,negative,0.9493
-TSLA,2026-09-28,09:05AM,"Tesla Faces Q3 Delivery Test  JPMorgan Cuts Forecast, Flags Weakness In Two Key Markets",0.0,neutral,negative,0.9555
-TSLA,2026-09-28,08:30AM,Tesla Deliveries Are Coming but the Stock Has a Bigger Catalyst First,0.125,positive,neutral,0.7924
-TSLA,2026-09-28,08:05AM,Elon Musk's Tesla and SpaceX have a huge week on tap,0.4000000000000001,positive,neutral,0.5779
-TSLA,2026-09-28,06:17AM,"Aave Just Turned Tokenized Apple, Nvidia and Tesla Stocks Into USDC Loan Collateral",0.0,neutral,neutral,0.9237
-TSLA,2026-09-28,06:05AM,"MAG 7 Voices: Jensen Huang, Elon Musk, Mark Zuckerberg Shape A Week Of AI Debate",0.0,neutral,neutral,0.8975
-TSLA,2026-09-28,06:03AM,Prediction markets' push into US stocks raises regulatory alarm bells,0.0,neutral,negative,0.8467
-TSLA,2026-09-27,11:38AM,"Dow Jones Futures Due Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",-0.125,negative,neutral,0.8848
-TSLA,2026-09-27,09:00AM,"Look closer, and Wall Street's rally is showing cracks",0.0,neutral,positive,0.7093
-TSLA,2026-09-26,04:43AM,Ross Gerber Asks Why There Are Starlink Ads On TV But Not Tesla EVs As Gas Prices Soar  'Doesn't The CEO Know?',0.0,neutral,neutral,0.912
-TSLA,2026-09-25,09:30PM,"The Auto Weekly: Tesla's Semi Play, Rivian's Cheaper Model Promise And Detroit's Market Share Threat",0.0,neutral,neutral,0.6658
-TSLA,2026-09-25,05:08PM,"Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due",0.025000000000000005,neutral,neutral,0.8251
-TSLA,2026-09-25,04:32PM,Tesla begins delivering Semi trucks to customers after years of delays,0.0,neutral,positive,0.5211
-TSLA,2026-09-25,03:43PM,"Exclusive: Tesla Optimus Commercialization Next Year Is Very Realistic, Faraday Chairman Says",0.10833333333333334,positive,neutral,0.7948
-TSLA,2026-09-25,03:38PM,Trump says China's Xi 'seemed to like' renaming AI as super intelligence,0.3333333333333333,positive,neutral,0.8084
-TSLA,2026-09-25,02:33PM,Trump-Xi Meeting Puts These 5 Chinese AI Stocks in Focus,0.0,neutral,neutral,0.9429
+GOOGL,2026-10-02,10:01PM,"Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A New OS For Work This Week",0.13636363636363635,positive,neutral,0.7481
+GOOGL,2026-10-02,05:34PM,Soft Labor Data Meets Solid Earnings: The Bullish Setup for the Market,0.05,neutral,positive,0.7109
+GOOGL,2026-10-02,04:18PM,"Microsoft Entered the Smart Home Through Your Washing Machine, Not Your Phone",0.21428571428571427,positive,neutral,0.9484
+GOOGL,2026-10-02,04:02PM,SPCX Stock Climbs As Three Thursday Launches Meet Start Of Googles $920 Million AI Pact,0.0,neutral,positive,0.5013
+GOOGL,2026-10-02,04:01PM,BNP Has Strong Message For Meta Stock Investors,0.4333333333333333,positive,positive,0.7534
+GOOGL,2026-10-02,01:47PM,Google raises Pixel 10a price by $100 amid memory cost surge,0.0,neutral,positive,0.3879
+GOOGL,2026-10-02,01:47PM,BNP Paribas Has a Strong Message on Meta's Muse AI,0.4333333333333333,positive,positive,0.7974
+GOOGL,2026-10-02,01:14PM,Alphabet Stocks Jump 2% as Gemini Argon Stretches Output 15.6-Fold,0.0,neutral,positive,0.4679
+GOOGL,2026-10-02,01:02PM,SpaceX (SPCX): Fresh Catalysts Ahead,0.3,positive,positive,0.6524
+GOOGL,2026-10-02,11:22AM,Zuckerberg Giving Away 100 Million Tokens a Week as OpenAI and Anthropic Are Forced to Ration,-0.30000000000000004,negative,negative,0.8542
+GOOGL,2026-10-02,11:16AM,How Much Upside Is Left In Apple Stock?,0.1,positive,neutral,0.5883
+GOOGL,2026-10-02,11:03AM,Morgan Stanley Strategist Sees 5 or 10% Market Drawdown Potential as Five Megacaps Carry the S&P 500,0.0,neutral,negative,0.9375
+GOOGL,2026-10-02,10:55AM,"Cisco, NVIDIA Corp. share gains lead Dow's 275-point jump",0.0,neutral,positive,0.8029
+GOOGL,2026-10-02,10:49AM,SpaceX stock surges after successful ISS and Google launches,0.75,positive,positive,0.7524
+GOOGL,2026-10-02,10:49AM,SpaceX stock surges after after successful ISS and Google launch,0.75,positive,positive,0.8096
+GOOGL,2026-10-02,10:37AM,Can Pricier AI Chip Rentals Accelerate Amazon's AWS Revenue Growth?,0.0,neutral,positive,0.824
 GOOGL,2026-10-02,10:00AM,It's a broad-based rally to start the day as yields fall,0.0,neutral,neutral,0.7282
 GOOGL,2026-10-02,09:45AM,"Dow's 400-point rally led by gains in Caterpillar, NVIDIA Corp. shares",0.0,neutral,positive,0.8923
 GOOGL,2026-10-02,09:37AM,Alphabet Launches Homegrown AI Tensor Processing Chips Into Orbit On SpaceX Rocket,0.0,neutral,neutral,0.7097
@@ -283,19 +299,3 @@ GOOGL,2026-09-30,11:09AM,Why Is Everyone Ignoring Adobe Stock's High Cash Yield?
 GOOGL,2026-09-30,10:46AM,"AI companies just signed a White House accord, and tech folks can't get enough of the signatures",0.0,neutral,neutral,0.7341
 GOOGL,2026-09-30,10:39AM,Ford Is Worried About a Labor Shortage and What That Means for Manufacturing,0.0,neutral,negative,0.9476
 GOOGL,2026-09-30,10:25AM,Could Amazon Stock Survive AI Spending Outrunning Its Cash?,0.0,neutral,neutral,0.4289
-GOOGL,2026-09-30,09:40AM,Opinion: Why Apple Is Terrified of Whatever OpenAI Is Building,0.0,neutral,neutral,0.8785
-GOOGL,2026-09-30,09:35AM,What Is Going On With Alphabet Stock?,0.0,neutral,negative,0.7169
-GOOGL,2026-09-30,08:18AM,Anthropic IPO Filing Reveals a Major Vulnerability: Nearly 50% of Sales Flow Through Amazon and Google as Revenue Concentration Raises Risks: Report,0.08125,positive,negative,0.933
-GOOGL,2026-09-30,08:17AM,SpaceX Shares Rise Following TD Cowen Buy Rating Initiation,0.0,neutral,positive,0.6988
-GOOGL,2026-09-30,08:00AM,Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for,0.0,neutral,positive,0.8333
-GOOGL,2026-09-30,07:07AM,Nvidia CEO Jensen Huang: AI data center build-out could create 1 million jobs and reshape the US economy,-0.1,negative,positive,0.891
-GOOGL,2026-09-30,06:08AM,AI in America has a huge 1.7 million job shortage problem,0.4000000000000001,positive,negative,0.9404
-GOOGL,2026-09-30,05:58AM,AI companies just signed a White House accord -- this is all that tech people are talking about after it,0.0,neutral,neutral,0.9332
-GOOGL,2026-09-30,05:06AM,MGNI Stock Heads For Another Month In Green: Magnite Gets Price Target Boost As Google Ad-Tech Changes Open New Growth Path,-0.02121212121212122,neutral,positive,0.9361
-GOOGL,2026-09-30,03:34AM,"Chief Telecom, Google Cloud launch backup services to bolster cable resilience",0.0,neutral,positive,0.8737
-GOOGL,2026-09-30,01:27AM,John Ternus Sits Down With Clique: Five Takeaways,-0.15555555555555559,negative,neutral,0.589
-GOOGL,2026-09-30,12:01AM,AI industry moves to thwart data centre backlash ahead of US midterms,0.0,neutral,negative,0.5203
-GOOGL,2026-09-29,11:07PM,Executives of Iconic American Companies Reflect on How They Stay on Top,0.3333333333333333,positive,neutral,0.9126
-GOOGL,2026-09-29,08:42PM,OpenAI leans on cheaper models and always-on agents at DevDay as flagship upgrade is shelved,0.0,neutral,neutral,0.8425
-GOOGL,2026-09-29,06:45PM,"Trump, AI CEOs sign voluntary safety pact, back data center expansion",-0.05,neutral,neutral,0.7353
-GOOGL,2026-09-29,06:17PM,"Bot Traffic Will Be 1000X Bigger Than Human Traffic in Just Five Years, According to Cloudflare CEO",0.0,neutral,neutral,0.8295
