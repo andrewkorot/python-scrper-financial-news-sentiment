@@ -1,5 +1,16 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
-AAPL,2026-10-05,12:29PM,TSMC stock hits all-time high after Elon Musk confirms early Terafab talks,0.13,positive,neutral,0.484
+AAPL,2026-10-06,10:10AM,How Much Upside Is Left In Google Stock?,0.1,positive,neutral,0.5573
+AAPL,2026-10-06,10:08AM,"Nvidia, Apple, and Microsoft are keeping the stock market afloat",0.0,neutral,negative,0.5111
+AAPL,2026-10-06,10:01AM,"S&P 500, Nasdaq touch new peaks as Treasury yields cool, oil slips",0.24318181818181817,positive,positive,0.811
+AAPL,2026-10-06,09:25AM,Crypto Heavyweights Back OKX at $25B Valuation,0.0,neutral,neutral,0.5472
+AAPL,2026-10-06,08:26AM,Nvidia stock hits record high after Foxconn Q3 2026 revenue surge,0.16,positive,positive,0.9047
+AAPL,2026-10-06,05:16AM,The Apple HomePad Pricing Vacuum,-0.008333333333333333,neutral,neutral,0.738
+AAPL,2026-10-06,03:00AM,"Why Oura really pulled its IPO: Wall Street experts suspect valuation concerns, an insider cash-out, and an Apple-sized threat",0.2,positive,negative,0.7558
+AAPL,2026-10-05,10:52PM,NYSEs Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange  And the SEC Already Gave It Permission,-0.1,negative,neutral,0.9416
+AAPL,2026-10-05,09:55PM,Apple to Begin Fighting Back Against AI Bots,0.0,neutral,neutral,0.4311
+AAPL,2026-10-05,03:54PM,TSMC stock hits all-time high after Elon Musk confirms early Terafab talks,0.13,positive,neutral,0.484
+AAPL,2026-10-05,02:01PM,OKX and ICE Plan 24/7 Trading for Tokenized U.S. Stocks,0.0,neutral,neutral,0.9407
+AAPL,2026-10-05,12:59PM,"Nvidia Is 'Tip Of The Spear' For AI Trade, Says Dan Niles  Warns 'At A Certain Point Either The Bond Market's Wrong Or Stock Market Is Wrong'",-0.2619047619047619,negative,negative,0.566
 AAPL,2026-10-05,11:16AM,Apple Changes Mac OS to Warn Users About Aggressive AI Agents,0.0,neutral,neutral,0.7149
 AAPL,2026-10-05,09:20AM,Meta Muse: Sparking the AI Revolution,0.0,neutral,neutral,0.8889
 AAPL,2026-10-05,08:18AM,Nvidia Gets Another AI Demand Signal As Foxconn Sales Hit Record High  Apple Faces Holiday Test,0.16,positive,positive,0.895
@@ -88,19 +99,32 @@ AAPL,2026-09-29,03:32PM,Billionaire Investor: Metas Muse Puts Apples 30% Rev Sha
 AAPL,2026-09-29,03:20PM,What Is The One Risk Every Google Stock Investor Should Know?,0.0,neutral,neutral,0.9158
 AAPL,2026-09-29,03:11PM,Wells Fargo Spots Unexpected Winner in TSMC's 2nm Race,0.1,positive,positive,0.8633
 AAPL,2026-09-29,03:07PM,Why Muse is Winning the Agentic AI Race,0.5,positive,neutral,0.9319
-AAPL,2026-09-29,02:47PM,Apple Could Keep Selling iPhones and Still Lose a Key AI Battle,0.0,neutral,negative,0.949
-AAPL,2026-09-29,02:21PM,TSMC's 2nm Push Could Create a New Winner in the AI Chip Boom,0.13636363636363635,positive,positive,0.8662
-AAPL,2026-09-29,01:28PM,Apple CEO John Ternus Reportedly Weighs A Leaner Organization  Heres The Key Things Under Consideration,0.0,neutral,positive,0.5904
-AAPL,2026-09-29,12:39PM,Apple streamlines management as analysts urge faster AI innovation,0.0,neutral,neutral,0.7803
-AAPL,2026-09-29,12:35PM,Apple Stock Drops 1.5% as Local AI Moves Onto Desktops,0.0,neutral,negative,0.9634
-AAPL,2026-09-29,12:09PM,Apple Stock Falls After Bank of America Flags a New AI Threat,0.13636363636363635,positive,negative,0.7599
-AAPL,2026-09-29,11:58AM,"Apple CEO Ternus plots restructure to supercharge products, report says",0.0,neutral,neutral,0.8401
-AAPL,2026-09-29,11:22AM,Apple Faces a New Threat From Meta's Muse,0.13636363636363635,positive,negative,0.7605
-AAPL,2026-09-29,10:39AM,Metas Muse AI threatens Apples mobile commerce dominance,0.0,neutral,negative,0.9462
-AAPL,2026-09-29,10:25AM,"Apple Could Keep Every iPhone Sale Yet Lose Discovery Referral, BofA Warns  Says Muse Concerns Are Overdone",0.0,neutral,negative,0.9186
-AAPL,2026-09-29,10:14AM,Apple lawsuit becomes class action,0.1,positive,negative,0.7212
-TSLA,2026-10-05,12:29PM,TSMC stock hits all-time high after Elon Musk confirms early Terafab talks,0.13,positive,neutral,0.484
-TSLA,2026-10-05,12:09PM,"S&P 500 up, Nasdaq at record high as megacap tech stocks rise",0.16,positive,positive,0.7885
+TSLA,2026-10-06,10:01AM,"S&P 500, Nasdaq touch new peaks as Treasury yields cool, oil slips",0.24318181818181817,positive,positive,0.811
+TSLA,2026-10-06,09:56AM,"Teslas Robotaxis, FSD And Optimus Outlook Matter More Than Q3 Earnings, Says Goldman Sachs",0.5,positive,neutral,0.8048
+TSLA,2026-10-06,09:50AM,Tesla Proves the EV Winter is Over: Heres the Conservative Case for 32% Upside,0.3,positive,neutral,0.5963
+TSLA,2026-10-06,09:40AM,S&P 500 hovers near record highs as Treasury yields ease: AlphaCheck,0.1,positive,negative,0.4745
+TSLA,2026-10-06,09:03AM,Tesla and SpaceX Are Surging Together. What It Says About a Future Merger.,0.0,neutral,neutral,0.9022
+TSLA,2026-10-06,08:05AM,5 Things to Know Before the Stock Market Opens on Tuesday,0.0,neutral,neutral,0.9305
+TSLA,2026-10-06,08:01AM,Tesla Stock Rises Again. Is It Dragging SpaceX Stock Higher?,0.25,positive,negative,0.4916
+TSLA,2026-10-06,07:36AM,Stocks Are Ignoring the Bond Market Warning at Their Peril,0.0,neutral,negative,0.6779
+TSLA,2026-10-06,06:00AM,Elon Musk vowed Tesla would never raise money again in 2012  then came 29 funding rounds and a $465M federal loan,0.0,neutral,positive,0.5515
+TSLA,2026-10-06,03:33AM,"Elon Musk's Trump Admin 'Return' Puts Tesla, SpaceX in Focus: Analyst Says TSLA Faces 'Key Test'  Prediction Market Weighs in",0.0,neutral,positive,0.768
+TSLA,2026-10-06,01:42AM,TSLA Stock Rises Overnight: Analyst Says SpaceX Merger Buzz Could Dominate Near-Term Narrative  Gary Black Sees More Gains Ahead,0.16666666666666669,positive,positive,0.9215
+TSLA,2026-10-05,10:52PM,NYSEs Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange  And the SEC Already Gave It Permission,-0.1,negative,neutral,0.9416
+TSLA,2026-10-05,10:03PM,"U.S. stock futures inch up amid retreating yields, easing oil prices",0.0,neutral,positive,0.6279
+TSLA,2026-10-05,09:58PM,SPCX Stock Makes Musk A Trillionaire Again: Sequoia's Maguire Says Investors Are Just 'Starting To Understand SpaceX',0.0,neutral,neutral,0.6577
+TSLA,2026-10-05,07:31PM,"LCID Stock Stays Flat After-Hours On Q3 Sales Dip While TSLA, RIVN Beat Estimates",-0.025,neutral,negative,0.9097
+TSLA,2026-10-05,06:09PM,"Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields  NVDA, SPCX, CRML, TSLA, QCOM In Focus",0.0,neutral,positive,0.867
+TSLA,2026-10-05,05:26PM,"SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks",0.25,positive,positive,0.9383
+TSLA,2026-10-05,04:26PM,Nasdaq notches record high close as investors focus on earnings,0.16,positive,positive,0.8247
+TSLA,2026-10-05,03:54PM,TSMC stock hits all-time high after Elon Musk confirms early Terafab talks,0.13,positive,neutral,0.484
+TSLA,2026-10-05,02:10PM,Elon Musk is a trillionaire again as SpaceX stock surges more than 5%,0.5,positive,positive,0.4351
+TSLA,2026-10-05,02:04PM,Elon Musk regains trillionaire status as SpaceX stock surges,0.0,neutral,neutral,0.6017
+TSLA,2026-10-05,02:01PM,OKX and ICE Plan 24/7 Trading for Tokenized U.S. Stocks,0.0,neutral,neutral,0.9407
+TSLA,2026-10-05,01:19PM,Nasdaq hits record high as AI stocks rally amid high bond yields,0.16,positive,positive,0.7456
+TSLA,2026-10-05,01:14PM,Elon Musk Hits Trillionaire Status for the 2nd Time After SpaceX and Tesla Stocks Rise,0.0,neutral,positive,0.7525
+TSLA,2026-10-05,01:03PM,Teslas Q3 Deliveries Beat UBS Estimates  But Energy Storage Miss Keeps This Analyst Neutral,0.0,neutral,positive,0.5028
+TSLA,2026-10-05,12:40PM,"Tesla deliveries top consensus, but energy storage deployments miss estimates",0.5,positive,negative,0.6457
 TSLA,2026-10-05,11:48AM,Investor Predicts All New Cars Will Be Autonomous Within a Decade. Tesla Wont Be the Only Winner,0.1787878787878788,positive,neutral,0.8349
 TSLA,2026-10-05,11:00AM,Why Ford's Affordable EV Gives Me Hope for Home Electrification,0.0,neutral,neutral,0.7319
 TSLA,2026-10-05,10:11AM,IMC Logistics orders 50 Tesla Semis,0.0,neutral,neutral,0.8346
@@ -175,30 +199,35 @@ TSLA,2026-10-01,01:00PM,4 Experts Weigh In on How Tesla's Next Chapter Could Mak
 TSLA,2026-10-01,12:49PM,Tesla Stock Rises. European Registrations Jump in September,0.0,neutral,positive,0.691
 TSLA,2026-10-01,12:19PM,Tesla Bears Retreat as Musk's AI Strategy Gains Traction,0.0,neutral,negative,0.8191
 TSLA,2026-10-01,11:43AM,Tesla's delivery report is just around the corner. Expect a sales drop.,0.0,neutral,negative,0.9669
-TSLA,2026-10-01,11:21AM,Tesla Is Down 21%--So Why Are Wall Street Bears Disappearing?,-0.15555555555555559,negative,negative,0.9376
-TSLA,2026-10-01,09:46AM,Tesla European Car Registrations Surge Across Key Markets in September Rebound,0.0,neutral,positive,0.9183
-TSLA,2026-10-01,09:28AM,Tesla Bears Retreat as Sell Ratings Hit 3-Year Low: 'Don't Bet Against Musk',0.0,neutral,negative,0.9333
-TSLA,2026-10-01,08:19AM,"BYD, Leapmotor Continue EV Sales Streak; Tesla Deliveries On Deck",0.0,neutral,positive,0.9173
-TSLA,2026-10-01,07:54AM,Why the Tesla Roadster Event Was Delayed-and What It Means for the Stock,0.0,neutral,neutral,0.9017
-TSLA,2026-10-01,07:21AM,"Tesla Roadster Event Is Delayed, but This Matters Far More for the Stock",0.3,positive,neutral,0.9029
-TSLA,2026-10-01,06:18AM,Tesla Registrations Rise Across Several European Markets in September,0.0,neutral,positive,0.9256
-TSLA,2026-10-01,04:50AM,"Nasdaq, S&P 500, Dow Futures Mixed Even As Micron Fuels AI Rally: ORCL, NKE, TSLA, RKLB, ASTS, PSKY In Focus",0.0,neutral,neutral,0.4033
-TSLA,2026-10-01,12:39AM,"TSLA, SPCX Rise After Cathie Wood Says Musk Is Working All Angles With Trump, Xi Amid China Merger Hurdles",0.0,neutral,positive,0.7018
-TSLA,2026-09-30,04:25PM,SpaceX Just Got a Little Closer to a Tesla Merger,-0.1875,negative,neutral,0.6112
-TSLA,2026-09-30,02:04PM,"SEC clears Tesla-crafted auto-vote plan for wide use, worrying activists",-0.1,negative,neutral,0.8745
-TSLA,2026-09-30,01:05PM,Wall Street Expects A 7% Drop In Tesla Q3 Deliveries; The Stock Keeps Falling,0.0,neutral,negative,0.974
-TSLA,2026-09-30,11:26AM,Tesla Stocks Fall 1.7% Although Croatia Clears Supervised FSD Rollout,0.0,neutral,negative,0.9674
-TSLA,2026-09-30,11:04AM,Tesla Locks In $30 Billion Credit Line To Fund Soaring AI Spending,0.0,neutral,positive,0.8842
-TSLA,2026-09-30,10:46AM,"AI companies just signed a White House accord, and tech folks can't get enough of the signatures",0.0,neutral,neutral,0.7341
-TSLA,2026-09-30,10:19AM,Cathie Wood Just Bought More Tesla as a Bear Sounds a $30 Billion Warning,0.5,positive,neutral,0.8412
-TSLA,2026-09-30,10:13AM,Wall St climbs as cooling inflation tempers Fed rate-hike concerns,0.0,neutral,negative,0.5545
-TSLA,2026-09-30,09:55AM,Trucking fleets repurpose diesel tractors with swappable electric batteries,0.0,neutral,neutral,0.8706
-TSLA,2026-09-30,09:37AM,Major car rivals are teaming up to solve the biggest EV roadblock: Reliable charging,0.0625,positive,positive,0.6903
-TSLA,2026-09-30,09:09AM,Tesla Lines Up $30 Billion to Borrow With Spending on Rise,0.0,neutral,neutral,0.5194
-TSLA,2026-09-30,08:33AM,Tesla's Cash Crunch Has Arrived-Blame Its AI Ambitions,0.0,neutral,negative,0.9249
-TSLA,2026-09-30,08:15AM,Tesla Secures $30 Billion Credit Facility to Fund AI Infrastructure Expansion,0.0,neutral,positive,0.8765
-TSLA,2026-09-30,08:10AM,A $30 Billion Reason Why Tesla Stock Could Be in the Spotlight,0.0,neutral,neutral,0.9036
-TSLA,2026-09-30,07:07AM,Nvidia CEO Jensen Huang: AI data center build-out could create 1 million jobs and reshape the US economy,-0.1,negative,positive,0.891
+GOOGL,2026-10-06,10:31AM,Marvell Stock Surges After CEO Announces Huge Long-Term Revenue Target,0.4000000000000001,positive,positive,0.8843
+GOOGL,2026-10-06,10:30AM,Google signs 20-year nuclear deal with Constellation Energy to power AI build-out,0.0,neutral,positive,0.869
+GOOGL,2026-10-06,10:10AM,How Much Upside Is Left In Google Stock?,0.1,positive,neutral,0.5573
+GOOGL,2026-10-06,10:01AM,"S&P 500, Nasdaq touch new peaks as Treasury yields cool, oil slips",0.24318181818181817,positive,positive,0.811
+GOOGL,2026-10-06,09:40AM,Google and Constellation Sign a 3.6 GW Deal: The Bigger Half Isnt the Nuclear,-0.08333333333333333,negative,neutral,0.7975
+GOOGL,2026-10-06,09:40AM,Google Nuke Deal Jolts Constellation Energy To Top Of S&P 500,0.5,positive,neutral,0.5494
+GOOGL,2026-10-06,09:11AM,Constellation Energy Stock Ready to Rally on Google Nuclear Deal,0.2,positive,positive,0.6797
+GOOGL,2026-10-06,08:32AM,Constellation Energy Stock Jumps on 20-Year Power Deal With Google,0.0,neutral,positive,0.6565
+GOOGL,2026-10-06,08:21AM,Google makes a fresh bet on nuclear power as the AI energy crunch intensifies,0.3,positive,neutral,0.5197
+GOOGL,2026-10-06,08:02AM,How Much Downside Is Left In Adobe Stock?,0.1,positive,neutral,0.5605
+GOOGL,2026-10-06,07:45AM,Too much risk: Pimcos Bill Gross says you shouldnt own bonds now  aside from one key Treasury play,0.2,positive,neutral,0.9226
+GOOGL,2026-10-06,07:20AM,Google and Constellation sign 20-year nuclear power deal worth $4.3 billion,0.3,positive,positive,0.7736
+GOOGL,2026-10-06,07:19AM,Google signs $4.3 billion nuclear power deal with Constellation,0.0,neutral,positive,0.5204
+GOOGL,2026-10-06,07:14AM,Constellation shares gain on 20-year nuclear power deal with Google,0.0,neutral,positive,0.9148
+GOOGL,2026-10-06,07:12AM,"Premarket Movers: OPCH, CEG Stocks Jump On Buyout Talks, Nuclear Deal  NKE Slides On Sell Rating",0.0,neutral,negative,0.6215
+GOOGL,2026-10-06,07:07AM,Constellation Energy Stock Rises. What a Google Nuclear Deal Would Do for It.,0.0,neutral,neutral,0.7773
+GOOGL,2026-10-06,06:36AM,Google enters massive 3.6-GW power deal with Constellation Energy,0.0,neutral,positive,0.8465
+GOOGL,2026-10-06,06:30AM,"Google Nears $1 Billion-Plus Nuclear Power Agreement With Constellation, Bloomberg Reports",0.0,neutral,positive,0.8721
+GOOGL,2026-10-06,01:27AM,Anthropics October 15 Deadline Forces the Pricing Floor,0.0,neutral,negative,0.6703
+GOOGL,2026-10-06,01:16AM,"Google, Constellation near $1 billion-plus nuclear power deal, Bloomberg reports",0.1,positive,neutral,0.7238
+GOOGL,2026-10-06,12:05AM,Dan Niles Backs Alphabet and Meta as Google Cloud Grows Over 80%,0.0,neutral,neutral,0.7105
+GOOGL,2026-10-05,09:54PM,Why Is CEG Stock Surging More Than 4% In Overnight Trading?,0.5,positive,neutral,0.7659
+GOOGL,2026-10-05,09:14PM,AI borrowing binge rattles US markets,0.0,neutral,negative,0.9122
+GOOGL,2026-10-05,08:14PM,Google Gemini 4 Argon sparks internal doubts,0.0,neutral,negative,0.8877
+GOOGL,2026-10-05,05:47PM,Wall Street tests lender appetite with $60 billion Broadcom-Anthropic deal - FT,0.0,neutral,positive,0.8734
+GOOGL,2026-10-05,03:42PM,The Simple Reason Meta and Google Will Win AI: Only 2% of US Households Pay for It.,0.26666666666666666,positive,neutral,0.9329
+GOOGL,2026-10-05,01:52PM,"Dow's 132-point rally highlighted by gains in shares of Visa, NVIDIA Corp.",0.0,neutral,positive,0.9024
+GOOGL,2026-10-05,01:22PM,Airbnb CEO: ChatGPT Traffic Converts Better Than Googles. Thats a Problem for Alphabet,0.5,positive,neutral,0.4876
+GOOGL,2026-10-05,12:59PM,"Nvidia Is 'Tip Of The Spear' For AI Trade, Says Dan Niles  Warns 'At A Certain Point Either The Bond Market's Wrong Or Stock Market Is Wrong'",-0.2619047619047619,negative,negative,0.566
 GOOGL,2026-10-05,12:16PM,Microsoft Could Be SpaceX's Next Big AI Customer: Bernstein Sees AI Revenue Surging Nearly 500%,0.03333333333333333,neutral,positive,0.8534
 GOOGL,2026-10-05,11:47AM,"Amazon stock is trading at its lowest valuation ever as a public company, despite AI boom",0.0,neutral,negative,0.9362
 GOOGL,2026-10-05,11:34AM,Which Dates Could Move Meta Stock Most?,0.5,positive,neutral,0.929
@@ -270,32 +299,3 @@ GOOGL,2026-10-01,01:51PM,Google Prevails in 2 Antitrust Suits. The AI and Search
 GOOGL,2026-10-01,01:50PM,Alphabet Stocks Drop as Gemini 4 Argon Waits Behind Safety Gate,-0.4,negative,negative,0.9087
 GOOGL,2026-10-01,01:32PM,Is Adobe Stock A Real Bargain?,0.2,positive,neutral,0.9051
 GOOGL,2026-10-01,01:28PM,Big Tech ETF is down as shares of Alphabet and Apple fall sharply,-0.09351851851851851,negative,negative,0.9623
-GOOGL,2026-10-01,01:09PM,What Needs To Be True To Buy Meta Stock Now?,0.35,positive,neutral,0.9182
-GOOGL,2026-10-01,12:59PM,Micron CFO: No 'line of sight' for when memory shortage will end,0.0,neutral,neutral,0.8144
-GOOGL,2026-10-01,12:20PM,Trump Sends Strong Signal on Google's New Gemini Model,0.2848484848484848,positive,positive,0.8799
-GOOGL,2026-10-01,11:55AM,"Broadcom to provide Anthropic with up to $42 billion in financing, Reuters reports",0.0,neutral,positive,0.5048
-GOOGL,2026-10-01,11:49AM,Why Is Everyone Ignoring Snap Stock's High Cash Yield?,0.16,positive,negative,0.6425
-GOOGL,2026-10-01,11:27AM,How Has Microsoft's Story Changed In A Year?,0.0,neutral,neutral,0.8689
-GOOGL,2026-10-01,11:16AM,Which Dates Could Move Microsoft Stock Most?,0.5,positive,neutral,0.9181
-GOOGL,2026-10-01,11:15AM,Broadcom's $42 Billion Anthropic Bet Adds a New Layer of AI Risk,0.13636363636363635,positive,neutral,0.7882
-GOOGL,2026-10-01,10:53AM,Focused Funds Can Help You Navigate a Top-Heavy Market,0.0,neutral,neutral,0.825
-GOOGL,2026-10-01,10:37AM,"Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal",0.5,positive,neutral,0.7235
-GOOGL,2026-10-01,10:26AM,Stock Market Today: Nasdaq Sees Red As Micron Drops; Alphabet Tests Key Level (Live Coverage),0.04545454545454545,neutral,neutral,0.5854
-GOOGL,2026-10-01,10:06AM,"Dow, S&P 500, Nasdaq open higher to start October 2026",0.125,positive,neutral,0.5422
-GOOGL,2026-10-01,09:59AM,10-Year Treasury yield touches highest level since 2002: AlphaCheck,0.0,neutral,positive,0.5958
-GOOGL,2026-10-01,09:51AM,Alphabet Unveils Gemini 4 Argon AI Model for Advanced Professional Tasks,0.25,positive,neutral,0.7207
-GOOGL,2026-10-01,09:00AM,Can SpaceX's New Grok Pricing Strategy Help Win the AI Race?,0.4681818181818182,positive,positive,0.6805
-GOOGL,2026-10-01,08:52AM,"GOOGL Stock Rises After Gemini 4 Argon Launch, But JPMorgan Says Google Must Reclaim AI Leadership",0.0,neutral,positive,0.5217
-GOOGL,2026-10-01,08:52AM,Will Google Turn The Tables In AI Race? Wall Street Reacts To Gemini 4.,0.0,neutral,neutral,0.8901
-GOOGL,2026-10-01,08:42AM,Google is sending its first AI data center to space,0.075,positive,neutral,0.8464
-GOOGL,2026-10-01,08:37AM,Google Just Undercut Anthropic With Its New Gemini 4 Argon AI Model,0.13636363636363635,positive,positive,0.5847
-GOOGL,2026-10-01,08:17AM,Google Shares Climbs as Gemini 4 Argon Enters the AI Race,0.0,neutral,positive,0.7506
-GOOGL,2026-10-01,08:00AM,"Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",0.0,neutral,positive,0.5106
-GOOGL,2026-10-01,06:21AM,Alphabet Shares Rise After Google Launches Gemini 4 Argon AI Model,0.0,neutral,positive,0.6352
-GOOGL,2026-10-01,05:32AM,"Google debuts Gemini 4 Argon, its latest frontier model",0.5,positive,positive,0.6491
-GOOGL,2026-10-01,05:30AM,"Elizabeth Warren demands answers on $96B in lost federal revenue as Amazon, Google, Meta and Microsoft claim tax breaks",0.0,neutral,negative,0.9477
-GOOGL,2026-10-01,04:55AM,Alphabet shares up in premarket trade after Gemini 4 Argon launch,0.0,neutral,positive,0.9103
-GOOGL,2026-10-01,03:27AM,Most S&P 500 Stocks Sank In September  But Retail Traders Didn't Flee,0.5,positive,negative,0.9559
-GOOGL,2026-09-30,11:32PM,"Trump Losing Midterms Could Be the 'Trigger' that Pops AI Bubble, Says Market Analyst  Here's What Crypto Punters Think",0.0,neutral,neutral,0.8192
-GOOGL,2026-09-30,11:23PM,"Google skips Gemini 3.5 Pro, launches Gemini 4 Argon at US$2/$10 per million tokens",0.0,neutral,neutral,0.8601
-GOOGL,2026-09-30,09:46PM,Google to test AI computing in space with first orbital TPU launch,0.25,positive,neutral,0.6481
