@@ -1,4 +1,11 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-10-11,09:30AM,Warren Buffett said 'nobody gets paid' to give this easy investing advice  how its still helping your portfolio today,0.43333333333333335,positive,neutral,0.8658
+AAPL,2026-10-11,04:27AM,Siri AI at Day 28: Apple Ships the HomePad Screen Oct 13  but the Enterprise Half Doesnt Exist,-0.16666666666666666,negative,neutral,0.9125
+AAPL,2026-10-11,04:00AM,"Four Years In, $40 Trillion Up: Why This AI-Fueled Bull Market Has Room to Run",0.0,neutral,neutral,0.8645
+AAPL,2026-10-11,01:17AM,Apple Stock Drops After Reports of Reduced iPhone 18 Production Orders,0.0,neutral,negative,0.9677
+AAPL,2026-10-10,03:50PM,Apple discloses deal to hire team and license tech from personalized podcast startup Huxe,0.0,neutral,positive,0.5124
+AAPL,2026-10-10,02:44PM,How This Active Value ETF Rode to the Top,0.18333333333333335,positive,neutral,0.9063
+AAPL,2026-10-10,11:02AM,"The Back-Office Agent Wave Is Already Redesigning Jobs in Procurement, Finance, and Accounting",0.0,neutral,neutral,0.6816
 AAPL,2026-10-10,06:20AM,Apples iPhone 18 Pro Demand Is Likely Slipping  But Gene Munster Says Thats Not The Real Story,0.03333333333333333,neutral,negative,0.964
 AAPL,2026-10-09,06:54PM,Black British Business Awards 2026 winners revealed,-0.08333333333333333,negative,neutral,0.8546
 AAPL,2026-10-09,05:49PM,Is Dell Stock Paying You Enough For The Swings?,0.0,neutral,neutral,0.88
@@ -66,7 +73,6 @@ AAPL,2026-10-07,09:51AM,"Meta's Muse Could Generate $27 Billion a Year, Citi Say
 AAPL,2026-10-07,09:18AM,Apple and LG team up on 7 smart home devices ahead of Oct. 13 event,0.21428571428571427,positive,positive,0.8494
 AAPL,2026-10-07,06:08AM,"Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",0.13636363636363635,positive,neutral,0.8803
 AAPL,2026-10-07,06:00AM,"S&P 500, Nasdaq hit records  but 'the breadth of the rally has narrowed': Chart of the Day",0.0,neutral,neutral,0.6887
-AAPL,2026-10-07,02:00AM,How This Active Value ETF Rode to the Top,0.18333333333333335,positive,neutral,0.9063
 AAPL,2026-10-07,01:32AM,"Brussels looks to capture Big Tech through tax on large corporations, FT reports",0.10714285714285714,positive,neutral,0.6478
 AAPL,2026-10-06,10:52PM,Apple Acquires Sonera,0.0,neutral,neutral,0.9373
 AAPL,2026-10-06,08:44PM,iPhone Duo shines on GIS September revenue; 4Q26 set to challenge full-year high,0.16,positive,positive,0.9396
@@ -93,12 +99,7 @@ AAPL,2026-10-05,03:54PM,TSMC stock hits all-time high after Elon Musk confirms e
 AAPL,2026-10-05,02:01PM,OKX and ICE Plan 24/7 Trading for Tokenized U.S. Stocks,0.0,neutral,neutral,0.9407
 AAPL,2026-10-05,12:59PM,"Nvidia Is 'Tip Of The Spear' For AI Trade, Says Dan Niles  Warns 'At A Certain Point Either The Bond Market's Wrong Or Stock Market Is Wrong'",-0.2619047619047619,negative,negative,0.566
 AAPL,2026-10-05,11:16AM,Apple Changes Mac OS to Warn Users About Aggressive AI Agents,0.0,neutral,neutral,0.7149
-AAPL,2026-10-05,09:20AM,Meta Muse: Sparking the AI Revolution,0.0,neutral,neutral,0.8889
-AAPL,2026-10-05,08:18AM,Nvidia Gets Another AI Demand Signal As Foxconn Sales Hit Record High  Apple Faces Holiday Test,0.16,positive,positive,0.895
-AAPL,2026-10-05,08:03AM,Apple and Google are lobbying states to block private app store safety lawsuits,0.0,neutral,negative,0.4993
-AAPL,2026-10-05,05:45AM,"Nvidia, Tesla Shares Head for 24/7 Onchain Trading Under OKX and NYSE Owners Venture",0.0,neutral,neutral,0.9131
-AAPL,2026-10-05,04:50AM,Nvidia Set for Stock Record as Key Supplier Celebrates Booming AI Demand,0.0,neutral,positive,0.8841
-AAPL,2026-10-05,03:40AM,QCOM Gains Overnight After Patent Deal With Chinas Huawei Covering AI Chip Tech,0.0,neutral,positive,0.8739
+TSLA,2026-10-11,01:11AM,Tesla Renames Full Self-Driving Package to Assisted Driving Across Europe,0.35,positive,neutral,0.7274
 TSLA,2026-10-10,02:52AM,"Tesla Drops Full Self-Driving in Europe, Where Its Revenue Fell 10% Last Year",0.175,positive,negative,0.9723
 TSLA,2026-10-10,02:29AM,"Trump awards science medal to Elon Musk, Jensen Huang",0.0,neutral,neutral,0.566
 TSLA,2026-10-09,09:01PM,"Stocktwits Zero To Sixty  Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Cars Than It Sold",0.0,neutral,neutral,0.7896
@@ -198,7 +199,11 @@ TSLA,2026-10-05,10:11AM,IMC Logistics orders 50 Tesla Semis,0.0,neutral,neutral,
 TSLA,2026-10-05,09:57AM,"EXCLUSIVE: US May Need AI Boom to Grow Out of Debt Crisis, American Hartford Gold President Says",0.0,neutral,positive,0.8068
 TSLA,2026-10-05,09:29AM,Elon Musk Claims US Will Go Bankrupt Without AI and Robotics Boosting Productivity,0.0,neutral,neutral,0.7152
 TSLA,2026-10-05,08:45AM,Tesla Expands Texas Cybercab Fleet Fourfold Following Austin Commercial Service Launch,0.0,neutral,positive,0.9006
-TSLA,2026-10-05,08:09AM,What's Next for Tesla Stock After Strong Q3 Deliveries,0.21666666666666665,positive,neutral,0.8897
+GOOGL,2026-10-11,10:04AM,Alphabet Stock Is Up 46% Since Last October. Is It Still a Buy?,0.0,neutral,positive,0.5379
+GOOGL,2026-10-11,09:18AM,S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth,-0.1,negative,positive,0.9491
+GOOGL,2026-10-11,09:03AM,Why Net Stocks are down sharply this year despite Nasdaqs gains,-0.09351851851851851,negative,negative,0.9672
+GOOGL,2026-10-11,04:00AM,"Four Years In, $40 Trillion Up: Why This AI-Fueled Bull Market Has Room to Run",0.0,neutral,neutral,0.8645
+GOOGL,2026-10-10,11:11AM,Consumer AI agents could upend online shopping - but who really wins?,0.3,positive,neutral,0.9317
 GOOGL,2026-10-10,06:30AM,Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off,0.0,neutral,neutral,0.9377
 GOOGL,2026-10-10,02:02AM,"Cathie Wood-Led Ark Invest Sells AMD, SPCX, GOOG Stocks  But Loads Up On CMPS, NTLA, CRSP And Other Healthcare Firms",-0.125,negative,neutral,0.8647
 GOOGL,2026-10-09,11:26PM,"MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week",0.0,neutral,neutral,0.8762
@@ -294,8 +299,3 @@ GOOGL,2026-10-06,05:59PM,Black Hills stock surges 5% on $1.8B Google data center
 GOOGL,2026-10-06,05:59PM,ERock Stock Jumps 10% on AI Power Surge,0.0,neutral,positive,0.7979
 GOOGL,2026-10-06,05:46PM,AI borrowing binge rattles US markets,0.0,neutral,negative,0.9122
 GOOGL,2026-10-06,05:11PM,Google and Constellation Energy sign latest nuclear energy deal,0.5,positive,neutral,0.8815
-GOOGL,2026-10-06,04:33PM,"Google Joins Microsoft, Amazon, and Meta on Constellations Energy Roster",0.0,neutral,neutral,0.9254
-GOOGL,2026-10-06,04:24PM,Waymo upsizes debut private loan to $5 billion to fund expansion - Bloomberg,0.0,neutral,positive,0.8518
-GOOGL,2026-10-06,04:21PM,How major US stock indexes fared Tuesday 10/6/2026,0.0625,positive,neutral,0.5354
-GOOGL,2026-10-06,02:31PM,"CEG, VST, TLN Jump: Googles Power Deal Sparks A Nuclear Rally",0.0,neutral,negative,0.7164
-GOOGL,2026-10-06,02:14PM,Googles $4.3 Billion Bet on Nuclear Comes Just Days After Amazons,0.0,neutral,neutral,0.9031
