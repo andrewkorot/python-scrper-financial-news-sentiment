@@ -1,4 +1,14 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-10-22,08:41AM,"If Netflix Can't Shine in Show Business, Who Can?",0.0,neutral,neutral,0.8721
+AAPL,2026-10-22,08:35AM,Indian firm eMudhra exits global digital certificates business after vulnerability disclosure,-0.06666666666666667,negative,negative,0.8752
+AAPL,2026-10-22,07:03AM,"What Intel, Boeing, Nike Have In Common With Each Other - And Apple",-0.2125,negative,neutral,0.9246
+AAPL,2026-10-22,04:45AM,Apples Cash Flow Machine Makes It Investors Favorite AI Hedge,0.5,positive,neutral,0.9047
+AAPL,2026-10-21,09:44PM,Apple eyes high-end HomeView with robotic arm by 2027,-0.1,negative,neutral,0.8616
+AAPL,2026-10-21,04:42PM,"Kazakhstans AIFC Regulator Turns to Apple and Google to Enforce Coinbase, HTX Injunctions",0.0,neutral,negative,0.6965
+AAPL,2026-10-21,11:41AM,"Apple Faces Slightly Challenging Earnings Setup Near Record Highs, Morgan Stanley Says  Sees Limited Upside Potential",0.13214285714285715,positive,negative,0.7291
+AAPL,2026-10-21,11:24AM,The November Deadline: Holiday Peak vs. Liability Shift,0.0,neutral,neutral,0.7059
+AAPL,2026-10-21,11:05AM,"Apple expands US supplier network for iPhone materials, components",0.0,neutral,positive,0.7273
+AAPL,2026-10-21,10:19AM,Apple's iPhone Supply Chain Risk Spells Trouble for This Semiconductor Stock,-0.2,negative,negative,0.9634
 AAPL,2026-10-21,07:32AM,What Tesla Stock Has Been Doing Lately,-0.3,negative,neutral,0.9162
 AAPL,2026-10-21,06:17AM,"Tesla Earnings Are Due Today. AI, Not EVs, Will Make or Break the Stock.",-0.125,negative,neutral,0.9519
 AAPL,2026-10-21,06:00AM,Meta and Google are about to have a consumer AI showdown,0.0,neutral,neutral,0.8925
@@ -89,116 +99,124 @@ AAPL,2026-10-15,09:28AM,A 20% Drop in Smartphone Shipments Shows Who Wins When M
 AAPL,2026-10-15,08:23AM,The Home Agent Subscription: Parsing the Fine Print on Apple and Metas Metered Services,0.4166666666666667,positive,neutral,0.9452
 AAPL,2026-10-15,07:58AM,"KeyBanc downgrades Cirrus Logic after Asia trip, sees memory and analog strength",0.0,neutral,negative,0.5717
 AAPL,2026-10-15,07:47AM,"Apple Intelligence Gets a China Launch Date, but Apples China Sales Were Already Up 22%",0.0,neutral,positive,0.9326
-AAPL,2026-10-15,06:36AM,"Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today's Market",0.5,positive,neutral,0.949
-AAPL,2026-10-15,06:19AM,"Premarket Movers: AAPL Gains On China AI Approval Report  Why WMT, NFLX Stocks Are Also Rising",0.0,neutral,positive,0.8573
-AAPL,2026-10-15,06:16AM,Taiwan chipmaker TSMC explores Texas investment to expand production in the US,0.0,neutral,positive,0.9408
-AAPL,2026-10-15,06:07AM,Can robust TSMC earnings help settle AI jitters?,0.0,neutral,neutral,0.6653
-AAPL,2026-10-15,05:36AM,Apple Now Faces Its Own Trade-Secret Claims From OpenAI.,0.6,positive,negative,0.861
-AAPL,2026-10-15,01:36AM,TSMCs Profit Surpasses Expectations After AI Orders Rush In,0.0,neutral,positive,0.7904
-AAPL,2026-10-14,10:31PM,"Apple hits historic $5 trillion valuation, defying market headwinds in China",0.0,neutral,positive,0.9191
-AAPL,2026-10-14,09:19PM,Is Netflix Stock Worth More Than Its Competitors?,0.4,positive,neutral,0.8459
-AAPL,2026-10-14,09:19PM,Changing iPhone 18 Pro supplier orders show shift to higher-end models,0.0,neutral,positive,0.5532
-AAPL,2026-10-14,08:07PM,"S&P 500, Nasdaq See Worst Day In Over Two Months As Chipmaker Rout Deepens, CPI Data Comes In Hot  AAPL, SPCX, DRAM, SOXX In Focus",-0.375,negative,negative,0.6801
-TSLA,2026-10-21,09:12AM,"Tesla Expects A Down Quarter Amid SpaceX Merger And Robotaxi, Optimus Delays",-0.15555555555555559,negative,negative,0.9681
-TSLA,2026-10-21,09:04AM,"Stock market today: DOW, S&P 500, Nasdaq futures rise as earnings roll in, SpaceX stock surges",0.0,neutral,positive,0.8947
-TSLA,2026-10-21,09:00AM,Merger mania is on the minds of Tesla investors,0.0,neutral,negative,0.5445
-TSLA,2026-10-21,08:54AM,Musk Is Setting the Stage to Make M&A History,0.0,neutral,neutral,0.7534
-TSLA,2026-10-21,08:48AM,"SpaceX, Tesla, Meta, Nvidia, Netflix, AT&T, Super Micro, and More Stocks That Explain Today's Market",0.41666666666666663,positive,neutral,0.9481
-TSLA,2026-10-21,08:26AM,Tesla Earnings Prediction Market Preview: Will Elon Musk Discuss a SpaceX Merger?,0.0,neutral,neutral,0.9306
-TSLA,2026-10-21,08:24AM,"Stock Market Today: Tech Futures Rise With SpaceX Earnings; Meta, Tesla Set To Report Later (Live Coverage)",0.06818181818181818,positive,positive,0.7497
-TSLA,2026-10-21,08:18AM,Tesla's massive spending plans will be in focus  on Wednesday,0.0,neutral,neutral,0.9481
-TSLA,2026-10-21,07:43AM,"SpaceX Saves the AI Trade, Meta Can Reignite It",0.0,neutral,neutral,0.9294
-TSLA,2026-10-21,07:42AM,"Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",0.0,neutral,neutral,0.8885
-TSLA,2026-10-21,07:39AM,Musk says he's exploring a SpaceX-Tesla megamerger. What would a combined company be worth?,0.3,positive,neutral,0.9363
-TSLA,2026-10-21,07:35AM,This is the single-biggest obstacle to a SpaceX-Tesla merger: JPMorgan,0.0,neutral,neutral,0.8488
-TSLA,2026-10-21,07:32AM,What Tesla Stock Has Been Doing Lately,-0.3,negative,neutral,0.9162
-TSLA,2026-10-21,07:32AM,Musk backs SpaceX-Tesla merger idea as both boards form special committees,0.35714285714285715,positive,neutral,0.8888
-TSLA,2026-10-21,07:21AM,"Premarket movers: Super Micro, SCHMID Group and SpaceX surge",0.3333333333333333,positive,neutral,0.9496
-TSLA,2026-10-21,07:09AM,"Earnings cheer supports stocks, France's 10-year bond yield hits 5% mark",0.0,neutral,positive,0.7535
-TSLA,2026-10-21,07:07AM,Musk's SpaceX helps fuel stock market gains,0.0,neutral,positive,0.7035
-TSLA,2026-10-21,07:00AM,Tesla earnings are only hours away. Here's what Wall Street wants to know.,0.1,positive,neutral,0.9191
-TSLA,2026-10-21,06:59AM,The key numbers to watch when Tesla posts its earnings,0.0,neutral,neutral,0.9489
-TSLA,2026-10-21,06:49AM,Intel Stock Rises After Musk's Cryptic Terafab Comments,0.0,neutral,negative,0.3842
-TSLA,2026-10-21,06:33AM,Tesla-SpaceX deal: Wall St says inevitable but Musk says it's not certain,-0.05357142857142857,negative,neutral,0.8836
-TSLA,2026-10-21,06:30AM,Why Is SpaceX Stock Surging in Pre-Market Trading?,0.0,neutral,neutral,0.7405
-TSLA,2026-10-21,06:17AM,"Tesla Earnings Are Due Today. AI, Not EVs, Will Make or Break the Stock.",-0.125,negative,neutral,0.9519
-TSLA,2026-10-21,06:17AM,Can Tesla Copy SpaceX's AI Magic? What to Watch in Its Earnings Report.,0.5,positive,neutral,0.9434
-TSLA,2026-10-21,06:16AM,Why Elon Musk Wants SpaceX and Tesla to Merge,0.2,positive,neutral,0.9363
-TSLA,2026-10-21,06:14AM,Forget Delivery Numbers. Tesla's Earnings Hinge on What's Under the Hood.,0.0,neutral,neutral,0.6648
-TSLA,2026-10-21,06:00AM,Why would Musk merge SpaceX and Tesla?,0.0,neutral,neutral,0.889
-TSLA,2026-10-21,05:47AM,"US Stock Futures Edge Higher as SpaceX and Tesla Explore Merger and Meta Earnings Approach: Dow Jones, S&P, Nasdaq, Wall Street",0.25,positive,neutral,0.5769
-TSLA,2026-10-21,05:21AM,"SpaceX pops after earnings, and other early market movers",-0.012499999999999997,neutral,neutral,0.3568
-TSLA,2026-10-21,05:20AM,"SpaceX Stock Rallies, Tesla Rises Modestly on Talk of Merger",0.1,positive,positive,0.8539
-TSLA,2026-10-21,05:01AM,Stock Market Today: SpaceX Shares Surge on Tesla Deal Talks,0.0,neutral,positive,0.9274
-TSLA,2026-10-21,04:43AM,Meta and Tesla headline Wednesday's earnings slate,0.0,neutral,neutral,0.8527
-TSLA,2026-10-21,04:41AM,"Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",0.0,neutral,neutral,0.7254
-TSLA,2026-10-21,04:41AM,"Nasdaq Futures Rise Premarket As SpaceX AI Boom Lifts Chip Stocks: SMCI, TSLA, META, IBM, CRWV, NFLX, BE In Focus",0.0,neutral,neutral,0.4979
-TSLA,2026-10-21,04:25AM,Musk on possible SpaceX-Tesla merger; Meta to report - whats moving markets,0.0,neutral,neutral,0.9447
-TSLA,2026-10-21,03:37AM,"Stock Market Today: Dow set to pause as S&P 500, Nasdaq to rise after SpaceX results with Meta, Tesla earnings on tap",0.0,neutral,positive,0.3738
-TSLA,2026-10-21,03:37AM,S&P 500 set to climb ahead of Meta and Tesla earnings,0.0,neutral,positive,0.8124
-TSLA,2026-10-21,12:37AM,Elon Musk backs SpaceX-Tesla merger as rocket firm turns profit,-0.2,negative,neutral,0.5192
-TSLA,2026-10-21,12:00AM,AP Top Financial News at 4:31 a.m. EDT,0.25,positive,neutral,0.8729
-TSLA,2026-10-20,11:38PM,"Nasdaq, S&P 500 Futures Climb After SpaceXs Blowout Quarter: SMCI, NFLX, GE Stocks In Focus",0.0,neutral,positive,0.5611
-TSLA,2026-10-20,11:18PM,Tesla supplier CATL shares plunge after disappointing Q3 results,-0.6,negative,negative,0.9679
-TSLA,2026-10-20,10:00PM,Elon Musk Teases Tesla Merger and $1 Trillion Milestone for SpaceX,0.0,neutral,neutral,0.7214
-TSLA,2026-10-20,09:37PM,SPCX Stock Jumps Overnight: Musk Teases $1 Trillion Revenue By 2028  Analyst Sees 95% Tesla Merger Odds In 2 Years,0.0,neutral,positive,0.8986
-TSLA,2026-10-20,07:42PM,Five Takeaways From SpaceX's Earnings Call,0.0,neutral,neutral,0.7933
-TSLA,2026-10-20,07:31PM,SpaceX touts possible Tesla merger after profits soar,0.0,neutral,positive,0.3467
-TSLA,2026-10-20,07:20PM,Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up,0.13636363636363635,positive,neutral,0.8942
-TSLA,2026-10-20,07:19PM,"Stock market today: Dow, S&P 500 rise, Nasdaq slips as investors await SpaceX, Netflix earnings",0.0,neutral,negative,0.9214
-TSLA,2026-10-20,06:57PM,SpaceX and Tesla boards form special committees to review merger,0.35714285714285715,positive,neutral,0.9513
-TSLA,2026-10-20,06:56PM,"SpaceX, Tesla Form Independent Committees To Explore Merger: Elon Musk Says Deal Not A Certainty",0.0,neutral,neutral,0.9233
-TSLA,2026-10-20,06:50PM,Musk backs SpaceX-Tesla merger as rocket firm turns profit,-0.2,negative,neutral,0.4687
-TSLA,2026-10-20,06:33PM,Tesla's stock rises as Elon Musk drops new clues about a possible SpaceX merger,0.06818181818181818,positive,neutral,0.5889
-TSLA,2026-10-20,06:02PM,Elon Musk pushes to merge SpaceX and Tesla,0.0,neutral,neutral,0.764
-TSLA,2026-10-20,05:47PM,Why Tesla's stock is rising after the SpaceX earnings call,0.0,neutral,neutral,0.6195
-TSLA,2026-10-20,05:43PM,"Space X and Tesla exploring merger, CEO Elon Musk says",0.0,neutral,neutral,0.9145
-TSLA,2026-10-20,05:40PM,SpaceX Pops After First-Ever Profit Easily Beats; Tesla Merger Mulled (Live Coverage),0.28484848484848485,positive,positive,0.5217
-TSLA,2026-10-20,05:29PM,"Musk Says Tesla, SpaceX Have Formed Special Committees to Consider Merger",0.35714285714285715,positive,neutral,0.927
-TSLA,2026-10-20,05:28PM,Musk tells SpaceX investors a Tesla merger is no 'certainty',0.0,neutral,neutral,0.9262
-TSLA,2026-10-20,05:24PM,SpaceX sets ambitious 2028 target for volume chip production at its Terafab,0.25,positive,positive,0.6331
-TSLA,2026-10-20,04:35PM,What SpaceX Earnings Mean for Tesla Stock,-0.3125,negative,neutral,0.9388
-TSLA,2026-10-20,04:05PM,Small Stocks Lead the Pack in Broad Market Rally,-0.09375,negative,neutral,0.7853
-TSLA,2026-10-20,03:30PM,SpaceX could soon have a new audience for its earnings calls,0.13636363636363635,positive,neutral,0.592
-TSLA,2026-10-20,02:15PM,Here's what matters most to Tesla investors heading into earnings,0.5,positive,neutral,0.9402
-TSLA,2026-10-20,12:53PM,"Stocks mostly rise as oil, US yields ease; euro edges up",0.5,positive,positive,0.8472
-TSLA,2026-10-20,11:33AM,"Elon Musk, Terafab Tax Breaks Take Center Stage In Texas Politics",-0.1,negative,neutral,0.9069
-TSLA,2026-10-20,11:05AM,EXCLUSIVE: Tesla SpaceX Merger? 70% of Benzinga Viewers Say Elon Musk Will Get There  But Not When You Think,0.0,neutral,neutral,0.9221
-TSLA,2026-10-20,10:52AM,SpaceX Earnings Prediction Market Preview: What Will Elon Musk Say?,0.0,neutral,neutral,0.9318
-TSLA,2026-10-20,10:25AM,"Stock market today: Dow rises, S&P 500, Nasdaq turn green as dip buying resumes",-0.2,negative,positive,0.6173
-TSLA,2026-10-20,10:00AM,SpaceX investors have the moon - and mergers - on their minds,0.0,neutral,neutral,0.9304
-TSLA,2026-10-20,09:08AM,What could a Tesla-SpaceX merger earn? Cathie Wood's Ark Invest has a $2.7 trillion answer.,0.0,neutral,neutral,0.9306
-TSLA,2026-10-20,08:57AM,"Tesla Earnings Spotlight SpaceX Merger Talk. Here's What Analysts, Musk Say.",0.0,neutral,neutral,0.8891
-TSLA,2026-10-20,08:36AM,Could a SpaceX-Tesla Merger Be Announced Today?,0.0,neutral,neutral,0.9351
-TSLA,2026-10-20,08:22AM,"The Tesla Waiting Game: Why TSLA Stock Needs SpaceX, Optimus, and Robotaxis to Break Out",-0.4,negative,neutral,0.9258
-TSLA,2026-10-20,08:11AM,"Why Tesla bull Cathie Wood thinks the stock is headed to $5,000",0.0,neutral,neutral,0.9207
-TSLA,2026-10-20,07:05AM,SpaceX earnings are only hours away. Here's what to watch for.,0.0,neutral,neutral,0.9244
-TSLA,2026-10-20,06:24AM,"Tesla Stock, Down 18% in 2026, Is Waiting for These 3 Things",-0.15555555555555559,negative,negative,0.7143
-TSLA,2026-10-20,04:52AM,"Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",0.0,neutral,negative,0.6235
-TSLA,2026-10-20,04:18AM,Early Uber Investor Jason Calacanis Predicts Waymo Could Buy Lucid Or Rivian  Calls Its Chinese-Car Optics Really Bad,-0.29999999999999993,negative,neutral,0.8223
-TSLA,2026-10-20,04:04AM,"SOXX, SOXL Retreat To Red Premarket, But Retail Is 'Extremely Bullish' Ahead Of Tech Earnings",-0.0625,negative,positive,0.4344
-TSLA,2026-10-20,04:00AM,"ARK Invest Bets One Business Can Lift Tesla Stock to $4,400",0.0,neutral,positive,0.8372
-TSLA,2026-10-20,03:26AM,"SpaceX Faces Earnings Test Today: RBC Flags Over 50% Upside As Tesla Merger Buzz Builds, S&P Flags AI Financing Risks",0.0,neutral,positive,0.8928
-TSLA,2026-10-19,11:31PM,"Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",0.25,positive,positive,0.7028
-TSLA,2026-10-19,10:32PM,Commentary: Samsung's US 2nm ramp faces no room for error,0.0,neutral,neutral,0.8452
-TSLA,2026-10-19,09:43PM,"Tesla Stock At $4,400? Cathie Wood's ARK Pins Hopes On Robotaxis, Sees SpaceX Merger In 5 Years",0.0,neutral,neutral,0.8368
-TSLA,2026-10-19,08:41PM,Robot Wars  How China Has the Robotics Industry in Its Grip,0.0,neutral,neutral,0.8931
-TSLA,2026-10-19,07:24PM,"SpaceX, Tesla Earnings on Deck: Key Metrics to Watch",0.0,neutral,neutral,0.8408
-TSLA,2026-10-19,07:00PM,"Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools  AMZN, BE, CRWV, AAPL, PLTR In Focus",0.55,positive,positive,0.7294
-TSLA,2026-10-19,06:17PM,"US stocks rebound with AI earnings test ahead, euro falls on France unrest",0.0,neutral,negative,0.4743
-TSLA,2026-10-19,05:12PM,5 Must-See Earnings Charts This Week,0.0,neutral,neutral,0.8563
-TSLA,2026-10-19,04:48PM,"Stock market today: Dow slips, S&P 500, Nasdaq rise as tech stocks rebound",0.0,neutral,negative,0.5926
-TSLA,2026-10-19,04:40PM,Warren Buffett Should Emulate Musk and Give Berkshire Stock to America's Kids,0.0,neutral,neutral,0.8692
-TSLA,2026-10-19,04:03PM,Wall Street Projects A Down Quarter For Tesla Earnings; Stock Rebounds,-0.15555555555555559,negative,negative,0.9701
-TSLA,2026-10-19,04:03PM,SpaceX Stock Climbs After Musk Gift Pledge; Analysts Predict Tesla Merger Price,0.0,neutral,positive,0.8167
-TSLA,2026-10-19,03:30PM,"Why Elon Musk, Anthropic and other AI titans are giving away shares",-0.125,negative,neutral,0.9263
-TSLA,2026-10-19,02:59PM,What's Moving Markets Today?,0.0,neutral,neutral,0.8396
-TSLA,2026-10-19,02:10PM,Tesla-SpaceX merger is 'not so easy': Analyst,0.43333333333333335,positive,neutral,0.9215
-TSLA,2026-10-19,01:37PM,Strong Earnings Haven't Done as Much for Stocks So Far,0.24444444444444444,positive,negative,0.5247
-TSLA,2026-10-19,01:35PM,Magnificent 7 Earnings Preview: Meta & Tesla Take Center Stage This Week,0.45,positive,neutral,0.7991
-TSLA,2026-10-19,12:29PM,Nine Public Companies Object to OKX-ICE Tokenized Stock Plans,0.0,neutral,negative,0.5371
-TSLA,2026-10-19,12:21PM,"SpaceX Could Buy Tesla for $480 Per Share in $3.74 Trillion Merger, RBC Says",0.0,neutral,neutral,0.9116
-TSLA,2026-10-19,12:11PM,Elon Musk giveaway would send SpaceX share to 1.57M Tennessee kids,0.0,neutral,positive,0.7313
+TSLA,2026-10-22,09:18AM,"Meta, Tesla Earnings Trigger Pre-Market Selloff",0.0,neutral,negative,0.5875
+TSLA,2026-10-22,09:05AM,"Wall St set for lower open as AI jitters rekindle, oil gains",0.0,neutral,negative,0.5141
+TSLA,2026-10-22,08:34AM,"TSX futures point lower following Meta, Tesla earnings",0.0,neutral,negative,0.9582
+TSLA,2026-10-22,08:18AM,Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up,0.13636363636363635,positive,neutral,0.8942
+TSLA,2026-10-22,08:15AM,"Stock Market Today: Dow Falls As Oil Prices Jump; Meta, Tesla Slide On Earnings (Live Coverage)",0.13636363636363635,positive,negative,0.9602
+TSLA,2026-10-22,08:07AM,Is SpaceX Getting a Bad Deal?,-0.6999999999999998,negative,negative,0.9288
+TSLA,2026-10-22,08:01AM,Why Elon Musk wants to merge Tesla and SpaceX before Trump leaves office,0.2,positive,neutral,0.9335
+TSLA,2026-10-22,07:51AM,"Premarket movers: Tesla, IBM slide; Meta earnings fail to lift sentiment",-0.5,negative,negative,0.8964
+TSLA,2026-10-22,07:44AM,"Dan Ives Sees 90% Odds Of A Tesla-SpaceX Merger: Eyes More And More M&A Across Space, Industrials",0.5,positive,neutral,0.894
+TSLA,2026-10-22,07:44AM,Meta and Tesla Lay Bare Stock Market's Biggest AI Puzzle,0.05,neutral,neutral,0.9055
+TSLA,2026-10-22,07:30AM,Tesla beat profit expectations and avoided cash burn as SpaceX merger is studied,0.0,neutral,positive,0.9501
+TSLA,2026-10-22,07:23AM,"Stock market today: Dow, S&P 500, Nasdaq futures tumble as oil climbs, investors weigh Tesla, Meta earnings",0.0,neutral,negative,0.765
+TSLA,2026-10-22,07:18AM,Tesla Missed Profit Targets. Musk's Bold Forecast Can't Save the Stock.,0.3333333333333333,positive,negative,0.9296
+TSLA,2026-10-22,07:16AM,TSLA Stock Heads For Worst Day In Nearly 7 Weeks  Goldman Sachs Flags Two Key Factors Likely To Pressure Teslas Profitability,-0.225,negative,negative,0.9623
+TSLA,2026-10-22,07:12AM,Analyst asks how much Tesla capex cut is weighing on the market,0.2,positive,negative,0.7389
+TSLA,2026-10-22,07:11AM,"Tesla, SpaceX, Meta, IBM, and More Stocks That Explain Today's Market",0.5,positive,neutral,0.948
+TSLA,2026-10-22,06:51AM,"Dow Jones Futures Fall, Techs Tumble With Meta, Tesla Leading Earnings Movers",0.0,neutral,negative,0.9449
+TSLA,2026-10-22,06:49AM,"Stocks retreat as tech mood sours, oil prices jump",0.0,neutral,negative,0.9481
+TSLA,2026-10-22,06:34AM,Lockheed Martin's Business Is Booming as Backlog Hits Nearly $300 Billion,0.1,positive,positive,0.9371
+TSLA,2026-10-22,06:15AM,"Tesla stock slips despite Q3 earnings beat, better-than-expected capex spend",0.0,neutral,negative,0.9596
+TSLA,2026-10-22,06:01AM,Samson Mow Predicted Musk Would Go Hard Into Bitcoin  Now SpaceXTesla Talks Revive $1.33M Call,-0.2916666666666667,negative,neutral,0.7242
+TSLA,2026-10-22,06:00AM,"Tesla is spending less now, but the bill is coming later: Chart of the Day",-0.08333333333333333,negative,neutral,0.9121
+TSLA,2026-10-22,06:00AM,Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla,-0.4,negative,neutral,0.9319
+TSLA,2026-10-22,05:45AM,"Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings",0.0,neutral,negative,0.9496
+TSLA,2026-10-22,05:32AM,"Lam Research slides after earnings, and other early market movers",-0.012499999999999997,neutral,negative,0.9541
+TSLA,2026-10-22,05:30AM,SpaceX Takes Conglomerate-Building to Sci-Fi Extremes,0.0,neutral,neutral,0.9263
+TSLA,2026-10-22,05:30AM,Nvidia Stock Falls in a Case of Bad Timing Over Another Potential AI Investment,-0.3499999999999999,negative,negative,0.9609
+TSLA,2026-10-22,05:19AM,"Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking",0.25,positive,negative,0.4222
+TSLA,2026-10-22,04:46AM,Tesla's stock falls as Elon Musk leaves investors wanting more,0.5,positive,negative,0.9457
+TSLA,2026-10-22,04:28AM,Metas revenue beat; Teslas lower annual sales goal - whats moving markets,0.0,neutral,negative,0.771
+TSLA,2026-10-22,04:21AM,"TSLA, SPCX Slide Premarket: Musks Merger Talk Reportedly Creates Mess  Rivian Exec Urges Tesla To Stop Doing These Calls",-0.175,negative,negative,0.9523
+TSLA,2026-10-22,04:04AM,"Tesla reports Q3 earnings beat, positive free cash flow, and better-than-expected capex",0.31363636363636366,positive,positive,0.9572
+TSLA,2026-10-22,03:35AM,"Stock Market Today: Dow, S&P 500 and Nasdaq set to fall as tech stocks slide and investors weigh Meta and Tesla earnings",0.0,neutral,negative,0.9637
+TSLA,2026-10-22,01:53AM,"Tesla's profit drops as it explores a possible merger with Musk's other public company, SpaceX",-0.041666666666666664,neutral,negative,0.97
+TSLA,2026-10-22,01:22AM,Elon Musks endorsement of SpaceX-Tesla merger sparks insider concerns- Reuters,0.0,neutral,neutral,0.8204
+TSLA,2026-10-22,01:06AM,Tesla Logs Surge in European Monthly Sales,0.0,neutral,positive,0.926
+TSLA,2026-10-22,01:01AM,"European auto sales rise 10% in Sept; EVs, hybrids lead",0.0,neutral,positive,0.9383
+TSLA,2026-10-22,12:38AM,Elon Musk says Tesla vehicle demand exceeding production ahead of Dallas Cybercab launch,0.0,neutral,positive,0.8217
+TSLA,2026-10-22,12:25AM,Asia stocks slide as AI jitters hit Korean chipmakers,0.0,neutral,negative,0.9467
+TSLA,2026-10-22,12:07AM,"Tesla Asian supplier shares fall after mixed Q3 earnings, cautious outlook",0.0,neutral,negative,0.967
+TSLA,2026-10-21,11:11PM,"How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?",0.0,neutral,neutral,0.9177
+TSLA,2026-10-21,09:45PM,"Tesla's new Roadster opens two paths for Taiwanese suppliers, from EV components to aerospace",0.13636363636363635,positive,positive,0.7249
+TSLA,2026-10-21,09:44PM,"TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trumps Exit  ARK Sees Tesla Holders 5x Better Off By 2036",0.5,positive,positive,0.8856
+TSLA,2026-10-21,09:40PM,"U.S. stock futures fall as investors weigh Tesla, Meta earnings",0.0,neutral,negative,0.9365
+TSLA,2026-10-21,09:10PM,Elon Musk expands South Korean supplier network for Terafab,0.0,neutral,positive,0.9012
+TSLA,2026-10-21,08:57PM,Tesla profits fall on higher spending as 'Elon Inc.' talk builds,0.25,positive,negative,0.8038
+TSLA,2026-10-21,08:17PM,Tesla says it will start selling Cybercabs by end of year,0.0,neutral,neutral,0.8414
+TSLA,2026-10-21,08:16PM,Tesla Semi enters volume production as 2027 rollout approaches,0.0,neutral,neutral,0.7863
+TSLA,2026-10-21,08:06PM,"Tesla's surprise cash surge is 'unsustainable but helpful,' analyst says",0.0,neutral,positive,0.949
+TSLA,2026-10-21,07:56PM,"TSLA Stock Reverses After-Hours Gains As Tesla Cuts Full-Year Capex Guidance To $20B, Musk Tempers Optimus Timeline",0.0,neutral,negative,0.948
+TSLA,2026-10-21,07:31PM,"Tesla Beats On EPS And Margins As Call Signals Inflection, But Flat Growth And One-Time Energy Gains Temper The Quarter",-0.025,neutral,positive,0.5517
+TSLA,2026-10-21,07:15PM,"S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock  SPCX, META, TSLA, SKYD, IBM In Focus",0.0,neutral,positive,0.6949
+TSLA,2026-10-21,07:03PM,Tesla beats earnings projections after Musk floats SpaceX merger plan,0.0,neutral,positive,0.9403
+TSLA,2026-10-21,07:02PM,"Tesla Earnings Beat, FSD Revenue Strong, But TSLA Falls After Call",0.4333333333333333,positive,negative,0.8331
+TSLA,2026-10-21,06:44PM,Tesla's Q3 Energy-Segment Revenue Misses Estimates By A Mile,0.0,neutral,positive,0.6381
+TSLA,2026-10-21,06:29PM,Tesla still can't get a handle on robot hands,0.0,neutral,neutral,0.6113
+TSLA,2026-10-21,06:26PM,Tesla's OK Quarter: High Valuation Meets Big AI Ambitions,0.22,positive,positive,0.8165
+TSLA,2026-10-21,06:23PM,Musk says the Terafab will cost Tesla and SpaceX tens of billions of dollars,0.0,neutral,neutral,0.8171
+TSLA,2026-10-21,06:09PM,"Musk Talks Energy Storage, Optimus, and FSD",0.0,neutral,neutral,0.9461
+TSLA,2026-10-21,06:07PM,Tesla says 'unsupervised' full-self-driving technology could launch next year,0.0,neutral,neutral,0.5851
+TSLA,2026-10-21,06:05PM,Tesla's Cybercab is branching out to Dallas,0.0,neutral,neutral,0.7651
+TSLA,2026-10-21,05:59PM,Tesla cuts its spending plans for the year,0.0,neutral,negative,0.954
+TSLA,2026-10-21,05:58PM,Tesla Says It Has Started Early Optimus Robot Production,0.1,positive,neutral,0.837
+TSLA,2026-10-21,05:57PM,Tesla investors might get a peek at the Optimus robot later this year,0.0,neutral,neutral,0.9181
+TSLA,2026-10-21,05:51PM,Tesla hints at Cybercab 'variants',0.0,neutral,neutral,0.7626
+TSLA,2026-10-21,05:49PM,Tesla plans to double EV manufacturing capacity by 2030,0.0,neutral,positive,0.88
+TSLA,2026-10-21,05:49PM,Today Musk avoids the 'minefield' of  SpaceX merger commentary,0.0,neutral,neutral,0.7599
+TSLA,2026-10-21,05:46PM,Tesla  revenue flat as Elon Musk eyes possible SpaceX deal,-0.0125,neutral,negative,0.8294
+TSLA,2026-10-21,05:44PM,Why investors should be skeptical of a potential Tesla-SpaceX merger,-0.25,negative,neutral,0.922
+TSLA,2026-10-21,05:43PM,Elon Musk says Optimus commercial deliveries will start next year,0.0,neutral,neutral,0.8615
+TSLA,2026-10-21,05:42PM,Tesla Stock Dips Into the Red,0.0,neutral,negative,0.7782
+TSLA,2026-10-21,05:40PM,This Tesla product is almost entirely sold out through next year,0.0,neutral,neutral,0.9224
+TSLA,2026-10-21,05:36PM,"SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",0.0,neutral,positive,0.7971
+TSLA,2026-10-21,05:33PM,Tesla's Charging Business Keeps Growing,0.0,neutral,positive,0.7167
+TSLA,2026-10-21,05:31PM,Tesla's earnings call is kicking off. Here's how to listen.,0.0,neutral,neutral,0.9147
+TSLA,2026-10-21,05:31PM,More Tidbits From Tesla's Filing,0.5,positive,neutral,0.8919
+TSLA,2026-10-21,05:22PM,An avalanche of spending may await Tesla investors later this year,0.0,neutral,neutral,0.5811
+TSLA,2026-10-21,05:13PM,"TSLA Stock Trades Flat After Hours Following Drop In Q3 Revenue, Earnings, And Heavy AI Spending",-0.075,negative,negative,0.9714
+TSLA,2026-10-21,05:08PM,How Musk could move the 'entire' robotics sector,0.0,neutral,neutral,0.9176
+TSLA,2026-10-21,05:02PM,Tesla cuts its Semi production plans in half,-0.16666666666666666,negative,negative,0.9538
+TSLA,2026-10-21,05:01PM,Tesla's EPS GAAP Widens,0.0,neutral,positive,0.9516
+TSLA,2026-10-21,04:56PM,"Q3 Earnings Beats for Meta, Tesla, IBM and T.I.",0.0,neutral,positive,0.9169
+TSLA,2026-10-21,04:55PM,What's behind the 56% decrease in Tesla's operating profit,-0.4,negative,negative,0.9174
+TSLA,2026-10-21,04:55PM,"Tesla's Q3 profit drops as it prepares for possible merger with Musk's other public company, SpaceX",-0.041666666666666664,neutral,negative,0.9721
+TSLA,2026-10-21,04:52PM,Tesla's Biggest Barrier to More Auto Production: Batteries,0.5,positive,neutral,0.8489
+TSLA,2026-10-21,04:47PM,How SpaceX Showed Up In Tesla's Report,0.0,neutral,neutral,0.9244
+TSLA,2026-10-21,04:46PM,Tesla Says 75% of Deliveries Include FSD Subscriptions,0.0,neutral,neutral,0.8704
+TSLA,2026-10-21,04:44PM,Tesla's EV business appears to be getting healthier,0.0,neutral,positive,0.9411
+TSLA,2026-10-21,04:40PM,Tesla sees its profit pool expanding to include new areas,0.13636363636363635,positive,positive,0.926
+TSLA,2026-10-21,04:38PM,Tesla's Third Quarter Was Just OK. These Numbers Show How.,0.25,positive,neutral,0.7743
+TSLA,2026-10-21,04:37PM,"Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment",0.3333333333333333,positive,positive,0.8836
+TSLA,2026-10-21,04:30PM,Tesla recorded its biggest EV backlog since 2022,0.0,neutral,negative,0.9543
+TSLA,2026-10-21,04:27PM,Tesla says the data-center boom is great for its energy business,0.8,positive,positive,0.8318
+TSLA,2026-10-21,04:21PM,Tesla's self-driving software is proving a hit with customers,0.0,neutral,positive,0.9059
+TSLA,2026-10-21,04:20PM,How major US stock indexes fared Wednesday 10/21/2026,0.0625,positive,neutral,0.5074
+TSLA,2026-10-21,04:18PM,Tesla surprisingly wasn't in cash-burn mode last quarter,0.35,positive,neutral,0.8585
+TSLA,2026-10-21,04:15PM,"Tesla Reports Flat Revenue, Increased Cash Flow as SpaceX Merger Talk Looms",-0.025,neutral,negative,0.7905
+TSLA,2026-10-21,04:15PM,SpaceX's massive AI targets will test the limits of reality,0.0,neutral,positive,0.7473
+TSLA,2026-10-21,04:13PM,Tesla investors finally get some good news on Optimus,0.35,positive,positive,0.8359
+TSLA,2026-10-21,04:10PM,Tesla's stock rises after earnings beat,0.0,neutral,positive,0.8398
+GOOGL,2026-10-22,08:35AM,Indian firm eMudhra exits global digital certificates business after vulnerability disclosure,-0.06666666666666667,negative,negative,0.8752
+GOOGL,2026-10-22,06:09AM,Googles AI Dominance Has Prediction Markets Betting Big  But Anthropic Could Flip the Script,0.0,neutral,neutral,0.5221
+GOOGL,2026-10-22,06:01AM,Analysis-Investors see risk from US midterms to AI trade as data center backlash builds,-0.1,negative,neutral,0.4455
+GOOGL,2026-10-21,06:46PM,"Q3 Earnings Season Ramps Up, Outlook for Q4 and Full-Year 2027 Improve",0.0,neutral,positive,0.9426
+GOOGL,2026-10-21,05:20PM,Meta's strong results aren't helping the stocks of its hyperscaler peers,0.4333333333333333,positive,negative,0.9204
+GOOGL,2026-10-21,04:42PM,"Kazakhstans AIFC Regulator Turns to Apple and Google to Enforce Coinbase, HTX Injunctions",0.0,neutral,negative,0.6965
+GOOGL,2026-10-21,03:55PM,Meta's free cash flow is on the brink of sliding into the red,0.2,positive,negative,0.9574
+GOOGL,2026-10-21,03:53PM,Did You Lose Money Investing in Alphabet Inc.? Robbins LLP Urges Investors with Significant Losses to Contact the Firm for Information About Their Rights Against GOOG,0.0875,positive,neutral,0.9125
+GOOGL,2026-10-21,02:55PM,Anthropic Has Over $600 Billion in Compute Contracts  And It's Not Enough,0.0,neutral,negative,0.6079
+GOOGL,2026-10-21,02:00PM,Cars Are Changing. How GM Plans to Win in the Age of AI and EVs.,0.8,positive,neutral,0.9173
+GOOGL,2026-10-21,01:38PM,2 Magnificent 7 Stocks in Focus Ahead of Earnings,1.0,positive,neutral,0.8463
+GOOGL,2026-10-21,01:20PM,Bipartisan senators are pressing Google for answers on AI tools in classrooms,0.0,neutral,neutral,0.8725
+GOOGL,2026-10-21,01:08PM,Microsoft and Alphabet opt out of tokenized stocks in latest blow to ambitious plan from OKK and NYSE parent firm,0.18333333333333335,positive,neutral,0.8328
+GOOGL,2026-10-21,01:08PM,Model Moats: The Vanishing Weight and the Price of the Watt,0.0,neutral,neutral,0.9066
+GOOGL,2026-10-21,11:58AM,"SpaceX swings to profit on AI infrastructure boom, but capex bill is climbing",0.0,neutral,positive,0.8861
+GOOGL,2026-10-21,11:43AM,Europe's financial regulators query Google over cloud outage that hit banks,0.0,neutral,negative,0.9576
+GOOGL,2026-10-21,11:14AM,Worried about fallout from the AI debt binge? Do this.,0.0,neutral,neutral,0.856
+GOOGL,2026-10-21,10:49AM,Google CEO Admits Cloud Business Is Sacrificing Revenue to Win AI Race,0.8,positive,negative,0.6239
 GOOGL,2026-10-21,08:52AM,OpenAI expands Google Cloud access as AI rivals deepen ties,0.0,neutral,positive,0.7908
 GOOGL,2026-10-21,08:30AM,OpenAI will make its AI models available on Google Cloud in the coming weeks,0.4,positive,neutral,0.8956
 GOOGL,2026-10-21,08:19AM,"Netflix has 2 problems behind the stock slide  and they aren't YouTube, co-CEO Ted Sarandos says",-0.4,negative,negative,0.7168
@@ -281,21 +299,3 @@ GOOGL,2026-10-16,08:38AM,Netflix Hires Former Disney Exec to Fix Content Problem
 GOOGL,2026-10-16,08:13AM,"AI Stock Sell-Off Could Catch Bearish Investors Off Guard In Right Tail Risk, But Wall Street Feels Broader Market Signals Are Holding Up",0.2857142857142857,positive,positive,0.4738
 GOOGL,2026-10-16,08:06AM,How AI Chips Will Power Google Cloud Revenue In 2027 And Beyond,0.0,neutral,neutral,0.9076
 GOOGL,2026-10-16,07:46AM,"Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",0.28125,positive,neutral,0.4623
-GOOGL,2026-10-16,03:00AM,Look How Much Money the AI Gods Are Giving Away,0.2,positive,neutral,0.8822
-GOOGL,2026-10-16,12:55AM,"Googles Quantum Breakthrough Puts Bitcoin in Trouble? Analyst Says Not Today, but Gap Is Getting Smaller",-0.1,negative,negative,0.8689
-GOOGL,2026-10-15,09:21PM,Jim Cramer's Rate Test: Why He Backs Reddit but Passes on SiTime,0.0,neutral,neutral,0.9108
-GOOGL,2026-10-15,08:48PM,Should You Buy Adobe Stock For Its Cash?,0.0,neutral,neutral,0.9308
-GOOGL,2026-10-15,05:42PM,"JPMorgan's Chicago Office Renovation Costing Bank Over $800M, Dimon Says",0.0,neutral,neutral,0.7931
-GOOGL,2026-10-15,05:21PM,Don't ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.,0.5,positive,neutral,0.8839
-GOOGL,2026-10-15,03:52PM,Amazon's New Devices Show Push to Avoid Getting Shut Out of Personal AI,0.06818181818181818,positive,neutral,0.5984
-GOOGL,2026-10-15,03:50PM,New York City Wants a Cut of the Next Quantum Breakthrough,0.11212121212121212,positive,neutral,0.5754
-GOOGL,2026-10-15,03:31PM,Michael Dell Loses Title of Worlds Fourth Richest Person After $36 Billion Drop in Net Worth in Two Days,0.0,neutral,negative,0.9567
-GOOGL,2026-10-15,02:43PM,AI Stocks Are Hurting. Look at These Other Sectors for Protection.,-0.125,negative,negative,0.8449
-GOOGL,2026-10-15,12:18PM,Blackstones $200B Data Center Empire Anchors Its AI Bet,-0.1,negative,neutral,0.5293
-GOOGL,2026-10-15,11:59AM,Apple sets preorder date for its ambitious and expensive iPhone Duo,-0.125,negative,neutral,0.9066
-GOOGL,2026-10-15,11:59AM,Apple iPhone Duo available for preorder Friday,0.4,positive,neutral,0.9122
-GOOGL,2026-10-15,11:02AM,Big Tech ETF declines as Nvidia's stock is the biggest drop in its portfolio,0.0,neutral,negative,0.9674
-GOOGL,2026-10-15,10:48AM,Consumer goods giants step up ad intensity as other big spenders pull back: report,-0.041666666666666664,neutral,positive,0.7716
-GOOGL,2026-10-15,09:48AM,Can Alphabet Afford Its Spending Bill?,0.0,neutral,neutral,0.8152
-GOOGL,2026-10-15,09:25AM,Is The Market Underpricing Amazon Stock At Twenty Times Earnings?,0.0,neutral,negative,0.7042
-GOOGL,2026-10-15,09:13AM,CoreWeave's slump puts spotlight on debt behind AI boom,-0.4,negative,negative,0.907
