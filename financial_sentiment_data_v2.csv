@@ -1,4 +1,18 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-10-24,06:00AM,Apple's new hardware push is meeting AI-worried investors at the right moment,0.21103896103896103,positive,positive,0.6988
+AAPL,2026-10-24,05:24AM,"Gene Munster Says Apples $2,200 iPhone Duo Could Add $8B To FY27 Revenue, Sees 20M Units In Sales Even As Wall Street Expects Only 12M",0.0,neutral,positive,0.8993
+AAPL,2026-10-23,06:35PM,"S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week  AAPL, AXP, CART, UBER In Focus",0.0,neutral,negative,0.7005
+AAPL,2026-10-23,05:45PM,iPhone Duo release is first major test for Apple's push to bring new products to market,0.14962121212121213,positive,positive,0.7897
+AAPL,2026-10-23,05:11PM,"Tesla Stock Lags Apple Because Of Communications Problem, Says Investor Gary Black",-0.16666666666666666,negative,negative,0.9651
+AAPL,2026-10-23,04:59PM,"3 Portfolio-Worthy Stocks Hitting 52-Week Highs: AAPL, LLY & KO",0.0,neutral,positive,0.8891
+AAPL,2026-10-23,03:25PM,"Top Stock Reports for Apple, Berkshire Hathaway & Goldman Sachs",0.5,positive,neutral,0.9276
+AAPL,2026-10-23,02:50PM,The iPhone Duo Launch Kicks Off a Crucial Few Weeks for Apple,-0.1,negative,positive,0.7232
+AAPL,2026-10-23,02:45PM,Apple's new iPhone Duo draws crowds on launch day,0.13636363636363635,positive,neutral,0.7173
+AAPL,2026-10-23,12:01PM,Meta 3Q26 Earnings: Go Muse or Go Home,0.0,neutral,neutral,0.8622
+AAPL,2026-10-23,11:16AM,Apple is taking Wall Street's top spot back from Nvidia  for the fifth time,0.25,positive,neutral,0.5505
+AAPL,2026-10-23,10:13AM,Apple's iPhone Duo hits stores today with limited supplies and long lines,-0.060714285714285714,negative,negative,0.967
+AAPL,2026-10-23,10:09AM,Apple Overtakes Nvidia As World's Most Valuable Company  iPhone Duo Hits Stores Amid Strong Demand,0.4666666666666667,positive,positive,0.9027
+AAPL,2026-10-23,09:29AM,CFOs On the Move: Week ending Oct. 23,0.0,neutral,neutral,0.7842
 AAPL,2026-10-23,06:38AM,Apple could be about to dethrone Nvidia as world's most valuable company,0.5,positive,neutral,0.721
 AAPL,2026-10-23,12:29AM,"Chinese phone brands beat Samsung, Apple to high-refresh OLED",0.0,neutral,positive,0.9314
 AAPL,2026-10-22,11:23PM,"Why Did AAPL, KO, KDP Stocks Hit 52-Week Highs Today?",0.0,neutral,neutral,0.8811
@@ -85,22 +99,24 @@ AAPL,2026-10-16,10:04AM,AAPL Stock Gains As Strong Demand Reportedly Pushes iPho
 AAPL,2026-10-16,09:57AM,Meta Releases Open-Weight Muse Spark Model for Developers and Coding Agents,0.0,neutral,neutral,0.8852
 AAPL,2026-10-16,09:55AM,Nvidia and Apple Donate Millions for Planned White House Project,0.0,neutral,neutral,0.7183
 AAPL,2026-10-16,09:38AM,How Much Of Apple Stock Rides On One Product?,0.2,positive,neutral,0.9427
-AAPL,2026-10-16,09:17AM,Apples first foldable iPhone sells out within minutes as preorders begin,0.25,positive,neutral,0.8328
-AAPL,2026-10-16,09:00AM,"Apple iPhone Duo preorders sell out, deliveries extend to late January",-0.3,negative,positive,0.6799
-AAPL,2026-10-16,08:30AM,Meta and Apple are partnering to run an open 816B-parameter AI model on Mac Studios,0.0,neutral,positive,0.542
-AAPL,2026-10-16,08:00AM,"Is Apple's foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",0.0875,positive,neutral,0.9139
-AAPL,2026-10-16,07:50AM,"EQX Labs Plans Zero-Fee Tokenized U.S. Stocks on Hyperliquid, Challenging Rival Issuers",0.5,positive,positive,0.5942
-AAPL,2026-10-16,03:47AM,Meta Releases Muse Spark Open With an Unlikely Assist From Apple: Why It Can Afford to Give It Away,-0.25,negative,neutral,0.8542
-AAPL,2026-10-16,02:11AM,"Stocktwits AI Roundup: AI Chip Selloff Deepens, CoreWeave Debt Concerns And Apples China AI Launch",0.0,neutral,negative,0.6607
-AAPL,2026-10-15,08:01PM,"Jim Cramer Says Starbucks Can Rise On Its Own, Apples Audience Is Worth Paying For, And Intel Investors Need Patience",0.44999999999999996,positive,positive,0.738
-AAPL,2026-10-15,05:00PM,Think the iPhone Duo is expensive? Skip Apple's insurance plan and 1 mishap could send your real cost soaring,-0.15,negative,negative,0.521
-AAPL,2026-10-15,03:27PM,New York City Wants to Be the Capital of Quantum. Join the Club.,0.16818181818181818,positive,neutral,0.919
-AAPL,2026-10-15,02:53PM,What Apples hand-embroidered product launch reveals about advertising in the age of AI slop,0.0,neutral,neutral,0.9333
-AAPL,2026-10-15,02:43PM,AI Stocks Are Hurting. Look at These Other Sectors for Protection.,-0.125,negative,negative,0.8449
-AAPL,2026-10-15,12:47PM,Apple Hits $5 Trillion Market Cap as Nvidia's Lead Shrinks,0.0,neutral,positive,0.5768
-AAPL,2026-10-15,12:44PM,"Apple Closes In On World's Most Valuable Company Crown  iPhone Duo Preorders, China AI Rollout In Focus",0.5,positive,positive,0.6082
+TSLA,2026-10-24,06:00AM,Apple's new hardware push is meeting AI-worried investors at the right moment,0.21103896103896103,positive,positive,0.6988
+TSLA,2026-10-23,08:58PM,"Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans",0.0,neutral,negative,0.7109
+TSLA,2026-10-23,08:07PM,"Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches Financeable Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",0.35,positive,neutral,0.8805
+TSLA,2026-10-23,05:11PM,"Tesla Stock Lags Apple Because Of Communications Problem, Says Investor Gary Black",-0.16666666666666666,negative,negative,0.9651
+TSLA,2026-10-23,04:42PM,"Stock market today: Dow sinks 600 points, S&P 500, Nasdaq drop to cap a volatile week, oil prices rise",-0.1,negative,negative,0.9464
+TSLA,2026-10-23,03:59PM,Dow Heads for 3rd Weekly Win Despite Tech Turmoil,0.4,positive,positive,0.8251
+TSLA,2026-10-23,03:44PM,"CoreWeave Heads for Third Weekly Loss, Weighing on Stocks and Bitcoin Over AI Financing Fears",0.0,neutral,negative,0.9649
+TSLA,2026-10-23,03:36PM,SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says Hes Staying Out Of,0.0,neutral,neutral,0.5577
+TSLA,2026-10-23,02:29PM,Investing.coms stocks of the week,0.0,neutral,neutral,0.8975
+TSLA,2026-10-23,01:05PM,'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins,0.0,neutral,negative,0.7173
+TSLA,2026-10-23,12:15PM,"SpaceX earnings, tech sell-off lead to rocky week for investors",0.0,neutral,negative,0.9532
+TSLA,2026-10-23,12:06PM,"Stock market today: Dow, S&P 500 slip, Nasdaq stabilizes after sharp tech sell-off",-0.125,negative,negative,0.9614
+TSLA,2026-10-23,11:56AM,SpaceX CEO Elon Musk is 'one of one': Will the market give Anthropic's Dario Amodei the same leeway?,0.0,neutral,neutral,0.8493
+TSLA,2026-10-23,10:50AM,"Q3 Earnings Season: Strong Base, Higher Revision Trends, and Promising 2027 Outlook",0.020833333333333315,neutral,positive,0.9565
+TSLA,2026-10-23,10:40AM,Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up,0.13636363636363635,positive,neutral,0.8942
+TSLA,2026-10-23,09:29AM,CFOs On the Move: Week ending Oct. 23,0.0,neutral,neutral,0.7842
+TSLA,2026-10-23,09:17AM,"Buy pullback in this chip stock, Mizuho says",0.0,neutral,neutral,0.6116
 TSLA,2026-10-23,08:52AM,How Accounting Helped Tesla Beat Gross Profit Numbers,0.0,neutral,positive,0.8084
-TSLA,2026-10-23,08:51AM,"Stock market today: Dow, S&P 500, Nasdaq futures slip after sharp tech sell-off",-0.125,negative,negative,0.9676
 TSLA,2026-10-23,08:40AM,Why Tesla's $5 billion capex cut isn't the warning sign AI stock bears think it is,0.0,neutral,negative,0.7798
 TSLA,2026-10-23,06:00AM,"How Elon Musk went from Tesla CEO to the 'most powerful civilian, non-governmental actor in history'",0.4,positive,neutral,0.8907
 TSLA,2026-10-23,06:00AM,Big Tech's capex spending looks different this year as Meta and Tesla save for later,0.0,neutral,neutral,0.8555
@@ -139,7 +155,6 @@ TSLA,2026-10-22,11:39AM,Meta and chip stocks decline as AI trade comes under pre
 TSLA,2026-10-22,11:33AM,Two big reasons Micron and other chip stocks are falling on Thursday,-0.0625,negative,negative,0.9655
 TSLA,2026-10-22,11:16AM,Teslas Q3 profit falls 43% as operating costs rise,0.0,neutral,negative,0.9746
 TSLA,2026-10-22,11:04AM,Catch Up on Tesla Earnings,0.0,neutral,neutral,0.8196
-TSLA,2026-10-22,10:41AM,Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up,0.13636363636363635,positive,neutral,0.8942
 TSLA,2026-10-22,10:29AM,Big Tech ETF struggles as Meta shares slide after earnings results,0.0,neutral,negative,0.9611
 TSLA,2026-10-22,10:00AM,3 Tech Stocks Suffering Steep Post-Earnings Slides,0.0,neutral,negative,0.9649
 TSLA,2026-10-22,10:00AM,"Tesla stock slips despite Q3 earnings beat, better-than-expected capex spend",0.0,neutral,negative,0.9596
@@ -184,21 +199,19 @@ TSLA,2026-10-22,01:01AM,"European auto sales rise 10% in Sept; EVs, hybrids lead
 TSLA,2026-10-22,12:38AM,Elon Musk says Tesla vehicle demand exceeding production ahead of Dallas Cybercab launch,0.0,neutral,positive,0.8217
 TSLA,2026-10-22,12:25AM,Asia stocks slide as AI jitters hit Korean chipmakers,0.0,neutral,negative,0.9467
 TSLA,2026-10-22,12:07AM,"Tesla Asian supplier shares fall after mixed Q3 earnings, cautious outlook",0.0,neutral,negative,0.967
-TSLA,2026-10-21,11:11PM,"How Are Dow, S&P 500, Nasdaq Futures Trading After META, TSLA Earnings?",0.0,neutral,neutral,0.9177
-TSLA,2026-10-21,09:45PM,"Tesla's new Roadster opens two paths for Taiwanese suppliers, from EV components to aerospace",0.13636363636363635,positive,positive,0.7249
-TSLA,2026-10-21,09:44PM,"TSLA, SPCX Slip Overnight: Musk Reportedly Pushes Merger Before Trumps Exit  ARK Sees Tesla Holders 5x Better Off By 2036",0.5,positive,positive,0.8856
-TSLA,2026-10-21,09:40PM,"U.S. stock futures fall as investors weigh Tesla, Meta earnings",0.0,neutral,negative,0.9365
-TSLA,2026-10-21,09:10PM,Elon Musk expands South Korean supplier network for Terafab,0.0,neutral,positive,0.9012
-TSLA,2026-10-21,08:57PM,Tesla profits fall on higher spending as 'Elon Inc.' talk builds,0.25,positive,negative,0.8038
-TSLA,2026-10-21,08:17PM,Tesla says it will start selling Cybercabs by end of year,0.0,neutral,neutral,0.8414
-TSLA,2026-10-21,08:16PM,Tesla Semi enters volume production as 2027 rollout approaches,0.0,neutral,neutral,0.7863
-TSLA,2026-10-21,08:06PM,"Tesla's surprise cash surge is 'unsustainable but helpful,' analyst says",0.0,neutral,positive,0.949
-TSLA,2026-10-21,07:56PM,"TSLA Stock Reverses After-Hours Gains As Tesla Cuts Full-Year Capex Guidance To $20B, Musk Tempers Optimus Timeline",0.0,neutral,negative,0.948
-TSLA,2026-10-21,07:31PM,"Tesla Beats On EPS And Margins As Call Signals Inflection, But Flat Growth And One-Time Energy Gains Temper The Quarter",-0.025,neutral,positive,0.5517
-TSLA,2026-10-21,07:15PM,"S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock  SPCX, META, TSLA, SKYD, IBM In Focus",0.0,neutral,positive,0.6949
-TSLA,2026-10-21,07:03PM,Tesla beats earnings projections after Musk floats SpaceX merger plan,0.0,neutral,positive,0.9403
-TSLA,2026-10-21,07:02PM,"Tesla Earnings Beat, FSD Revenue Strong, But TSLA Falls After Call",0.4333333333333333,positive,negative,0.8331
-TSLA,2026-10-21,06:44PM,Tesla's Q3 Energy-Segment Revenue Misses Estimates By A Mile,0.0,neutral,positive,0.6381
+GOOGL,2026-10-24,07:00AM,Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.,0.0,neutral,neutral,0.9193
+GOOGL,2026-10-24,01:29AM,"Cathie Wood-Led Ark Invest Sells PLTR, GOOG, SHOP Stocks  But Loads Up On PACB, FRNM And Other Biotech Firms",-0.125,negative,neutral,0.8986
+GOOGL,2026-10-23,11:59PM,"Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",0.0,neutral,neutral,0.8135
+GOOGL,2026-10-23,07:55PM,Review & Preview: The Dow's Turn,0.0,neutral,neutral,0.9337
+GOOGL,2026-10-23,04:30PM,Wall Street closes lower to end rocky week,0.0,neutral,negative,0.9577
+GOOGL,2026-10-23,04:01PM,Tech Selloff Cools. Now the Heat Is on the Dow.,0.0,neutral,neutral,0.6701
+GOOGL,2026-10-23,12:05PM,Berkshire Stock Is Hot Again. Is It Still a Bargain?,0.25,positive,neutral,0.7256
+GOOGL,2026-10-23,12:02PM,What some of Anthropics backers are reportedly worth before its IPO,0.3,positive,neutral,0.9238
+GOOGL,2026-10-23,11:16AM,Apple is taking Wall Street's top spot back from Nvidia  for the fifth time,0.25,positive,neutral,0.5505
+GOOGL,2026-10-23,11:16AM,"Hyperscalers Microsoft, Amazon Line Up With Earnings, Along With ServiceNow, Intel",0.0,neutral,neutral,0.8567
+GOOGL,2026-10-23,10:50AM,"Q3 Earnings Season: Strong Base, Higher Revision Trends, and Promising 2027 Outlook",0.020833333333333315,neutral,positive,0.9565
+GOOGL,2026-10-23,10:26AM,King Apple is taking Wall Street's top spot back from Nvidia  for the fifth time,0.25,positive,neutral,0.6125
+GOOGL,2026-10-23,08:54AM,Metas capital-raising plans expose a major weakness in the AI boom,0.0625,positive,negative,0.9427
 GOOGL,2026-10-23,08:40AM,Why Tesla's $5 billion capex cut isn't the warning sign AI stock bears think it is,0.0,neutral,negative,0.7798
 GOOGL,2026-10-23,06:51AM,Google and Voltus expand virtual power plant to 1GW in PJM,0.0,neutral,positive,0.8127
 GOOGL,2026-10-23,05:51AM,AI stock bears probably just missed this point on Tesla in their run for the exits,0.0,neutral,negative,0.4551
@@ -286,16 +299,3 @@ GOOGL,2026-10-19,04:21AM,BE Stock Jumps Premarket Into Earnings Week: Retail Bet
 GOOGL,2026-10-18,12:06PM,The Napoleon of the Smart Home (AVALON Podcast),0.21428571428571427,positive,neutral,0.9143
 GOOGL,2026-10-18,07:08AM,Mastercards New Agent Detection Score Asks a Question No Card Network Has Asked Before,0.13636363636363635,positive,neutral,0.9311
 GOOGL,2026-10-18,07:00AM,Will Meta's earnings restore confidence in the AI boom?,0.0,neutral,positive,0.7095
-GOOGL,2026-10-18,05:00AM,"What to Expect in Markets This Week: Meta, Tesla Report; Airlines, Streaming Giants Results Due",-0.125,negative,neutral,0.9409
-GOOGL,2026-10-17,11:00AM,"Apple, Nvidia each gave $25M to Trump's White House ballroom  but the president's own name is nowhere on the donor list",0.3,positive,neutral,0.9233
-GOOGL,2026-10-17,08:01AM,"Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",0.5,positive,neutral,0.8967
-GOOGL,2026-10-17,04:28AM,Google Puts Gemini in Geelys Overseas Cars: Why the Export Numbers Matter,0.0,neutral,neutral,0.8472
-GOOGL,2026-10-17,01:09AM,What would superintelligence look and feel like?,0.0,neutral,neutral,0.9132
-GOOGL,2026-10-16,10:50PM,Why You Should Think About Palantir Differently Now,0.0,neutral,neutral,0.9025
-GOOGL,2026-10-16,10:19PM,Can Trade Desk Stock Bounce Off Its Old Support Again?,0.1,positive,neutral,0.7519
-GOOGL,2026-10-16,06:43PM,New Cracks in AI Trade Push Wall Street to Worst Week Since June,-0.4318181818181818,negative,negative,0.925
-GOOGL,2026-10-16,03:44PM,"Q3 Earnings Season Preview: Revenue Beats Lag, Multi-Sector Momentum Holds",0.0,neutral,positive,0.9192
-GOOGL,2026-10-16,02:01PM,"Dow down 266 points on losses for shares of Salesforce, Microsoft",-0.15555555555555559,negative,negative,0.9653
-GOOGL,2026-10-16,01:30PM,"S&P 500, Nasdaq set for steep weekly losses as AI jitters rattle investors",0.0,neutral,negative,0.9485
-GOOGL,2026-10-16,12:49PM,"Dow drops 131 points on losses for Salesforce, Microsoft shares",0.0,neutral,negative,0.9578
-GOOGL,2026-10-16,12:37PM,Chase Tower Renovation Costs JPMorgan Over $800M in Chicago,0.0,neutral,negative,0.823
