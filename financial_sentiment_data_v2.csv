@@ -1,4 +1,5 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-10-24,10:51AM,Is Demand for Apple's iPhone 18 Pro Weakening? Jefferies Reports Shorter Delivery Times and Order Cuts,0.0,neutral,negative,0.8737
 AAPL,2026-10-24,06:00AM,Apple's new hardware push is meeting AI-worried investors at the right moment,0.21103896103896103,positive,positive,0.6988
 AAPL,2026-10-24,05:24AM,"Gene Munster Says Apples $2,200 iPhone Duo Could Add $8B To FY27 Revenue, Sees 20M Units In Sales Even As Wall Street Expects Only 12M",0.0,neutral,positive,0.8993
 AAPL,2026-10-23,06:35PM,"S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week  AAPL, AXP, CART, UBER In Focus",0.0,neutral,negative,0.7005
@@ -47,7 +48,7 @@ AAPL,2026-10-20,04:52PM,Stock Market Today: Dow Jumps On U.S.-Iran Hopes; This W
 AAPL,2026-10-20,04:25PM,How major US stock indexes fared Tuesday 10/20/2026,0.0625,positive,neutral,0.5122
 AAPL,2026-10-20,02:46PM,Apple faces gross margin pressure as UBS flags slowing iPhone growth ahead of earnings,0.0,neutral,negative,0.971
 AAPL,2026-10-20,12:51PM,Berkshire Hathaway Stock Nears a Record; It's the Ultimate Anti-AI Play,0.0,neutral,neutral,0.572
-AAPL,2026-10-20,11:45AM,Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight,-0.17857142857142858,negative,positive,0.8113
+AAPL,2026-10-20,11:45AM,Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight,-0.17857142857142858,negative,positive,0.8114
 AAPL,2026-10-20,10:23AM,Apple Stock Is the Best Performer in the Mag 7. An Analyst Downgrade Signals It's Time to Pump the Brakes.,1.0,positive,negative,0.9173
 AAPL,2026-10-20,10:17AM,Laurene Powell Jobs' $250 Million Skydance Stock Buy Is Already Underwater,0.0,neutral,neutral,0.9417
 AAPL,2026-10-20,09:08AM,"Wall St set for lower open as oil prices jump, earnings in focus",0.0,neutral,negative,0.8172
@@ -98,7 +99,8 @@ AAPL,2026-10-16,10:33AM,"Apples $1,999 Foldable Is Backordered to 2027. Heres Wh
 AAPL,2026-10-16,10:04AM,AAPL Stock Gains As Strong Demand Reportedly Pushes iPhone Duo Delivery To December,0.4333333333333333,positive,positive,0.9424
 AAPL,2026-10-16,09:57AM,Meta Releases Open-Weight Muse Spark Model for Developers and Coding Agents,0.0,neutral,neutral,0.8852
 AAPL,2026-10-16,09:55AM,Nvidia and Apple Donate Millions for Planned White House Project,0.0,neutral,neutral,0.7183
-AAPL,2026-10-16,09:38AM,How Much Of Apple Stock Rides On One Product?,0.2,positive,neutral,0.9427
+TSLA,2026-10-24,08:41PM,Tesla-SpaceX merger tests whether Musk's technology empire is worth more together,0.4,positive,neutral,0.8265
+TSLA,2026-10-24,07:15AM,"Rick Lazio: Weve lost an auto race before, Chinas EV climb should worry us",0.0,neutral,negative,0.7088
 TSLA,2026-10-24,06:00AM,Apple's new hardware push is meeting AI-worried investors at the right moment,0.21103896103896103,positive,positive,0.6988
 TSLA,2026-10-23,08:58PM,"Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans",0.0,neutral,negative,0.7109
 TSLA,2026-10-23,08:07PM,"Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches Financeable Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",0.35,positive,neutral,0.8805
@@ -197,14 +199,14 @@ TSLA,2026-10-22,01:22AM,Elon Musks endorsement of SpaceX-Tesla merger sparks ins
 TSLA,2026-10-22,01:06AM,Tesla Logs Surge in European Monthly Sales,0.0,neutral,positive,0.926
 TSLA,2026-10-22,01:01AM,"European auto sales rise 10% in Sept; EVs, hybrids lead",0.0,neutral,positive,0.9383
 TSLA,2026-10-22,12:38AM,Elon Musk says Tesla vehicle demand exceeding production ahead of Dallas Cybercab launch,0.0,neutral,positive,0.8217
-TSLA,2026-10-22,12:25AM,Asia stocks slide as AI jitters hit Korean chipmakers,0.0,neutral,negative,0.9467
-TSLA,2026-10-22,12:07AM,"Tesla Asian supplier shares fall after mixed Q3 earnings, cautious outlook",0.0,neutral,negative,0.967
+GOOGL,2026-10-25,07:54AM,Why Are Investors Buying Credit Default Swaps to Hedge AI-Related Debt?,0.0,neutral,neutral,0.8108
+GOOGL,2026-10-25,05:59AM,The Enterprise Agent Price Nobody Will Show You,0.0,neutral,neutral,0.9041
 GOOGL,2026-10-24,07:00AM,Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.,0.0,neutral,neutral,0.9193
 GOOGL,2026-10-24,01:29AM,"Cathie Wood-Led Ark Invest Sells PLTR, GOOG, SHOP Stocks  But Loads Up On PACB, FRNM And Other Biotech Firms",-0.125,negative,neutral,0.8986
 GOOGL,2026-10-23,11:59PM,"Wells Fargo, Arm and Intuit Reject Tokenized Shares on OKX-ICE",0.0,neutral,neutral,0.8135
 GOOGL,2026-10-23,07:55PM,Review & Preview: The Dow's Turn,0.0,neutral,neutral,0.9337
 GOOGL,2026-10-23,04:30PM,Wall Street closes lower to end rocky week,0.0,neutral,negative,0.9577
-GOOGL,2026-10-23,04:01PM,Tech Selloff Cools. Now the Heat Is on the Dow.,0.0,neutral,neutral,0.6701
+GOOGL,2026-10-23,04:01PM,Tech Selloff Cools. Now the Heat Is on the Dow.,0.0,neutral,neutral,0.6702
 GOOGL,2026-10-23,12:05PM,Berkshire Stock Is Hot Again. Is It Still a Bargain?,0.25,positive,neutral,0.7256
 GOOGL,2026-10-23,12:02PM,What some of Anthropics backers are reportedly worth before its IPO,0.3,positive,neutral,0.9238
 GOOGL,2026-10-23,11:16AM,Apple is taking Wall Street's top spot back from Nvidia  for the fifth time,0.25,positive,neutral,0.5505
@@ -297,5 +299,3 @@ GOOGL,2026-10-19,05:55AM,Energy Earnings Preview: 5 Things That Could Move Stock
 GOOGL,2026-10-19,04:55AM,"DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge",0.0,neutral,positive,0.7012
 GOOGL,2026-10-19,04:21AM,BE Stock Jumps Premarket Into Earnings Week: Retail Bets On 40% Pop As Wall Street Eyes Strong Q3 Growth,0.4333333333333333,positive,positive,0.7945
 GOOGL,2026-10-18,12:06PM,The Napoleon of the Smart Home (AVALON Podcast),0.21428571428571427,positive,neutral,0.9143
-GOOGL,2026-10-18,07:08AM,Mastercards New Agent Detection Score Asks a Question No Card Network Has Asked Before,0.13636363636363635,positive,neutral,0.9311
-GOOGL,2026-10-18,07:00AM,Will Meta's earnings restore confidence in the AI boom?,0.0,neutral,positive,0.7095
