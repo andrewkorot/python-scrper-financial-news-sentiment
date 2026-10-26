@@ -1,4 +1,10 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-10-26,09:03AM,"Q3 Peak Season Arrives: Strong Beats, Sky-High AI Scrutiny",0.4333333333333333,positive,positive,0.9306
+AAPL,2026-10-26,08:25AM,"The 10 biggest stocks are faltering, and it's dragging the S&P 500 down",-0.15555555555555559,negative,negative,0.9663
+AAPL,2026-10-26,07:48AM,Apple Reportedly Increases iPhone Duo Production Orders by 30% Following Launch Demand,0.0,neutral,positive,0.9479
+AAPL,2026-10-26,04:47AM,"Stocktwits Tech Watch: More Big Earnings, Apples Touch-Screen MacBook And Intel Results In Focus",0.25,positive,positive,0.7303
+AAPL,2026-10-25,08:10PM,Apple seeks more iPhone Duo supplies amid strong demand for debut foldable- report,0.4666666666666667,positive,positive,0.9387
+AAPL,2026-10-25,12:57PM,"AI delivers zero financial payoff to most companies, Apollo economist says",0.25,positive,neutral,0.4853
 AAPL,2026-10-24,10:51AM,Is Demand for Apple's iPhone 18 Pro Weakening? Jefferies Reports Shorter Delivery Times and Order Cuts,0.0,neutral,negative,0.8737
 AAPL,2026-10-24,06:00AM,Apple's new hardware push is meeting AI-worried investors at the right moment,0.21103896103896103,positive,positive,0.6988
 AAPL,2026-10-24,05:24AM,"Gene Munster Says Apples $2,200 iPhone Duo Could Add $8B To FY27 Revenue, Sees 20M Units In Sales Even As Wall Street Expects Only 12M",0.0,neutral,positive,0.8993
@@ -93,12 +99,22 @@ AAPL,2026-10-16,12:34PM,AAPL Stock Adds 1% As It Prepares To Tackle UK Regulator
 AAPL,2026-10-16,12:27PM,"Apple faces growing iPhone demand concerns as delivery wait times shrink, UBS warns",0.0,neutral,negative,0.9477
 AAPL,2026-10-16,12:21PM,Why Fox Can Finally Breathe a Sigh of Relief With Roku Deal-and Why The NFL Can't,0.0,neutral,neutral,0.7423
 AAPL,2026-10-16,12:18PM,Big Tech Earnings Suddenly Matter for the Bond Market,0.0,neutral,neutral,0.6994
-AAPL,2026-10-16,11:43AM,What Is The Biggest Threat To Microsoft Stock?,0.0,neutral,neutral,0.638
-AAPL,2026-10-16,10:54AM,Apple iPhone Duo Preorders Are Off to a Strong Start. That's a Win for the Stock.,0.6166666666666667,positive,positive,0.9261
-AAPL,2026-10-16,10:33AM,"Apples $1,999 Foldable Is Backordered to 2027. Heres What That Does and Doesnt Mean",-0.3125,negative,neutral,0.9365
-AAPL,2026-10-16,10:04AM,AAPL Stock Gains As Strong Demand Reportedly Pushes iPhone Duo Delivery To December,0.4333333333333333,positive,positive,0.9424
-AAPL,2026-10-16,09:57AM,Meta Releases Open-Weight Muse Spark Model for Developers and Coding Agents,0.0,neutral,neutral,0.8852
-AAPL,2026-10-16,09:55AM,Nvidia and Apple Donate Millions for Planned White House Project,0.0,neutral,neutral,0.7183
+TSLA,2026-10-26,10:27AM,Wall St rises as Anthropic's IPO filing sharpens focus on AI trade,0.0,neutral,negative,0.5374
+TSLA,2026-10-26,09:57AM,"Stocks climb ahead of tech earnings, central bank calls",0.0,neutral,positive,0.4475
+TSLA,2026-10-26,09:52AM,Stock Market Today: Dow Rises As Oil Prices Fall; Tesla Shares Rally On This (Live Coverage),0.13636363636363635,positive,positive,0.4689
+TSLA,2026-10-26,09:08AM,Elon Musks Warning of Guppy-Level Death Sends Neocloud Stocks Tumbling,0.0,neutral,negative,0.8596
+TSLA,2026-10-26,08:46AM,"Tesla Stock, Upgraded On SpaceX Prospects, Takes A Run At Resistance",0.0,neutral,positive,0.8848
+TSLA,2026-10-26,08:45AM,TSLA Is The Worst-Performing Mag 7 Stock This Year But Leads The Pack In October  Barclays Sees 19% Upside Potential,0.0,neutral,negative,0.961
+TSLA,2026-10-26,08:29AM,"Buy Tesla Stock, Says Analyst. Why It Can Surge 20%.",0.0,neutral,positive,0.5237
+TSLA,2026-10-26,08:25AM,"The 10 biggest stocks are faltering, and it's dragging the S&P 500 down",-0.15555555555555559,negative,negative,0.9663
+TSLA,2026-10-26,07:08AM,"Barclays upgrades Tesla, says SpaceX merger now a key part of bull case",0.0,neutral,neutral,0.8306
+TSLA,2026-10-26,06:00AM,"Google, Microsoft, Amazon, and the Fed step up to a skittish market: What to watch this week",0.7,positive,neutral,0.838
+TSLA,2026-10-26,05:56AM,The Mixed Blessing From Tech Earnings Weighing on Nvidia Stock,0.0,neutral,negative,0.9334
+TSLA,2026-10-26,05:13AM,"'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",0.16666666666666666,positive,neutral,0.7836
+TSLA,2026-10-26,02:00AM,"TSLA Stock Rises Overnight: Cybercabs Swarm Austin F1, Fresh Roadster Details Surface  But Analyst Sees 38% Downside",0.3,positive,negative,0.7238
+TSLA,2026-10-25,10:02PM,"SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldnt Take Their Eyes Off These Stocks Last Week",0.0,neutral,neutral,0.8785
+TSLA,2026-10-25,02:16PM,Did Elon Musk Just Admit to Slowing Starlink in Ukraine?,0.0,neutral,neutral,0.8935
+TSLA,2026-10-25,12:57PM,"AI delivers zero financial payoff to most companies, Apollo economist says",0.25,positive,neutral,0.4853
 TSLA,2026-10-24,08:41PM,Tesla-SpaceX merger tests whether Musk's technology empire is worth more together,0.4,positive,neutral,0.8265
 TSLA,2026-10-24,07:15AM,"Rick Lazio: Weve lost an auto race before, Chinas EV climb should worry us",0.0,neutral,negative,0.7088
 TSLA,2026-10-24,06:00AM,Apple's new hardware push is meeting AI-worried investors at the right moment,0.21103896103896103,positive,positive,0.6988
@@ -183,22 +199,39 @@ TSLA,2026-10-22,06:51AM,"Dow Jones Futures Fall, Techs Tumble With Meta, Tesla L
 TSLA,2026-10-22,06:34AM,Lockheed Martin's Business Is Booming as Backlog Hits Nearly $300 Billion,0.1,positive,positive,0.9371
 TSLA,2026-10-22,06:01AM,Samson Mow Predicted Musk Would Go Hard Into Bitcoin  Now SpaceXTesla Talks Revive $1.33M Call,-0.2916666666666667,negative,neutral,0.7242
 TSLA,2026-10-22,06:00AM,"Tesla is spending less now, but the bill is coming later: Chart of the Day",-0.08333333333333333,negative,neutral,0.9121
-TSLA,2026-10-22,06:00AM,Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla,-0.4,negative,neutral,0.9319
-TSLA,2026-10-22,05:45AM,"Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings",0.0,neutral,negative,0.9496
-TSLA,2026-10-22,05:32AM,"Lam Research slides after earnings, and other early market movers",-0.012499999999999997,neutral,negative,0.9541
-TSLA,2026-10-22,05:30AM,SpaceX Takes Conglomerate-Building to Sci-Fi Extremes,0.0,neutral,neutral,0.9263
-TSLA,2026-10-22,05:30AM,Nvidia Stock Falls in a Case of Bad Timing Over Another Potential AI Investment,-0.3499999999999999,negative,negative,0.9609
-TSLA,2026-10-22,05:19AM,"Tesla, Meta and IBM: 3 earnings call shout outs that left us thinking",0.25,positive,negative,0.4222
-TSLA,2026-10-22,04:46AM,Tesla's stock falls as Elon Musk leaves investors wanting more,0.5,positive,negative,0.9457
-TSLA,2026-10-22,04:28AM,Metas revenue beat; Teslas lower annual sales goal - whats moving markets,0.0,neutral,negative,0.771
-TSLA,2026-10-22,04:21AM,"TSLA, SPCX Slide Premarket: Musks Merger Talk Reportedly Creates Mess  Rivian Exec Urges Tesla To Stop Doing These Calls",-0.175,negative,negative,0.9523
-TSLA,2026-10-22,04:04AM,"Tesla reports Q3 earnings beat, positive free cash flow, and better-than-expected capex",0.31363636363636366,positive,positive,0.9572
-TSLA,2026-10-22,03:35AM,"Stock Market Today: Dow, S&P 500 and Nasdaq set to fall as tech stocks slide and investors weigh Meta and Tesla earnings",0.0,neutral,negative,0.9637
-TSLA,2026-10-22,01:53AM,"Tesla's profit drops as it explores a possible merger with Musk's other public company, SpaceX",-0.041666666666666664,neutral,negative,0.97
-TSLA,2026-10-22,01:22AM,Elon Musks endorsement of SpaceX-Tesla merger sparks insider concerns- Reuters,0.0,neutral,neutral,0.8204
-TSLA,2026-10-22,01:06AM,Tesla Logs Surge in European Monthly Sales,0.0,neutral,positive,0.926
-TSLA,2026-10-22,01:01AM,"European auto sales rise 10% in Sept; EVs, hybrids lead",0.0,neutral,positive,0.9383
-TSLA,2026-10-22,12:38AM,Elon Musk says Tesla vehicle demand exceeding production ahead of Dallas Cybercab launch,0.0,neutral,positive,0.8217
+GOOGL,2026-10-26,10:37AM,Meta's $95B Equity Deal Echoes Alphabet's Offering. Convertible Stock Could Yield 6%.,0.0,neutral,neutral,0.9168
+GOOGL,2026-10-26,10:23AM,Anthropic has $807 billion in AI infrastructure deals,0.0,neutral,neutral,0.9065
+GOOGL,2026-10-26,10:21AM,Anthropic's IPO filing sheds new light on who stands to make money from public debut,0.1787878787878788,positive,neutral,0.6959
+GOOGL,2026-10-26,10:08AM,"Stock market today: Dow, S&P 500, Nasdaq rise as investors parse Anthropic IPO filing, busy week of tech earnings",0.1,positive,positive,0.767
+GOOGL,2026-10-26,09:57AM,"Stocks climb ahead of tech earnings, central bank calls",0.0,neutral,positive,0.4475
+GOOGL,2026-10-26,09:44AM,Anthropic's IPO filing reveals $430 billion in locked-in AI computing: Chart of the Day,0.0,neutral,neutral,0.9128
+GOOGL,2026-10-26,09:35AM,Forget Alphabet and Microsoft: Is Amazon the smartest AI play ahead of earnings?,0.0,neutral,neutral,0.8948
+GOOGL,2026-10-26,09:34AM,"Factbox-From Amazon to Google, the deep-pocketed investors in Anthropic",0.0,neutral,neutral,0.9216
+GOOGL,2026-10-26,09:14AM,Wall St set for higher open as Anthropic's IPO filing sharpens AI focus,0.125,positive,negative,0.4823
+GOOGL,2026-10-26,09:03AM,"Q3 Peak Season Arrives: Strong Beats, Sky-High AI Scrutiny",0.4333333333333333,positive,positive,0.9306
+GOOGL,2026-10-26,08:25AM,"The 10 biggest stocks are faltering, and it's dragging the S&P 500 down",-0.15555555555555559,negative,negative,0.9663
+GOOGL,2026-10-26,07:54AM,This Could be the Most Crucial Week of the Year for Markets,0.25,positive,neutral,0.7065
+GOOGL,2026-10-26,07:51AM,"Big tech will have to deliver more than just strong revenue growth, say Barclays strategists",0.3111111111111111,positive,positive,0.6429
+GOOGL,2026-10-26,07:37AM,"Microsoft, Alphabet, Amazon Earnings Meet Fed Rate Decision: 3 Charts To Watch This Week",0.5,positive,neutral,0.9274
+GOOGL,2026-10-26,06:21AM,"Bitcoin Slips Ahead Of Fed Week, Big Tech Earnings: Analysts Divided On Where BTC Is Headed Next",0.0,neutral,negative,0.829
+GOOGL,2026-10-26,06:00AM,"Google, Microsoft, Amazon, and the Fed step up to a skittish market: What to watch this week",0.7,positive,neutral,0.838
+GOOGL,2026-10-26,05:46AM,Is AI Repeating the Internets 1998 Drawdown? Dan Niles Thinks So,0.0,neutral,neutral,0.5878
+GOOGL,2026-10-26,05:13AM,"'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",0.16666666666666666,positive,neutral,0.7836
+GOOGL,2026-10-26,05:00AM,Take Five: AI trade meets the Fed,0.0,neutral,neutral,0.9433
+GOOGL,2026-10-26,04:47AM,"Stocktwits Tech Watch: More Big Earnings, Apples Touch-Screen MacBook And Intel Results In Focus",0.25,positive,positive,0.7303
+GOOGL,2026-10-26,04:31AM,"Stock Market Today: Dow, S&P 500 and Nasdaq set for steady start ahead of Fed rate decision",0.16666666666666666,positive,neutral,0.7592
+GOOGL,2026-10-26,04:31AM,S&P 500 set for muted start ahead of Fed rate decision,0.0,neutral,neutral,0.7098
+GOOGL,2026-10-25,11:02PM,Big Tech Earnings Are a No-Win Test as Investors Punish Both Capex Cuts and Hikes,0.0,neutral,negative,0.8151
+GOOGL,2026-10-25,10:44PM,"Shares are mixed in Asia after a decline on Wall Street, and oil prices fall more than 1%",0.25,positive,negative,0.963
+GOOGL,2026-10-25,09:11PM,"U.S. stock futures muted after bruising tech losses; Fed, earnings on tap",0.0,neutral,negative,0.8537
+GOOGL,2026-10-25,09:09PM,3 Big Tech Earnings Reports to Watch as AI Bills Keep Growing,0.0,neutral,neutral,0.8919
+GOOGL,2026-10-25,03:44PM,Stock Futures Set to Trade Ahead of Fed Decision,0.0,neutral,neutral,0.876
+GOOGL,2026-10-25,12:57PM,"AI delivers zero financial payoff to most companies, Apollo economist says",0.25,positive,neutral,0.4853
+GOOGL,2026-10-25,12:01PM,"Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",0.5,positive,negative,0.7484
+GOOGL,2026-10-25,11:57AM,Does enough capital exist to finance everyones ambitious AI spending plans?,0.125,positive,neutral,0.8989
+GOOGL,2026-10-25,11:27AM,"What To Expect In Markets This Week: GOOGL, MSFT, AMZN, INTC, HOOD, LLY Earnings, Fed Meeting And More",0.5,positive,neutral,0.9273
+GOOGL,2026-10-25,10:46AM,GOOGL's $250B AI Chip Opportunity Takes Aim At NVDA  Beth Kindig Says Google Is Going After One Of The Most Profitable Hardware Businesses,0.5,positive,neutral,0.5726
+GOOGL,2026-10-25,10:00AM,More than a third of S&P 500 companies are about to report earnings as market confidence cracks,0.25,positive,neutral,0.5485
 GOOGL,2026-10-25,07:54AM,Why Are Investors Buying Credit Default Swaps to Hedge AI-Related Debt?,0.0,neutral,neutral,0.8108
 GOOGL,2026-10-25,05:59AM,The Enterprise Agent Price Nobody Will Show You,0.0,neutral,neutral,0.9041
 GOOGL,2026-10-24,07:00AM,Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.,0.0,neutral,neutral,0.9193
@@ -217,7 +250,6 @@ GOOGL,2026-10-23,08:54AM,Metas capital-raising plans expose a major weakness in 
 GOOGL,2026-10-23,08:40AM,Why Tesla's $5 billion capex cut isn't the warning sign AI stock bears think it is,0.0,neutral,negative,0.7798
 GOOGL,2026-10-23,06:51AM,Google and Voltus expand virtual power plant to 1GW in PJM,0.0,neutral,positive,0.8127
 GOOGL,2026-10-23,05:51AM,AI stock bears probably just missed this point on Tesla in their run for the exits,0.0,neutral,negative,0.4551
-GOOGL,2026-10-23,03:29AM,Take Five: AI trade meets the Fed,0.0,neutral,neutral,0.9433
 GOOGL,2026-10-23,03:00AM,Meta's Muse Is a Huge Hit. Its Success Could Hammer the Stock Market.,0.35000000000000003,positive,negative,0.6342
 GOOGL,2026-10-23,02:01AM,"Stocktwits AI Roundup: Metas Capex, Lams Supply Warning Hit Tech Stocks As Netflix Disappoints",0.0,neutral,negative,0.912
 GOOGL,2026-10-22,04:30PM,Texas and South Carolina have 5 of the 10 best-rated Starbucks in America,0.0,neutral,positive,0.7365
@@ -267,35 +299,3 @@ GOOGL,2026-10-20,04:32PM,SpaceX posts first operating profit as public company a
 GOOGL,2026-10-20,04:16PM,"Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",0.0,neutral,neutral,0.6068
 GOOGL,2026-10-20,02:28PM,Bank of England investigates Google outage,0.0,neutral,negative,0.7895
 GOOGL,2026-10-20,01:55PM,Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei,0.016666666666666677,neutral,neutral,0.9492
-GOOGL,2026-10-20,12:51PM,CoreWeave's Struggles Reveal a Simple Problem in a Complicated AI Market,-0.25,negative,neutral,0.8434
-GOOGL,2026-10-20,12:51PM,Berkshire Hathaway Stock Nears a Record; It's the Ultimate Anti-AI Play,0.0,neutral,neutral,0.572
-GOOGL,2026-10-20,12:34PM,Alphabet set for earnings beat as Cloud and AI chips take centre stage,0.0,neutral,positive,0.7137
-GOOGL,2026-10-20,12:14PM,"Tech jitters lead stocks lower, oil surges then slides",0.0,neutral,negative,0.8996
-GOOGL,2026-10-20,12:02PM,"Google, YouTube, Baidu: the world's biggest websites",0.0,neutral,neutral,0.9075
-GOOGL,2026-10-20,10:48AM,TRONs Justin Sun Turns Bearish on Bitcoin Over AI and Quantum Risks,0.0,neutral,negative,0.9294
-GOOGL,2026-10-20,10:36AM,"Microsoft, Alphabet Bar Their Tokenized Shares From OKX-ICE Venue as Objections Hit 16",0.0,neutral,negative,0.9478
-GOOGL,2026-10-20,08:00AM,U.S. sanctioned five Chinese entities over stolen Google AI trade secrets,0.0,neutral,negative,0.8594
-GOOGL,2026-10-20,07:40AM,Former Google CEO Eric Schmidt's 1% Anthropic stake could be worth $20 billion at IPO,0.15,positive,neutral,0.9402
-GOOGL,2026-10-20,06:09AM,"Revolut Hit by Widespread Outage Affecting Payments, Transfers, Withdrawals",0.0,neutral,negative,0.9643
-GOOGL,2026-10-20,05:26AM,Netflix stock is down roughly 25% in 2026 as Q3 earnings loom,-0.1277777777777778,negative,negative,0.9754
-GOOGL,2026-10-20,04:18AM,Early Uber Investor Jason Calacanis Predicts Waymo Could Buy Lucid Or Rivian  Calls Its Chinese-Car Optics Really Bad,-0.29999999999999993,negative,neutral,0.8223
-GOOGL,2026-10-20,03:26AM,"SpaceX Faces Earnings Test Today: RBC Flags Over 50% Upside As Tesla Merger Buzz Builds, S&P Flags AI Financing Risks",0.0,neutral,positive,0.8928
-GOOGL,2026-10-19,10:55PM,"California billionaire tax could backfire, Stanford study says",0.0,neutral,neutral,0.7388
-GOOGL,2026-10-19,09:43PM,"Tesla Stock At $4,400? Cathie Wood's ARK Pins Hopes On Robotaxis, Sees SpaceX Merger In 5 Years",0.0,neutral,neutral,0.8368
-GOOGL,2026-10-19,09:40PM,"Google demonstrates magic state cultivation on Willow, cutting errors by about 40-fold",-0.04999999999999999,neutral,positive,0.8035
-GOOGL,2026-10-19,09:05PM,"MediaTek's Google TPU v9 faces potential delay over glass substrate yields, but 2026 orders remain strong",0.21666666666666665,positive,negative,0.8206
-GOOGL,2026-10-19,07:28PM,Ex-Google CEO Eric Schmidt Reportedly Owns 1% Of Anthropic,0.0,neutral,neutral,0.9495
-GOOGL,2026-10-19,06:26PM,Eric Schmidts 1% Anthropic stake sets up massive windfall ahead of IPO -Bloomberg,0.0,neutral,positive,0.6039
-GOOGL,2026-10-19,03:17PM,"Anthropic IPO, MANGOS ETFs and the Future of the AI Trade",0.0,neutral,neutral,0.9373
-GOOGL,2026-10-19,12:16PM,What Googles virtual power plant in PJM says about the race for electricity,0.0,neutral,neutral,0.9302
-GOOGL,2026-10-19,10:56AM,2 charts show why Wall Street is right to worry about tech stocks,0.2857142857142857,positive,neutral,0.7967
-GOOGL,2026-10-19,10:11AM,Huntington launches small-biz operating platform,0.0,neutral,neutral,0.876
-GOOGL,2026-10-19,09:51AM,"Apple stock staged a rally to $5T ""that no one liked"": Melius",0.6,positive,positive,0.5347
-GOOGL,2026-10-19,09:49AM,Accenture and Google Launch Gemini AI Agent Programme for US Federal Agencies,0.0,neutral,neutral,0.799
-GOOGL,2026-10-19,09:08AM,Can AI hyperscalers afford to build the infrastructure to meet long-term demand?,0.0,neutral,neutral,0.7966
-GOOGL,2026-10-19,08:42AM,"Apple Stock Escaped the AI Downturn. Now It Faces a 27% Plunge, Says Analyst.",0.0,neutral,negative,0.9614
-GOOGL,2026-10-19,08:41AM,"Accenture Expands Federal AI Push With Google's Gemini Agents, Months After OpenAI Partnership",0.0,neutral,neutral,0.6472
-GOOGL,2026-10-19,05:55AM,Energy Earnings Preview: 5 Things That Could Move Stocks,0.0,neutral,neutral,0.8939
-GOOGL,2026-10-19,04:55AM,"DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge",0.0,neutral,positive,0.7012
-GOOGL,2026-10-19,04:21AM,BE Stock Jumps Premarket Into Earnings Week: Retail Bets On 40% Pop As Wall Street Eyes Strong Q3 Growth,0.4333333333333333,positive,positive,0.7945
-GOOGL,2026-10-18,12:06PM,The Napoleon of the Smart Home (AVALON Podcast),0.21428571428571427,positive,neutral,0.9143
