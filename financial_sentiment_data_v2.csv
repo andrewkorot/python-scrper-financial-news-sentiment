@@ -1,10 +1,16 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-11-06,07:19PM,Uber's Robo Push,0.0,neutral,neutral,0.9298
+AAPL,2026-11-06,05:02PM,ETF Zoo: How the Election Splits Big Tech,0.0,neutral,neutral,0.9149
+AAPL,2026-11-06,03:33PM,"10 moments from 2007 that shaped the internet, and what each became",0.0,neutral,neutral,0.9233
+AAPL,2026-11-06,02:43PM,Election Fallout and Earnings Shake Up Wall Street,0.0,neutral,negative,0.9573
+AAPL,2026-11-06,01:19PM,"Apple's autocomplete restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds",0.0,neutral,neutral,0.8043
+AAPL,2026-11-06,12:09PM,"Stock Market Suffers Ugly Losses In Election Week; Apple, Palantir Led Key Earnings: Weekly Review",-0.4333333333333333,negative,negative,0.8663
+AAPL,2026-11-06,11:36AM,"Earnings live updates: Moderna's COVID vaccine sales drive revenue growth, raised outlook",0.13636363636363635,positive,positive,0.9484
+AAPL,2026-11-06,10:42AM,Big Tech ETF rallies as Nvidia's stock swings higher,0.125,positive,negative,0.5557
 AAPL,2026-11-06,10:13AM,TSMC rises on report of potential push into advanced memory for Nvidia,0.2,positive,positive,0.9086
 AAPL,2026-11-06,10:08AM,Apple issues a grim warning as memory costs soar. It seems pricey iPhones and Macs are here to stay,-1.0,negative,negative,0.9341
 AAPL,2026-11-06,09:41AM,Magnificent Seven Lost $1 Trillion in Tech Rout. Here's How Much Each Plunged.,0.6,positive,neutral,0.646
-AAPL,2026-11-06,08:18AM,"Earnings live updates: Moderna's COVID vaccine sales drive revenue growth, raised outlook",0.13636363636363635,positive,positive,0.9484
 AAPL,2026-11-06,07:30AM,From Musks Tesla Cybertruck To Ternus Memory Warning: MAG 7 Voices In Midterm Election Week,0.0,neutral,neutral,0.6296
-AAPL,2026-11-06,06:07AM,"Exclusive-Apple's predictive text restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds",0.0,neutral,neutral,0.8687
 AAPL,2026-11-05,10:00PM,Apple 4Q26 Earnings Review: Measuring the Memory Crisis Impact,0.0,neutral,neutral,0.9104
 AAPL,2026-11-05,08:50PM,Why did Apple Stock Hit an All-Time High Amid US Stock Market Crash?,0.16,positive,negative,0.4658
 AAPL,2026-11-05,08:00PM,"S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory   NVDA, AAPL, UBER, SOXX In Focus",0.0,neutral,negative,0.9334
@@ -93,20 +99,33 @@ AAPL,2026-11-03,09:22AM,Why Wall Street Is Split on Tech Stocks Right Now,0.2857
 AAPL,2026-11-03,09:17AM,"Wall Street Futures Rise as Nasdaq Attempts Recovery Following Three-Month Lows: Dow Jones, S&P, Nasdaq",0.0,neutral,negative,0.7981
 AAPL,2026-11-03,08:59AM,"Stock Market Today: Dow Slides On Election Day; Apple, Palantir Dive On Earnings (Live Coverage)",0.13636363636363635,positive,negative,0.9062
 AAPL,2026-11-03,08:56AM,Apple Stock: 'Let the Slowdown Begin',0.0,neutral,neutral,0.8479
-AAPL,2026-11-03,08:49AM,Apple Set to Lose Stock-Market Crown After Earnings,0.0,neutral,negative,0.9373
-AAPL,2026-11-03,08:41AM,3 reasons why the tech stock rout is growing more alarming,0.2,positive,negative,0.5562
-AAPL,2026-11-03,08:23AM,"Apple beats Q4 estimates on strong iPhone sales but misses on China revenue, stock falls",0.4333333333333333,positive,neutral,0.4246
-AAPL,2026-11-03,08:03AM,"Premarket movers: Apple, Palantir, Dynatrace slide premarket; Grab, Upwork jump",0.0,neutral,neutral,0.8938
-AAPL,2026-11-03,08:03AM,"Wall Street weighs Apples hardware strength against Services, margin headwinds",0.0,neutral,negative,0.9417
-AAPL,2026-11-03,07:43AM,"Midterms, Markets, and Earnings Malaise. Apple and Palantir Sum Up the Mood.",0.0,neutral,negative,0.5919
-TSLA,2026-11-06,10:18AM,Musk says Tesla will end Cybertruck production next year,0.0,neutral,negative,0.6895
+TSLA,2026-11-06,10:00PM,Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.,0.0,neutral,neutral,0.9067
+TSLA,2026-11-06,07:19PM,Uber's Robo Push,0.0,neutral,neutral,0.9298
+TSLA,2026-11-06,06:33PM,Musk's futuristic Cybertruck rolls toward exit,0.0,neutral,neutral,0.8454
+TSLA,2026-11-06,04:59PM,Elon Musk once said the Cybertruck would be Teslas best product ever. Now hes winding down production,0.4222222222222222,positive,neutral,0.543
+TSLA,2026-11-06,04:57PM,Google Exec Leaves SpaceX Board,0.0,neutral,neutral,0.6736
+TSLA,2026-11-06,04:20PM,Elon Musk's Revenue Guidance From the Baron Conference Is How High?,0.16,positive,neutral,0.8856
+TSLA,2026-11-06,03:57PM,Musk says Tesla will end Cybertruck production next year,0.0,neutral,negative,0.6895
+TSLA,2026-11-06,03:48PM,"See Ya, Cybertruck: Tesla Prepares to Say Goodbye to Its Controversial Pickup",0.55,positive,neutral,0.8215
+TSLA,2026-11-06,03:20PM,Elon Musk said U.S. government revenue will fall below 10% of SpaceX sales this quarter,0.0,neutral,negative,0.9684
+TSLA,2026-11-06,02:39PM,ETFs focused on AI investing theme catch strong bid,0.4333333333333333,positive,neutral,0.7374
+TSLA,2026-11-06,12:57PM,Musk Kills Tesla Cybertruck. Why He Had to Shoot the Elephant.,0.0,neutral,neutral,0.9015
+TSLA,2026-11-06,12:38PM,Tesla's Cybertruck is a masterclass in failing upwards,0.0,neutral,neutral,0.886
+TSLA,2026-11-06,11:58AM,Tesla plans Cybertruck wind-down but leaves models future unclear,0.0,neutral,neutral,0.8112
+TSLA,2026-11-06,11:44AM,Elon Musk's Tesla to 'wind down' Cybertruck production next year,-0.07777777777777779,negative,negative,0.7351
+TSLA,2026-11-06,11:22AM,Musk bids farewell to Cybertruck as Tesla bets on robots and self-driving,0.0,neutral,neutral,0.8541
+TSLA,2026-11-06,11:20AM,Wall Street stocks in relief rally after heavy AI-related selloff,-0.2,negative,negative,0.6721
+TSLA,2026-11-06,11:17AM,Cybertruck's run comes to an end as Musk kills off pricey pet project,0.0,neutral,negative,0.6673
+TSLA,2026-11-06,11:02AM,Tesla support and resistance levels to watch now,0.0,neutral,neutral,0.865
+TSLA,2026-11-06,10:56AM,Musk Called It Tesla's 'Best Product Ever.' Now The Cybertruck Is Being Scrapped.,1.0,positive,neutral,0.6788
+TSLA,2026-11-06,10:48AM,What Cybertruck winddown means for Tesla?,0.0,neutral,neutral,0.6352
+TSLA,2026-11-06,10:42AM,Big Tech ETF rallies as Nvidia's stock swings higher,0.125,positive,negative,0.5557
+TSLA,2026-11-06,10:30AM,"Musk Winds Down Cybertruck After Sales Collapse, Shifts Tesla Focus to Cybercab",-0.15555555555555559,negative,neutral,0.7742
 TSLA,2026-11-06,10:09AM,"Chip stocks lead tech rebound as SpaceX, Tesla jump: AlphaCheck",0.0,neutral,positive,0.5076
 TSLA,2026-11-06,10:06AM,Musk's Companies Are Under the Spotlight After the Midterms. Tesla is Now Winding Down Cybertruck Production.,-0.15555555555555559,negative,negative,0.7394
 TSLA,2026-11-06,09:50AM,Production of Tesla's Cybertruck will wind down soon with allure escaping most potential buyers,0.11481481481481481,positive,negative,0.9234
 TSLA,2026-11-06,09:43AM,"SpaceX, Tesla Merger Less Likely After Midterms. Texas Gov. Requests Pause On Land Talks.",-0.08333333333333333,negative,neutral,0.7727
 TSLA,2026-11-06,09:41AM,Magnificent Seven Lost $1 Trillion in Tech Rout. Here's How Much Each Plunged.,0.6,positive,neutral,0.646
-TSLA,2026-11-06,09:39AM,Musk's futuristic Cybertruck rolls toward exit,0.0,neutral,neutral,0.8454
-TSLA,2026-11-06,09:05AM,Wall Street set to stabilise after multi-trillion dollar tech plunge,0.0,neutral,positive,0.8169
 TSLA,2026-11-06,08:53AM,Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI,-0.15555555555555559,negative,negative,0.5443
 TSLA,2026-11-06,08:49AM,Tesla winds down Cybertruck production as Musk shifts focus to robotaxis,-0.15555555555555559,negative,negative,0.9601
 TSLA,2026-11-06,08:33AM,Tesla To End Cybertruck Production; Shares Inch Up After Election Rout,0.0,neutral,positive,0.6352
@@ -129,7 +148,7 @@ TSLA,2026-11-05,02:29PM,The 'Musk selloff' deepens as Tesla and SpaceX combine f
 TSLA,2026-11-05,02:21PM,Anthropic's IPO plans run up against a battered Wall Street,0.0,neutral,positive,0.8884
 TSLA,2026-11-05,01:15PM,"Tesla, SpaceX Continue Postelection Plunge. Dems Pledge Investigations Into Trump.",0.0,neutral,negative,0.7454
 TSLA,2026-11-05,12:14PM,"Citi Loads Up On Tesla, Lucid And Rivian In Q3 While Slashing XPeng, General Motors",0.05000000000000002,positive,negative,0.5999
-TSLA,2026-11-05,11:07AM,"??SpaceX, Tesla Stocks Take Double-Digit Dive",0.0,neutral,negative,0.789
+TSLA,2026-11-05,11:07AM,"??SpaceX, Tesla Stocks Take Double-Digit Dive",0.0,neutral,negative,0.7889
 TSLA,2026-11-05,10:56AM,Mag 7 Stocks Lose $1 Trillion in Tech Bloodbath,0.0,neutral,negative,0.9604
 TSLA,2026-11-05,10:07AM,"Big Tech slumps, dragging down S&P 500",-0.07777777777777779,negative,negative,0.9564
 TSLA,2026-11-05,10:04AM,SpaceX and Tesla stocks extend their slide as chip stocks drop: AlphaCheck,0.0,neutral,negative,0.9238
@@ -180,25 +199,19 @@ TSLA,2026-11-04,06:10AM,"SpaceX, Tesla Stock Sells Off as Elon Musk's Election B
 TSLA,2026-11-04,05:44AM,"Advanced Micro stock jumps after earnings, and other early market movers",0.125,positive,neutral,0.7038
 TSLA,2026-11-04,05:35AM,"Shares in Elon Musk's SpaceX, Tesla Fall Premarket After Democrats Sweep Midterms",0.0,neutral,negative,0.9382
 TSLA,2026-11-04,05:17AM,"LinkedIn co-founder Reid Hoffman, who spent nearly $42 million on campaign, says he'll spend as long as Musk does",-0.016666666666666666,neutral,neutral,0.8997
-TSLA,2026-11-04,02:51AM,Musk says data centers in space now looks appealing as SpaceX and Tesla shares retreat,0.5,positive,positive,0.7699
-TSLA,2026-11-04,02:21AM,"Stock Market Today: S&P 500 and Nasdaq set to fall, Dow nudges higher, after blue-wave midterm sweep, Texas governor flip with AI trade in danger; Treasury yields fall",0.25,positive,negative,0.9341
-TSLA,2026-11-04,02:11AM,Gene Munster Says Anduril Is Having Its Own Tesla Model 3 MomentCompany President Says 'We've Hired a Lot' of People From That Era,0.6,positive,positive,0.5032
-TSLA,2026-11-04,01:50AM,"Midterm Election Impact: SPCX, ASTS, RKLB Stocks Sink As Musks Political Ties Put Tesla-SpaceX Merger Under Fresh Scrutiny",0.15,positive,negative,0.9624
-TSLA,2026-11-03,08:57PM,Investors Worry About Musk Companies Under Democratic Congress,0.0,neutral,negative,0.808
-TSLA,2026-11-03,07:30PM,Elon Musk Has A Lot Riding On Texas,0.0,neutral,neutral,0.9221
-TSLA,2026-11-03,05:32PM,"Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",0.13636363636363635,positive,neutral,0.8824
-TSLA,2026-11-03,12:46PM,Elon Musks Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue,0.0,neutral,negative,0.8299
-TSLA,2026-11-03,12:40PM,CFTC Greenlights Perpetual Futures on U.S. Stocks,0.0,neutral,neutral,0.8282
-TSLA,2026-11-03,12:32PM,Chinese Tape Maker Soars 787% in Market Debut as Beijing Moves to Halt New IPO Filings,0.06818181818181818,positive,negative,0.9245
-TSLA,2026-11-03,09:25AM,Teslas China-Made EV Sales Rise For 12th Straight Month  European Recovery Adds To Momentum,0.1,positive,positive,0.9455
-TSLA,2026-11-03,09:15AM,What the Marvell-Lumentum Misfire Means for a Tesla-SpaceX Merger,-0.2,negative,neutral,0.8854
-TSLA,2026-11-03,08:40AM,EV charging emerges as strategic pillar for power-system modernization,0.0,neutral,positive,0.7084
-TSLA,2026-11-03,08:23AM,"Tesla China Brushes Off Weak October, Still Up 21% In 2026",-0.375,negative,positive,0.9291
-TSLA,2026-11-03,07:14AM,"AMD, Nvidia Could Join Tesla On Samsungs Texas Chip Plant Customer List: Report",0.0,neutral,neutral,0.923
-TSLA,2026-11-03,05:55AM,Want a Tesla-SpaceX Merger? Look at the Marvell-Lumentum Deal.,0.0,neutral,neutral,0.9292
-TSLA,2026-11-03,03:15AM,TSLA Stock Slips Overnight: Trump Vows To Shield Musk  But Influencer Flags Tougher Than Ever SpaceX Merger Vote,0.0,neutral,negative,0.5245
-TSLA,2026-11-02,04:41PM,S&P 500 ends down; Apple dips ahead of quarterly report,-0.15555555555555559,negative,negative,0.9651
-TSLA,2026-11-02,01:52PM,"Electric Trucking: Why 2,500 Tesla Semis Will Transform Freight",0.0,neutral,neutral,0.9262
+GOOGL,2026-11-07,06:48AM,Citi Raises AI Revenue Forecasts Through 2028 as Cloud Demand Accelerates,0.0,neutral,positive,0.9312
+GOOGL,2026-11-07,01:00AM,"Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks  But Sells CRWV, AVGO, LLY",0.0,neutral,neutral,0.76
+GOOGL,2026-11-06,08:40PM,Crusoe sells troubled Wyoming data center project to Google,-0.3,negative,neutral,0.9249
+GOOGL,2026-11-06,07:22PM,"Q3 Earnings Update: Broad-Based Growth, Key Sector Outliers, and What's Ahead for Q4",0.0,neutral,neutral,0.9107
+GOOGL,2026-11-06,07:19PM,Uber's Robo Push,0.0,neutral,neutral,0.9298
+GOOGL,2026-11-06,05:02PM,ETF Zoo: How the Election Splits Big Tech,0.0,neutral,neutral,0.9149
+GOOGL,2026-11-06,04:09PM,Data centers are unpopular  and a key motor of economic growth,0.1,positive,negative,0.9369
+GOOGL,2026-11-06,04:00PM,Google buys Wyoming data center site as hyperscalers move to own AI capacity,0.25,positive,neutral,0.8879
+GOOGL,2026-11-06,03:20PM,Google is threatening to cut school search access if districts ban AI,0.0,neutral,negative,0.9123
+GOOGL,2026-11-06,02:56PM,Alphabet's Drone Unit to Invest Up to $125 Million in New Texas Facility,0.13636363636363635,positive,neutral,0.6289
+GOOGL,2026-11-06,11:35AM,"Big Tech set to drive US corporate bond sales to annual record high, data shows",0.05333333333333334,positive,positive,0.9071
+GOOGL,2026-11-06,11:31AM,Google's $900 Million SpaceX Bet Is Now Worth $69 Billion. It Added Millions More Shares,0.4,positive,neutral,0.7838
+GOOGL,2026-11-06,10:42AM,Big Tech ETF rallies as Nvidia's stock swings higher,0.125,positive,negative,0.5557
 GOOGL,2026-11-06,09:44AM,Anthropic Buildout Fuels TeraWulf's HPC Growth as Bitcoin Revenue Slides,0.0,neutral,positive,0.9359
 GOOGL,2026-11-06,09:41AM,Magnificent Seven Lost $1 Trillion in Tech Rout. Here's How Much Each Plunged.,0.6,positive,neutral,0.646
 GOOGL,2026-11-06,09:13AM,Wedbush Revises Best Ideas List After October Underperformance,1.0,positive,negative,0.8677
@@ -286,16 +299,3 @@ GOOGL,2026-11-02,01:13PM,The bond-market rally is defying the typical investing 
 GOOGL,2026-11-02,12:25PM,Apple Is the Top Performing Mag 7 Stock This Year,0.5,positive,positive,0.7938
 GOOGL,2026-11-02,12:08PM,Analysis-October dive for AI-related shares tests broader US stock market's resilience,0.0,neutral,positive,0.7463
 GOOGL,2026-11-02,12:00PM,Binance Hacked for $6.36 Billion. What's Next for Crypto?,0.0,neutral,neutral,0.9245
-GOOGL,2026-11-02,11:38AM,Berkshire's Alphabet Loss Highlights a Tough Decade for Its New Stock Picks,-0.12626262626262627,negative,negative,0.9609
-GOOGL,2026-11-02,10:50AM,Oracle Stock Falls on $20 Billion Plan to Fund AI Buildout,0.0,neutral,negative,0.9479
-GOOGL,2026-11-02,10:30AM,UBS says AI investment boom remains intact despite growing scrutiny of spending,0.0,neutral,positive,0.9478
-GOOGL,2026-11-02,10:15AM,Tech's Next Big Bet Is Defense. What That Means for Lockheed Stock and Its Peers.,0.0,neutral,neutral,0.9022
-GOOGL,2026-11-02,09:45AM,"Amazon.com Inc., Sherwin-Williams Co. share gains lead Dow's 460-point jump",0.0,neutral,positive,0.7931
-GOOGL,2026-11-02,08:43AM,Nomura flags this tech pocket as portfolio shelter from AI spending pressure,0.0,neutral,neutral,0.7774
-GOOGL,2026-11-02,07:56AM,Can Q3 Earnings Get Back on Track After Being Rattled by Big Tech's AI Prints?,0.0,neutral,negative,0.6894
-GOOGL,2026-11-02,07:49AM,Tesla Faces a Robo-Taxi Revolution in China. Musk's Ambitions Have a Tough Test.,-0.3888888888888889,negative,neutral,0.8832
-GOOGL,2026-11-02,07:36AM,"Why investors are dumping tech stocks, in one image",0.0,neutral,negative,0.4983
-GOOGL,2026-11-02,07:30AM,"Cloud Numbers Are In; This Week the Spotlight Moves to Phones, Laptops and Chips",0.0,neutral,neutral,0.8547
-GOOGL,2026-11-02,06:55AM,Oil prices sink on US-Iran war hope ahead of midterms,0.0,neutral,negative,0.9091
-GOOGL,2026-11-02,06:05AM,"Apple Earnings, Midterms, Jobs Data Put Markets To The Test: 3 Charts To Watch This Week",0.5,positive,neutral,0.8975
-GOOGL,2026-11-02,05:52AM,"It would shock you how bearish Wall Street is on hyperscalers Microsoft, Amazon, Alphabet, Meta and Oracle",0.0,neutral,neutral,0.8132
