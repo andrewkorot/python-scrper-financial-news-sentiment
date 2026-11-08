@@ -1,4 +1,5 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-11-07,12:01PM,Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue,1.0,positive,neutral,0.9133
 AAPL,2026-11-06,07:19PM,Uber's Robo Push,0.0,neutral,neutral,0.9298
 AAPL,2026-11-06,05:02PM,ETF Zoo: How the Election Splits Big Tech,0.0,neutral,neutral,0.9149
 AAPL,2026-11-06,03:33PM,"10 moments from 2007 that shaped the internet, and what each became",0.0,neutral,neutral,0.9233
@@ -98,7 +99,9 @@ AAPL,2026-11-03,09:45AM,Heard on the Street: Apple Is a Pricey Safe Haven,0.5,po
 AAPL,2026-11-03,09:22AM,Why Wall Street Is Split on Tech Stocks Right Now,0.2857142857142857,positive,neutral,0.7063
 AAPL,2026-11-03,09:17AM,"Wall Street Futures Rise as Nasdaq Attempts Recovery Following Three-Month Lows: Dow Jones, S&P, Nasdaq",0.0,neutral,negative,0.7981
 AAPL,2026-11-03,08:59AM,"Stock Market Today: Dow Slides On Election Day; Apple, Palantir Dive On Earnings (Live Coverage)",0.13636363636363635,positive,negative,0.9062
-AAPL,2026-11-03,08:56AM,Apple Stock: 'Let the Slowdown Begin',0.0,neutral,neutral,0.8479
+TSLA,2026-11-08,08:09AM,Cathie Wood Sees Teslas Robotaxi Business Taking Off  Says This Is The Moment Investors Have Waited For,0.0,neutral,neutral,0.8453
+TSLA,2026-11-08,04:56AM,"Ron Baron Has Made $30B Betting On Elon Musk  Now He Sees Hundreds Of Billions More Coming From His TSLA, SPCX Investments",0.5,positive,neutral,0.9178
+TSLA,2026-11-07,12:01PM,Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue,1.0,positive,neutral,0.9133
 TSLA,2026-11-06,10:00PM,Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.,0.0,neutral,neutral,0.9067
 TSLA,2026-11-06,07:19PM,Uber's Robo Push,0.0,neutral,neutral,0.9298
 TSLA,2026-11-06,06:33PM,Musk's futuristic Cybertruck rolls toward exit,0.0,neutral,neutral,0.8454
@@ -148,7 +151,7 @@ TSLA,2026-11-05,02:29PM,The 'Musk selloff' deepens as Tesla and SpaceX combine f
 TSLA,2026-11-05,02:21PM,Anthropic's IPO plans run up against a battered Wall Street,0.0,neutral,positive,0.8884
 TSLA,2026-11-05,01:15PM,"Tesla, SpaceX Continue Postelection Plunge. Dems Pledge Investigations Into Trump.",0.0,neutral,negative,0.7454
 TSLA,2026-11-05,12:14PM,"Citi Loads Up On Tesla, Lucid And Rivian In Q3 While Slashing XPeng, General Motors",0.05000000000000002,positive,negative,0.5999
-TSLA,2026-11-05,11:07AM,"??SpaceX, Tesla Stocks Take Double-Digit Dive",0.0,neutral,negative,0.7889
+TSLA,2026-11-05,11:07AM,"??SpaceX, Tesla Stocks Take Double-Digit Dive",0.0,neutral,negative,0.789
 TSLA,2026-11-05,10:56AM,Mag 7 Stocks Lose $1 Trillion in Tech Bloodbath,0.0,neutral,negative,0.9604
 TSLA,2026-11-05,10:07AM,"Big Tech slumps, dragging down S&P 500",-0.07777777777777779,negative,negative,0.9564
 TSLA,2026-11-05,10:04AM,SpaceX and Tesla stocks extend their slide as chip stocks drop: AlphaCheck,0.0,neutral,negative,0.9238
@@ -196,9 +199,10 @@ TSLA,2026-11-04,06:59AM,Tesla Shares Fall 4.5% as Democratic Midterm Victory Rai
 TSLA,2026-11-04,06:41AM,"Tesla, SpaceX Stocks Are Down. It's the Midterms.",-0.15555555555555559,negative,negative,0.9662
 TSLA,2026-11-04,06:26AM,"Tesla, SpaceX Shares Take Early Hit as Midterm Blue Wave Unfolds",0.05,neutral,negative,0.3453
 TSLA,2026-11-04,06:10AM,"SpaceX, Tesla Stock Sells Off as Elon Musk's Election Bet Flounders",0.0,neutral,negative,0.8322
-TSLA,2026-11-04,05:44AM,"Advanced Micro stock jumps after earnings, and other early market movers",0.125,positive,neutral,0.7038
-TSLA,2026-11-04,05:35AM,"Shares in Elon Musk's SpaceX, Tesla Fall Premarket After Democrats Sweep Midterms",0.0,neutral,negative,0.9382
-TSLA,2026-11-04,05:17AM,"LinkedIn co-founder Reid Hoffman, who spent nearly $42 million on campaign, says he'll spend as long as Musk does",-0.016666666666666666,neutral,neutral,0.8997
+GOOGL,2026-11-07,04:40PM,"Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose",0.35,positive,negative,0.6998
+GOOGL,2026-11-07,12:01PM,Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue,1.0,positive,neutral,0.9133
+GOOGL,2026-11-07,10:54AM,AI Stocks Diverge as Democratic Election Victory Sparks Rotation Into Cloud Giants,0.0,neutral,negative,0.5769
+GOOGL,2026-11-07,07:45AM,Big Techs AI race will save small business owners time. It wont find them customers,-0.125,negative,neutral,0.8327
 GOOGL,2026-11-07,06:48AM,Citi Raises AI Revenue Forecasts Through 2028 as Cloud Demand Accelerates,0.0,neutral,positive,0.9312
 GOOGL,2026-11-07,01:00AM,"Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks  But Sells CRWV, AVGO, LLY",0.0,neutral,neutral,0.76
 GOOGL,2026-11-06,08:40PM,Crusoe sells troubled Wyoming data center project to Google,-0.3,negative,neutral,0.9249
@@ -295,7 +299,3 @@ GOOGL,2026-11-02,03:00PM,Meta Settles Another Lawsuit Over Being Addictive As Le
 GOOGL,2026-11-02,02:39PM,Why Free Cash Flow Matters More Than Ever: 5 Tech Stocks to Watch,0.45,positive,neutral,0.9159
 GOOGL,2026-11-02,01:56PM,The daunting economic decision on data centers,0.2,positive,neutral,0.6623
 GOOGL,2026-11-02,01:39PM,Netflix hires Darshan Kantak to lead ads platform,0.0,neutral,neutral,0.9304
-GOOGL,2026-11-02,01:13PM,The bond-market rally is defying the typical investing playbook. Here's why.,-0.16666666666666666,negative,neutral,0.8967
-GOOGL,2026-11-02,12:25PM,Apple Is the Top Performing Mag 7 Stock This Year,0.5,positive,positive,0.7938
-GOOGL,2026-11-02,12:08PM,Analysis-October dive for AI-related shares tests broader US stock market's resilience,0.0,neutral,positive,0.7463
-GOOGL,2026-11-02,12:00PM,Binance Hacked for $6.36 Billion. What's Next for Crypto?,0.0,neutral,neutral,0.9245
