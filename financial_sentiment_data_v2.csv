@@ -1,4 +1,13 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-11-19,10:58AM,Why Anthropic Won't Be the Next Apple or Amazon,0.0,neutral,neutral,0.9334
+AAPL,2026-11-19,10:00AM,Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day,0.125,positive,neutral,0.5139
+AAPL,2026-11-19,08:01AM,Coca-Cola Stock Could Lose Its Fizz. Its Valuation Is the Highest in 25 Years.,0.0,neutral,negative,0.9003
+AAPL,2026-11-18,09:09PM,A glossary to help understand what happens in an initial public offering,0.0,neutral,neutral,0.9433
+AAPL,2026-11-18,08:12PM,Apple's Ambient Sensing Strategy,0.0,neutral,neutral,0.9238
+AAPL,2026-11-18,04:14PM,Want to Play Defense With Your Stock Portfolio? Here Are Pros' Picks.,0.0,neutral,neutral,0.9349
+AAPL,2026-11-18,02:25PM,Trump and Xi to Discuss Trade at APEC Summit. What Isn't Said May Matter More.,0.5,positive,neutral,0.9318
+AAPL,2026-11-18,02:23PM,Nasdaq on track for best outperformance of Dow and S&P 500 in more than a week,0.75,positive,positive,0.885
+AAPL,2026-11-18,12:37PM,"MP To Become Major Domestic Permanent Magnet Supplier Over Next 3 Years, Says Needham",0.020833333333333332,neutral,positive,0.927
 AAPL,2026-11-18,11:10AM,Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call,0.0,neutral,negative,0.4023
 AAPL,2026-11-18,09:21AM,"Apple's outage hit 5 areas, from iCloud and Apple Pay to AppleCare and stores",0.0,neutral,negative,0.7671
 AAPL,2026-11-18,08:33AM,Bill Gurley says giving away AI is Google's 'No. 1' move against Anthropic,0.0,neutral,neutral,0.8059
@@ -90,15 +99,23 @@ AAPL,2026-11-09,11:14AM,The Rest of the Magnificent 7 Are Leaving Nvidia in the 
 AAPL,2026-11-09,11:03AM,AI stocks have 2 major headwinds driving recent volatility,0.03125,neutral,negative,0.9555
 AAPL,2026-11-09,09:47AM,Apple CEO urges faster AI work as Siri leadership faces uncertainty,0.0,neutral,positive,0.6097
 AAPL,2026-11-09,08:25AM,"Earnings Breadth Hits Near-Record Highs, But Cracks Emerge at the Margins",0.0,neutral,negative,0.851
-AAPL,2026-11-09,08:24AM,Tech-stock gains are helping the Dow industrials brush off Nvidia's selloff,0.0,neutral,positive,0.8956
-AAPL,2026-11-09,08:24AM,Meta expands AI age checks for Instagram teens as lawsuits mount,0.0,neutral,neutral,0.7539
-AAPL,2026-11-09,03:27AM,China dismisses a spy plot claim involving Nvidia CEO Jensen Huang as smear campaign,0.0,neutral,negative,0.894
-AAPL,2026-11-09,01:13AM,Chinese robotics stock surge on Apple robotics research,0.0,neutral,positive,0.8774
-AAPL,2026-11-08,11:53PM,Apple Bringing Agent Capabilities To Siri? Report Says Apples AI Is Up For A Major Upgrade As CEO Ternus Pushes For Faster Roadmap,0.0625,positive,positive,0.9412
-AAPL,2026-11-08,08:46PM,Podcast highlights: Apple hoards supplies via long-term contracts; Intel reverts 18A to Intel 3,0.0,neutral,neutral,0.8564
-AAPL,2026-11-08,12:23PM,Tesla Isn't a Mag-Y Stock. This Is.,0.0,neutral,neutral,0.9343
-AAPL,2026-11-07,12:01PM,Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue,1.0,positive,neutral,0.9133
-AAPL,2026-11-06,07:19PM,Uber's Robo Push,0.0,neutral,neutral,0.9298
+TSLA,2026-11-19,11:30AM,Elon Musk Says He Shouldnt Get a Tesla Payday Just for Merging With SpaceX. Odds of a 2026 Announcement Slide to 16%,0.0,neutral,negative,0.9325
+TSLA,2026-11-19,08:51AM,Elon Musk's Latest Calls For Tesla-SpaceX Merger; Explains Pay Package,0.5,positive,neutral,0.9069
+TSLA,2026-11-19,08:50AM,Pony AI Results Show Just How Big Tesla's Robo-Taxi Fleet Needs to Get,0.0,neutral,neutral,0.7344
+TSLA,2026-11-19,08:45AM,"Robotaxis, Exchange Switches and Exits: The Auto Sector's Busy Week",0.1,positive,neutral,0.7757
+TSLA,2026-11-19,08:01AM,Coca-Cola Stock Could Lose Its Fizz. Its Valuation Is the Highest in 25 Years.,0.0,neutral,negative,0.9003
+TSLA,2026-11-19,08:00AM,"Japan's Battery Storage Boom: KULR's $14.8M Order Highlights Growth Opportunity Alongside Tesla, Energy Vault and Fluence",0.0,neutral,positive,0.9042
+TSLA,2026-11-19,05:59AM,Elon Musk Reportedly Says Tesla Will Continue To Increase Production In China  TSLA Stock Rises Premarket,0.0,neutral,positive,0.9334
+TSLA,2026-11-19,04:19AM,Campaign Urges Ripple to Burn $30B in XRP as Analyst Cites Tesla in $70 XRP Call,0.0,neutral,neutral,0.8589
+TSLA,2026-11-19,02:44AM,"Tesla to continue increasing China production, state media reports",0.0,neutral,positive,0.8915
+TSLA,2026-11-18,08:56PM,Tesla And SpaceX Better Together? Musk Leans Yes  But Says Performance Must Drive His TSLA Pay,0.5,positive,positive,0.5495
+TSLA,2026-11-18,07:23PM,Elon Musk Says Nvidia Ousting Jensen Huang Is Like Kicking Michael Jordan Off A Winning Team,0.5,positive,neutral,0.8048
+TSLA,2026-11-18,07:05PM,Tesla Wins Manitoba Court Order On EV Rebate Ban As Canadian PM Carney Notes Brands Fading Cachet,0.3,positive,negative,0.5131
+TSLA,2026-11-18,06:18PM,Elon Musk Likens Sacking of Jensen Huang to Benching Michael Jordan,0.0,neutral,negative,0.8945
+TSLA,2026-11-18,04:22PM,Skydances Ellison Welcomes Musk Investment While Committing To Airing Documentary Critical Of Tesla CEO,0.0,neutral,neutral,0.7644
+TSLA,2026-11-18,03:54PM,Skydance's David Ellison calls Elon Musk 'the greatest entrepreneur of our time',1.0,positive,positive,0.6584
+TSLA,2026-11-18,01:58PM,Ellison confirms Musk invested roughly $1 billion in Skydance,-0.1,negative,neutral,0.9008
+TSLA,2026-11-18,01:27PM,Ford begins EV battery cell production in the U.S. with Chinas tech,0.0,neutral,neutral,0.787
 TSLA,2026-11-18,11:26AM,"Tesla Energy's New Product A 'Meaningful Positive' For The Company, But Not The Stock",0.2878787878787879,positive,positive,0.9568
 TSLA,2026-11-18,10:53AM,Coinbase Says AI Defenses Blocked $4.7M in Elon Musk Deepfake Crypto Scam,0.0,neutral,negative,0.7722
 TSLA,2026-11-18,07:58AM,Waymo's Speed Bump Is Bad News for Tesla,-0.6999999999999998,negative,negative,0.9085
@@ -182,23 +199,25 @@ TSLA,2026-11-11,07:22PM,"Nasdaq 100 Futures Drop As Reports Relating To Jensen H
 TSLA,2026-11-11,02:55PM,"Tesla extends Cybertruck production to clear backlog, Musk says",0.10000000000000002,positive,positive,0.8311
 TSLA,2026-11-11,02:39PM,Tesla Extends Cybertruck's Run. Its Driving Software Matters More.,0.5,positive,neutral,0.8933
 TSLA,2026-11-11,01:42PM,"TSLA Stock Climbs After Elon Musk Extends Cybertruck Run Through Summer 2027, Citing Sentimentality",0.0,neutral,negative,0.7511
-TSLA,2026-11-11,12:46PM,Anthropic IPO retail demand and market positioning risks ahead of debut,0.0,neutral,negative,0.7457
-TSLA,2026-11-11,12:00PM,"Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",0.8,positive,neutral,0.7166
-TSLA,2026-11-11,10:45AM,Elon Musk Warns Tesla May Have to Refund Cybertruck Deposits as Production Winds Down,-0.15555555555555559,negative,negative,0.9645
-TSLA,2026-11-11,10:34AM,"OKXICE to Launch Tokenized Stock Trading with Coinbase, Circle, Strategy",0.0,neutral,neutral,0.8944
-TSLA,2026-11-11,08:40AM,Tesla tuner Unplugged Performance is offering to take over the Cybertruck line,0.0,neutral,neutral,0.9078
-TSLA,2026-11-11,06:47AM,Tesla Stock Thrives on Key-Man Drama. Nvidia Might Not Be So Lucky.,0.3333333333333333,positive,neutral,0.8519
-TSLA,2026-11-11,05:49AM,South Korean import sales surge 29% in October,0.0,neutral,positive,0.9368
-TSLA,2026-11-11,01:45AM,"SpaceX Stock Carries Up To 25% Political Discount, Dan Ives Says  Sees Elon Musks Tesla Merger Still In Play",0.0,neutral,neutral,0.4819
-TSLA,2026-11-10,08:36PM,"After Terafab Chips, Teslas $10 Billion Crystal Sun Solar Factory Breaks Ground",0.0,neutral,neutral,0.777
-TSLA,2026-11-10,06:33PM,Bullishs New President Backs Issuer-First Model for Tokenized Stocks,0.13636363636363635,positive,neutral,0.5986
-TSLA,2026-11-10,08:12AM,Tesla's China Sales Hit Lowest Since 2022. What It Means for Year-End Targets.,0.0,neutral,negative,0.8178
-TSLA,2026-11-10,06:04AM,Tesla Cybertruck is EV pickup market's latest casualty,0.5,positive,neutral,0.847
-TSLA,2026-11-10,05:55AM,Nvidia CEO Huang Gets More Bad News but Cathie Wood Keeps the Faith,-0.09999999999999992,negative,neutral,0.6156
-TSLA,2026-11-10,03:25AM,Elon Musk Ally Jason Calacanis Bets Another $1M On Uber  Says Waymo Team-Up Could Steal Teslas Driverless Crown,0.0,neutral,neutral,0.7864
-TSLA,2026-11-10,03:25AM,"Musk expected to join Trump at APEC; Huang's participation in doubt, SCMP reports",-0.1,negative,neutral,0.8866
-TSLA,2026-11-10,03:16AM,"SPCX Stock Climbs Overnight: Tesla Influencer Presses Texas Governor-Elect  Analyst Sees 10,000 AI Racks In Space By 2028",0.0,neutral,positive,0.8308
-TSLA,2026-11-09,06:31PM,"Securitize to Acquire River One, Expanding Into $6 Trillion Asset-Backed Finance Market",0.0,neutral,neutral,0.8445
+GOOGL,2026-11-19,10:58AM,Why Anthropic Won't Be the Next Apple or Amazon,0.0,neutral,neutral,0.9334
+GOOGL,2026-11-19,09:51AM,"Dow up 133 points on gains in shares of Alphabet Inc. Cl A, NVIDIA Corp.",0.0,neutral,positive,0.8593
+GOOGL,2026-11-19,09:05AM,Q&A: An AI Lab Prices Above Its Range and Debuts on Nasdaq Today,0.0,neutral,neutral,0.479
+GOOGL,2026-11-19,08:50AM,Pony AI Results Show Just How Big Tesla's Robo-Taxi Fleet Needs to Get,0.0,neutral,neutral,0.7344
+GOOGL,2026-11-19,08:30AM,Anthropic is committed to spending more than $900 billion on computing power,0.5,positive,neutral,0.6469
+GOOGL,2026-11-19,07:59AM,Anthropic IPO Highlights Something Weird About the AI Industry,-0.5,negative,neutral,0.6608
+GOOGL,2026-11-19,07:45AM,Anthropic Stock Market Debut Will Change the AI Trade Forever,0.0,neutral,neutral,0.6544
+GOOGL,2026-11-19,07:37AM,"Anthropic is getting a $26 billion boost from Nvidia, Google and other tech giants",-0.125,negative,positive,0.9272
+GOOGL,2026-11-19,07:14AM,Google Stock Is in a Slump. 2 Reasons the Comeback Could Start Today.,0.0,neutral,negative,0.957
+GOOGL,2026-11-19,06:33AM,Early Anthropic Winners Start to Emerge,0.1,positive,neutral,0.772
+GOOGL,2026-11-18,06:51PM,"Q3 Earnings Strong, Q4 Estimates Slip: What the Latest Revisions Mean for 2027",0.20694444444444446,positive,negative,0.9128
+GOOGL,2026-11-18,06:23PM,Anthropic Will Be the U.S. Market's First Pure-Play AI Lab,0.25,positive,neutral,0.8171
+GOOGL,2026-11-18,06:15PM,Why Anthropic's IPO is likely a victory lap for Amazon,0.0,neutral,neutral,0.8513
+GOOGL,2026-11-18,04:55PM,"Anthropic IPO: The stock just priced at $83, and trading begins Thursday - live updates",0.13636363636363635,positive,neutral,0.9512
+GOOGL,2026-11-18,04:47PM,Anthropic Prices IPO at $83 a Share,0.0,neutral,neutral,0.9397
+GOOGL,2026-11-18,04:23PM,Amazon and Google Have a Stake,0.0,neutral,neutral,0.9487
+GOOGL,2026-11-18,03:39PM,Google turns to a volcano and rock-melting technology in a wild new bid to power AI,0.11818181818181818,positive,neutral,0.8883
+GOOGL,2026-11-18,02:42PM,"AI debt financing to hit $1 trillion in 2027, Goldman Sachs says",0.0,neutral,positive,0.7842
+GOOGL,2026-11-18,01:37PM,The $1 Trillion Spending Question Hanging Over Anthropic's IPO,0.0,neutral,neutral,0.7997
 GOOGL,2026-11-18,11:23AM,Who controls Anthropic? 10 parts of its unusual governance,0.2,positive,neutral,0.9441
 GOOGL,2026-11-18,09:06AM,The AI power scramble is in full force. Which companies really stand to profit?,0.275,positive,neutral,0.8911
 GOOGL,2026-11-18,07:58AM,Waymo's Speed Bump Is Bad News for Tesla,-0.6999999999999998,negative,negative,0.9085
@@ -239,7 +258,7 @@ GOOGL,2026-11-12,03:00PM,Jensen Huang didn't control his company the way numerou
 GOOGL,2026-11-12,02:22PM,What causes a cloud outage? 10 real incidents show how services fail,-0.15,negative,neutral,0.6301
 GOOGL,2026-11-12,01:59PM,It's the End of the AI Trade as We Know It. Who's Feeling Fine?,0.4166666666666667,positive,neutral,0.7069
 GOOGL,2026-11-12,01:03PM,"Energy stocks rally as oil prices climb, beating all other S&P 500 sectors",-0.125,negative,positive,0.8744
-GOOGL,2026-11-12,11:40AM,Nvidia's Single-Class Stock Left Jensen Huang Vulnerable at the Top,0.0,neutral,negative,0.9321
+GOOGL,2026-11-12,11:40AM,Nvidia's Single-Class Stock Left Jensen Huang Vulnerable at the Top,0.0,neutral,negative,0.9322
 GOOGL,2026-11-12,11:25AM,"AI Governance for Boards, 6th Palm Beach CorpGov Forum",0.0,neutral,neutral,0.889
 GOOGL,2026-11-12,11:04AM,"Dow's nearly 150-point rally led by gains in shares of Alphabet Inc. Cl A, Travelers",0.1,positive,positive,0.9307
 GOOGL,2026-11-12,10:51AM,"Nvidia will likely 'step in' and buy its beaten-down stock, fund manager says",0.0,neutral,negative,0.5594
@@ -267,7 +286,7 @@ GOOGL,2026-11-09,12:08PM,"Anthropic must pay Alphabet, Nvidia, Microsoft and Ama
 GOOGL,2026-11-09,12:04PM,Don't Buy This Bounce. An Nvidia Scandal is the Last Thing Stocks Need Now.,0.0,neutral,negative,0.6195
 GOOGL,2026-11-09,11:51AM,EU drafts curbs targeting addictive social media features and AI chatbots - report,0.016666666666666666,neutral,neutral,0.5808
 GOOGL,2026-11-09,11:14AM,The Rest of the Magnificent 7 Are Leaving Nvidia in the Dust,1.0,positive,neutral,0.7055
-GOOGL,2026-11-09,10:39AM,"META, AMZN Stocks Jump As JPMorgan Picks Pair Over Alphabet  Sees Stronger AI Returns, Cloud Growth",0.0,neutral,positive,0.7128
+GOOGL,2026-11-09,10:39AM,"META, AMZN Stocks Jump As JPMorgan Picks Pair Over Alphabet  Sees Stronger AI Returns, Cloud Growth",0.0,neutral,positive,0.7127
 GOOGL,2026-11-09,10:22AM,Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck,0.0,neutral,negative,0.9366
 GOOGL,2026-11-09,10:16AM,Google Pushes New AI Chips. Why There Could Be an Opening.,0.13636363636363635,positive,neutral,0.7467
 GOOGL,2026-11-09,10:14AM,"Trade Desk's 'Lost Year' Won't Be Rescued by Earnings, Say Analysts",0.0,neutral,negative,0.7788
@@ -280,22 +299,3 @@ GOOGL,2026-11-09,08:14AM,Google expands AI chip lineup as Nvidia faces CEO spy s
 GOOGL,2026-11-09,08:00AM,"2027 Data Depot: Tracking Next Moves For Campaigns, Audiences",0.0,neutral,neutral,0.9273
 GOOGL,2026-11-09,07:30AM,Senator urges Google to let schools block AI without losing search access,0.0,neutral,neutral,0.8144
 GOOGL,2026-11-09,07:30AM,Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips,0.0,neutral,negative,0.9306
-GOOGL,2026-11-09,02:56AM,Blackbird confirms CEO succession with Sumit Rai taking the reins,0.0,neutral,neutral,0.9432
-GOOGL,2026-11-08,11:29PM,Alphabet's Qualcomm stake signals deeper partnership as chipmaker targets AI data centers,0.0,neutral,positive,0.9263
-GOOGL,2026-11-08,06:03PM,How to Buy YouTube Stock as It Dominates US Television,0.0,neutral,neutral,0.9251
-GOOGL,2026-11-08,05:40PM,Could HBF be the solution to the Memory bottleneck?,0.0,neutral,neutral,0.8482
-GOOGL,2026-11-08,12:23PM,Tesla Isn't a Mag-Y Stock. This Is.,0.0,neutral,neutral,0.9343
-GOOGL,2026-11-08,11:47AM,How sustainable is the AI investment boom after Thursdays selloff?,0.0,neutral,neutral,0.8742
-GOOGL,2026-11-07,04:40PM,"Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose",0.35,positive,negative,0.6998
-GOOGL,2026-11-07,12:01PM,Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue,1.0,positive,neutral,0.9133
-GOOGL,2026-11-07,10:54AM,AI Stocks Diverge as Democratic Election Victory Sparks Rotation Into Cloud Giants,0.0,neutral,negative,0.5769
-GOOGL,2026-11-07,07:45AM,Big Techs AI race will save small business owners time. It wont find them customers,-0.125,negative,neutral,0.8327
-GOOGL,2026-11-07,06:48AM,Citi Raises AI Revenue Forecasts Through 2028 as Cloud Demand Accelerates,0.0,neutral,positive,0.9312
-GOOGL,2026-11-07,01:00AM,"Cathie Wood-Led Ark Loads Up On GOOG, AMD, NVDA And Biotech Stocks  But Sells CRWV, AVGO, LLY",0.0,neutral,neutral,0.76
-GOOGL,2026-11-06,08:40PM,Crusoe sells troubled Wyoming data center project to Google,-0.3,negative,neutral,0.9249
-GOOGL,2026-11-06,07:22PM,"Q3 Earnings Update: Broad-Based Growth, Key Sector Outliers, and What's Ahead for Q4",0.0,neutral,neutral,0.9107
-GOOGL,2026-11-06,07:19PM,Uber's Robo Push,0.0,neutral,neutral,0.9298
-GOOGL,2026-11-06,05:02PM,ETF Zoo: How the Election Splits Big Tech,0.0,neutral,neutral,0.9149
-GOOGL,2026-11-06,04:09PM,Data centers are unpopular  and a key motor of economic growth,0.1,positive,negative,0.9369
-GOOGL,2026-11-06,04:00PM,Google buys Wyoming data center site as hyperscalers move to own AI capacity,0.25,positive,neutral,0.8879
-GOOGL,2026-11-06,03:20PM,Google is threatening to cut school search access if districts ban AI,0.0,neutral,negative,0.9123
