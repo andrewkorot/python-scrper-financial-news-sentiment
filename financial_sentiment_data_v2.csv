@@ -1,4 +1,19 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-11-23,12:25PM,Nvidia Is Now Second To Apple In The Worlds Most Valued Companies On Jensen Huang Optimism,0.25,positive,positive,0.6362
+AAPL,2026-11-23,12:00PM,"Nvidia reinstates Jensen Huang as CEO amid pressure from Trump, investors",0.0,neutral,negative,0.6951
+AAPL,2026-11-23,10:21AM,"Nvidia leaps back into second place, as market cap gets a near $1 trillion boost",0.03333333333333333,neutral,positive,0.9222
+AAPL,2026-11-23,10:19AM,"NYSE Parent's Tokenized Stock Venture Set To Open With 113 Assets. Apple, Nvidia And Tesla Stay Out.",0.0,neutral,neutral,0.9285
+AAPL,2026-11-23,09:19AM,Paying for Subscriptions You Forgot About? How to Find and Cancel Them,0.0,neutral,neutral,0.8129
+AAPL,2026-11-23,09:00AM,Trump admin circle the wagons in push for Nvidia to bring  back Jensen Huang,0.0,neutral,neutral,0.7661
+AAPL,2026-11-23,07:41AM,Chuck Shehadi named Unspun CEO as OneWeave enters global rollout,0.0,neutral,neutral,0.901
+AAPL,2026-11-23,06:41AM,Nvidia Stock Surges as Trump Urges Board to Rehire Huang. Is the Selling Finally Over?,0.0,neutral,neutral,0.5972
+AAPL,2026-11-23,06:34AM,Nvidia stock jumps as Trump makes U-turn on Jensen Huang,0.0,neutral,neutral,0.6394
+AAPL,2026-11-23,06:34AM,Nvidia stock jumps as DC makes stunning u-turn on Jensen Huang,0.5,positive,neutral,0.5796
+AAPL,2026-11-23,02:48AM,"Michael Burry Names Apple, Costco And Walmart Early Crash Havens  The Generals Fell Months After 2000 And 2007 Peaks",0.1,positive,negative,0.5795
+AAPL,2026-11-22,11:29PM,Apple enters silicon photonics race with optical packaging hires for custom chips,0.0,neutral,neutral,0.6276
+AAPL,2026-11-22,11:13PM,Trump Throws His Weight Behind Jensen Huangs Return As Nvidia CEO: It Would Be The Best Thing For The Company,0.3,positive,neutral,0.7778
+AAPL,2026-11-22,11:00PM,BTIG's Krinsky Says S&P 500 Bottom Unlikely While Apple Holds Near Highs,-0.2,negative,negative,0.9032
+AAPL,2026-11-22,07:25AM,Why is Apple Stock Holding Strong While the Rest of the Market Falls?,0.4333333333333333,positive,neutral,0.5317
 AAPL,2026-11-21,07:47PM,"5 big analyst AI moves: Nvidia downgrade, Anthropic seen as generational company",0.0,neutral,negative,0.9182
 AAPL,2026-11-20,11:00PM,Startup sues Apple in India over tap-to-share contacts feature,0.0,neutral,negative,0.944
 AAPL,2026-11-20,07:46PM,Has AI's honeymoon ended on Wall Street?,0.0,neutral,negative,0.6206
@@ -84,21 +99,24 @@ AAPL,2026-11-12,11:32AM,The Stock Market Has Weathered Nvidia's Slide. Jensen Hu
 AAPL,2026-11-12,11:16AM,Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO,0.0,neutral,neutral,0.9111
 AAPL,2026-11-12,11:12AM,Trump floats Apple chairman Tim Cook as Jensen Huangs successor,0.0,neutral,neutral,0.8804
 AAPL,2026-11-12,11:11AM,"Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia",0.0,neutral,neutral,0.9234
-AAPL,2026-11-12,10:51AM,Trump says Tim Cook should be Nvidia's next CEO,0.0,neutral,neutral,0.9421
-AAPL,2026-11-12,10:50AM,Trump says Tim Cook should replace Jensen Huang as Nvidia CEO,0.0,neutral,neutral,0.9172
-AAPL,2026-11-12,10:36AM,Big Tech ETF dragged down by selloff in shares of Nvidia and Meta,-0.07777777777777779,negative,negative,0.9644
-AAPL,2026-11-12,09:48AM,"Apple supplier Foxconn posts record profit, raises outlook",0.0,neutral,positive,0.9161
-AAPL,2026-11-12,09:28AM,Does Nvidia have its equivalent of Tim Cook lurking within?,0.0,neutral,neutral,0.8794
-AAPL,2026-11-12,09:01AM,Nvidias Jensen Huang Resigns As CEO With CFO Colette Kress To Step In: Analyst Compares To Apples Steve Jobs Moment,0.0,neutral,negative,0.6034
-AAPL,2026-11-12,08:59AM,Why is Apple the perceived Safe Haven in tech?,0.5,positive,neutral,0.8759
-AAPL,2026-11-12,08:53AM,Nvidia CEO Jensen Huang has resigned. Here's what investors need to know - live updates,0.13636363636363635,positive,neutral,0.6174
-AAPL,2026-11-12,08:38AM,"Nvidia drops to No. 3, as its market cap is set to fall below Microsoft's",0.0,neutral,negative,0.9677
-AAPL,2026-11-12,08:30AM,Why Nvidia Is Still A Buy Even Without Jensen Huang: Dan Niles,0.0,neutral,neutral,0.8888
-AAPL,2026-11-12,06:10AM,"Foxconn Reports 34% Rise in Quarterly Profit to T$77.5 Billion, Expects Continued AI Demand",0.0,neutral,positive,0.9383
-AAPL,2026-11-12,02:29AM,Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.,0.0,neutral,negative,0.8145
-AAPL,2026-11-11,11:48PM,"AAPL, GOOG Stocks Gain Overnight As NVDA Slides: Are Retail Investors Rotating Into Traditional Tech Amid Leadership Turmoil?",0.0,neutral,negative,0.6725
-AAPL,2026-11-11,11:08PM,Tim Cook as Nvidia CEO? Kalshi Bettors See These Names as Top Replacement Bets for Scandal-Embroiled Jensen Huang,0.5,positive,neutral,0.8372
-AAPL,2026-11-11,10:49PM,"Why Did AAPL, XERS, ZETA Stocks Jump To 52-Week Highs Today?",0.0,neutral,neutral,0.8723
+TSLA,2026-11-23,01:00PM,Chinas Electric Cars Are Taking Over The World. Where Does That Leave Tesla?,0.0,neutral,neutral,0.9162
+TSLA,2026-11-23,12:32PM,"Teslas FSD v15 An Illustration Of Head Start In Consumer Autonomy, Says JPMorgan  TSLA Stock Eyes Best Day In Over 19 Months",1.0,positive,positive,0.8792
+TSLA,2026-11-23,11:32AM,Tesla FSD senior marketing strategy carries liability risk for autonomy-driven valuation,0.0,neutral,neutral,0.7549
+TSLA,2026-11-23,11:30AM,"Nvidia's Jensen Huang Returns, Tesla, Dell, and Many More Stocks Are Soaring",0.5,positive,neutral,0.9005
+TSLA,2026-11-23,11:29AM,"Tesla Leaps 13%, Retakes Key Levels. New FSD Update Announced.",0.06818181818181818,positive,positive,0.808
+TSLA,2026-11-23,11:20AM,"Jensen Huang's Nvidia Return: Elon Musk Says Mistake Corrected, But Michael Burry Calls Company Weak, Craven",-0.375,negative,negative,0.7893
+TSLA,2026-11-23,10:21AM,Political and corporate leaders react to Huang's return as Nvidia CEO,0.0,neutral,neutral,0.5769
+TSLA,2026-11-23,10:19AM,"NYSE Parent's Tokenized Stock Venture Opens With 113 Assets Planned. Apple, Nvidia And Tesla Are Staying Out.",0.0,neutral,neutral,0.8362
+TSLA,2026-11-23,09:20AM,Elon Musk warns AI industry faces a severe cash shortage,0.0,neutral,negative,0.9671
+TSLA,2026-11-23,08:08AM,SpaceX Stock Rebounds as Musk Starlink Talk Fuels Hopes of a Tesla Merger,0.0,neutral,negative,0.8197
+TSLA,2026-11-23,08:00AM,Tesla's autonomy ambitions just got a Wall Street vote of confidence,0.0,neutral,neutral,0.6905
+TSLA,2026-11-23,07:41AM,Chuck Shehadi named Unspun CEO as OneWeave enters global rollout,0.0,neutral,neutral,0.901
+TSLA,2026-11-23,07:30AM,Tesla's Big Self-Driving Upgrade Arrives Right on Time for the Stock,0.14285714285714285,positive,neutral,0.8834
+TSLA,2026-11-23,06:30AM,Tesla Makes an Unsafe Pitch to Senior Drivers Clinging to Car Keys,0.0,neutral,negative,0.9248
+TSLA,2026-11-23,02:14AM,Cathie Wood Says TSLA Holders Will Get A Premium If SpaceX Buys Tesla  HSBC Puts It At Over 30%,0.0,neutral,neutral,0.801
+TSLA,2026-11-23,01:37AM,Nio Sees Revenue Topping $15B This Year But Analyst Warns Onvo Could Derail Tesla Roadster-Inspired Luxury Bet,0.0,neutral,negative,0.9657
+TSLA,2026-11-22,09:32PM,Elon Musk Says 2027 AI Cash Crunch Will Be Nuts  Analysts Still See SpaceX Emerging As The Biggest AI Hyperscaler,0.0,neutral,negative,0.9339
+TSLA,2026-11-22,12:15PM,"Haven In Orbit? SpaceX Stock Is Still a Buy, Wall Street Says.",0.0,neutral,positive,0.7293
 TSLA,2026-11-21,07:47PM,"5 big analyst AI moves: Nvidia downgrade, Anthropic seen as generational company",0.0,neutral,negative,0.9182
 TSLA,2026-11-21,02:03PM,"Tesla FSD V15 Coming Next Month, Elon Musk Says: 'Something Special'",0.17857142857142858,positive,neutral,0.8457
 TSLA,2026-11-21,09:14AM,"Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing",0.0,neutral,neutral,0.9097
@@ -181,24 +199,15 @@ TSLA,2026-11-15,03:05AM,Son of ex-Alamo Rent a Car owner went from hip hop label
 TSLA,2026-11-14,08:49PM,Tesla makes major Cybercab announcement as driverless vehicle goes on sale,0.0625,positive,neutral,0.8532
 TSLA,2026-11-14,04:41PM,"Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",-0.125,negative,neutral,0.7028
 TSLA,2026-11-14,03:04PM,"Tesla opens Cybercab pre-orders for personal use, with geo restrictions and a $299 monthly fee",0.0,neutral,neutral,0.9437
-TSLA,2026-11-14,10:03AM,Why Tesla Is Pulling the Plug on Cybertruck,0.0,neutral,neutral,0.6486
-TSLA,2026-11-14,09:00AM,SpaceXs S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger,0.13636363636363635,positive,neutral,0.653
-TSLA,2026-11-14,07:30AM,"Elon Musk, Trump, Kress, Nvidias Board On Jensen Huangs Exit: Mag 7 Voices This Week",0.0,neutral,neutral,0.9129
-TSLA,2026-11-14,05:20AM,"Tesla Cybercabs Monthly Subscription Is Too High, Elon Musk Admits To MKBHD: Should Match The Cost Of",0.16,positive,neutral,0.6677
-TSLA,2026-11-14,01:09AM,Tesla Cybercab Now Available For Purchase For Select Customers  But Theres A Catch,0.4,positive,neutral,0.86
-TSLA,2026-11-13,11:24PM,"Elon Musk, Tom Lee, Shopify CEO Sign Stand With Jensen Petition To Reinstate Him As Nvidia CEO",0.0,neutral,neutral,0.8913
-TSLA,2026-11-13,10:15PM,Tesla Opens Sales Of Autonomous Cybercab For 'Select' Customers,0.4,positive,neutral,0.764
-TSLA,2026-11-13,07:45PM,"Zero To Sixty: Tesla Winds Down Cybertruck, Pulls Model Y Variant While Rivian, Lucid Chase Volumes",-0.15555555555555559,negative,neutral,0.8814
-TSLA,2026-11-13,04:48PM,"SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says",0.0,neutral,positive,0.5494
-TSLA,2026-11-13,02:45PM,"Elon Musk's SpaceXTesla Merger 'Almost Inconceivable' to Avoid, Biographer Says",0.0,neutral,negative,0.5304
-TSLA,2026-11-13,02:29PM,Texas AG-elect vows 'tremendous scrutiny' of SpaceX-Tesla merger,0.3333333333333333,positive,negative,0.7918
-TSLA,2026-11-13,12:51PM,"Big Tech trades mixed, as Nvidia, Tesla, Alphabet weigh on Magnificent Seven ETF",0.3333333333333333,positive,negative,0.895
-TSLA,2026-11-13,12:51PM,Tesla Pulls $42K Model Y AWD From US Website Amid Musks Pivot Toward Robotaxis,0.0,neutral,positive,0.6291
-TSLA,2026-11-13,10:37AM,SpaceX Flight 15: Morgan Stanley Calls Upcoming Starship Test One Of The Most Significant Catalysts In Companys 25-Year History,0.4375,positive,positive,0.8219
-TSLA,2026-11-13,10:21AM,SpaceX and Tesla merger talks advance as December announcement considered,0.0,neutral,neutral,0.9211
-TSLA,2026-11-13,09:51AM,Tesla Cybertruck sellers face a scarcity story that weak demand undercuts,-0.375,negative,negative,0.9616
-TSLA,2026-11-13,09:11AM,Incoming Texas AG vows rigorous scrutiny of potential SpaceX-Tesla merger - report,0.0,neutral,neutral,0.8509
-TSLA,2026-11-13,07:40AM,Why Tesla Stock Is Behaving Like a Safe Haven,0.5,positive,neutral,0.843
+GOOGL,2026-11-23,12:01PM,Isomorphic Labs raises $5bn to advance drug pipeline,0.0,neutral,positive,0.8382
+GOOGL,2026-11-23,10:46AM,"Alphabet, ServiceNow, Visa and Accenture are buying security to defend their core",0.0,neutral,neutral,0.7252
+GOOGL,2026-11-23,10:21AM,"Nvidia leaps back into second place, as market cap gets a near $1 trillion boost",0.03333333333333333,neutral,positive,0.9222
+GOOGL,2026-11-23,07:30AM,Waymo filed 2 safety recalls as California bars its robotaxis from freeways,0.0,neutral,negative,0.9515
+GOOGL,2026-11-23,06:41AM,Nvidia Stock Surges as Trump Urges Board to Rehire Huang. Is the Selling Finally Over?,0.0,neutral,neutral,0.5972
+GOOGL,2026-11-23,03:00AM,"Kaplan Fox Urges Investors of Alphabet Inc. (GOOGL) (GOOG) to Seek a Leadership Role Before December 1, 2026",0.0,neutral,neutral,0.9085
+GOOGL,2026-11-22,09:32PM,Trump's threatened tax on overseas data centers clouds US Big Tech's India buildout,0.0,neutral,negative,0.8777
+GOOGL,2026-11-22,09:17PM,"Weekly news roundup: From November 16 to November 22, 2026",0.0,neutral,neutral,0.9253
+GOOGL,2026-11-22,08:50PM,"Microsoft, Google turn to Intel EMIB as CSPs seek alternatives to TSMC CoWoS",0.0,neutral,neutral,0.9179
 GOOGL,2026-11-21,12:22AM,How to invest in transformational innovation,0.0,neutral,neutral,0.9034
 GOOGL,2026-11-20,07:55PM,Review & Preview: Hype Halted,0.0,neutral,neutral,0.9356
 GOOGL,2026-11-20,04:44PM,New AI Releases Help Google Avoid Worst of Tech Rout,-0.4318181818181818,negative,positive,0.5708
@@ -290,12 +299,3 @@ GOOGL,2026-11-11,03:32PM,Anthropic's IPO Prospectus by the Head-Spinning Numbers
 GOOGL,2026-11-11,03:13PM,Google rolls out Gemini AI voice assistant to Apple CarPlay dashboards,0.0,neutral,neutral,0.8967
 GOOGL,2026-11-11,02:10PM,Why This Legendary Investor Says to Look Beyond Tech-and the U. S.-for Values,1.0,positive,neutral,0.9106
 GOOGL,2026-11-11,01:42PM,"Dow's 269-point rally highlighted by gains for shares of NVIDIA Corp., Caterpillar",0.0,neutral,positive,0.8856
-GOOGL,2026-11-11,12:23PM,"Dow's 137-point rally highlighted by gains in shares of NVIDIA Corp., Cisco",0.0,neutral,positive,0.9276
-GOOGL,2026-11-11,10:30AM,Alphabet explores first Hong Kong and Singapore dollar bond sales worth up to $3 billion,0.275,positive,neutral,0.756
-GOOGL,2026-11-11,06:15AM,Data Centers Will Prevail Despite All the Opposition. How to Play It With Options.,0.0,neutral,neutral,0.9195
-GOOGL,2026-11-10,03:02PM,Anthropic's IPO Price Isn't So Outlandish. Here's the Case for the Stock.,0.0,neutral,neutral,0.9231
-GOOGL,2026-11-10,01:21PM,Anthropic is unveiling office tools that rival Microsoft and Google ahead of its IPO,0.0,neutral,neutral,0.8098
-GOOGL,2026-11-10,08:58AM,GoodRx stock rises on Google Cloud healthcare AI partnership,0.0,neutral,positive,0.5154
-GOOGL,2026-11-10,06:49AM,The Case for Micron Stock Leaping 140%,0.0,neutral,neutral,0.891
-GOOGL,2026-11-10,05:00AM,2 Things That Could Hit the Brakes on the AI Boom. Why Hyperscalers Could Benefit.,0.0,neutral,neutral,0.8937
-GOOGL,2026-11-09,09:26PM,"Google expands eighth-generation TPU portfolio to target secure, high-context agentic AI",0.4,positive,positive,0.7781
