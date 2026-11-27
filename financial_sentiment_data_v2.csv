@@ -1,4 +1,7 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-11-27,10:18AM,Apple Stock Isn't Just an Anti-AI Haven. It's an All-Purpose Winner.,0.0,neutral,neutral,0.8348
+AAPL,2026-11-27,08:41AM,Apple gains smartphone share as memory crunch squeezes budget Android phones,0.0,neutral,negative,0.6092
+AAPL,2026-11-27,03:01AM,Airbnb CEO Brian Chesky says staff call him a control freakbut that he learned it from Apples Steve Jobs,0.0,neutral,neutral,0.7962
 AAPL,2026-11-26,09:47AM,Michael Burry exits Nasdaq-100 short,0.0,neutral,neutral,0.9069
 AAPL,2026-11-26,05:54AM,Apple Removes MiniMax's Talkie AI Chatbot from App Store Following Child Safety Allegations,0.0,neutral,negative,0.9357
 AAPL,2026-11-26,02:32AM,Apple On Track To Become Novembers Mag7 Winner  Nvidia Takes The Biggest Hit,0.0,neutral,neutral,0.5472
@@ -96,9 +99,8 @@ AAPL,2026-11-15,04:30AM,5 big analyst AI moves: Nvidia hit with downgrades after
 AAPL,2026-11-14,09:08PM,Evercore explains why Apple has the right assets to win the personal agents race,0.36190476190476195,positive,neutral,0.7944
 AAPL,2026-11-14,07:30AM,"Elon Musk, Trump, Kress, Nvidias Board On Jensen Huangs Exit: Mag 7 Voices This Week",0.0,neutral,neutral,0.9129
 AAPL,2026-11-13,03:52PM,10 executives who left their companies and later returned as CEO,0.0,neutral,neutral,0.7819
-AAPL,2026-11-13,03:32PM,The Price Tag on Jensen Huang's Resignation: $639 Billion and Counting,0.0,neutral,neutral,0.9157
-AAPL,2026-11-13,03:30PM,"Meta tests prediction-market app for employees, WSJ reports",0.0,neutral,neutral,0.9315
-AAPL,2026-11-13,12:51PM,"Big Tech trades mixed, as Nvidia, Tesla, Alphabet weigh on Magnificent Seven ETF",0.3333333333333333,positive,negative,0.895
+TSLA,2026-11-27,09:35AM,SpaceX stock rises after Musk pledges annual share giveaway for kids,0.0,neutral,neutral,0.4946
+TSLA,2026-11-26,08:31PM,"Musk, SpaceX pledge two shares for every US child's Trump Account",0.0,neutral,neutral,0.9233
 TSLA,2026-11-25,10:32PM,Cathie Wood Buys More SpaceX Amid Tesla Merger Talks  Ron Baron Says SpaceX Could Make $50B A Year From One Data Center,0.2,positive,positive,0.5867
 TSLA,2026-11-25,07:08PM,"Tesla-SpaceX merger talks advance, but China exposure tests Musk's vertical integration ambitions",0.0,neutral,negative,0.7306
 TSLA,2026-11-25,01:37PM,SpaceX stock pares losses following FCC approval for data centers in space,0.0,neutral,negative,0.9622
@@ -197,8 +199,9 @@ TSLA,2026-11-18,07:05PM,Tesla Wins Manitoba Court Order On EV Rebate Ban As Cana
 TSLA,2026-11-18,06:18PM,Elon Musk Likens Sacking of Jensen Huang to Benching Michael Jordan,0.0,neutral,negative,0.8945
 TSLA,2026-11-18,04:22PM,Skydances Ellison Welcomes Musk Investment While Committing To Airing Documentary Critical Of Tesla CEO,0.0,neutral,neutral,0.7644
 TSLA,2026-11-18,03:54PM,Skydance's David Ellison calls Elon Musk 'the greatest entrepreneur of our time',1.0,positive,positive,0.6584
-TSLA,2026-11-18,01:58PM,Ellison confirms Musk invested roughly $1 billion in Skydance,-0.1,negative,neutral,0.9008
-TSLA,2026-11-18,01:27PM,Ford begins EV battery cell production in the U.S. with Chinas tech,0.0,neutral,neutral,0.787
+GOOGL,2026-11-27,08:55AM,All sectors are set to post weekly gains - and the best performer isn't tech,1.0,positive,positive,0.8625
+GOOGL,2026-11-27,06:01AM,The Anatomy of an AI Rally: Anthropic Stock Quickly Finds Its Place,0.3333333333333333,positive,neutral,0.7357
+GOOGL,2026-11-27,01:41AM,"Japan's JERA in talks with Anthropic, Meta on AI data centers",0.0,neutral,neutral,0.8943
 GOOGL,2026-11-25,11:47AM,"NVIDIA Corp., Amazon.com Inc. share losses contribute to Dow's nearly 700-point fall",0.1,positive,negative,0.9646
 GOOGL,2026-11-25,10:46AM,"Dow down nearly 850 points on losses in shares of NVIDIA Corp., Amazon.com Inc.",-0.02777777777777779,neutral,negative,0.967
 GOOGL,2026-11-25,09:45AM,"Dow's 1100-point drop led by losses in NVIDIA Corp., Alphabet Inc. Cl A stocks",0.0,neutral,negative,0.9693
@@ -296,6 +299,3 @@ GOOGL,2026-11-12,10:43PM,Samsung launches 30 AI glasses with Google and eyewear 
 GOOGL,2026-11-12,03:38PM,Equal Weight S&P 500 ETF falls to intraday low as U.S. stock market broadly declines,0.020833333333333332,neutral,negative,0.9678
 GOOGL,2026-11-12,03:00PM,Jensen Huang didn't control his company the way numerous newer founders do,0.0,neutral,neutral,0.9326
 GOOGL,2026-11-12,02:22PM,What causes a cloud outage? 10 real incidents show how services fail,-0.15,negative,neutral,0.6301
-GOOGL,2026-11-12,01:59PM,It's the End of the AI Trade as We Know It. Who's Feeling Fine?,0.4166666666666667,positive,neutral,0.7069
-GOOGL,2026-11-12,01:03PM,"Energy stocks rally as oil prices climb, beating all other S&P 500 sectors",-0.125,negative,positive,0.8744
-GOOGL,2026-11-12,11:40AM,Nvidia's Single-Class Stock Left Jensen Huang Vulnerable at the Top,0.0,neutral,negative,0.9321
